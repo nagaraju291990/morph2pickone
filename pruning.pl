@@ -77,7 +77,7 @@ sub prune
 				#print " ... Processing sent $j\n";
 				# Read the sentence which is in SSF format
 				my($sent) = &get_sent($para,$j);
-				       &print_tree($sent);
+				#&print_tree($sent);
 					   #print $sent;
 				&prune_on_pos($db_file,$sent);
 				&prune_on_case($sent);
