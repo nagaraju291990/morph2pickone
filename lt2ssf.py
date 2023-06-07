@@ -3,10 +3,11 @@ import sys
 
 #open file using open file mode
 fp1 = open(sys.argv[1]) # Open file on read mode -- input file
-lines = fp1.read().split("\n") # Create a list containing all lines
+lines = fp1.read()#.split("\n") # Create a list containing all lines
 fp1.close() # Close file
 
-
+lines = re.sub(r'\$\+\^', r'$\n^', lines)
+lines = lines.split("\n")
 count = 0
 for line in lines:
 	if(line == ""):

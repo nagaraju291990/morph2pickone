@@ -22,7 +22,9 @@ for line2 in lines2:
 
 
 for line in lines:
-	if(line == ""):
+	line = line.strip()
+	#print("|"+line+"|")
+	if(line == "" or re.search(r'Sentence|\(\(|\)\)', line)):
 		print(line)
 		continue
 	arr = line.split("\t")
