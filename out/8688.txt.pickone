@@ -1,0 +1,33 @@
+<Sentence id="8688">			
+0	((	SSF	
+1	koVMxaru	QF	<fs af='koVMxaru,pn,mf,pl,3,,0,0'>
+2	annAru	VM	<fs af='anu,v,any,pl,2,,A,A'>
+3	gaxA	RP	<fs af='gaxi,n,any,sg,3,,0,0_A'>'>
+4	"	SYM	<fs af='",punc,,,,,,'>
+5	ixi	PRP	<fs af='ixi,pn,fn,sg,3,,0,0'>
+6	mqgaM	NN	<fs af='mqgaM,n,any,sg,3,,0,0'>
+7	kAxu	VM	<fs af='avvu,v,fn,sg,3,,a,a'>
+8	manuRyude	NN	<fs af='manuRyudu,n,any,sg,3,,0,0_e'>
+9	,	SYM	<fs af=',,punc,,,,,,'>
+10	walakAya	NN	<fs af='walakAya,n,any,sg,3,,0,0'>
+11	mAwraM	PSP	<fs af='mAwraM,avy,,,,,,'>
+12	gurrapu	NN	<fs af='gurraM,n,any,sg,3,,obl,obl'>
+13	walakAyagAnI	NN	<fs af='walakAya,n,any,sg,3,,gAni,gAni'>
+14	,	SYM	<fs af=',,punc,,,,,,'>
+15	manaM	PRP	<fs af='manaM,pn,any,pl,1,,0,0'>
+16	KaMdAlu	NN	<fs af='KaMdA,n,,pl,,,0,0'>
+16	annI	PRP	<fs af='anni,pn,,pl,,,0_V,0_V'>
+17	kanipeVttAmu	VM	<fs af='kanipeVttu,v,any,pl,1,,A,A'>
+18	gAnI	RP	<fs af='gAnI,avy,,,,,,'>
+19	ilAMti	JJ	<fs af='ilAMti,adj,any,any,any,,0_adj,0_adj'>
+20	manuRyulu	NN	<fs af='manuRyudu,n,any,pl,3,,0,0'>
+21	e	WQ	<fs af='e,avy,,,,,,'>
+22	KaMdaMlo	NN	<fs af='KaMdaM,n,any,sg,3,,lo,lo'>
+23	uMtAro	VM	<fs af='uMdu,v,any,pl,2,,wA,wA_o'>
+24	,	SYM	<fs af=',,punc,,,,,,'>
+25	A	DEM	<fs af='A,avy,,,,,,'>
+26	KaMdAnni	NN	<fs af='KaMdaM,n,any,sg,3,,ni,ni'>
+27	kanipeVttalexu	VM	<fs af='kanipeVttu,v,any,any,any,,a_lexu,a_lexu'>
+28	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

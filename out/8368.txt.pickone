@@ -1,0 +1,23 @@
+<Sentence id="8368">			
+0	((	SSF	
+1	xurgi	NNP	<fs af='xurgi,n,any,sg,3,,0,0'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	parvawa	NN	<fs af='parvawaM,n,any,sg,3,,obl,obl'>
+4	prAMwaM	NN	<fs af='prAMwaM,n,any,sg,3,,0,0'>
+5	oVka	NN	<fs af='oVka,adj,,,,,0,0_adj'>
+5	vEpu	NN	<fs af='vEpu,n,,sg,,,0,0'>
+6	buggavarapu	NNP	<fs af='buggavarapu,n,any,sg,3,,0,0'>
+7	jalASayaM	NN	<fs af='jalASayaM,n,any,sg,3,,0,0'>
+8	marovEpu	NN	<fs af='marovEpu,n,any,sg,3,,0,0'>
+9	kAkawIya	NNP	<fs af='kAkawIya,n,any,sg,3,,0,0'>
+10	kAlaM	NN	<fs af='kAlaM,n,any,sg,3,,0,0'>
+11	nAti	NST	<fs af='nAdu,n,any,sg,3,,obl,obl'>
+12	SilpakalYa	NN	<fs af='SilpakalYa,n,any,sg,3,,0,0'>
+13	I	DEM	<fs af='I,avy,,,,,,'>
+14	kAlamun	NN	<fs af='kAlamun,unk,,,,,,'>
+14	aMxali	NN	<fs af='aMxali,unk,,,,,,'>
+15	SiXilamulalo	NN	<fs af='SiXilaM,n,any,pl,3,,lo,lo'>
+16	cUdavaccu	VM	<fs af='cUdu,v,any,any,any,,a_vaccu,a_vaccu'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

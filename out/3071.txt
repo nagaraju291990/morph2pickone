@@ -1,0 +1,22 @@
+<Sentence id="3071">
+0	((	SSF
+1	"	SYM	<fs af='",punc,,,,,, '>
+2	nuvvu	PRP	<fs af='nIvu,pn,any,sg,2,,0,0'>|<fs af='nuvvu,n,any,sg,3,,0,0'>|<fs af='nuvvu,n,any,sg,3,,obl,obl'>
+3	svayaMgA	RB	<fs af='svayaM,n,any,sg,3,,gA,gA'>
+4	A	DEM	<fs af='A,avy,,,,,, '>
+5	Uru	NN	<fs af='Uru,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='Uru,n,any,sg,3,,0,0'>
+6	veVlYli	VM	<fs af='veVlYlu,v,any,any,any,,i,i'>
+7	A	DEM	<fs af='A,avy,,,,,, '>
+8	iMtlo	NN	<fs af='illu,n,any,sg,3,,lo,lo'>
+9	A	DEM	<fs af='A,avy,,,,,, '>
+10	rAwimukkanu	NN	<fs af='rAwimukka,n,any,sg,3,,ni,ni'>|<fs af='rAwimukka,n,any,sg,3,,ni_agr,ni_agr'>
+11	veVwiki	VM	<fs af='veVwuku,v,any,any,any,,i,i'>
+12	pattuko	VAUX	<fs af='pattu,v,any,any,any,,koVn,koVn'>|<fs af='pattu,n,any,sg,3,,ki,ki_o'>
+12	rA 	VAUX	<fs af='rA ,unk,,,,,,'>
+13	!	SYM	<fs af='!,punc,,,,,, '>
+14	nuvvu	PRP	<fs af='nIvu,pn,any,sg,2,,0,0'>|<fs af='nuvvu,n,any,sg,3,,0,0'>|<fs af='nuvvu,n,any,sg,3,,obl,obl'>
+14	oVkkawive	PRP	<fs af='oVkkawive,unk,,,,,,'>
+15	veVlYlu	VM	<fs af='veVlYlu,v,any,sg,2,,AjFArWa,AjFArWa'>
+16	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

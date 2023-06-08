@@ -1,0 +1,22 @@
+<Sentence id="9302">
+0	((	SSF
+1	I	DEM	<fs af='I,avy,,,,,, '>
+2	paxihenu	QC	<fs af='paxihenu,n,any,sg,3,,0,0'>|<fs af='paxihenu,n,any,sg,3,,obl,obl'>
+3	rojulabatti	NN	<fs af='roju,n,any,pl,3,,prakAraM,prakAraM'>
+4	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+5	xaggaraku	NN	<fs af='xaggara,adv,any,any,any,,0,0_adv_ku'>
+6	eVvalYlU	WQ	<fs af='eVvalYlu,pn,mf,pl,3,,0,0_V'>
+7	veVlYladaM	VM	<fs af='veVlYlu,v,any,any,any,,adaM,adaM'>|<fs af='veVlYladaM,n,any,sg,3,,0,0'>
+8	lexu	VAUX	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+9	,	SYM	<fs af=',,punc,,,,,, '>
+10	rAvadaM	VM	<fs af='vaccu,v,any,any,any,,adaM,adaM'>|<fs af='rAvadaM,n,any,sg,3,,0,0'>
+11	lexu	VAUX	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+12	,	SYM	<fs af=',,punc,,,,,, '>
+13	A	DEM	<fs af='A,avy,,,,,, '>
+14	katakatAlloki	NN	<fs af='katakatAlu,n,any,sg,3,,lopalaki,lopalaki'>
+15	eVvvarU	WQ	<fs af='eVvvaru,pn,mf,pl,3,,0,0_V'>
+16	veVlYla	VM	<fs af='veVlYlu,v,any,any,any,,an,an'>
+17	lexu	VAUX	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+18	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

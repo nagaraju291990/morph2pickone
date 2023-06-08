@@ -1,0 +1,13 @@
+<Sentence id="5832">			
+0	((	SSF	
+1	lakRmi	NNP	<fs af='lakRmi,n,any,sg,3,,0,0'>
+2	axiripadiMxi	VM	<fs af='axiripadu,v,fn,sg,3,,A,A'>
+3	!	SYM	<fs af='!,punc,,,,,,'>
+4	jAnaki	NNP	<fs af='jAna,n,any,sg,3,,ki,ki'>
+5	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>
+6	kopaM	NN	<fs af='kopaM,n,any,sg,3,,0,0'>
+7	kUdA	PSP	<fs af='kUdA,avy,,,,,,'>'>
+8	vacciMxi	VM	<fs af='vaccu,v,fn,sg,3,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

@@ -1,0 +1,10 @@
+<Sentence id="5893">			
+0	((	SSF	
+1	cesexi	VM	<fs af='ceVyyi,v,any,any,any,,e_axi,e_axi'>
+2	leka	VAUX	<fs af='gala,v,any,any,any,,aka,aka' poslcat="NM">
+3	lakRmi	NNP	<fs af='lakRmi,n,any,sg,3,,0,0'>|<fs af='lakRmi,n,any,sg,3,,obl,obl'>
+4	kitikI	NN	<fs af='kitikI,n,,sg,,,0,0'>|<fs af='kitikI,n,,sg,,,obl,obl'>
+5	weVriciMxi	VM	<fs af='weVruvu,v,fn,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

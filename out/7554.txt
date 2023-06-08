@@ -1,0 +1,15 @@
+<Sentence id="7554">
+0	((	SSF
+1	guri	NN	<fs af='guri,n,any,sg,3,,0,0'>|<fs af='guri,n,any,sg,3,,obl,obl'>
+2	cUsi	VM	<fs af='cUdu,v,any,any,any,,i,i'>
+3	koVdiwe	VM	<fs af='koVttu,v,any,any,any,,we,we'>
+4	wagalavalasiMxe	VM	<fs af='wagalavalayu,v,fn,sg,3,,A,A_e'>
+5	!	SYM	<fs af='!,punc,,,,,, '>
+6	pakRigUlYlu	NN	<fs af='pakRigUdu,n,any,pl,3,,0,0'>
+7	cUswe	VM	<fs af='cUdu,v,any,any,any,,we,we'>
+8	vAdiki	PRP	<fs af='vAdu,pn,m,sg,3,,ki,ki'>|<fs af='vAdi,n,any,sg,3,,ki,ki'>
+9	eVMxuko	NN	<fs af='eVMxuku,avy,,,,,o,o_avy'>
+10	paga	NN	<fs af='paga,n,any,sg,3,,0,0'>|<fs af='paga,n,any,sg,3,,obl,obl'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

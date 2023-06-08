@@ -1,0 +1,26 @@
+<Sentence id="2947">			
+0	((	SSF	
+1	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+2	mAmUlu	NN	<fs af='mAmUlu,n,any,sg,3,,0,0'>
+3	peVnsil	NN	<fs af='peVnsil,n,any,sg,3,,0,0'>|<fs af='peVnsil,n,any,sg,3,,obl,obl'>
+4	mukku	NN	<fs af='mukku,n,any,sg,3,,0,0'>|<fs af='mukku,n,any,sg,3,,obl,obl'>
+5	kAxugaxA	VM	<fs af='avvu,v,,sg,,,xi_0,xi_0_A' deri_cat=pn>
+6	!	SYM	<fs af='!,punc,,,,,,'>
+7	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+8	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+9	cinna	JJ	<fs af='cinna,adj,any,any,any,,0_adj,0_adj'>
+10	pillavAdi	NN	<fs af='pillavAdu,n,any,sg,3,,obl,obl'>
+11	premaku	NN	<fs af='prema,n,any,sg,3,,ki,ki'>
+12	gurwu	NN	<fs af='gurwu,n,any,sg,3,,0,0'>|<fs af='gurwu,n,any,sg,3,,obl,obl'>
+13	kaxA	RP	<fs af='kaxA,avy,,,,,,'>
+14	!	SYM	<fs af='!,punc,,,,,,'>
+15	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+16	pillavAdi	NN	<fs af='pillavAdu,n,any,sg,3,,obl,obl'>
+17	prema	NN	<fs af='prema,n,any,sg,3,,0,0'>|<fs af='prema,n,any,sg,3,,obl,obl'>
+18	gAMXIjIki	NN	<fs af='gAMXIjI,n,,sg,,,ki,ki'>
+19	eVMwo	INTF	<fs af='eVMwa,pn,any,pl,3,,0,0_o' poslcat="NM">
+20	viluvu	VM	<fs af='viluvu,unk,,,,,,' poslcat="NM">
+20	Enaxi	VM	<fs af='avvu,v,any,any,any,,ina_axi,ina_axi'>
+21	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

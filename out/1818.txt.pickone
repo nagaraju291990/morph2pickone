@@ -1,0 +1,16 @@
+<Sentence id="1818">			
+0	((	SSF	
+1	pakkanu	NN	<fs af='pakka,n,,sg,,,nu,nu'>
+1	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+2	iMko	RP	<fs af='iMku,v,any,any,any,,i,i_o'>
+3	Avida	PRP	<fs af='Avida,pn,m,sg,3,,0,0'>
+4	A	DEM	<fs af='A,avy,,,,,,'>
+5	cIra	NN	<fs af='cIra,n,any,sg,3,,0,0'>
+6	aMxukuni	VM	<fs af='aMxuko,v,any,any,any,,i,i'>
+7	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+8	civaralo	NN	<fs af='civara,n,,sg,,,lo,lo'>
+9	gotiwo	NN	<fs af='godu,n,any,sg,3,,wo,wo'>
+10	gIsiMxi	VM	<fs af='giyyi,v,fn,sg,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

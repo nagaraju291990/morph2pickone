@@ -1,0 +1,12 @@
+<Sentence id="6314">			
+0	((	SSF	
+1	ikkade	NST	<fs af='ikkada,adv,any,any,any,,0_e_adv,0_e_adv'>
+2	vijayanagaraM	NNP	<fs af='vijayanagaraM,n,any,sg,3,,0,0'>
+3	jamIMxArulu	NN	<fs af='jamIMxAru,n,any,pl,3,,0,0'>|<fs af='jamIMxAru,n,any,pl,3,,vu_agr,vu_agr'>
+4	PreVMci	NNP	<fs af='PreVMci,n,any,sg,3,,0,0'>|<fs af='PreVMci,n,any,sg,3,,obl,obl'>
+5	vAriwo	PRP	<fs af='vAru,pn,mf,pl,3,,wo,wo'>
+6	yuxXaM	NN	<fs af='yuxXaM,n,any,sg,3,,0,0'>
+7	jarigiMxi	VM	<fs af='jarugu,v,fn,sg,3,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,7 @@
+<Sentence id="5230">
+0	((	SSF
+1	panulu	NN	<fs af='pani,n,any,pl,3,,0,0'>|<fs af='pani,n,any,pl,3,,vu_agr,vu_agr'>
+2	cesexAnni	VM	<fs af='cesexi,pn,any,sg,3,,nu,nu'>|<fs af='cesexi,pn,any,sg,3,,ni,ni'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

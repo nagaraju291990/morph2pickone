@@ -1,0 +1,33 @@
+<Sentence id="5205">			
+0	((	SSF	
+1	cilakana	NN	<fs af='cilaka,n,,sg,,,na,na'>
+1	ayinA	VM	<fs af='avvu,v,any,any,any,,inA,inA'>
+2	kAkapowini	VM	<fs af='kAkapo,v,any,sg,1,,iwi,iwi'>
+3	!	SYM	<fs af='!,punc,,,,,,'>
+4	-	SYM	<fs af='<'>
+5	-	SYM	<fs af='<'>
+6	-	SYM	<fs af='<'>
+7	-	SYM	<fs af='<'>
+8	-	SYM	<fs af='<'>
+9	-	SYM	<fs af='<'>
+10	-	SYM	<fs af='<'>
+11	-	SYM	<fs af='<'>
+12	-	SYM	<fs af='<'>
+13	-	SYM	<fs af='<'>
+14	-	SYM	<fs af='<'>
+15	-	SYM	<fs af='<'>
+16	-	SYM	<fs af='<'>
+17	-	SYM	<fs af='<'>
+18	-	SYM	<fs af='<'>
+19	-	SYM	<fs af='<'>
+20	-	SYM	<fs af='<'>
+21	-	SYM	<fs af='<'>
+22	-	SYM	<fs af='<'>
+23	-	SYM	<fs af='<'>
+24	-	SYM	<fs af='<'>
+25	nA	PRP	<fs af='nenu,pn,any,sg,1,,obl,obl'>
+26	peru	NN	<fs af='peru,n,any,sg,3,,0,0'>
+27	alivelu	NNP	<fs af='alivelu,n,any,sg,3,,0,0'>
+28	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

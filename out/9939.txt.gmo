@@ -1,0 +1,18 @@
+<Sentence id="9939">			
+0	((	SSF	
+1	naluguru	NN	<fs af='nAlugu,num,any,any,any,,ru,ru' poslcat="NM">
+2	kalisi	VM	<fs af='kaluvu,v,any,any,any,,i,i'>|<fs af='kaliyu,v,any,any,any,,i,i'>
+3	jAnIni	NNP	<fs af='jAnIu,n,any,sg,3,,ni,ni'>
+4	pEki	NST	<fs af='pEki,avy,,,,,,' poslcat="NM">
+5	eVwwaboyAru	VM	<fs af='eVwwu,v,fm,pl,3,,a_po_A,a_po_A'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	kAni	RP	<fs af='kAni,avy,,,,,,'>
+8	exo	WQ	<fs af='exi,pn,fn,sg,3,,0,0_o'>
+9	wagulukoVnnattu	VM	<fs af='waguluko,v,any,any,any,,ina_atlu,ina_atlu'>
+10	jAnI	NNP	<fs af='jaM,n,any,sg,3,,ni,ni_V'>
+11	SarIraM	NN	<fs af='SarIraM,n,any,sg,3,,0,0'>
+12	pEki	NST	<fs af='pEki,avy,,,,,,' poslcat="NM">
+13	levalexu	VM	<fs af='le,v,any,any,any,,a_lexu,a_lexu'>|<fs af='levagala,v,fn,sg,3,,a,a'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

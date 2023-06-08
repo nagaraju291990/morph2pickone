@@ -1,0 +1,26 @@
+<Sentence id="8343">
+0	((	SSF
+1	maMgalYagiri	NNP	<fs af='maMgalYagiri,n,any,sg,3,,0,0'>|<fs af='maMgalYagiri,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,, '>
+3	vijayavAdaku	NNP	<fs af='vijayavAda,n,any,sg,3,,ki,ki'>
+4	8	QC	<fs af='8,num,,,,,, '>
+5	mElYla	NN	<fs af='mElu,n,any,pl,3,,obl,obl'>
+6	xUraMlo	NN	<fs af='xUraM,n,any,sg,3,,lo,lo'>
+7	guMtUruku	NNP	<fs af='guMtUru,n,any,sg,3,,ki,ki'>
+8	19	QC	<fs af='19,num,,,,,, '>|<fs af='va,avy,,,,,, '>
+9	ki	NN	<fs af='ki,avy,,,,,, '>|<fs af='mIru,pn,any,pl,2,,obl,obl'>
+10	|	SYM
+11	|	SYM
+12	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+13	xUraMlo	NN	<fs af='xUraM,n,any,sg,3,,lo,lo'>
+14	gala	RP	<fs af='gala,v,any,any,any,,ina,ina'>|<fs af='gala,adj,any,any,any,,0_adj,0_adj'>
+15	I	DEM	<fs af='I,avy,,,,,, '>
+16	kRewraMlo	NN	<fs af='kRewraM,n,any,sg,3,,lo,lo'>
+17	pragawamayina	JJ	<fs af='pragawamayina,n,any,sg,3,,0,0'>|<fs af='pragawamayina,n,any,sg,3,,obl,obl'>
+18	pAnakAla	NNP	<fs af='pAnakaM,n,any,pl,3,,obl,obl'>
+19	narasiMhasvAmi	NNP	<fs af='narasiMhasvAmi,n,any,sg,3,,0,0'>|<fs af='narasiMhasvAmi,n,any,sg,3,,obl,obl'>
+20	xevAlayaM	NN	<fs af='xevAlayaM,n,any,sg,3,,0,0'>
+21	kalaxu	VM	<fs af='kala,v,fn,sg,3,,wA,wA'>|<fs af='kala,v,fn,sg,3,,A,A'>
+22	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

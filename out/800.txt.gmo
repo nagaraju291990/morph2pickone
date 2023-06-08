@@ -1,0 +1,20 @@
+<Sentence id="800">			
+0	((	SSF	
+1	veru	NN	<fs af='veru,n,any,sg,3,,0,0'>|<fs af='veru,n,any,sg,3,,obl,obl'>
+2	xeVbba	NN	<fs af='xeVbba,n,any,sg,3,,0,0'>|<fs af='xeVbba,n,any,sg,3,,obl,obl'>
+3	winakuMdA	VM	<fs af='winu,v,any,any,any,,akuMdA,akuMdA'>|<fs af='winakuMdu,v,any,any,any,,i,i_A'>
+4	uMte	VM	<fs af='uMdu,v,any,any,any,,we,we'>
+5	neVlala	NN	<fs af='neVla,n,any,pl,3,,obl,obl'>
+6	paryaMwaM	NN	<fs af='paryaMwaM,n,any,sg,3,,0,0'>
+7	xIni	PRP	<fs af='ixi,pn,fn,sg,3,,obl,obl'>
+8	Akunu	NN	<fs af='Aku,n,any,sg,3,,ni,ni'>|<fs af='Aku,n,any,sg,3,,ni_agr,ni_agr'>
+9	kosukune	VM	<fs af='koVyyi,v,any,any,any,,koVn,koVn_e'>|<fs af='koVyyi,v,any,any,any,,koVn_an,koVn_an_e'>
+10	vIluMxi	VM	<fs af='vIluMdu,v,fn,sg,3,,A,A'>
+11	ixi	PRP	<fs af='ixi,pn,fn,sg,3,,0,0'>
+12	30	QC	<fs af='30,num,,,,,,'>
+13	rojulalo	NN	<fs af='roju,n,any,pl,3,,lo,lo'>
+14	kowaku	NN	<fs af='kowa,n,any,sg,3,,ki,ki'>
+15	vaswuMxi	VM	<fs af='vaccu,v,fn,sg,3,,wA,wA'>|<fs af='vaswuMdu,v,fn,sg,3,,A,A'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

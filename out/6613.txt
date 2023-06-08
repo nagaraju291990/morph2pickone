@@ -1,0 +1,29 @@
+<Sentence id="6613">
+0	((	SSF
+1	"	SYM	<fs af='",punc,,,,,, '>
+2	itu	VM	<fs af='itu,avy,,,,,, '>
+2	rA	VM	<fs af='rA,avy,,,,,, '>|<fs af='vaccu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='vaccu,v,any,any,any,,an,an'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	nIku	PRP	<fs af='nIvu,pn,any,sg,2,,ki,ki'>
+5	SarIraM	NN	<fs af='SarIraM,n,any,sg,3,,0,0'>
+6	loni	PSP	<fs af='loni,avy,,,,,, '>|<fs af='lona,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+7	viviXa	JJ	<fs af='viviXaM,n,any,sg,3,,obl,obl'>
+8	aMgAlaku	NN	<fs af='aMgaM,n,any,pl,3,,ki,ki'>
+9	ilA	RB	<fs af='ilA,avy,,,,,, '>|<fs af='ila,n,any,sg,3,,0,0_A'>|<fs af='ila,n,any,sg,3,,0,0_V'>
+10	AlaMbanaM	VM	<fs af='AlaMbanaM,n,any,sg,3,,0,0'>
+10	icce	VM	<fs af='icca,n,any,sg,3,,0,0_e'>|<fs af='ivvu,v,any,any,any,,e,e'>|<fs af='ivvu,v,any,any,any,,i,i_e'>
+11	paxXawi	NN	<fs af='paxXawi,n,any,sg,3,,0,0'>|<fs af='paxXawi,n,any,sg,3,,obl,obl'>
+12	cUpiswAnu	VM	<fs af='cUpiMcu,v,any,sg,1,,wA,wA'>
+13	:	SYM	<fs af=':,punc,,,,,, '>
+14	"	SYM	<fs af='",punc,,,,,, '>
+15	BujaM	NN	<fs af='BujaM,n,any,sg,3,,0,0'>
+16	xaggari	NST	<fs af='xaggara,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+17	eVmuka	NN	<fs af='eVmuka,n,any,sg,3,,0,0'>|<fs af='eVmuka,n,any,sg,3,,obl,obl'>
+18	viriginappudu	VM	<fs af='virugu,v,any,any,any,,ina_appudu,ina_appudu'>
+19	wrikoNAkAraM	NN	<fs af='wrikoNAkAraM,n,any,sg,3,,0,0'>
+20	gala	JJ	<fs af='gala,v,any,any,any,,ina,ina'>|<fs af='gala,adj,any,any,any,,0_adj,0_adj'>
+21	pattIni	NN	<fs af='pattI,n,,sg,,,ni,ni'>
+22	vAdavaccu	VM	<fs af='vAdu,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='vAdavaccu,v,any,any,any,,e,e'>
+23	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

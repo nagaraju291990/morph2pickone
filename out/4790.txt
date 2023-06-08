@@ -1,0 +1,9 @@
+<Sentence id="4790">
+0	((	SSF
+1	kAnI	CC	<fs af='kAnI,avy,,,,,, '>
+2	Karcuwo	NN	<fs af='Karcu,n,any,sg,3,,wo,wo'>
+3	kUdukoVnna	VM	<fs af='kUdukoVnu,v,any,any,any,,ina,ina'>
+4	pani	NN	<fs af='pani,n,any,sg,3,,0,0'>|<fs af='pani,n,any,sg,3,,obl,obl'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

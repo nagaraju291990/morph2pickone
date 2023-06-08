@@ -1,0 +1,23 @@
+<Sentence id="6065">
+0	((	SSF
+1	isuka	NN	<fs af='isuka,n,any,sg,3,,0,0'>|<fs af='isuka,n,any,sg,3,,obl,obl'>
+2	nelalanu	NN	<fs af='nela,n,any,pl,3,,ni,ni'>
+3	AnukoVni	VM	<fs af='Anu,v,any,any,any,,koVn_i,koVn_i'>
+4	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+5	nallaregadi	NN	<fs af='nallaregadi,n,any,sg,3,,0,0'>|<fs af='nallaregadi,n,any,sg,3,,obl,obl'>
+6	BUmulu	NN	<fs af='BUmi,n,any,pl,3,,0,0'>
+7	:	SYM	<fs af=':,punc,,,,,, '>
+8	kqRNA	NNP	<fs af='kqRNa,n,any,sg,3,,0,0_A'>|<fs af='kqRNa,n,any,sg,3,,0,0_V'>|<fs af='kqRNudu,n,any,sg,3,,I,I'>
+9	,	SYM	<fs af=',,punc,,,,,, '>
+10	goxAvari	NNP	<fs af='goxAvari,n,any,sg,3,,0,0'>|<fs af='goxAvari,n,any,sg,3,,obl,obl'>
+11	,	SYM	<fs af=',,punc,,,,,, '>
+12	vaMSaXAra	NNP	<fs af='vaMSaXAra,n,any,sg,3,,0,0'>|<fs af='vaMSaXAra,n,any,sg,3,,obl,obl'>
+13	deVltAlu	NN	<fs af='deVltA,n,any,pl,3,,0,0'>|<fs af='deVltA,n,any,pl,3,,vu_agr,vu_agr'>
+14	anni	QF	<fs af='anni,pn,any,pl,3,,0,0'>
+15	rakAla	NN	<fs af='rakaM,n,any,pl,3,,obl,obl'>
+16	paMtalaku	NN	<fs af='paMta,n,any,pl,3,,ki,ki'>
+17	prasixXi	NN	<fs af='prasixXi,n,any,sg,3,,0,0'>|<fs af='prasixXi,n,any,sg,3,,obl,obl'>
+18	ceVMxinaxi	VM	<fs af='ceVMxu,v,any,any,any,,ina_axi,ina_axi'>|<fs af='ceVMxinaxi,pn,any,sg,3,,0,0'>
+19	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

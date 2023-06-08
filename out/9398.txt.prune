@@ -1,0 +1,17 @@
+<Sentence id="9398">
+0	((	SSF	
+1	laMdanulo	NNP	<fs af='laMdan,n,any,sg,3,,lo,lo'>|<fs af='laMdanu,n,any,sg,3,,lo,lo'>|<fs af='laMdanu,n,any,pl,3,,0,0_o'>
+2	awanu	PRP	<fs af='awanu,pn,m,sg,3,,0,0'>
+3	mqgaM	NN	<fs af='mqgaM,n,any,sg,3,,0,0'>
+4	anna	UT	<fs af='anna,avy,,,,,,'>|<fs af='anu,v,any,any,any,,ina,ina'>
+5	viMwa	NN	<fs af='viMwa,n,any,sg,3,,0,0'>|<fs af='viMwa,n,any,sg,3,,obl,obl'>
+6	poyi	VM	<fs af='po,v,any,any,any,,i,i'>|<fs af='poVyyi,v,any,sg,2,,AjFArWa,AjFArWa'>
+7	awadu	PRP	<fs af='awadu,pn,,sg,,,0,0'>
+8	vAxana	NN	<fs af='vAxana,n,,sg,,,0,0'>|<fs af='vAxana,n,,sg,,,0,0'>|<fs af='vAxana,n,,sg,,,obl,obl'>|<fs af='vAxana,n,,sg,,,obl,obl'>
+8	SIli	NN	<fs af='SIli,n,,sg,,,0,0'>|<fs af='SIli,n,,sg,,,obl,obl'>
+9	anna	UT	<fs af='anna,avy,,,,,,'>|<fs af='anu,v,any,any,any,,ina,ina'>
+10	viMwa	NN	<fs af='viMwa,n,any,sg,3,,0,0'>|<fs af='viMwa,n,any,sg,3,,obl,obl'>
+11	puttiMxi	VM	<fs af='puttu,v,fn,sg,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

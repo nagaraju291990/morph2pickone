@@ -1,0 +1,20 @@
+<Sentence id="9978">
+0	((	SSF
+1	"	SYM	<fs af='",punc,,,,,, '>
+2	A	DEM	<fs af='A,avy,,,,,, '>
+3	mUla	NN	<fs af='mUla,n,any,sg,3,,0,0'>|<fs af='mUla,n,any,sg,3,,obl,obl'>|<fs af='mUlaM,n,any,sg,3,,obl,obl'>
+4	ceVwwa	NN	<fs af='ceVwwa,n,any,sg,3,,0,0'>|<fs af='ceVwwa,n,any,sg,3,,obl,obl'>
+5	kuppalo	NN	<fs af='kuppa,n,any,sg,3,,lo,lo'>|<fs af='kuppa,n,any,pl,3,,0,0_o'>
+6	padia	NN	<fs af='padi,n,,sg,,,obl,obl'>
+6	unna	VM	<fs af='unna,adj,,,,,0,0_adj'>|<fs af='uMdu,v,any,any,any,,ina,ina'>
+7	palYleVMlo	NN	<fs af='palYleVM,n,any,sg,3,,lo,lo'>
+8	pilliki	NN	<fs af='pilli,n,any,sg,3,,ki,ki'>
+9	pAlu	NN	<fs af='paM,n,any,pl,3,,0,0'>|<fs af='paM,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAlu,n,any,sg,3,,0,0'>|<fs af='pAlu,n,any,sg,3,,0,0_A'>|<fs af='pAlu,n,any,sg,3,,obl,obl'>|<fs af='pAlu,n,any,sg,3,,vu_agr,vu_agr'>
+10	annaM	NN	<fs af='annaM,n,any,sg,3,,0,0'>
+11	kalipi	VM	<fs af='kalupu,v,any,any,any,,i,i'>
+12	wIsukurA	VM	<fs af='wIsukuvaccu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='wIsukuvaccu,v,any,any,any,,an,an'>
+13	"	SYM	<fs af='",punc,,,,,, '>
+14	annAdu	VM	<fs af='anu,v,m,sg,3,,A,A'>
+15	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,11 @@
+<Sentence id="1990">			
+0	((	SSF	
+1	kowaku	NN	<fs af='kowa,n,any,sg,3,,ki,ki'>
+2	vaccina	VM	<fs af='vaccu,v,any,any,any,,ina,ina'>
+3	waruvAwa	NST	<fs af='waruvAwa,avy,,,,,,' poslcat="NM">
+4	vari	NN	<fs af='vari,n,any,sg,3,,0,0'>|<fs af='vari,n,any,sg,3,,obl,obl'>
+4	pEru	NN	<fs af='pEru,n,any,sg,3,,0,0'>|<fs af='pEru,n,any,sg,3,,obl,obl'>
+5	kosukoVnnAdu	VM	<fs af='koVyyi,v,m,sg,3,,koVn_A,koVn_A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

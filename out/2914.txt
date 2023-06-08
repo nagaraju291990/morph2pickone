@@ -1,0 +1,18 @@
+<Sentence id="2914">
+0	((	SSF
+1	kanukane	CC	<fs af='kanukane,avy,,,,,, '>
+2	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+3	mAta	NN	<fs af='mAta,n,any,sg,3,,0,0'>|<fs af='mAta,n,any,sg,3,,obl,obl'>
+4	iccina	VM	<fs af='ivvu,v,any,any,any,,ina,ina'>
+5	maNilAl	NNP	<fs af='maNilAl,n,any,sg,3,,0,0'>|<fs af='maNilAl,n,any,sg,3,,obl,obl'>
+6	_	SYM
+7	nu	PSP	<fs af='nu,avy,,,,,, '>
+8	A	DEM	<fs af='A,avy,,,,,, '>
+9	mAta	NN	<fs af='mAta,n,any,sg,3,,0,0'>|<fs af='mAta,n,any,sg,3,,obl,obl'>
+10	neVravercina	VM	<fs af='neVravercu,v,any,any,any,,ina,ina'>|<fs af='neVraveruvu,v,any,any,any,,ina,ina'>
+11	waruvAwane	NN	<fs af='waruvAwa,nst,,,,,0_e,0_e_adv'>
+12	vaxali	VM	<fs af='vaxalu,v,any,any,any,,i,i'>
+13	peVttAli	VAUX	<fs af='peVttu,v,any,any,any,,Ali,Ali'>
+14	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

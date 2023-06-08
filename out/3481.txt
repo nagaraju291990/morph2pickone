@@ -1,0 +1,9 @@
+<Sentence id="3481">
+0	((	SSF
+1	waruvAwa	NST	<fs af='waruvAwa,avy,,,,,, '>
+2	waMgedu	NN	<fs af='waMgedu,n,any,sg,3,,0,0'>
+3	pUlu	NN	<fs af='pUvu,n,any,pl,3,,0,0'>
+4	percAnu	VM	<fs af='percu,v,any,sg,1,,A,A'>|<fs af='peruvu,v,any,sg,1,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

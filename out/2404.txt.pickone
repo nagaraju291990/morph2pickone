@@ -1,0 +1,21 @@
+<Sentence id="2404">			
+0	((	SSF	
+1	Urakane	RP	<fs af='Urakane,avy,,,,,,'>
+2	XanavaMwulaM	NN	<fs af='XanavaMwudu,n,any,pl,3,,ni_agr,ni_agr'>
+3	kAmu	VM	<fs af='avvu,v,any,pl,1,,a,a'>
+4	pani	NN	<fs af='pani,n,any,sg,3,,0,0'>
+5	cesi	VM	<fs af='ceVyyi,v,any,any,any,,i,i'>
+6	saMpAxiMcAli	VM	<fs af='saMpAxiMcu,v,any,any,any,,Ali,Ali'>
+7	ani	UT	<fs af='ani,avy,,,,,,'>
+8	somuluku	NNP	<fs af='somulu,n,any,sg,3,,ki,ki'>
+9	weVliselA	VM	<fs af='weVliselA,n,any,sg,3,,0,0'>'>
+10	cesiMxi	VAUX	<fs af='ceVyyi,v,fn,sg,3,,A,A'>
+11	anasUya	NNP	<fs af='anasUya,n,any,sg,3,,0,0'>
+12	weVliviwo	NN	<fs af='weVlivi,n,any,sg,3,,wo,wo'>
+13	somulu	NNP	<fs af='somu,n,any,pl,3,,0,0'>
+14	cewi	NN	<fs af='ceyi,n,any,sg,3,,obl,obl'>
+15	pani	NN	<fs af='pani,n,any,sg,3,,0,0'>
+16	ceyiMciMxi	VM	<fs af='ceyiMcu,v,fn,sg,3,,A,A'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

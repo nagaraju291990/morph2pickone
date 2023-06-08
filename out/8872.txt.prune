@@ -1,0 +1,23 @@
+<Sentence id="8872">
+0	((	SSF	
+1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+2	mqgAnni	NN	<fs af='mqgaM,n,any,sg,3,,ni,ni'>|<fs af='mqgaM,n,any,sg,3,,ni_agr,ni_agr'>
+3	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+4	inupa	NN	<fs af='inupa,adj,any,any,any,,0_adj,0_adj' poslcat="NM">
+5	paMjaraMlonuMci	NN	<fs af='paMjaraM,n,any,sg,3,,lonuMdi,lonuMdi'>
+6	cakrAlu	NN	<fs af='cakraM,n,any,pl,3,,0,0'>|<fs af='cakraM,n,any,pl,3,,vu_agr,vu_agr'>
+7	peVttina	VM	<fs af='peVttu,v,any,any,any,,ina,ina'>
+8	maroVka	QF	<fs af='maroVka,avy,,,,,,'>
+9	peVxxa	JJ	<fs af='peVxxa,adj,any,any,any,,0_adj,0_adj'>
+10	inupa	NN	<fs af='inupa,adj,any,any,any,,0_adj,0_adj' poslcat="NM">
+11	paMjaraMloki	NN	<fs af='paMjaraM,n,any,sg,3,,lopalaki,lopalaki'>
+12	pattiMci	VM	<fs af='pattiMcu,v,any,any,any,,i,i'>
+13	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+14	aMxulonuMci	NST	<fs af='aMxulonuMci,avy,,,,,,' poslcat="NM">
+15	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+16	iMtloki	NN	<fs af='illu,n,any,sg,3,,lopalaki,lopalaki'>
+17	praveSa	NN	<fs af='praveSaM,n,any,sg,3,,obl,obl'>
+18	peVttiMcAru	VM	<fs af='peVttiMcu,v,any,pl,2,,A,A'>|<fs af='peVttiMcu,v,mf,pl,3,,A,A'>
+19	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

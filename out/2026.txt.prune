@@ -1,0 +1,11 @@
+<Sentence id="2026">
+0	((	SSF	
+1	kAbatti	CC	<fs af='avvu,v,any,any,any,,a_batti,a_batti' poslcat="NM">
+2	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+3	maniRiki	NN	<fs af='maniRi,n,any,sg,3,,ki,ki'>
+4	guccukoVne	VM	<fs af='guccuko,v,any,any,any,,e,e'>|<fs af='guccuko,v,any,any,any,,an_e,an_e'>|<fs af='guccuko,v,any,any,any,,i_e,i_e'>
+5	praSne	NN	<fs af='praSna,n,any,sg,3,,0,0_e'>
+6	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

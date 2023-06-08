@@ -1,0 +1,13 @@
+<Sentence id="1363">			
+0	((	SSF	
+1	rabIpaMta	NN	<fs af='rabIpaMta,n,any,sg,3,,0,0'>
+2	seVpteVMbaru	NN	<fs af='seVpteVMbar,n,any,sg,3,,0,0'>
+3	civarinuMdi	NST	<fs af='civara,adv,any,any,any,,nuMdi_adv,nuMdi_adv'>
+4	aktobaru	NN	<fs af='aktobar,n,any,sg,3,,0,0'>
+5	reVMdava	QO	<fs af='reVMdu,num,any,any,any,,ava,ava'>
+6	vAraM	NN	<fs af='vAraM,n,any,sg,3,,0,0'>
+7	varaku	NST	<fs af='varaku,adv,any,any,any,,0_adv,0_adv'>
+8	vesukovaccu	VM	<fs af='veVyyi,v,any,any,any,,koVn_a_vaccu,koVn_a_vaccu'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

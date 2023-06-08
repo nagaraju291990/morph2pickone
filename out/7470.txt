@@ -1,0 +1,8 @@
+<Sentence id="7470">
+0	((	SSF
+1	cAlA	QF	<fs af='cAlu,v,any,any,any,,i,i_A'>
+2	wippalu	NN	<fs af='wippa,n,any,pl,3,,0,0'>|<fs af='wippa,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='wippalu,n,any,sg,3,,0,0'>|<fs af='wippalu,n,any,sg,3,,vu_agr,vu_agr'>
+3	padanela	VM	<fs af='padanela,n,any,sg,3,,0,0'>|<fs af='padanela,n,any,sg,3,,obl,obl'>
+4	?	SYM	<fs af='?,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,6 @@
+<Sentence id="2226">
+0	((	SSF
+1	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+2	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

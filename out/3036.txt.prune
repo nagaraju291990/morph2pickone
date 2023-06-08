@@ -1,0 +1,15 @@
+<Sentence id="3036">
+0	((	SSF	
+1	appatlo	NST	<fs af='appudu,adv,any,any,any,,lo_adv,lo_adv'>
+2	caraKA	NN	<fs af='caraKA,n,any,sg,3,,0,0'>|<fs af='caraKA,n,any,sg,3,,obl,obl'>
+3	saMGa	NN	<fs af='saMGaM,n,any,sg,3,,obl,obl'>
+4	niXi	NN	<fs af='niXi,n,any,sg,3,,0,0'>|<fs af='niXi,n,any,sg,3,,obl,obl'>
+5	jamA	NN	<fs af='jaM,n,any,sg,3,,0,0_A'>|<fs af='jama,n,any,sg,3,,0,0_A'>|<fs af='jama,n,any,sg,3,,0,0_V'>|<fs af='jamudu,n,any,sg,3,,I,I'>
+6	Karculu	NN	<fs af='Karcu,n,any,pl,3,,0,0'>|<fs af='Karcu,n,any,pl,3,,vu_agr,vu_agr'>
+7	leVkka	NN	<fs af='leVkka,n,any,sg,3,,0,0'>|<fs af='leVkka,n,any,sg,3,,obl,obl'>
+8	aMwA	QF	<fs af='aMwa,pn,any,pl,3,,0,0_A' poslcat="NM">|<fs af='aMwa,pn,any,pl,3,,0,0_V' poslcat="NM">
+9	jamunAlAlbajAj	NNP	<fs af='jamunAlAlbajAj,n,any,sg,3,,0,0'>|<fs af='jamunAlAlbajAj,n,any,sg,3,,obl,obl'>
+10	cUswuMdevAru	VM	<fs af='cUswuMdu,v,any,any,any,,e_vAru,e_vAru'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,15 @@
+<Sentence id="8432">			
+0	((	SSF	
+1	kaMBaM	NNP	<fs af='kaMBaM,n,any,sg,3,,0,0'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	gixxalUruku	NN	<fs af='gixxalUru,n,any,sg,3,,ku,ku'>
+4	34	QC	<fs af='34,num,,,,,,'>
+5	ki	NN	<fs af='ki,avy,,,,,,'>'>
+6	
+7	
+8	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+9	xUraMlo	NN	<fs af='xUraM,n,any,sg,3,,lo,lo'>
+10	kalaxu	VM	<fs af='kala,v,fn,sg,3,,wA,wA'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

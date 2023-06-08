@@ -1,0 +1,11 @@
+<Sentence id="2864">
+0	((	SSF
+1	alA	RB	<fs af='alA,avy,,,,,, '>
+2	welcadaM	VM	<fs af='welcu,v,any,any,any,,adaM,adaM'>|<fs af='weluvu,v,any,any,any,,adaM,adaM'>|<fs af='welcadaM,n,any,sg,3,,0,0'>
+3	kosaM	PSP	<fs af='kosaM,avy,,,,,, '>
+4	mArkulu	NN	<fs af='mArk,n,any,pl,3,,0,0'>|<fs af='mArk,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='mArku,n,any,pl,3,,0,0'>|<fs af='mArku,n,any,pl,3,,vu_agr,vu_agr'>
+5	veyadaM	VM	<fs af='veVyyi,v,any,any,any,,adaM,adaM'>|<fs af='veyadaM,n,any,sg,3,,0,0'>
+6	lexu	VAUX	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,19 @@
+<Sentence id="8513">
+0	((	SSF
+1	kaxalakuMdA	VM	<fs af='kaxulu,v,any,any,any,,akuMdA,akuMdA'>
+2	meVxalakuMdA	VM	<fs af='meVxalu,v,any,any,any,,akuMdA,akuMdA'>|<fs af='meVxalakuMdu,v,any,any,any,,i,i_A'>
+3	padivunna	VM	<fs af='padivuMdu,v,any,any,any,,ina,ina'>
+4	A	DEM	<fs af='A,avy,,,,,, '>
+5	mqgaM	NN	<fs af='mqgaM,n,any,sg,3,,0,0'>
+6	xaggaraku	NN	<fs af='xaggara,adv,any,any,any,,0,0_adv_ku'>
+7	koVMxaru	QF	<fs af='koVMxaru,pn,mf,pl,3,,0,0'>
+8	pillalu	NN	<fs af='pilla,n,any,pl,3,,0,0'>|<fs af='pilla,n,any,pl,3,,vu_agr,vu_agr'>
+9	sAhasiMci	VM	<fs af='sAhasiMcu,v,any,any,any,,i,i'>
+10	pobowe	VM	<fs af='po,v,any,any,any,,a_po_we,a_po_we'>
+11	wallulu	NN	<fs af='walli,n,any,pl,3,,0,0'>
+12	vAlYlanu	PRP	<fs af='vAlYlu,pn,mf,pl,3,,ni,ni'>
+13	veVnakki	NN	<fs af='veVnakki,avy,,,,,0,0_avy'>
+14	lAgAru	VM	<fs af='lAgu,v,any,pl,2,,A,A'>|<fs af='lAgu,v,mf,pl,3,,A,A'>
+15	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

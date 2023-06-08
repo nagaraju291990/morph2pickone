@@ -1,0 +1,23 @@
+<Sentence id="2073">
+0	((	SSF	
+1	alA	RB	<fs af='alA,avy,,,,,,' poslcat="NM">
+2	vaccinappudu	VM	<fs af='vaccu,v,any,any,any,,ina_appudu,ina_appudu'>
+3	canipoyina	VM	<fs af='canipo,v,any,any,any,,ina,ina'>
+4	vyakwi	NN	<fs af='vyakwi,n,any,sg,3,,0,0'>|<fs af='vyakwi,n,any,sg,3,,obl,obl'>
+5	eVlA	WQ	<fs af='eVlA,avy,,,,,,'>
+6	mAtlAdevAro	VM	<fs af='mAtlAdevAru,pn,mf,pl,3,,0,0_o' poslcat="NM">
+7	alAge	RB	<fs af='alAge,avy,,,,,,' poslcat="NM">
+8	mAtlAdadaM	VM	<fs af='mAtlAdu,v,any,any,any,,adaM,adaM'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	muwwamma	NNP	<fs af='muwwamma,n,any,sg,3,,0,0'>|<fs af='muwwamma,n,any,sg,3,,obl,obl'>
+11	ane	UT	<fs af='ane,avy,,,,,,'>|<fs af='anu,v,any,any,any,,e,e'>|<fs af='anu,v,any,any,any,,i,i_e'>
+12	Avidaku	PRP	<fs af='Avida,pn,m,sg,3,,ki,ki'>
+13	canipoyina	VM	<fs af='canipo,v,any,any,any,,ina,ina'>
+14	vAlYla	PRP	<fs af='vAlYlu,pn,mf,pl,3,,obl,obl'>
+15	amma	NN	<fs af='amma,n,any,sg,3,,0,0'>|<fs af='amma,n,any,sg,3,,obl,obl'>
+16	oVMti	NN	<fs af='oVllu,n,any,sg,3,,obl,obl'>
+17	mIxaki	NST	<fs af='mIxa,n,any,sg,3,,ki,ki'>
+18	vaccexi	VM	<fs af='vaccu,v,any,any,any,,e_axi,e_axi'>
+19	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

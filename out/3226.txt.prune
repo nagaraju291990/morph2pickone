@@ -1,0 +1,10 @@
+<Sentence id="3226">
+0	((	SSF	
+1	tElar	NN	<fs af='tElar,n,any,sg,3,,0,0'>|<fs af='tElar,n,any,sg,3,,obl,obl'>
+2	somayyaku	NNP	<fs af='somayya,n,any,sg,3,,ki,ki'>
+3	bAgA	INTF	<fs af='bAgA,avy,,,,,,'>
+4	kopaMgA	RB	<fs af='kopaM,n,any,sg,3,,gA,gA' poslcat="NM">
+5	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

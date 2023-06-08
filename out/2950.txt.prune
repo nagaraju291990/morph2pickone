@@ -1,0 +1,18 @@
+<Sentence id="2950">
+0	((	SSF	
+1	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+2	rojuna	NN	<fs af='roju,n,any,sg,3,,na,na'>
+3	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+4	cinna	JJ	<fs af='cinna,adj,any,any,any,,0_adj,0_adj'>
+5	pillavAdu	NN	<fs af='pilla,n,any,sg,3,,vAdu,vAdu'>|<fs af='pillavAdu,n,any,sg,3,,0,0'>
+6	bApUjI	NN	<fs af='bApUjI,n,,sg,,,0,0'>|<fs af='bApUjI,n,,sg,,,obl,obl'>
+7	veRa	NN	<fs af='veRaM,n,any,sg,3,,obl,obl'>
+8	_	SYM	<'>|<poslcat="NM"'>
+9	BARalu	NN	<fs af='BARa,n,any,pl,3,,0,0'>|<fs af='BARa,n,any,pl,3,,vu_agr,vu_agr'>
+10	cUci	VM	<fs af='cUdu,v,any,any,any,,i,i'>|<fs af='cUcu,v,any,any,any,,i,i'>
+11	cAlA	INTF	<fs af='cAlu,v,any,any,any,,i,i_A' poslcat="NM">
+12	xuHKapadi	VM	<fs af='xuHKapadu,v,any,any,any,,i,i'>
+13	poyAdu	VAUX	<fs af='po,v,m,sg,3,,A,A' poslcat="NM">
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,25 @@
+<Sentence id="8947">			
+0	((	SSF	
+1	aMwalo	NST	<fs af='aMwa,pn,any,sg,3,,lo,lo'>
+2	gurrapu	NN	<fs af='gurraM,n,any,sg,3,,obl,obl'>
+3	maniRi	NN	<fs af='maniRi,n,any,sg,3,,0,0'>
+4	AScaryapoyinatlu	VM	<fs af='AScaryapo,v,any,any,any,,ina_atlu,ina_atlu'>
+5	noru	NN	<fs af='noru,n,any,sg,3,,0,0'>
+6	AvuliMci	VM	<fs af='AvuliMcu,v,any,any,any,,i,i'>
+7	,	SYM	<fs af=',,punc,,,,,,'>
+8	kaMdlu	NN	<fs af='kannu,n,any,pl,3,,0,0'>
+9	peVxxavi	NN	<fs af='peVxxa,adj,,pl,,,ni_xi,ni_xi_0' deri_cat=pn>
+10	cesi	VM	<fs af='ceVyyi,v,any,any,any,,i,i'>
+11	,	SYM	<fs af=',,punc,,,,,,'>
+12	leci	VM	<fs af='le,v,any,any,any,,i,i'>
+13	nIdi	VM	<fs af='nIdi,n,any,sg,3,,0,0'>'>
+14	oVdalu	NN	<fs af='oVdalu,n,,sg,,,0,0'>
+15	aMwA	QF	<fs af='aMwa,pn,any,pl,3,,0,0_A'>'>
+16	virucukuni	VM	<fs af='virucu,v,any,any,any,,koVn_i,koVn_i'>
+17	aMwalo	NST	<fs af='aMwa,pn,any,sg,3,,lo,lo'>
+18	xuHKaM	NN	<fs af='xuHKaM,n,any,sg,3,,0,0'>
+19	poVMxinatlu	VM	<fs af='poVMxu,v,any,any,any,,ina_atlu,ina_atlu'>
+20	kanabaddAdu	VM	<fs af='kanabadu,v,m,sg,3,,A,A'>
+21	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

@@ -1,0 +1,22 @@
+<Sentence id="7459">			
+0	((	SSF	
+1	ceVyyi	NN	<fs af='ceVyyi,n,any,sg,3,,0,0'>
+2	SuBraMgA	RB	<fs af='SuBraM,n,any,sg,3,,gA,gA' poslcat="NM">
+3	uMte	VM	<fs af='uMdu,v,any,any,any,,we,we'>
+4	veVnnA	NN	<fs af='veVnnu,n,any,sg,3,,0,0_A'>|<fs af='veVnna,n,any,sg,3,,0,0_A'>
+5	peVrugU	NN	<fs af='peVrugu,n,any,sg,3,,0,0_V'>
+6	neyI	NN	<fs af='neyi,n,any,sg,3,,0,0_V'>|<fs af='neVyyi,n,any,sg,3,,0,0_V'>
+7	annI	QF	<fs af='anni,pn,any,pl,3,,0,0_V' poslcat="NM">
+8	!	SYM	<fs af='!,punc,,,,,,'>
+9	magAdi	NN	<fs af='magAdu,n,any,sg,3,,obl,obl'>|<fs af='magAdi,n,any,sg,3,,0,0'>
+10	ceyi	NN	<fs af='ceyi,n,any,sg,3,,0,0'>
+11	ceVddaxi	NN	<fs af='ceVdda,adj,,,,,xi,xi_adj' poslcat="NM">'>|<fs af='ceVdda,adj,,,,,xi,xi_adj' poslcat="NM">'>
+11	ayiwe	VM	<fs af='avvu,v,any,any,any,,we,we'>
+12	Adaxi	NN	<fs af='Ada,n,any,sg,3,,xi,xi'>|<fs af='Adaxi,n,any,sg,3,,0,0'>
+13	'	SYM	<fs af=',punc,,,,,,'>
+14	virigi	VM	<fs af='virugu,v,any,any,any,,i,i'>
+15	powuMxi	VAUX	<fs af='po,v,fn,sg,3,,wA,wA' poslcat="NM">'>|<fs af='powuMdu,v,fn,sg,3,,A,A' poslcat="NM">'>
+16	'	SYM	<fs af=',punc,,,,,,'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,9 @@
+<Sentence id="3121">
+0	((	SSF
+1	akkada	NST	<fs af='akkada,adv,any,any,any,,0_adv,0_adv'>
+2	annI	QF	<fs af='anni,pn,any,pl,3,,0,0_V'>
+3	meVtta	NN	<fs af='meVttu,v,any,any,any,,an,an'>|<fs af='meVtta,n,any,sg,3,,0,0'>|<fs af='meVtta,n,any,sg,3,,obl,obl'>
+4	BUmule	NN	<fs af='BUmi,n,any,pl,3,,0,0_e'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,9 @@
+<Sentence id="2279">
+0	((	SSF
+1	Igalu	NN	<fs af='Iga,n,any,pl,3,,0,0'>|<fs af='Iga,n,any,pl,3,,vu_agr,vu_agr'>
+2	muriki	NN	<fs af='muri,n,any,sg,3,,ki,ki'>|<fs af='muriki,n,any,sg,3,,0,0'>|<fs af='muriki,n,any,sg,3,,obl,obl'>
+3	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+4	cerawAyi	VM	<fs af='ceru,v,n,pl,3,,wA,wA'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

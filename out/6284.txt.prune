@@ -1,0 +1,29 @@
+<Sentence id="6284">
+0	((	SSF	
+1	Kanijamulu	NN	<fs af='KanijaM,n,any,pl,3,,0,0'>|<fs af='KanijaM,n,any,pl,3,,vu_agr,vu_agr'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	mAMganIs	NN	<fs af='mAMganIs,n,any,sg,3,,0,0'>|<fs af='mAMganIs,n,any,sg,3,,obl,obl'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	grAPEt	NN	<fs af='grAPEt,n,any,sg,3,,0,0'>|<fs af='grAPEt,n,any,sg,3,,obl,obl'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	sunnapurAyi	NN	<fs af='sunnapurAyi,n,any,sg,3,,0,0'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	kvArtg	NN	<fs af='kvArtg,n,any,sg,3,,0,0'>|<fs af='kvArtg,n,any,sg,3,,obl,obl'>
+10	pariSramalu	NN	<fs af='pariSrama,n,any,pl,3,,0,0'>|<fs af='pariSrama,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pariSramalu,n,any,sg,3,,0,0'>|<fs af='pariSramalu,n,any,sg,3,,vu_agr,vu_agr'>
+11	:	SYM	<fs af=':,punc,,,,,,'>
+12	janapanAra	NN	<fs af='janapanAra,n,any,sg,3,,0,0'>|<fs af='janapanAra,n,any,sg,3,,obl,obl'>
+13	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+14	wolYlu	NN	<fs af='wolu,n,any,pl,3,,0,0'>|<fs af='wolu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='wodu,n,any,pl,3,,0,0'>|<fs af='wodu,n,any,pl,3,,vu_agr,vu_agr'>
+15	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+16	spAMj	NN	<fs af='spAMj,n,any,sg,3,,0,0'>|<fs af='spAMj,n,any,sg,3,,obl,obl'>
+17	Eran	NN	<fs af='Eran,n,any,sg,3,,0,0'>|<fs af='Eran,n,any,sg,3,,obl,obl'>
+18	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+19	tErlu	NN	<fs af='tEr,n,,pl,,,0,0'>|<fs af='tEr,n,,pl,,,vu,vu'>
+20	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+21	peVrro	NN	<fs af='peVrro,n,any,sg,3,,0,0'>|<fs af='peVrro,n,any,sg,3,,obl,obl'>
+22	eVlAyis	NN	<fs af='eVlAyis,n,any,sg,3,,0,0'>|<fs af='eVlAyis,n,any,sg,3,,obl,obl'>
+23	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+24	simeVMt	NN	<fs af='simeVMt,n,any,sg,3,,0,0'>|<fs af='simeVMt,n,any,sg,3,,obl,obl'>
+25	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

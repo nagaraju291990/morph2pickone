@@ -1,0 +1,17 @@
+<Sentence id="6117">			
+0	((	SSF	
+1	1616	QC	<fs af='1616,num,,,,,,'>
+2	lo	PSP	<fs af='lo,avy,,,,,,' poslcat="NM">
+3	macilIpatnaMnu	NNP	<fs af='macilIpatnaM,n,any,sg,3,,ni,ni'>|<fs af='macilIpatnaM,n,any,sg,3,,ni_agr,ni_agr'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	1766	QC	<fs af='1766,num,,,,,,'>
+6	uwwara	NN	<fs af='uwwaraM,n,any,sg,3,,obl,obl'>
+7	sarkArulanu	NNP	<fs af='sarkAr,n,any,pl,3,,ni,ni'>|<fs af='sarkAru,n,any,pl,3,,ni,ni'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	1800	QC	<fs af='1800,num,,,,,,'>
+10	lo	PSP	<fs af='lo,avy,,,,,,' poslcat="NM">
+11	rAyalasImanu	NNP	<fs af='rAyalasIma,n,any,sg,3,,ni,ni'>|<fs af='rAyalasIma,n,any,sg,3,,ni_agr,ni_agr'>
+12	AkramiMcAru	VM	<fs af='AkramiMcu,v,any,pl,2,,A,A'>|<fs af='AkramiMcu,v,mf,pl,3,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

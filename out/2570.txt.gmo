@@ -1,0 +1,18 @@
+<Sentence id="2570">			
+0	((	SSF	
+1	aviseVnu	NN	<fs af='aviseV,n,any,sg,3,,ni,ni'>|<fs af='aviseV,n,any,sg,3,,ni_agr,ni_agr'>
+2	goXuma	NN	<fs af='goXuma,n,any,sg,3,,0,0'>|<fs af='goXuma,n,any,sg,3,,obl,obl'>
+3	paMtawo	NN	<fs af='paMta,n,any,sg,3,,wo,wo'>
+4	vesinappudu	VM	<fs af='veVyyi,v,any,any,any,,ina_appudu,ina_appudu'>
+5	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+6	cAlu	VM	<fs af='cAlu,v,any,sg,2,,AjFArWa,AjFArWa'>
+7	aviseV	NN	<fs af='aviseV,n,any,sg,3,,0,0'>|<fs af='aviseV,n,any,sg,3,,obl,obl'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	mUdu	QC	<fs af='mUdu,n,any,sg,3,,0,0'>|<fs af='mUdu,n,any,sg,3,,obl,obl'>
+10	cAlYla	NN	<fs af='cAdi,n,any,pl,3,,obl,obl'>
+11	goXuma	NN	<fs af='goXuma,n,any,sg,3,,0,0'>|<fs af='goXuma,n,any,sg,3,,obl,obl'>
+12	paMta	NN	<fs af='paMta,n,any,sg,3,,0,0'>|<fs af='paMta,n,any,sg,3,,obl,obl'>
+13	veVyyAli	VM	<fs af='veVyyi,v,any,any,any,,Ali,Ali'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

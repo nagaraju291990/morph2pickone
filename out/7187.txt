@@ -1,0 +1,10 @@
+<Sentence id="7187">
+0	((	SSF
+1	poyina	VM	<fs af='po,v,any,any,any,,ina,ina'>|<fs af='poyina,n,any,sg,3,,0,0'>|<fs af='poyina,n,any,sg,3,,obl,obl'>
+2	nIra	NN	<fs af='nIraM,n,,sg,,,obl,obl'>
+2	aMwA	PRP	<fs af='aMwa,pn,,pl,,,0_A,0_A'>|<fs af='aMwa,pn,,pl,,,0_V,0_V'>
+3	wirigi	VM	<fs af='wirigi,avy,,,,,, '>|<fs af='wirugu,v,any,any,any,,i,i'>
+4	cerAli	VM	<fs af='ceru,v,any,any,any,,Ali,Ali'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,39 @@
+<Sentence id="5411">
+0	((	SSF	
+1	walalo	NN	<fs af='wala,n,any,sg,3,,lo,lo'>|<fs af='wala,n,any,pl,3,,0,0_o'>|<fs af='waladu,n,any,pl,3,,0,0_o'>
+2	pelu	NN	<fs af='pelu,n,any,sg,3,,0,0'>|<fs af='penu,n,any,pl,3,,0,0'>|<fs af='penu,n,any,pl,3,,vu_agr,vu_agr'>
+3	eVkkuvagA	RB	<fs af='eVkkuva,adj,any,any,any,,gA_adj,gA_adj' poslcat="NM">
+4	uMte	VM	<fs af='uMdu,v,any,any,any,,we,we'>
+5	_	SYM	<'>|<poslcat="NM"'>
+6	_	SYM	<'>|<poslcat="NM"'>
+7	_	SYM	<'>|<poslcat="NM"'>
+8	_	SYM	<'>|<poslcat="NM"'>
+9	_	SYM	<'>|<poslcat="NM"'>
+10	_	SYM	<'>|<poslcat="NM"'>
+11	_	SYM	<'>|<poslcat="NM"'>
+12	_	SYM	<'>|<poslcat="NM"'>
+13	_	SYM	<'>|<poslcat="NM"'>
+14	_	SYM	<'>|<poslcat="NM"'>
+15	_	SYM	<'>|<poslcat="NM"'>
+16	_	SYM	<'>|<poslcat="NM"'>
+17	_	SYM	<'>|<poslcat="NM"'>
+18	_	SYM	<'>|<poslcat="NM"'>
+19	_	SYM	<'>|<poslcat="NM"'>
+20	_	SYM	<'>|<poslcat="NM"'>
+21	_	SYM	<'>|<poslcat="NM"'>
+22	_	SYM	<'>|<poslcat="NM"'>
+23	_	SYM	<'>|<poslcat="NM"'>
+24	_	SYM	<'>|<poslcat="NM"'>
+25	_	SYM	<'>|<poslcat="NM"'>
+26	_	SYM	<'>|<poslcat="NM"'>
+27	_	SYM	<'>|<poslcat="NM"'>
+28	_	SYM	<'>|<poslcat="NM"'>
+29	_	SYM	<'>|<poslcat="NM"'>
+30	_	SYM	<'>|<poslcat="NM"'>
+31	rAwrivelYa	NN	<fs af='rAwrivelYa,n,any,sg,3,,0,0'>|<fs af='rAwrivelYa,n,any,sg,3,,obl,obl'>
+32	walaku	NN	<fs af='wala,n,any,sg,3,,ki,ki'>|<fs af='walaku,n,any,sg,3,,0,0'>|<fs af='walaku,n,any,sg,3,,obl,obl'>
+33	kirasanAyilu	NN	<fs af='kirasanAyilu,n,any,sg,3,,0,0'>|<fs af='kirasanAyilu,n,any,sg,3,,0,0_A'>|<fs af='kirasanAyilu,n,any,sg,3,,obl,obl'>
+34	rAyAli	VM	<fs af='rAyi,v,any,any,any,,Ali,Ali'>
+35	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

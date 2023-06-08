@@ -1,0 +1,32 @@
+<Sentence id="8848">			
+0	((	SSF	
+1	oVka	NN	<fs af='oVka,adj,,,,,0,0_adj' poslcat="NM">
+1	velYa	NN	<fs af='velYa,n,,sg,,,0,0'>|<fs af='velYa,n,,sg,,,obl,obl'>
+2	ixi	PRP	<fs af='ixi,pn,fn,sg,3,,0,0'>
+3	poyi	VM	<fs af='po,v,any,any,any,,i,i'>|<fs af='poVyyi,v,any,sg,2,,AjFArWa,AjFArWa'>
+4	hipopoVtamas	NNP	<fs af='hipopoVtamas,n,any,sg,3,,0,0'>|<fs af='hipopoVtamas,n,any,sg,3,,obl,obl'>
+5	jAwilo	NN	<fs af='jAwi,n,any,sg,3,,lo,lo'>
+6	kaliswe	VM	<fs af='kaluvu,v,any,any,any,,we,we'>|<fs af='kaliyu,v,any,any,any,,we,we'>
+7	manuRyula	NN	<fs af='manuRyudu,n,any,pl,3,,obl,obl'>
+8	jFAnAniki	NN	<fs af='jFAnaM,n,any,sg,3,,ki,ki'>
+9	eVMwo	INTF	<fs af='eVMwa,pn,any,pl,3,,0,0_o' poslcat="NM">
+10	lopaM	NN	<fs af='lopaM,n,any,sg,3,,0,0'>
+11	!	SYM	<fs af='!,punc,,,,,,'>
+12	mana	PRP	<fs af='manaM,pn,any,pl,1,,obl,obl'>
+13	aMxaraM	QF	<fs af='aMxaraM,avy,,,,,,'>
+14	APrikA	NNP	<fs af='APrikA,n,any,sg,3,,0,0'>|<fs af='APrikA,n,any,sg,3,,obl,obl'>
+15	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+16	AstreliyA	NNP	<fs af='AstreliyA,n,any,sg,3,,0,0'>|<fs af='AstreliyA,n,any,sg,3,,obl,obl'>
+17	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+18	xakRiNa	NN	<fs af='xakRiNaM,n,any,sg,3,,obl,obl'>|<fs af='xakRiNudu,n,any,sg,3,,obl,obl'>
+19	ameVrikAlalo	NNP	<fs af='ameVrikA,n,any,pl,3,,lo,lo'>
+20	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+21	parama	INTF	<fs af='parama,adj,any,any,any,,0_adj,0_adj' poslcat="NM">'>|<fs af='paramaM,n,any,sg,3,,obl,obl' poslcat="NM">'>
+22	rahasyAnni	NN	<fs af='rahasyaM,n,any,sg,3,,ni,ni'>|<fs af='rahasyaM,n,any,sg,3,,ni_agr,ni_agr'>
+23	kanukkoVni	VM	<fs af='kanukko,v,any,any,any,,i,i'>
+24	jFAnaM	NN	<fs af='jFAnaM,n,any,sg,3,,0,0'>
+25	rAsi	NN	<fs af='rAsi,n,any,sg,3,,0,0'>|<fs af='rAsi,n,any,sg,3,,obl,obl'>
+26	poSAmu	VM	<fs af='poVyyi,v,any,pl,1,,A,A'>
+27	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

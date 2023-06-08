@@ -1,0 +1,16 @@
+<Sentence id="2818">
+0	((	SSF	
+1	appati	NST	<fs af='appudu,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+2	nuMci	PSP	<fs af='nuMci,avy,,,,,,' poslcat="NM">
+3	eVtti	WQ	<fs af='eVtti,adj,any,any,any,,0_adj,0_adj' poslcat="NM">
+4	parisWiwulonU	NN	<fs af='parisWiwi,n,any,pl,3,,lo_nu,lo_nu'>|<fs af='parisWiwi,n,any,pl,3,,lo_nu_V,lo_nu_V'>
+5	wAnu	PRP	<fs af='wAnu,pn,mf,sg,3,,0,0'>
+6	oVMtarigA	RB	<fs af='oVMtari,adj,any,any,any,,gA_adj,gA_adj' poslcat="NM">|<fs af='oVMtari,n,any,sg,3,,gA,gA' poslcat="NM">
+7	unnA	NN	<fs af='uMdu,n,,sg,,,0,0'>|<fs af='unni,n,,sg,,,obl,obl'>
+7	ane	VM	<fs af='anu,v,any,any,any,,e,e'>|<fs af='anu,v,any,any,any,,i_e,i_e'>
+8	Alocane	NN	<fs af='Alocana,n,any,sg,3,,0,0_e'>
+9	lekuMdA	VM	<fs af='gala,v,any,any,any,,akuMdA,akuMdA'>|<fs af='lekuMdu,v,any,any,any,,i,i_A'>
+10	poyiMxi	VAUX	<fs af='po,v,fn,sg,3,,A,A' poslcat="NM">
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

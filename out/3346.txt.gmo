@@ -1,0 +1,9 @@
+<Sentence id="3346">			
+0	((	SSF	
+1	hammayya	INJ	<fs af='hammayya,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='hammayya,n,any,sg,3,,obl,obl' poslcat="NM">'>
+2	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+3	Upiri	NN	<fs af='Upiri,n,any,sg,3,,0,0'>|<fs af='Upiri,n,any,sg,3,,obl,obl'>
+4	pIlcukunnAru	VM	<fs af='pIlcu,v,fm,pl,3,,koVn_A,koVn_A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

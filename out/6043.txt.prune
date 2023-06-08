@@ -1,0 +1,14 @@
+<Sentence id="6043">
+0	((	SSF	
+1	goxAvari	NNP	<fs af='goxAvari,n,any,sg,3,,0,0'>|<fs af='goxAvari,n,any,sg,3,,obl,obl'>
+2	pEnuMdi	NN	<fs af='pE,n,,sg,,,niMci,niMci'>
+3	narmaxA	NNP	<fs af='narmaxa,n,any,sg,3,,0,0_A'>|<fs af='narmaxa,n,any,sg,3,,0,0_V'>
+4	naxi	NN	<fs af='naxi,n,any,sg,3,,0,0'>|<fs af='naxi,n,any,sg,3,,obl,obl'>
+5	pEBAgaM	NST	<fs af='pEBAgaM,n,any,sg,3,,0,0'>
+6	varaku	NST	<fs af='varaku,adv,any,any,any,,0_adv,0_adv'>
+7	viswariMci	VM	<fs af='viswariMcu,v,any,any,any,,i,i'>
+8	unnaxe	VM	<fs af='uMdu,v,,sg,,,ina_axi_0,ina_axi_0_e' deri_cat=pn>
+9	AMXrapraxeSamu	NNP	<fs af='AMXrapraxeSaM,n,any,sg,3,,0,0'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

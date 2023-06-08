@@ -1,0 +1,18 @@
+<Sentence id="8554">
+0	((	SSF	
+1	janaMlo	NN	<fs af='janaM,n,any,sg,3,,lo,lo'>
+2	koVMxaru	QF	<fs af='koVMxaru,pn,mf,pl,3,,0,0' poslcat="NM">
+3	piswolYlu	NN	<fs af='piswolu,n,any,pl,3,,0,0'>|<fs af='piswolu,n,any,pl,3,,vu_agr,vu_agr'>
+4	lekuMdAne	VM	<fs af='gala,v,any,any,any,,akuMdA,akuMdA_e'>
+5	iMwaku	QF	<fs af='iMwa,n,any,sg,3,,ki,ki'>
+6	pUrvaM	NST	<fs af='pUrvaM,adv,any,any,any,,0_adv,0_adv'>|<fs af='pUrvaM,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+7	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+8	jaMwuvuku	NN	<fs af='jaMwuvu,n,any,sg,3,,ki,ki'>
+9	cAlA	INTF	<fs af='cAlu,v,any,any,any,,i,i_A' poslcat="NM">
+10	xaggaragA	RB	<fs af='xaggaragA,avy,,,,,,' poslcat="NM">
+11	veVlYli	VM	<fs af='veVlYlu,v,any,any,any,,i,i'>
+12	sarvamU	NN	<fs af='sarvaM,n,any,sg,3,,0,0_V'>
+13	pariSIliMcAru	VM	<fs af='pariSIliMcu,v,any,pl,2,,A,A'>|<fs af='pariSIliMcu,v,mf,pl,3,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

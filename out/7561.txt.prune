@@ -1,0 +1,9 @@
+<Sentence id="7561">
+0	((	SSF	
+1	nAgarAju	NNP	<fs af='nAgarAju,n,any,sg,3,,0,0'>|<fs af='nAgarAju,n,any,sg,3,,obl,obl'>
+2	gabagabA	NN	<fs af='gabagabA,avy,,,,,0,0_avy' poslcat="NM">|<fs af='gabagaba,avy,,,,,A,A_avy' poslcat="NM">|<fs af='gabagaba,avy,,,,,V,V_avy' poslcat="NM">
+3	ceVttu	VM	<fs af='ceVttu,n,any,sg,3,,0,0' poslcat="NM">|<fs af='ceVttu,n,any,sg,3,,obl,obl' poslcat="NM">
+3	eVkkevAdu	VM	<fs af='eVkku,v,any,any,any,,e_vAdu,e_vAdu'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

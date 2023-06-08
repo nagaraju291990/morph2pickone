@@ -1,0 +1,19 @@
+<Sentence id="9835">			
+0	((	SSF	
+1	janulu	NN	<fs af='janu,n,any,pl,3,,0,0'>|<fs af='janu,n,any,pl,3,,vu_agr,vu_agr'>
+2	aMxarikI	QF	<fs af='aMxaru,pn,mf,pl,3,,ki,ki_V' poslcat="NM">
+3	manassulu	NN	<fs af='manassu,n,any,pl,3,,0,0'>|<fs af='manassu,n,any,pl,3,,vu_agr,vu_agr'>
+4	pani	NN	<fs af='pani,n,any,sg,3,,0,0'>|<fs af='pani,n,any,sg,3,,obl,obl'>
+5	ceVyyadaM	VM	<fs af='ceVyyi,v,any,any,any,,adaM,adaM'>
+6	lexu	VAUX	<fs af='gala,v,fn,sg,3,,a,a' poslcat="NM">'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu' poslcat="NM">'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	waMburA	NNP	<fs af='waMbura,n,any,sg,3,,0,0_A'>|<fs af='waMbura,n,any,sg,3,,0,0_V'>
+9	eVlA	WQ	<fs af='eVlA,avy,,,,,,'>
+10	vacciMxi	VM	<fs af='vaccu,v,fn,sg,3,,A,A'>
+11	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+12	eVvadikI	WQ	<fs af='eVvadu,pn,m,sg,3,,ki,ki_V'>
+13	Alocana	NN	<fs af='Alocana,n,any,sg,3,,0,0'>|<fs af='Alocana,n,any,sg,3,,obl,obl'>
+14	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

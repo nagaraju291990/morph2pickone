@@ -1,0 +1,11 @@
+<Sentence id="6195">
+0	((	SSF
+1	calikAlaMlo	NN	<fs af='calikAlaM,n,any,sg,3,,lo,lo'>|<fs af='calikAlaMl,n,any,sg,3,,0,0_o'>|<fs af='calikAlaMl,n,any,sg,3,,ni,ni_o'>|<fs af='calikAlaMl,n,any,pl,3,,0,0_o'>
+2	16	QC	<fs af='16,num,,,,,, '>
+3	-	SYM
+4	20	QC	<fs af='20,num,,,,,, '>|<fs af='ki,avy,,,,,, '>
+5	maXya	NST	<fs af='maXya,n,any,sg,3,,0,0'>|<fs af='maXya,n,any,sg,3,,obl,obl'>|<fs af='maXyaM,n,any,sg,3,,obl,obl'>
+6	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

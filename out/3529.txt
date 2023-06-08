@@ -1,0 +1,12 @@
+<Sentence id="3529">
+0	((	SSF
+1	nijAniki	NN	<fs af='nijaM,n,any,sg,3,,ki,ki'>
+2	nenu	PRP	<fs af='nenu,pn,,sg,,,0,0'>
+2	oVka	NN	<fs af='oVka,adj,,,,,0,0_adj'>
+3	pE	NN	<fs af='pE,adj,any,any,any,,0_adj,0_adj'>
+3	waragawiki	NN	<fs af='waragawi,n,any,sg,3,,ki,ki'>
+4	ceVMxina	VM	<fs af='ceVMxu,v,any,any,any,,ina,ina'>
+5	KExini	NN	<fs af='KExi,n,any,sg,3,,ni,ni'>|<fs af='KExi,n,any,sg,3,,ni_agr,ni_agr'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

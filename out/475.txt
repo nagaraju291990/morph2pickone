@@ -1,0 +1,9 @@
+<Sentence id="475">
+0	((	SSF
+1	kanuka	CC	<fs af='kanuka,avy,,,,,, '>|<fs af='kanuka,adj,any,any,any,,0_adj,0_adj'>
+2	veVluwuru	NN	<fs af='veVluwuru,n,any,sg,3,,0,0'>|<fs af='veVluwuru,n,any,sg,3,,obl,obl'>
+3	cAlA	INTF	<fs af='cAlu,v,any,any,any,,i,i_A'>
+4	paduwuMxi	VM	<fs af='padu,v,fn,sg,3,,wA,wA'>|<fs af='pattu,v,fn,sg,3,,wA,wA'>|<fs af='paduwuMdu,v,fn,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

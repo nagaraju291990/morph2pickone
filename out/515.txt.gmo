@@ -1,0 +1,10 @@
+<Sentence id="515">			
+0	((	SSF	
+1	ilA	RB	<fs af='ilA,avy,,,,,,' poslcat="NM">'>|<fs af='ila,n,any,sg,3,,0,0_A' poslcat="NM">'>
+2	wirigadAniki	VM	<fs af='wirugu,v,,sg,,,adaM_ki,adaM_ki' deri_cat=n>
+3	365	QC	<fs af='365,num,,,,,,'>
+4	rojulu	NN	<fs af='roju,n,any,pl,3,,0,0'>|<fs af='roju,n,any,pl,3,,vu_agr,vu_agr'>
+5	padawAyi	VM	<fs af='padu,v,n,pl,3,,wA,wA'>|<fs af='pattu,v,n,pl,3,,wA,wA'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

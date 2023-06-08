@@ -1,0 +1,11 @@
+<Sentence id="8511">
+0	((	SSF
+1	ituvaMti	JJ	<fs af='ituvaMti,avy,,,,,, '>
+2	jaMwuvunu	NN	<fs af='jaMwuvu,n,any,sg,3,,ni,ni'>|<fs af='jaMwuvu,n,any,sg,3,,ni_agr,ni_agr'>
+3	weVccAnani	VM	<fs af='we,v,any,sg,1,,A_ani,A_ani'>
+4	nAku	PRP	<fs af='nenu,pn,any,sg,1,,ki,ki'>|<fs af='nAku,v,any,sg,2,,AjFArWa,AjFArWa'>
+5	pIrejI	NN	<fs af='pIrejI,n,,sg,,,0,0'>|<fs af='pIrejI,n,,sg,,,obl,obl'>
+6	iccevAlYlu	VM	<fs af='ivvu,v,any,any,any,,e_vAlYlu,e_vAlYlu'>|<fs af='iccevAlYlu,pn,mf,pl,3,,0,0'>|<fs af='iccevAlYlu,pn,mf,pl,3,,vu,vu'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

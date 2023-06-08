@@ -1,0 +1,19 @@
+<Sentence id="5132">
+0	((	SSF
+1	mIru	PRP	<fs af='mIru,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='mIru,pn,any,pl,2,,0,0'>
+2	muxxAdAli	VM	<fs af='muxxAdu,v,any,any,any,,Ali,Ali'>
+2	anukoVne	VM	<fs af='anuko,v,any,any,any,,e,e'>|<fs af='anuko,v,any,any,any,,an_e,an_e'>|<fs af='anuko,v,any,any,any,,i_e,i_e'>
+3	pasibiddala	NN	<fs af='pasibidda,n,any,pl,3,,obl,obl'>
+4	walli	NN	<fs af='walli,n,any,sg,3,,0,0'>|<fs af='walli,n,any,sg,3,,obl,obl'>
+5	bAXalalo	NN	<fs af='bAXa,n,any,pl,3,,lo,lo'>
+6	kaRtAlalo	NN	<fs af='kaRtaM,n,any,pl,3,,lo,lo'>
+7	kUrukoVni	VM	<fs af='kUruko,v,any,any,any,,i,i'>
+8	kUlipowe	VM	<fs af='kUlipo,v,any,any,any,,we,we'>
+9	A	DEM	<fs af='A,avy,,,,,, '>
+10	kutuMbAlanu	NN	<fs af='kutuMbaM,n,any,pl,3,,ni,ni'>
+11	Axukune	VM	<fs af='Axuko,v,any,any,any,,e,e'>|<fs af='Axuko,v,any,any,any,,an_e,an_e'>|<fs af='Axuko,v,any,any,any,,i_e,i_e'>
+12	xikku	NN	<fs af='xikku,n,any,sg,3,,0,0'>|<fs af='xikku,n,any,sg,3,,obl,obl'>
+13	eVvaru	WQ	<fs af='eVvaru,pn,mf,pl,3,,0,0'>|<fs af='eVvaru,pn,mf,pl,3,,vu,vu'>
+14	?	SYM	<fs af='?,punc,,,,,, '>
+))
+</Sentence>

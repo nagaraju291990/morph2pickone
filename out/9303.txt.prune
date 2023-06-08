@@ -1,0 +1,17 @@
+<Sentence id="9303">
+0	((	SSF	
+1	paxahArava	NN	<fs af='paxahAru,num,,,,,ava,ava' poslcat="NM">
+2	rojuna	NN	<fs af='roju,n,any,sg,3,,na,na'>
+3	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+4	kalYlu	NN	<fs af='kannu,n,any,pl,3,,0,0'>|<fs af='kannu,n,any,pl,3,,vu_agr,vu_agr'>
+5	weVraci	VM	<fs af='weVracu,v,any,any,any,,i,i'>
+6	'	SYM	<fs af=',punc,,,,,,'>
+7	wawraBavaMwaH	NN	<fs af='wawraBavaMwaH,avy,,,,,0,0_avy' poslcat="NM">
+8	kuwravarwaMwe	NN	<fs af='kuwravarwaMwe,avy,,,,,0,0_avy' poslcat="NM">
+9	'	SYM	<fs af=',punc,,,,,,'>
+10	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+11	keka	NN	<fs af='keka,n,any,sg,3,,0,0'>|<fs af='keka,n,any,sg,3,,obl,obl'>
+12	veSAdu	VM	<fs af='veVyyi,v,m,sg,3,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

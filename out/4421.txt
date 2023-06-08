@@ -1,0 +1,8 @@
+<Sentence id="4421">
+0	((	SSF
+1	lexA	CC	<fs af='lexA,avy,,,,,, '>
+2	rikRAlone	NN	<fs af='rikRA,n,any,sg,3,,lo,lo_e'>
+3	padiuMdavaccu	NN	<fs af='padiuMdavaccu,unk,,,,,,'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

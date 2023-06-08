@@ -1,0 +1,8 @@
+<Sentence id="3484">
+0	((	SSF
+1	bawakammanu	NNP	<fs af='bawakamma,n,any,sg,3,,ni,ni'>|<fs af='bawakamma,n,any,sg,3,,ni_agr,ni_agr'>
+2	iMti	NN	<fs af='illu,n,any,sg,3,,obl,obl'>
+3	muMxuMcuwAru	VM	<fs af='muMxuMcu,v,any,pl,2,,wA,wA'>|<fs af='muMxuMcu,v,mf,pl,3,,wA,wA'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

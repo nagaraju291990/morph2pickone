@@ -1,0 +1,9 @@
+<Sentence id="2037">
+0	((	SSF
+1	xAnini	PRP	<fs af='axi,pn,fn,sg,3,,nu,nu'>|<fs af='axi,pn,fn,sg,3,,ni,ni'>
+2	meVtal	NN	<fs af='meVtal,n,any,sg,3,,0,0'>|<fs af='meVtal,n,any,sg,3,,obl,obl'>
+3	diteVktar	NN	<fs af='diteVktar,n,any,sg,3,,0,0'>|<fs af='diteVktar,n,any,sg,3,,obl,obl'>
+4	aMtAru	VM	<fs af='anu,v,any,pl,2,,wA,wA'>|<fs af='anu,v,mf,pl,3,,wA,wA'>|<fs af='aMtu,v,any,pl,2,,A,A'>|<fs af='aMtu,v,mf,pl,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

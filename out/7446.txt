@@ -1,0 +1,7 @@
+<Sentence id="7446">
+0	((	SSF
+1	riperlu	NN	<fs af='riper,n,any,pl,3,,0,0'>|<fs af='riper,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='riperu,n,any,pl,3,,0,0'>|<fs af='riperu,n,any,pl,3,,vu_agr,vu_agr'>
+2	cesexi	VM	<fs af='ceVyyi,v,any,any,any,,e_axi,e_axi'>|<fs af='cesexi,pn,any,sg,3,,0,0'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

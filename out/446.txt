@@ -1,0 +1,7 @@
+<Sentence id="446">
+0	((	SSF
+1	pillala	NN	<fs af='pilla,n,any,pl,3,,obl,obl'>
+2	kaMtapadakUdaxu	VM	<fs af='kaMtapadu,v,any,any,any,,a_kUdaxu,a_kUdaxu'>|<fs af='kaMtapadakUdu,v,fn,sg,3,,a,a'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,11 @@
+<Sentence id="7545">
+0	((	SSF
+1	pApaM	INJ	<fs af='pApu,v,any,pl,1,,a,a'>|<fs af='pApaM,n,any,sg,3,,0,0'>
+2	!	SYM	<fs af='!,punc,,,,,, '>
+3	avi	PRP	<fs af='axi,pn,fn,pl,3,,0,0'>
+4	tapatapA	RB	<fs af='tapatapA,avy,,,,,, '>
+5	koVttukuMtU	VM	<fs af='koVttuko,v,any,any,any,,wU,wU'>
+6	caccipoyevi	PRP	<fs af='cAvui_po,pn,,pl,,,xi,xi_0'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

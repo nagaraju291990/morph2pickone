@@ -1,0 +1,7 @@
+<Sentence id="4727">
+0	((	SSF
+1	poVdavu	NN	<fs af='poVda,n,any,sg,3,,vu_agr,vu_agr'>|<fs af='poVdavu,n,any,sg,3,,0,0'>|<fs af='poVdavu,n,any,sg,3,,obl,obl'>|<fs af='poVdavvu,v,any,sg,2,,AjFArWa,AjFArWa'>
+2	peVMcukovaccu	VM	<fs af='peVMcuko,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='peVMcuko,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='peVMcuko,v,any,any,any,,a_vaccu,a_vaccu'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,31 @@
+<Sentence id="4117">
+0	((	SSF	
+1	*	SYM	<fs af='*,punc,,,,,,'>
+2	*	SYM	<fs af='*,punc,,,,,,'>
+3	*	SYM	<fs af='*,punc,,,,,,'>
+4	*	SYM	<fs af='*,punc,,,,,,'>
+5	*	SYM	<fs af='*,punc,,,,,,'>
+6	cAxaswapu	NN	<fs af='cAxaswaM,n,any,sg,3,,obl,obl'>
+7	moVgudu	NN	<fs af='moVgudu,n,any,sg,3,,0,0'>
+8	-	SYM	<'>|<poslcat="NM"'>
+9	-	SYM	<'>|<poslcat="NM"'>
+10	-	SYM	<'>|<poslcat="NM"'>
+11	-	SYM	<'>|<poslcat="NM"'>
+12	-	SYM	<'>|<poslcat="NM"'>
+13	-	SYM	<'>|<poslcat="NM"'>
+14	-	SYM	<'>|<poslcat="NM"'>
+15	-	SYM	<'>|<poslcat="NM"'>
+16	-	SYM	<'>|<poslcat="NM"'>
+17	-	SYM	<'>|<poslcat="NM"'>
+18	-	SYM	<'>|<poslcat="NM"'>
+19	-	SYM	<'>|<poslcat="NM"'>
+20	-	SYM	<'>|<poslcat="NM"'>
+21	-	SYM	<'>|<poslcat="NM"'>
+22	-	SYM	<'>|<poslcat="NM"'>
+23	-	SYM	<'>|<poslcat="NM"'>
+24	anaganagA	NN	<fs af='anaganagA,n,,sg,,,0,0'>|<fs af='anaganagA,n,,sg,,,obl,obl'>
+25	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+26	Uru	VM	<fs af='Uru,v,any,sg,2,,AjFArWa,AjFArWa'>
+27	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

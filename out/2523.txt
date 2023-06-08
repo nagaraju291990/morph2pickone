@@ -1,0 +1,19 @@
+<Sentence id="2523">
+0	((	SSF
+1	vItilo	PRP	<fs af='ixi,pn,fn,pl,3,,lo,lo'>|<fs af='vIdu,n,any,sg,3,,lo,lo'>
+2	reVkkalu	VM	<fs af='reVkka,n,any,pl,3,,0,0'>|<fs af='reVkka,n,any,pl,3,,vu_agr,vu_agr'>
+2	leni	VM	<fs af='leni,adj,any,any,any,,0_adj,0_adj'>|<fs af='gala,v,any,any,any,,ani,ani'>
+3	purugulu	NN	<fs af='purugu,n,any,pl,3,,0,0'>|<fs af='purugu,n,any,pl,3,,vu_agr,vu_agr'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	nallati	JJ	<fs af='nalla,adj,any,any,any,,ti_adj,ti_adj'>
+6	reVkkala	NN	<fs af='reVkka,n,any,pl,3,,obl,obl'>
+7	purugulu	NN	<fs af='purugu,n,any,pl,3,,0,0'>|<fs af='purugu,n,any,pl,3,,vu_agr,vu_agr'>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	raMgula	NN	<fs af='raMg,n,any,pl,3,,obl,obl'>|<fs af='raMgu,n,any,pl,3,,obl,obl'>|<fs af='raMgi,n,any,pl,3,,obl,obl'>
+10	nalli	NN	<fs af='nalli,n,any,sg,3,,0,0'>|<fs af='nalli,n,any,sg,3,,obl,obl'>
+11	moVxalEnavi	NN	<fs af='moVxalEnavi,avy,,,,,, '>|<fs af='moVxalEnaxi,pn,any,pl,3,,0,0'>
+12	muKyamu	NN	<fs af='muKyaM,n,,sg,,,0,0'>
+12	ayinavi	VM	<fs af='avvu,v,,pl,,,ina_axi,ina_axi_0' deri_cat='pn'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

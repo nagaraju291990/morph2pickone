@@ -1,0 +1,9 @@
+<Sentence id="3349">
+0	((	SSF	
+1	tElaru	NN	<fs af='tElar,n,any,sg,3,,0,0'>|<fs af='tElar,n,any,sg,3,,obl,obl'>|<fs af='tElaru,n,any,sg,3,,0,0'>|<fs af='tElaru,n,any,sg,3,,obl,obl'>
+2	somayya	NNP	<fs af='somayya,n,any,sg,3,,0,0'>|<fs af='somayya,n,any,sg,3,,obl,obl'>
+3	aMxariki	PRP	<fs af='aMxaru,pn,mf,pl,3,,ki,ki'>
+4	namaskariMcAdu	VM	<fs af='namaskariMcu,v,m,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

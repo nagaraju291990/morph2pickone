@@ -1,0 +1,22 @@
+<Sentence id="1881">			
+0	((	SSF	
+1	caxuvukoVMte	VM	<fs af='caxuvu,v,any,any,any,,koVn_we,koVn_we'>
+2	mosAlu	NN	<fs af='mosaM,n,any,pl,3,,0,0'>|<fs af='mosaM,n,any,pl,3,,vu_agr,vu_agr'>
+3	eVxiriMcavaccu	VM	<fs af='eVxiriMcu,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='eVxiriMcavaccu,v,any,any,any,,e,e'>
+3	ani	VM	<fs af='anu,v,any,any,any,,i,i'>
+4	aMtAre	VM	<fs af='anu,v,any,pl,2,,wA,wA_e'>|<fs af='anu,v,mf,pl,3,,wA,wA_e'>
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	eVnno	QF	<fs af='eVnno,avy,,,,,,'>
+7	BARalu	NN	<fs af='BARa,n,any,pl,3,,0,0'>|<fs af='BARa,n,any,pl,3,,vu_agr,vu_agr'>
+8	nercukoVnnavAru	VM	<fs af='nercuko,v,,pl,,,ina_vAru,ina_vAru_0' deri_cat=pn>
+9	eVMwo	INTF	<fs af='eVMwa,pn,any,pl,3,,0,0_o' poslcat="NM">
+10	bAgA	RB	<fs af='bAgA,avy,,,,,,' poslcat="NM">
+11	caxuvukoVnnavAru	PRP	<fs af='caxuvukoVn,pn,,pl,,,ina_vAru,ina_vAru_0'>|<fs af='caxuvukoVn,pn,,pl,,,ina_vAru_vu,ina_vAru_vu'>
+12	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+13	eVMxuku	WQ	<fs af='eVMxuku,avy,,,,,,'>
+14	ilA	RB	<fs af='ilA,avy,,,,,,' poslcat="NM">'>|<fs af='ila,n,any,sg,3,,0,0_A' poslcat="NM">'>
+15	mosapoyAru	VM	<fs af='mosapo,v,any,pl,2,,A,A'>|<fs af='mosapo,v,mf,pl,3,,A,A'>
+16	anukoVnnAnu	VM	<fs af='anuko,v,,sg,1,,A,A'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

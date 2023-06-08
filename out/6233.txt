@@ -1,0 +1,10 @@
+<Sentence id="6233">
+0	((	SSF
+1	rAvivalasa	NNP	<fs af='rAvivalasa,n,any,sg,3,,0,0'>|<fs af='rAvivalasa,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,, '>
+3	teVkkaliki	NNP	<fs af='teVkkali,n,any,sg,3,,ki,ki'>
+4	6	QC	<fs af='6,num,,,,,, '>
+5	ki	NN	<fs af='ki,avy,,,,,, '>|<fs af='mIru,pn,any,pl,2,,obl,obl'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

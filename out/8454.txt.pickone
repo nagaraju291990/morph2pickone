@@ -1,0 +1,16 @@
+<Sentence id="8454">			
+0	((	SSF	
+1	neVllUru	NNP	<fs af='neVllUru,n,any,sg,3,,0,0'>
+2	maxrAs	NNP	<fs af='maxrAs,n,any,sg,3,,0,0'>
+3	_	NNP	<fs af='<'>
+4	ku	NN	<fs af='k,n,,sg,,,0,0'>
+5	173	QC	<fs af='173,num,,,,,,'>
+6	ki	NN	<fs af='ki,avy,,,,,,'>'>
+7	
+8	
+9	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+10	xUraMlo	NN	<fs af='xUraM,n,any,sg,3,,lo,lo'>
+11	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

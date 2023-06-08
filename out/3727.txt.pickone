@@ -1,0 +1,21 @@
+<Sentence id="3727">			
+0	((	SSF	
+1	exo	WQ	<fs af='exi,pn,fn,sg,3,,0,0_o'>
+2	pogoVttu	VM	<fs af='po,v,any,any,any,,a_goVttu,a_goVttu'>
+2	kunnavAdilA	VM	<fs af='kunnavAdilA,unk,,,,,,'>
+3	akkadA	NST	<fs af='akkada,adv,any,any,any,,0_A_adv,0_A_adv'>
+4	,	SYM	<fs af=',,punc,,,,,,'>
+5	ikkadA	NST	<fs af='ikkada,adv,any,any,any,,0_A_adv,0_A_adv'>
+6	wirigi	VM	<fs af='wirugu,v,any,any,any,,i,i'>
+7	,	SYM	<fs af=',,punc,,,,,,'>
+8	sAyaMwrAniki	NN	<fs af='sAyaMwraM,n,any,sg,3,,ki,ki'>
+9	steRan	NN	<fs af='steRan,n,any,sg,3,,0,0'>
+10	xaggara	NST	<fs af='xaggara,adv,any,any,any,,0_adv,0_adv'>
+11	uMde	VM	<fs af='uMdu,v,any,any,any,,e,e'>
+12	goxAmula	NN	<fs af='goxAM,n,,pl,,,obl,obl'>
+13	pakkane	NST	<fs af='pakka,adv,any,any,any,,0_e_adv,0_e_adv'>
+14	viSrAMwigA	RB	<fs af='viSrAMwi,n,any,sg,3,,gA,gA'>
+15	padukunnAdu	VM	<fs af='paduko,v,m,sg,3,,A,A'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

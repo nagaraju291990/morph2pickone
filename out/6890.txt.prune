@@ -1,0 +1,41 @@
+<Sentence id="6890">
+0	((	SSF	
+1	_	SYM	<'>|<poslcat="NM"'>
+2	_	SYM	<'>|<poslcat="NM"'>
+3	_	SYM	<'>|<poslcat="NM"'>
+4	_	SYM	<'>|<poslcat="NM"'>
+5	_	SYM	<'>|<poslcat="NM"'>
+6	_	SYM	<'>|<poslcat="NM"'>
+7	_	SYM	<'>|<poslcat="NM"'>
+8	_	SYM	<'>|<poslcat="NM"'>
+9	_	SYM	<'>|<poslcat="NM"'>
+10	_	SYM	<'>|<poslcat="NM"'>
+11	_	SYM	<'>|<poslcat="NM"'>
+12	_	SYM	<'>|<poslcat="NM"'>
+13	_	SYM	<'>|<poslcat="NM"'>
+14	_	SYM	<'>|<poslcat="NM"'>
+15	_	SYM	<'>|<poslcat="NM"'>
+16	_	SYM	<'>|<poslcat="NM"'>
+17	_	SYM	<'>|<poslcat="NM"'>
+18	_	SYM	<'>|<poslcat="NM"'>
+19	_	SYM	<'>|<poslcat="NM"'>
+20	_	SYM	<'>|<poslcat="NM"'>
+21	_	SYM	<'>|<poslcat="NM"'>
+22	_	SYM	<'>|<poslcat="NM"'>
+23	_	SYM	<'>|<poslcat="NM"'>
+24	_	SYM	<'>|<poslcat="NM"'>
+25	_	SYM	<'>|<poslcat="NM"'>
+26	_	SYM	<'>|<poslcat="NM"'>
+27	_	SYM	<'>|<poslcat="NM"'>
+28	_	SYM	<'>|<poslcat="NM"'>
+29	_	SYM	<'>|<poslcat="NM"'>
+30	*	SYM	<fs af='*,punc,,,,,,'>
+31	viwwanAlu	NN	<fs af='viwwanaM,n,any,pl,3,,0,0'>|<fs af='viwwanaM,n,any,pl,3,,vu_agr,vu_agr'>
+32	cAlYlalo	NN	<fs af='cAdi,n,any,pl,3,,lo,lo'>
+33	vese	VM	<fs af='veVyyi,v,any,any,any,,e,e'>|<fs af='veVyyi,v,any,any,any,,i,i_e'>
+34	pErlaku	NN	<fs af='pEr,n,,pl,,,ki,ki'>
+35	eVruvulanu	NN	<fs af='eVruvu,n,any,pl,3,,ni,ni'>
+36	veVxajallakUdaxu	VM	<fs af='veVxajallu,v,any,any,any,,a_kUdaxu,a_kUdaxu'>|<fs af='veVxajallakUdu,v,fn,sg,3,,a,a'>
+37	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

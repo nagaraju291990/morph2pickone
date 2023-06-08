@@ -1,0 +1,25 @@
+<Sentence id="4796">			
+0	((	SSF	
+1	_	SYM	<fs af='<'>
+2	_	SYM	<fs af='<'>
+3	_	SYM	<fs af='<'>
+4	_	SYM	<fs af='<'>
+5	_	SYM	<fs af='<'>
+6	_	SYM	<fs af='<'>
+7	_	SYM	<fs af='<'>
+8	_	SYM	<fs af='<'>
+9	_	SYM	<fs af='<'>
+10	_	SYM	<fs af='<'>
+11	_	SYM	<fs af='<'>
+12	_	SYM	<fs af='<'>
+13	_	SYM	<fs af='<'>
+14	mana	PRP	<fs af='manaM,pn,any,pl,1,,obl,obl'>
+15	xeSaM	NN	<fs af='xeSaM,n,any,sg,3,,0,0'>
+16	aMwatA	NST	<fs af='aMwata,adv,any,any,any,,0_A_adv,0_A_adv'>
+17	I	DEM	<fs af='I,avy,,,,,,'>
+18	cepani	NN	<fs af='cepa,n,any,sg,3,,ni,ni'>
+19	virivigA	RB	<fs af='virivi,adj,any,any,any,,gA_adj,gA_adj'>'>
+20	vAduwunnAru	VM	<fs af='vAdu,v,any,pl,2,,wunn,wunn'>
+21	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

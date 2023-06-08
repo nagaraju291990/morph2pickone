@@ -1,0 +1,8 @@
+<Sentence id="4130">			
+0	((	SSF	
+1	BArya	NN	<fs af='BArya,n,any,sg,3,,0,0'>|<fs af='BArya,n,any,sg,3,,obl,obl'>
+2	ceVppinA	VM	<fs af='ceVppu,v,any,any,any,,inA,inA'>
+3	vinalexu	VM	<fs af='vinu,v,any,any,any,,a_lexu,a_lexu'>|<fs af='vinagala,v,fn,sg,3,,a,a'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

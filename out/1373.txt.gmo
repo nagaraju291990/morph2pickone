@@ -1,0 +1,18 @@
+<Sentence id="1373">			
+0	((	SSF	
+1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+2	maXyakAlaMlo	NN	<fs af='maXyakAlaM,n,any,sg,3,,lo,lo'>
+3	ane	UT	<fs af='ane,avy,,,,,,'>|<fs af='anu,v,any,any,any,,e,e'>
+4	ji.si.eVs_4     NNP	<poslcat="NM"NNP/cat=unk '>	
+5	gujarAw	NNP	<fs af='gujarAw,n,any,sg,3,,0,0'>|<fs af='gujarAw,n,any,sg,3,,obl,obl'>
+6	hEbrId	NN	<fs af='hEbrId,n,any,sg,3,,0,0'>|<fs af='hEbrId,n,any,sg,3,,obl,obl'>
+7	mariyu	CC	<fs af='mariyu,avy,,,,,,'>
+8	48_1	QC	<fs af='48_1,unk,,,,,,' poslcat="NM">
+9	ane	UT	<fs af='ane,avy,,,,,,'>|<fs af='anu,v,any,any,any,,e,e'>
+10	rakAlu	NN	<fs af='rakaM,n,any,pl,3,,0,0'>|<fs af='rakaM,n,any,pl,3,,vu_agr,vu_agr'>
+11	eVkkuva	JJ	<fs af='eVkkuva,adj,any,any,any,,0_adj,0_adj'>
+12	vAdukaloki	NN	<fs af='vAduka,n,any,sg,3,,lopalaki,lopalaki'>
+13	vaccAyi	VM	<fs af='vaccu,v,n,pl,3,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

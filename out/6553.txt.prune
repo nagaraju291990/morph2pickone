@@ -1,0 +1,24 @@
+<Sentence id="6553">
+0	((	SSF	
+1	koVnni	QF	<fs af='koVnni,pn,any,pl,3,,0,0' poslcat="NM">
+2	eVmukalu	NN	<fs af='eVmuka,n,any,pl,3,,0,0'>|<fs af='eVmuka,n,any,pl,3,,vu_agr,vu_agr'>
+3	SarIraMloni	NN	<fs af='SarIraM,n,any,sg,3,,loni,loni'>
+4	nAjUkEna	JJ	<fs af='nAjUku,adj,any,any,any,,nEna_adj,nEna_adj'>
+5	aMgAlanu	NN	<fs af='aMgaM,n,any,pl,3,,ni,ni'>
+6	kavacaMlA	NN	<fs af='kavacaM,n,any,sg,3,,lA,lA'>
+7	kApAdatAniki	VM	<fs af='kApAdataM,n,any,sg,3,,ki,ki' poslcat="NM">
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	aMte	UT	<fs af='aMte,avy,,,,,,'>|<fs af='anu,v,any,any,any,,we,we'>|<fs af='aMtu,v,any,any,any,,e,e'>|<fs af='aMtu,v,any,any,any,,i,i_e'>
+10	meVxadu	NN	<fs af='meVxadu,n,any,sg,3,,0,0'>|<fs af='meVxadu,n,any,sg,3,,obl,obl'>
+11	kosaM	PSP	<fs af='kosaM,avy,,,,,,' poslcat="NM">
+12	purreV	NN	<fs af='purreV,n,any,sg,3,,0,0'>|<fs af='purreV,n,any,sg,3,,obl,obl'>
+13	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+14	guMdeV	NN	<fs af='guMdeV,n,any,sg,3,,0,0'>|<fs af='guMdeV,n,any,sg,3,,obl,obl'>
+15	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+16	Upiriwiwwula	NN	<fs af='Upiriwiwwi,n,any,pl,3,,obl,obl'>
+16	kosamE	NN	<fs af='kosamE,unk,,,,,,' poslcat="NM">
+17	prakkateVmukala	NN	<fs af='prakkateVmuka,n,any,pl,3,,obl,obl'>
+18	paMjaraM	NN	<fs af='paMjaraM,n,any,sg,3,,0,0'>
+19	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

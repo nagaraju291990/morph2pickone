@@ -1,0 +1,25 @@
+<Sentence id="8577">
+0	((	SSF
+1	"	SYM	<fs af='",punc,,,,,, '>
+2	I	DEM	<fs af='I,avy,,,,,, '>
+3	jaMwuvu	NN	<fs af='jaMwuvu,n,any,sg,3,,0,0'>|<fs af='jaMwuvu,n,any,sg,3,,obl,obl'>
+4	atlA	RB	<fs af='attu,n,any,pl,3,,0,0_A'>
+5	padivuMte	VM	<fs af='padivuMdu,v,any,any,any,,we,we'>
+6	xIniki	PRP	<fs af='ixi,pn,fn,sg,3,,ki,ki'>
+7	xehaMmIxa	NN	<fs af='xehaM,n,any,sg,3,,mIxa,mIxa'>
+8	mareVkkadA	WQ	<fs af='mareVkkadA,n,any,sg,3,,0,0'>|<fs af='mareVkkadA,n,any,sg,3,,obl,obl'>
+9	xeVbba	NN	<fs af='xeVbba,n,any,sg,3,,0,0'>|<fs af='xeVbba,n,any,sg,3,,obl,obl'>
+10	wagalalexu	VM	<fs af='wagulu,v,any,any,any,,a_lexu,a_lexu'>|<fs af='wagalagala,v,fn,sg,3,,a,a'>
+11	AyeVnu	VAUX	<fs af='avvu,v,any,sg,3,,iwi,iwi'>|<fs af='avvu,v,n,pl,3,,iwi,iwi'>
+12	!	SYM	<fs af='!,punc,,,,,, '>
+13	aMwa	QF	<fs af='aMwa,adj,any,any,any,,0_adj,0_adj'>|<fs af='aMwa,pn,any,sg,3,,0,0'>|<fs af='aMwaM,n,any,sg,3,,obl,obl'>
+14	eVwwunuMci	NN	<fs af='eVwwu,n,any,sg,3,,niMci,niMci'>
+15	padivuMte	VM	<fs af='padivuMdu,v,any,any,any,,we,we'>
+16	eVtlA	NN	<fs af='eVtlA,avy,,,,,0,0_avy'>|<fs af='eVtlu,avy,,,,,A,A_avy'>
+17	wagalakuMdA	VM	<fs af='wagulu,v,any,any,any,,akuMdA,akuMdA'>
+18	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A'>
+19	"	SYM	<fs af='",punc,,,,,, '>
+20	annAru	VM	<fs af='anu,v,any,pl,2,,A,A'>|<fs af='anu,v,mf,pl,3,,A,A'>
+21	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,18 @@
+<Sentence id="2003">			
+0	((	SSF	
+1	akRawapasmAn	NN	<fs af='akRawapasmAn,n,any,sg,3,,0,0'>|<fs af='akRawapasmAn,n,any,sg,3,,obl,obl'>
+2	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+3	lo	PSP	<fs af='lo,avy,,,,,,' poslcat="NM">
+4	subbayya	NNP	<fs af='subbayya,n,any,sg,3,,0,0'>|<fs af='subbayya,n,any,sg,3,,obl,obl'>
+5	caxuvukoVnnAdani	VM	<fs af='caxuvu,v,m,sg,3,,koVn_A_ani,koVn_A_ani'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	janacEwanya	NN	<fs af='janacEwanyaM,n,any,sg,3,,obl,obl'>
+8	keMxraM	NN	<fs af='keMxraM,n,any,sg,3,,0,0'>
+9	mAnitaru	NN	<fs af='mAnitar,n,any,sg,3,,0,0'>|<fs af='mAnitar,n,any,sg,3,,obl,obl'>
+10	awaniki	PRP	<fs af='awanu,pn,m,sg,3,,ki,ki'>
+11	salahAlu	NN	<fs af='salahA,n,any,pl,3,,0,0'>|<fs af='salahA,n,any,pl,3,,vu_agr,vu_agr'>
+12	iccAdani	VM	<fs af='ivvu,v,m,sg,3,,A_ani,A_ani'>
+13	weVlisiMxi	VM	<fs af='weVliyu,v,fn,sg,3,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

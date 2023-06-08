@@ -1,0 +1,15 @@
+<Sentence id="7054">			
+0	((	SSF	
+1	praswuwaM	NN	<fs af='praswuwaM,n,any,sg,3,,0,0'>
+2	prapaMca	NN	<fs af='prapaMcaM,n,any,sg,3,,obl,obl'>
+3	janABA	NN	<fs af='janABA,n,any,sg,3,,0,0'>
+4	sumAru	NN	<fs af='sumAru,n,any,sg,3,,0,0'>
+5	@	SYM	<fs af='@,unk,,,,,,'>
+6	@	SYM	<fs af='@,unk,,,,,,'>
+7	@	SYM	<fs af='@,unk,,,,,,'>
+8	@	SYM	<fs af='@,unk,,,,,,'>
+9	560	QC	<fs af='560,num,,,,,,'>
+10	kotlu	QC	<fs af='koti,n,any,pl,3,,0,0'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

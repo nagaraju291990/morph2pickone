@@ -1,0 +1,14 @@
+<Sentence id="6198">
+0	((	SSF	
+1	(	SYM	<fs af='(,punc,,,,,,'>
+2	kilomItarlalo	NN	<fs af='kilomItar,n,any,pl,3,,lo,lo'>
+3	)	SYM	<fs af='),punc,,,,,,'>
+4	SrIkAkulYaM	NNP	<fs af='SrIkAkulYaM,n,any,sg,3,,0,0'>
+5	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>|<fs af='jillA,n,any,sg,3,,0,0'>|<fs af='jillA,n,any,sg,3,,obl,obl'>
+6	koswAlo	NNP	<fs af='koswA,n,any,sg,3,,lo,lo'>|<fs af='koswA,n,any,pl,3,,0,0_o'>
+7	uwwarAna	NN	<fs af='uwwaraM,n,any,sg,3,,na,na'>
+8	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+9	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>|<fs af='jillA,n,any,sg,3,,0,0'>|<fs af='jillA,n,any,sg,3,,obl,obl'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

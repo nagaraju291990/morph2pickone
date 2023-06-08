@@ -1,0 +1,9 @@
+<Sentence id="3443">
+0	((	SSF	
+1	ixi	PRP	<fs af='ixi,pn,fn,sg,3,,0,0'>
+2	woVmmixi	NN	<fs af='woVmmixi,n,,sg,,,0,0'>|<fs af='woVmmixi,n,,sg,,,obl,obl'>
+3	rojulu	NN	<fs af='roju,n,any,pl,3,,0,0'>|<fs af='roju,n,any,pl,3,,vu_agr,vu_agr'>
+4	jarupukuMtAru	VM	<fs af='jarupu,v,fm,pl,3,,koVn_wA,koVn_wA'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

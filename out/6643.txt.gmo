@@ -1,0 +1,11 @@
+<Sentence id="6643">			
+0	((	SSF	
+1	virigina	VM	<fs af='virugu,v,any,any,any,,ina,ina'>
+2	BAgaMloni	NN	<fs af='BAgaM,n,any,sg,3,,loni,loni'>
+3	rakwanAlYAlU	NN	<fs af='rakwanAlYaM,n,any,pl,3,,0,0_V'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	narAlU	NN	<fs af='naraM,n,any,pl,3,,0,0_V'>
+6	parIkRiswAru	VM	<fs af='parIkRiMcu,v,any,pl,2,,wA,wA'>|<fs af='parIkRiMcu,v,mf,pl,3,,wA,wA'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

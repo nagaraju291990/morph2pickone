@@ -1,0 +1,20 @@
+<Sentence id="6318">			
+0	((	SSF	
+1	mahArAjAvAri	NN	<fs af='mahArAjA,n,,pl,,,vAru,vAru_obl' deri_cat=pn>
+2	kota	NN	<fs af='kota,n,any,sg,3,,0,0'>
+3	,	SYM	<fs af=',,punc,,,,,,'>
+4	kotaloni	NN	<fs af='kota,n,any,sg,3,,loni,loni'>
+5	rAjagqhAlu	NN	<fs af='rAjagqhaM,n,any,pl,3,,0,0'>
+6	,	SYM	<fs af=',,punc,,,,,,'>
+7	1757	QC	<fs af='1757,num,,,,,,'>
+8	yuxXaMlo	NN	<fs af='yuxXaM,n,any,sg,3,,lo,lo'>
+9	SiXilamEna	JJ	<fs af='SiXilaM,n,any,sg,3,,Ena,Ena'>'>
+10	kota	NN	<fs af='kota,n,any,sg,3,,0,0'>
+11	,	SYM	<fs af=',,punc,,,,,,'>
+12	raMgArAvu	NNP	<fs af='raMgArAvu,n,any,sg,3,,0,0'>
+13	cAvadI	NN	<fs af='cAvadi,n,any,sg,3,,0,0_V'>
+14	ippatikI	NST	<fs af='ippudu,adv,any,any,any,,ki_V_adv,ki_V_adv'>
+15	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

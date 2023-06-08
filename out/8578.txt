@@ -1,0 +1,11 @@
+<Sentence id="8578">
+0	((	SSF
+1	A	DEM	<fs af='A,avy,,,,,, '>
+2	jaMwuvu	NN	<fs af='jaMwuvu,n,any,sg,3,,0,0'>|<fs af='jaMwuvu,n,any,sg,3,,obl,obl'>
+3	oVMtimIxinuMci	NN	<fs af='oVllu,nst,,,,,mIxa_nuMdi,mIxa_nuMdi_adv'>
+4	nagalu	NN	<fs af='naga,n,any,pl,3,,0,0'>|<fs af='naga,n,any,pl,3,,vu_agr,vu_agr'>
+5	annI	QF	<fs af='anni,pn,any,pl,3,,0,0_V'>
+6	wISAru	VM	<fs af='wiyyi,v,any,pl,2,,A,A'>|<fs af='wiyyi,v,mf,pl,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

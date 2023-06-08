@@ -1,0 +1,16 @@
+<Sentence id="1633">
+0	((	SSF
+1	kApar	NN	<fs af='kApar,n,any,sg,3,,0,0'>|<fs af='kApar,n,any,sg,3,,obl,obl'>
+2	_	SYM
+3	ti	NN	<fs af='ti,n,,sg,,,0,0'>|<fs af='ti,n,,sg,,,obl,obl'>
+4	(	SYM	<fs af='(,punc,,,,,, '>
+5	lUpu	NN	<fs af='lUp,n,,sg,,,0,0'>|<fs af='lUp,n,,sg,,,obl,obl'>
+6	)	SYM	<fs af='),punc,,,,,, '>
+7	ixi	PRP	<fs af='ixi,pn,,sg,,,0,0'>
+7	oVka	NN	<fs af='oVka,adj,,,,,0,0_adj'>
+8	cinna	JJ	<fs af='cinna,adj,any,any,any,,0_adj,0_adj'>
+9	parikaraM	NN	<fs af='parikaraM,n,any,sg,3,,0,0'>
+10	lAMtixi	NN	<fs af='lAMti,adj,any,any,any,,xi_adj,xi_adj'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

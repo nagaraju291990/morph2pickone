@@ -1,0 +1,21 @@
+<Sentence id="5874">			
+0	((	SSF	
+1	xAni	PRP	<fs af='axi,pn,fn,sg,3,,obl,obl'>
+2	Akulu	NN	<fs af='Aku,n,,pl,,,0,0'>|<fs af='Aku,n,,pl,,,vu,vu'>
+2	annI	PRP	<fs af='anni,pn,,pl,,,0_V,0_V'>
+3	rAlipoyAyi	VM	<fs af='rAlipo,v,n,pl,3,,A,A'>
+4	!	SYM	<fs af='!,punc,,,,,,'>
+5	ippudu	NST	<fs af='ippudu,adv,any,any,any,,0_adv,0_adv'>
+6	oVke	QC	<fs af='oVke,avy,,,,,,' poslcat="NM">
+7	oVkka	QC	<fs af='oVkka,avy,,,,,,' poslcat="NM">
+8	Aku	NN	<fs af='Aku,n,any,sg,3,,0,0'>|<fs af='Aku,n,any,sg,3,,obl,obl'>
+9	migili	VM	<fs af='migulu,v,any,any,any,,i,i'>
+10	uMxi	VAUX	<fs af='uMdu,v,fn,sg,3,,A,A' poslcat="NM">
+11	!	SYM	<fs af='!,punc,,,,,,'>
+12	jorugAliki	NN	<fs af='jorugAliki,unk,,,,,,' poslcat="NM">
+13	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+14	rivarivA	RB	<fs af='rivarivA,avy,,,,,,' poslcat="NM">
+15	UguwoMxi	VM	<fs af='Ugu,v,fn,sg,3,,wunn,wunn'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

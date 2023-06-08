@@ -1,0 +1,7 @@
+<Sentence id="192">
+0	((	SSF
+1	dAktarammalu	VM	<fs af='dAktaramma,n,any,pl,3,,0,0'>|<fs af='dAktaramma,n,any,pl,3,,vu_agr,vu_agr'>
+1	avuwunnAru	VM	<fs af='avvu,v,any,pl,2,,wunn,wunn'>|<fs af='avvu,v,mf,pl,3,,wunn,wunn'>|<fs af='avuwuMdu,v,any,pl,2,,A,A'>|<fs af='avuwuMdu,v,mf,pl,3,,A,A'>
+2	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

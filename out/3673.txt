@@ -1,0 +1,7 @@
+<Sentence id="3673">
+0	((	SSF
+1	nixra	NN	<fs af='nixra,n,any,sg,3,,0,0'>|<fs af='nixra,n,any,sg,3,,obl,obl'>
+2	polenu	VM	<fs af='pogala,v,any,sg,1,,a,a'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

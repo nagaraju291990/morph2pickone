@@ -1,0 +1,13 @@
+<Sentence id="1298">
+0	((	SSF
+1	axe	PRP	<fs af='axi,pn,fn,sg,3,,0,0_e'>
+2	roju	NN	<fs af='roju,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='roju,n,any,sg,3,,0,0'>|<fs af='roju,n,any,sg,3,,obl,obl'>
+3	raMgammanu	NNP	<fs af='raMgamma,n,any,sg,3,,ni,ni'>|<fs af='raMgamma,n,any,sg,3,,ni_agr,ni_agr'>
+4	cUdatAniki	VM	<fs af='cUdataM,n,any,sg,3,,ki,ki'>
+5	raMgamma	NNP	<fs af='raMgamma,n,any,sg,3,,0,0'>|<fs af='raMgamma,n,any,sg,3,,obl,obl'>
+6	akka	NN	<fs af='akka,n,any,sg,3,,0,0'>|<fs af='akka,n,any,sg,3,,obl,obl'>
+7	maMgamma	NNP	<fs af='maMgamma,n,any,sg,3,,0,0'>|<fs af='maMgamma,n,any,sg,3,,obl,obl'>
+8	vacciMxi	VM	<fs af='vaccu,v,fn,sg,3,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

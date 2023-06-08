@@ -1,0 +1,13 @@
+<Sentence id="9140">			
+0	((	SSF	
+1	BARA	NN	<fs af='BARa,n,any,sg,3,,0,0_A'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	memu	PRP	<fs af='memu,pn,any,pl,1,,0,0'>
+4	pariSoXiswAM	VM	<fs af='pariSoXiMcu,v,any,pl,1,,wA,wA'>
+5	anexi	VM	<fs af='anu,v,any,any,any,,e_axi,e_axi'>
+6	A	DEM	<fs af='A,avy,,,,,,'>
+7	viRayaM	NN	<fs af='viRayaM,n,any,sg,3,,0,0'>
+8	kAxu	VM	<fs af='avvu,v,fn,sg,3,,a,a'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

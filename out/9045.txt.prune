@@ -1,0 +1,14 @@
+<Sentence id="9045">
+0	((	SSF	
+1	BARAvewwa	NN	<fs af='BARAvewwa,n,any,sg,3,,0,0'>|<fs af='BARAvewwa,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	mari	RP	<fs af='mari,avy,,,,,,'>
+4	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+5	AvaliMcagA	VM	<fs af='AvaliMcu,v,any,any,any,,a_gA,a_gA'>
+6	EnA	RP	<fs af='EnA,avy,,,,,,'>
+7	eVppudU	WQ	<fs af='eVppudU,avy,,,,,,'>
+8	mIru	PRP	<fs af='mIru,pn,any,pl,2,,0,0'>
+9	cUdalexu	VM	<fs af='cUdu,v,any,any,any,,a_lexu,a_lexu'>|<fs af='cUdagala,v,fn,sg,3,,a,a'>
+10	?	SYM	<fs af='?,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

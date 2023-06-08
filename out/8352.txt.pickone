@@ -1,0 +1,15 @@
+<Sentence id="8352">			
+0	((	SSF	
+1	420	QC	<fs af='420,num,,,,,,'>
+2	-	SYM	<fs af='<'>
+3	600	QC	<fs af='600,num,,,,,,'>
+4	maxya	NST	<fs af='maxyaM,n,any,sg,3,,obl,obl'>
+5	kAlaMlo	NN	<fs af='kAlaM,n,any,sg,3,,lo,lo'>
+6	I	DEM	<fs af='I,avy,,,,,,'>
+7	prAMwAnni	NN	<fs af='prAMwaM,n,any,sg,3,,ni,ni'>
+8	pAliMcina	VM	<fs af='pAliMcu,v,any,any,any,,ina,ina'>
+9	viRNukuMdinulu	NNP	<fs af='viRNukuMdinulu,n,any,sg,3,,0,0'>
+10	woVligiMcAru	VM	<fs af='woVligiMcu,v,any,pl,2,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

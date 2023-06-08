@@ -1,0 +1,10 @@
+<Sentence id="7360">
+0	((	SSF
+1	*	SYM	<fs af='*,punc,,,,,, '>
+2	*	SYM	<fs af='*,punc,,,,,, '>
+3	*	SYM	<fs af='*,punc,,,,,, '>
+4	*	SYM	<fs af='*,punc,,,,,, '>
+5	*	SYM	<fs af='*,punc,,,,,, '>
+6	*	SYM	<fs af='*,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,8 @@
+<Sentence id="3374">
+0	((	SSF
+1	kanakaM	NNP	<fs af='kanakaM,n,any,sg,3,,0,0'>
+2	anna	NN	<fs af='anna,avy,,,,,, '>|<fs af='anu,v,any,any,any,,ina,ina'>|<fs af='anna,n,any,sg,3,,0,0'>|<fs af='anna,n,any,sg,3,,obl,obl'>|<fs af='annaM,n,any,sg,3,,obl,obl'>
+3	rAmulu	NNP	<fs af='rAmu,n,any,pl,3,,0,0'>|<fs af='rAmu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='rAmulu,n,any,sg,3,,0,0'>|<fs af='rAmudu,n,any,pl,3,,0,0'>|<fs af='rAmudu,n,any,pl,3,,vu_agr,vu_agr'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

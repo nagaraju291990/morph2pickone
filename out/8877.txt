@@ -1,0 +1,17 @@
+<Sentence id="8877">
+0	((	SSF
+1	lAvugA	RB	<fs af='lAvu,adj,any,any,any,,gA_adj,gA_adj'>|<fs af='lAvu,n,any,sg,3,,gA,gA'>
+2	XAra	NN	<fs af='XAra,n,any,sg,3,,0,0'>|<fs af='XAra,n,any,sg,3,,obl,obl'>
+3	vacce	VM	<fs af='vaccu,v,any,any,any,,e,e'>|<fs af='vaccu,v,any,any,any,,i,i_e'>
+4	peVxxa	JJ	<fs af='peVxxa,adj,any,any,any,,0_adj,0_adj'>
+5	pEpu	NN	<fs af='pEpu,n,any,sg,3,,0,0'>|<fs af='pEpu,n,any,sg,3,,obl,obl'>
+6	peVtti	VM	<fs af='peVttu,v,any,any,any,,i,i'>
+7	akkada	NST	<fs af='akkada,adv,any,any,any,,0_adv,0_adv'>
+8	wuvvAlYlu	NN	<fs af='wuvvAlu,n,any,pl,3,,0,0'>|<fs af='wuvvAlu,n,any,pl,3,,vu_agr,vu_agr'>
+9	,	SYM	<fs af=',,punc,,,,,, '>
+10	sabbu	NN	<fs af='sabbu,n,any,sg,3,,0,0'>|<fs af='sabbu,n,any,sg,3,,obl,obl'>
+10	bilYlalU	NN	<fs af='bilYla,n,any,pl,3,,I,I'>
+11	amarcAru	VM	<fs af='amarcu,v,any,pl,2,,A,A'>|<fs af='amarcu,v,mf,pl,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

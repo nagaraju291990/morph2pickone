@@ -1,0 +1,22 @@
+<Sentence id="3733">
+0	((	SSF
+1	eVMxukaMte	WQ	<fs af='eVMxukaMte,avy,,,,,, '>
+2	bEjU	NNP	<fs af='bEjU,n,any,sg,3,,0,0'>|<fs af='bEjU,n,any,sg,3,,obl,obl'>
+3	mAmayya	NN	<fs af='mAmayya,n,any,sg,3,,0,0'>|<fs af='mAmayya,n,any,sg,3,,obl,obl'>
+4	eVlAgEnA	WQ	<fs af='eVlAgEnA,avy,,,,,, '>
+5	wirigi	VM	<fs af='wirigi,avy,,,,,, '>|<fs af='wirugu,v,any,any,any,,i,i'>
+6	jEluki	NN	<fs af='jElu,n,,sg,,,ki,ki'>
+7	veVlYli	VM	<fs af='veVlYlu,v,any,any,any,,i,i'>
+8	povAlane	VM	<fs af='po,v,any,any,any,,Ali_ane,Ali_ane'>
+9	korikawo	NN	<fs af='korika,n,any,sg,3,,wo,wo'>
+10	kAvAlani	VM	<fs af='kAvAlani,avy,,,,,, '>|<fs af='avvu,v,any,any,any,,Ali_ani,Ali_ani'>
+11	xoVMgawanaM	NN	<fs af='xoVMgawanaM,n,any,sg,3,,0,0'>
+12	cesi	VM	<fs af='cesi,avy,,,,,, '>|<fs af='ceVyyi,v,any,any,any,,i,i'>
+13	wanakE	PRP	<fs af='wAnu,pn,mf,sg,3,,kosaM,kosaM'>
+14	wAne	PRP	<fs af='wanu,pn,mf,sg,3,,0,0_e'>
+15	pattu	VM	<fs af='pattu,n,,sg,,,0,0'>|<fs af='pattu,n,,sg,,,obl,obl'>|<fs af='pattu,v,,sg,2,,AjFArWa,AjFArWa'>
+15	padettu	VM	<fs af='padu,v,any,any,any,,e_atlu,e_atlu'>|<fs af='padu,v,any,any,any,,e_atlu,e_atlu'>
+16	cesukunnAdu	VM	<fs af='ceVyyi,v,m,sg,3,,koVn_A,koVn_A'>
+17	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

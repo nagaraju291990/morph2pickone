@@ -1,0 +1,7 @@
+<Sentence id="949">
+0	((	SSF	
+1	maniRi	NN	<fs af='maniRi,n,any,sg,3,,0,0'>|<fs af='maniRi,n,any,sg,3,,obl,obl'>
+2	poVdagari	VM	<fs af='poVdagari,n,any,sg,3,,0,0' poslcat="NM">|<fs af='poVdagari,n,any,sg,3,,obl,obl' poslcat="NM">
+3	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

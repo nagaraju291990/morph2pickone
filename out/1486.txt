@@ -1,0 +1,9 @@
+<Sentence id="1486">
+0	((	SSF
+1	xInni	PRP	<fs af='ixi,pn,fn,sg,3,,ni,ni'>
+2	moVgudu	NN	<fs af='moVgudu,n,any,sg,3,,0,0'>
+3	arWaM	NN	<fs af='arWaM,n,any,sg,3,,0,0'>
+4	cesukodu	VM	<fs af='ceVyyi,v,m,sg,3,,koVn_a,koVn_a'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

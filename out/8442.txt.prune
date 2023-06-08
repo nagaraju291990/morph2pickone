@@ -1,0 +1,24 @@
+<Sentence id="8442">
+0	((	SSF	
+1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+2	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>|<fs af='jillA,n,any,sg,3,,0,0'>|<fs af='jillA,n,any,sg,3,,obl,obl'>
+3	13	QC	<fs af='13,num,,,,,,'>
+4	31	QC	<fs af='31,num,,,,,,'>
+5	-	SYM	<'>|<poslcat="NM"'>
+6	15	QC	<fs af='15,num,,,,,,'>
+7	51	QC	<fs af='51,num,,,,,,'>
+8	uwwara	NN	<fs af='uwwaraM,n,any,sg,3,,obl,obl'>
+9	akRAMSaM	NN	<fs af='akRAMSaM,n,any,sg,3,,0,0'>
+10	reKalaku	NN	<fs af='reKa,n,any,pl,3,,ki,ki'>
+11	79	QC	<fs af='79,num,,,,,,'>
+12	15	QC	<fs af='15,num,,,,,,'>
+13	-	SYM	<'>|<poslcat="NM"'>
+14	80	QC	<fs af='80,num,,,,,,'>
+15	15	QC	<fs af='15,num,,,,,,'>
+16	wUrpu	NN	<fs af='wUrpu,n,any,sg,3,,0,0'>|<fs af='wUrpu,n,any,sg,3,,obl,obl'>
+17	reKAMSamula	NN	<fs af='reKAMSaM,n,any,pl,3,,obl,obl'>
+18	maXya	NST	<fs af='maXya,n,any,sg,3,,0,0'>|<fs af='maXya,n,any,sg,3,,obl,obl'>|<fs af='maXyaM,n,any,sg,3,,obl,obl'>
+19	unnaxi	VM	<fs af='uMdu,v,any,any,any,,ina_axi,ina_axi'>|<fs af='uMdu,v,fn,sg,3,,A,A'>
+20	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,16 @@
+<Sentence id="6116">
+0	((	SSF
+1	AXunika	JJ	<fs af='AXunika,adj,any,any,any,,0_adj,0_adj'>|<fs af='AXunikaM,n,any,sg,3,,obl,obl'>|<fs af='AXunikudu,n,any,sg,3,,obl,obl'>
+2	kAlaM	VM	<fs af='kAlu,v,any,pl,1,,a,a'>|<fs af='kAlaM,n,any,sg,3,,0,0'>
+3	vijayanagara	NNP	<fs af='vijayanagara,n,any,sg,3,,0,0'>|<fs af='vijayanagara,n,any,sg,3,,obl,obl'>|<fs af='vijayanagaraM,n,any,sg,3,,obl,obl'>
+4	pawanAnaMwaraM	NN	<fs af='pawanAnaMwaraM,n,any,sg,3,,0,0'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	britIR	NN	<fs af='britIR,n,any,sg,3,,0,0'>|<fs af='britIR,n,any,sg,3,,obl,obl'>
+7	vAru	PRP	<fs af='vAru,pn,mf,pl,3,,0,0'>|<fs af='vAru,pn,mf,pl,3,,vu,vu'>
+8	1600	QC	<fs af='1600,num,,,,,, '>
+9	lo	PSP	<fs af='lo,avy,,,,,, '>
+10	BArawaxeSaMlo	NNP	<fs af='BArawaxeSaM,n,any,sg,3,,lo,lo'>
+11	adugupeVttAru	VM	<fs af='adugupeVttu,v,any,pl,2,,A,A'>|<fs af='adugupeVttu,v,mf,pl,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

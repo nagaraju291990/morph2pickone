@@ -1,0 +1,21 @@
+<Sentence id="849">
+0	((	SSF
+1	xoVrakAli	VM	<fs af='xoVruku,v,any,any,any,,Ali,Ali'>|<fs af='xoVraku,v,any,any,any,,Ali,Ali'>
+2	gAni	RP	<fs af='gAni,avy,,,,,, '>|<fs af='gaM,n,any,sg,3,,obl,obl'>|<fs af='gAdu,n,any,sg,3,,obl,obl'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	mAMsaM	NN	<fs af='mAMsaM,n,any,sg,3,,0,0'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	cepala	NN	<fs af='cepa,n,any,pl,3,,obl,obl'>
+7	kUrallo	NN	<fs af='kUra,n,any,pl,3,,lo,lo'>
+8	xInini	PRP	<fs af='ixi,pn,fn,sg,3,,nu,nu'>|<fs af='ixi,pn,fn,sg,3,,ni,ni'>
+9	wappaka	VM	<fs af='wappu,v,any,any,any,,aka,aka'>
+10	veyavalasiMxe	VM	<fs af='veyavalayu,v,fn,sg,3,,A,A_e'>
+11	!	SYM	<fs af='!,punc,,,,,, '>
+12	ixi	PRP	<fs af='ixi,pn,fn,sg,3,,0,0'>
+13	suvAsanagA	RB	<fs af='suvAsana,n,any,sg,3,,gA,gA'>
+14	,	SYM	<fs af=',,punc,,,,,, '>
+15	kammagA	RB	<fs af='kammu,v,any,any,any,,a_gA,a_gA'>|<fs af='kamma,adj,any,any,any,,gA_adj,gA_adj'>|<fs af='kamma,n,any,sg,3,,gA,gA'>
+16	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A'>
+17	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

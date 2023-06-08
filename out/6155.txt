@@ -1,0 +1,12 @@
+<Sentence id="6155">
+0	((	SSF
+1	paryAtakulaku	NN	<fs af='paryAtakudu,n,any,pl,3,,ki,ki'>
+2	kanuviMxu	NN	<fs af='kanuviMxu,n,any,sg,3,,0,0'>|<fs af='kanuviMxu,n,any,sg,3,,obl,obl'>
+3	cese	VM	<fs af='ceVyyi,v,any,any,any,,e,e'>|<fs af='ceVyyi,v,any,any,any,,i,i_e'>
+4	aneka	JJ	<fs af='aneka,adj,any,any,any,,0_adj,0_adj'>|<fs af='anekaM,n,any,sg,3,,obl,obl'>
+5	praxeSAlu	NN	<fs af='praxeSaM,n,any,pl,3,,0,0'>|<fs af='praxeSaM,n,any,pl,3,,vu_agr,vu_agr'>
+6	AMXrarARtraMlo	NNP	<fs af='AMXrarARtraM,n,any,sg,3,,lo,lo'>
+7	kalavu	NN	<fs af='kala,n,any,sg,3,,vu_agr,vu_agr'>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

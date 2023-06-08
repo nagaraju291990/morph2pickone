@@ -1,0 +1,9 @@
+<Sentence id="1820">
+0	((	SSF
+1	laboxibomaMxi	NN	<fs af='laboxibomanu,avy,fn,sg,3,,A,A'>
+2	cIra	VM	<fs af='cIru,v,any,any,any,,an,an'>|<fs af='cIra,n,any,sg,3,,0,0'>|<fs af='cIra,n,any,sg,3,,obl,obl'>|<fs af='cIraM,n,any,sg,3,,obl,obl'>
+2	koVnna	VM	<fs af='koVnu,v,any,any,any,,ina,ina'>
+2	Avida	VM	<fs af='Avida,pn,m,sg,3,,0,0'>|<fs af='Avida,pn,m,sg,3,,obl,obl'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

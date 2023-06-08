@@ -1,0 +1,6 @@
+<Sentence id="3851">
+0	((	SSF
+1	mosagAdu	NN	<fs af='mosaM,n,any,sg,3,,gAdu,gAdu'>|<fs af='mosagAdu,n,any,sg,3,,0,0'>
+2	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

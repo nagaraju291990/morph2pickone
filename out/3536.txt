@@ -1,0 +1,10 @@
+<Sentence id="3536">
+0	((	SSF
+1	neVmmaxigA	RB	<fs af='neVmmaxi,n,any,sg,3,,gA,gA'>
+2	vacci	VM	<fs af='vaccu,v,any,any,any,,i,i'>
+3	ceVtla	NN	<fs af='ceVttu,n,any,pl,3,,obl,obl'>
+4	maXya	NST	<fs af='maXya,n,any,sg,3,,0,0'>|<fs af='maXya,n,any,sg,3,,obl,obl'>|<fs af='maXyaM,n,any,sg,3,,obl,obl'>
+5	kUrcunnAdu	VM	<fs af='kUrco,v,m,sg,3,,A,A'>|<fs af='kUrcuMdu,v,m,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

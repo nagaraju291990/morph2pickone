@@ -1,0 +1,12 @@
+<Sentence id="3768">
+0	((	SSF	
+1	iMkA	INTF	<fs af='iMkA,avy,,,,,,'>
+2	2	QC	<fs af='2,num,,,,,,'>
+3	rU	NN	<fs af='rU,avy,,,,,,' poslcat="NM">
+4	75	QC	<fs af='75,num,,,,,,'>
+5	pEsalu	NN	<fs af='pEsa,n,any,pl,3,,0,0'>|<fs af='pEsa,n,any,pl,3,,vu_agr,vu_agr'>
+6	wakkuvayiMxi	VM	<fs af='wakkuvavvu,v,fn,sg,3,,A,A'>
+7	muppEki	NN	<fs af='muppE,n,,sg,,,ki,ki'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

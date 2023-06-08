@@ -1,0 +1,13 @@
+<Sentence id="9980">
+0	((	SSF
+1	lopaliki	NST	<fs af='lopala,adv,any,any,any,,ku_adv,ku_adv'>
+2	wIsukuveVlYli	VM	<fs af='wIsukuveVlYlu,v,any,any,any,,i,i'>
+3	annaM	NN	<fs af='annaM,n,any,sg,3,,0,0'>
+4	kalipi	VM	<fs af='kalupu,v,any,any,any,,i,i'>
+5	palYleVM	NN	<fs af='palYleVM,n,any,sg,3,,0,0'>|<fs af='palYleVM,n,any,sg,3,,obl,obl'>
+6	pilli	NN	<fs af='pilli,n,any,sg,3,,0,0'>|<fs af='pilli,n,any,sg,3,,obl,obl'>
+7	muMxu	NST	<fs af='muMxu,adv,any,any,any,,0_adv,0_adv'>
+8	peVttiMxi	VM	<fs af='peVttu,v,fn,sg,3,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

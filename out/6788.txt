@@ -1,0 +1,17 @@
+<Sentence id="6788">
+0	((	SSF
+1	dAktarugArilA	NN	<fs af='dAktaru,n,,pl,,,gAru_lA,gAru_lA' deri_cat='pn'>
+2	javAbiccAru	VM	<fs af='javAbivvu,v,any,pl,2,,A,A'>|<fs af='javAbivvu,v,mf,pl,3,,A,A'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	"	SYM	<fs af='",punc,,,,,, '>
+5	cAlAvarakU	NN	<fs af='cAlAvaraku,n,any,sg,3,,0,0_V'>
+6	virigina	VM	<fs af='virugu,v,any,any,any,,ina,ina'>|<fs af='virigina,n,any,sg,3,,0,0'>|<fs af='virigina,n,any,sg,3,,obl,obl'>
+7	eVmukalu	NN	<fs af='eVmuka,n,any,pl,3,,0,0'>|<fs af='eVmuka,n,any,pl,3,,vu_agr,vu_agr'>
+8	e	WQ	<fs af='e,avy,,,,,, '>|<fs af='e,adj,any,any,any,,0_adj,0_adj'>
+9	ApareRanU	NN	<fs af='ApareRan,n,any,sg,3,,0,0_V'>|<fs af='ApareRan,n,any,pl,3,,0,0_V'>|<fs af='ApareRanu,n,any,sg,3,,0,0_V'>
+10	avasaraM	NN	<fs af='avasaraM,n,any,sg,3,,0,0'>
+11	lekuMdAne	VM	<fs af='gala,v,any,any,any,,akuMdA,akuMdA_e'>
+12	awwukuMtAyi	VM	<fs af='awwuko,v,n,pl,3,,wA,wA'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

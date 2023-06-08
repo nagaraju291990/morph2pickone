@@ -1,0 +1,8 @@
+<Sentence id="965">
+0	((	SSF	
+1	Bayapadi	VM	<fs af='Bayapadu,v,any,any,any,,i,i'>
+2	polIsulu	NN	<fs af='polIs,n,any,pl,3,,0,0'>|<fs af='polIs,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='polIsu,n,any,pl,3,,0,0'>|<fs af='polIsu,n,any,pl,3,,vu_agr,vu_agr'>
+3	pAripoyAru	VM	<fs af='pAripo,v,any,pl,2,,A,A'>|<fs af='pAripo,v,mf,pl,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

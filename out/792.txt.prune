@@ -1,0 +1,10 @@
+<Sentence id="792">
+0	((	SSF	
+1	moVkkala	NN	<fs af='moVkka,n,any,pl,3,,obl,obl'>
+2	maXya	NST	<fs af='maXya,n,any,sg,3,,0,0'>|<fs af='maXya,n,any,sg,3,,obl,obl'>|<fs af='maXyaM,n,any,sg,3,,obl,obl'>
+3	xUraM	NN	<fs af='xUraM,n,any,sg,3,,0,0'>
+4	30	QC	<fs af='30,num,,,,,,'>
+5	uMdAli	VM	<fs af='uMdu,v,any,any,any,,Ali,Ali'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

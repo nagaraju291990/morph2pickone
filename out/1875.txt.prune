@@ -1,0 +1,15 @@
+<Sentence id="1875">
+0	((	SSF	
+1	vAlYlu	PRP	<fs af='vAlYlu,pn,mf,pl,3,,0,0'>|<fs af='vAlYlu,pn,mf,pl,3,,vu,vu'>
+2	kalarlu	NN	<fs af='kalar,n,any,pl,3,,0,0'>|<fs af='kalar,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='kalaru,n,any,pl,3,,0,0'>|<fs af='kalaru,n,any,pl,3,,vu_agr,vu_agr'>
+3	wAginavAlYlani	VM	<fs af='wAginavAlYlu,pn,mf,pl,3,,ni,ni' poslcat="NM">
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	ammA	NN	<fs af='ammu,n,any,sg,3,,0,0_A'>|<fs af='amma,n,any,sg,3,,0,0_A'>|<fs af='amma,n,any,sg,3,,0,0_V'>|<fs af='ammA,n,any,sg,3,,0,0'>|<fs af='ammA,n,any,sg,3,,obl,obl'>
+6	!	SYM	<fs af='!,punc,,,,,,'>
+7	muMxu	NST	<fs af='muMxu,adv,any,any,any,,0_adv,0_adv'>
+8	vAdu	VM	<fs af='vAdu,v,any,sg,2,,AjFArWa,AjFArWa'>
+8	adigiMxi	VM	<fs af='adugu,v,fn,sg,3,,A,A'>
+9	icceyaMdi	VM	<fs af='icceVyyi,v,any,pl,2,,AjFArWa,AjFArWa'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

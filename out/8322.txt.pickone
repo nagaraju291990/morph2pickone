@@ -1,0 +1,31 @@
+<Sentence id="8322">			
+0	((	SSF	
+1	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>
+2	keMxraM	NN	<fs af='keMxraM,n,any,sg,3,,0,0'>
+3	:	SYM	<fs af=':,punc,,,,,,'>
+4	guMtUru	NNP	<fs af='guMtUru,n,any,sg,3,,0,0'>
+5	cariwra	NN	<fs af='cariwra,n,any,sg,3,,0,0'>
+6	:	SYM	<fs af=':,punc,,,,,,'>
+7	koVnni	QF	<fs af='koVnni,pn,any,pl,3,,0,0'>
+8	vela	QC	<fs af='veVyyi,n,any,pl,3,,obl,obl'>
+9	saMvawsaramula	NN	<fs af='saMvawsaraM,n,,pl,,,obl,obl'>
+9	nAti	VM	<fs af='nAtu,v,any,any,any,,i,i'>
+10	mAnavula	NN	<fs af='mAnavudu,n,any,pl,3,,obl,obl'>
+11	saMXulu	NN	<fs af='saMXi,n,any,pl,3,,0,0'>
+12	I	DEM	<fs af='I,avy,,,,,,'>
+13	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>
+14	`	SYM	<fs af='<'>
+15	peVxxagaMjAM	NNP	<fs af='peVxxagaMjAM,n,any,sg,3,,0,0'>
+16	'	SYM	<fs af=',punc,,,,,,'>
+17	lo	PSP	<fs af='lo,avy,,,,,,'>
+18	laBiMcutace	VM	<fs af='laBiMcu,v,,sg,,,adaM_ce,adaM_ce' deri_cat=n>
+19	ixi	PRP	<fs af='ixi,pn,fn,sg,3,,0,0'>
+20	pUrvaM	NN	<fs af='pUrvaM,adv,any,any,any,,0_adv,0_adv'>'>
+21	nuMdi	PSP	<fs af='nuMdi,avy,,,,,,'>
+22	mAnava	VM	<fs af='mAnuvu,v,any,any,any,,an,an'>
+23	saMcAraM	NN	<fs af='saMcAraM,n,any,sg,3,,0,0'>
+24	unnatlu	VM	<fs af='uMdu,v,any,any,any,,ina_atlu,ina_atlu'>
+25	cariwra	NN	<fs af='cariwra,n,any,sg,3,,0,0'>
+26	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

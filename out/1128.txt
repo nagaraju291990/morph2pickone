@@ -1,0 +1,14 @@
+<Sentence id="1128">
+0	((	SSF
+1	emI	WQ	<fs af='emI,avy,,,,,, '>
+2	weVliyanivAdini	VM	<fs af='weVliyanivAdu,pn,m,sg,3,,nu,nu'>|<fs af='weVliyanivAdu,pn,m,sg,3,,ni,ni'>
+3	saMwaku	NN	<fs af='saMwa,n,any,sg,3,,ki,ki'>
+4	paMpAnu	VM	<fs af='paMpu,v,any,sg,1,,A,A'>
+5	nAxe	NN	<fs af='nenu,pn,any,sg,1,,xi,xi_e'>|<fs af='nAxu,n,any,sg,3,,0,0_e'>
+6	poVrapAtu	NN	<fs af='poVrapAtu,n,any,sg,3,,0,0'>|<fs af='poVrapAtu,n,any,sg,3,,obl,obl'>
+7	aMtU	UT	<fs af='aMtU,avy,,,,,, '>|<fs af='anu,v,any,any,any,,wU,wU'>|<fs af='aMtu,n,any,sg,3,,0,0_V'>
+8	rAmulu	NNP	<fs af='rAmu,n,any,pl,3,,0,0'>|<fs af='rAmu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='rAmulu,n,any,sg,3,,0,0'>|<fs af='rAmudu,n,any,pl,3,,0,0'>|<fs af='rAmudu,n,any,pl,3,,vu_agr,vu_agr'>
+9	vApoyAdu	VM	<fs af='vApo,v,m,sg,3,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

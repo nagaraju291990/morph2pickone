@@ -1,0 +1,29 @@
+<Sentence id="9541">			
+0	((	SSF	
+1	janaM	NN	<fs af='janaM,n,any,sg,3,,0,0'>
+2	A	DEM	<fs af='A,avy,,,,,,'>
+3	xqSyAnni	NN	<fs af='xqSyaM,n,any,sg,3,,ni,ni'>
+4	cUda	VM	<fs af='cUdu,v,any,any,any,,an,an'>
+5	leka	CC	<fs af='gala,v,any,any,any,,aka,aka'>
+6	kalYlu	NN	<fs af='kannu,n,any,pl,3,,0,0'>
+7	mUsukoVnna	VM	<fs af='mUsuko,v,any,any,any,,ina,ina'>
+8	vAlYlu	PRP	<fs af='vAlYlu,pn,mf,pl,3,,0,0'>
+9	koVMxaru	QF	<fs af='koVMxaru,pn,mf,pl,3,,0,0'>
+10	,	SYM	<fs af=',,punc,,,,,,'>
+11	nela	NN	<fs af='nela,n,any,sg,3,,0,0'>
+12	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>
+13	boragila	RB	<fs af='boragilu,v,any,any,any,,an,an'>
+14	paddavAlYlu	NN	<fs af='padu,v,any,any,any,,ina_vAlYlu,ina_vAlYlu'>'>
+15	koVMxaru	QF	<fs af='koVMxaru,pn,mf,pl,3,,0,0'>
+16	,	SYM	<fs af=',,punc,,,,,,'>
+17	vaNikipoyina	VM	<fs af='vaNikipo,v,any,any,any,,ina,ina'>
+18	vAlYlu	PRP	<fs af='vAlYlu,pn,mf,pl,3,,0,0'>
+19	koVMxaru	QF	<fs af='koVMxaru,pn,mf,pl,3,,0,0'>
+20	,	SYM	<fs af=',,punc,,,,,,'>
+21	mUrCa	NN	<fs af='mUrCa,n,any,sg,3,,0,0'>
+22	paddavAlYlu	VM	<fs af='padu,v,any,any,any,,ina_vAlYlu,ina_vAlYlu'>
+23	koVMxarU	PRP	<fs af='koVMxaru,pn,mf,pl,3,,0,0_V'>
+24	ayinAru	VM	<fs af='avvu,v,any,pl,2,,A,A'>
+25	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

@@ -1,0 +1,15 @@
+<Sentence id="2017">
+0	((	SSF	
+1	kawwi	NN	<fs af='kawwi,n,any,sg,3,,0,0'>|<fs af='kawwi,n,any,sg,3,,obl,obl'>
+2	_	SYM	<'>|<poslcat="NM"'>
+3	gAradI	NN	<fs af='gAradi,n,any,sg,3,,0,0_V'>
+4	gAradIvAdu	NN	<fs af='gAradIvAdu,n,any,sg,3,,0,0'>
+5	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+6	aMxamEna	JJ	<fs af='aMxamEna,adj,any,any,any,,0_adj,0_adj'>
+7	ammAyini	NN	<fs af='ammAyi,n,any,sg,3,,ni,ni'>|<fs af='ammAyi,n,any,sg,3,,ni_agr,ni_agr'>
+8	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+9	cota	NN	<fs af='cota,adv,any,any,any,,0_adv,0_adv' poslcat="NM">
+10	kUrcobeVdawAdu	VM	<fs af='kUrcobeVttu,v,m,sg,3,,wA,wA'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,10 @@
+<Sentence id="4742">			
+0	((	SSF	
+1	baMkamattini	NN	<fs af='baMkamatti,n,any,sg,3,,ni,ni'>
+2	weVcci	VM	<fs af='we,v,any,any,any,,i,i'>
+3	maMxamEna	JJ	<fs af='maMxa,adj,any,any,any,,nEna_adj,nEna_adj'>
+4	poVralA	NN	<fs af='poVra,n,any,sg,3,,lA,lA'>|<fs af='poVra,n,any,pl,3,,0,0_A'>
+5	paracAli	VM	<fs af='paracu,v,any,any,any,,Ali,Ali'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

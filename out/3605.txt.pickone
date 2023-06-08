@@ -1,0 +1,28 @@
+<Sentence id="3605">			
+0	((	SSF	
+1	wanalo	PRP	<fs af='wAnu,pn,mf,sg,3,,lo,lo'>
+2	wAnu	PRP	<fs af='wAnu,pn,mf,sg,3,,0,0'>
+3	ilA	RB	<fs af='ilA,avy,,,,,,'>'>
+4	anukunnAdu	VM	<fs af='anuko,v,m,sg,3,,A,A'>
+5	_	SYM	<fs af='<'>
+6	"	SYM	<fs af='",punc,,,,,,'>
+7	koVMpa	INJ	<fs af='koVMpa,n,any,sg,3,,0,0'>'>
+7	xIsi	INJ	<fs af='xiyyi,v,any,any,any,,i,i'>
+8	iwadu	PRP	<fs af='iwadu,pn,,sg,,,0,0'>
+9	nannu	PRP	<fs af='nenu,pn,any,sg,1,,ni,ni'>
+10	veVwakatAniki	VM	<fs af='veVwakataM,n,any,sg,3,,ki,ki'>
+11	rAlexu	VM	<fs af='vaccu,v,any,any,any,,a_lexu,a_lexu'>
+12	kaxA	RP	<fs af='kaxA,avy,,,,,,'>
+13	!	SYM	<fs af='!,punc,,,,,,'>
+14	marikoVMwa	PRP	<fs af='marikoVMwa,pn,,sg,,,0,0'>
+14	sepu	NN	<fs af='sepu,n,,sg,,,0,0'>
+15	warjana	NN	<fs af='warjanaM,n,any,sg,3,,obl,obl'>
+16	Barjana	ECH	<fs af='BarjanaM,n,any,sg,3,,obl,obl'>
+17	padina	VM	<fs af='padu,v,any,any,any,,ina,ina'>
+18	waravAwa	NST	<fs af='waravAwa,avy,,,,,,'>
+19	wananu	PRP	<fs af='wAnu,pn,mf,sg,3,,ni,ni'>
+20	kAxu	VM	<fs af='avvu,v,fn,sg,3,,a,a'>
+20	leVmmanukunnAdu	VM	<fs af='leVmmanukunnAdu,unk,,,,,,'>
+21	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

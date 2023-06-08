@@ -1,0 +1,17 @@
+<Sentence id="3627">
+0	((	SSF	
+1	kAnI	CC	<fs af='kAnI,avy,,,,,,'>
+2	bEjU	NNP	<fs af='bEjU,n,any,sg,3,,0,0'>|<fs af='bEjU,n,any,sg,3,,obl,obl'>
+3	mAmayya	NN	<fs af='mAmayya,n,any,sg,3,,0,0'>|<fs af='mAmayya,n,any,sg,3,,obl,obl'>
+4	muKaM	NN	<fs af='muKaM,n,any,sg,3,,0,0'>
+5	cUswe	VM	<fs af='cUdu,v,any,any,any,,we,we'>
+6	mAwraM	PSP	<fs af='mAwraM,avy,,,,,,' poslcat="NM">
+7	awadu	PRP	<fs af='awadu,pn,,sg,,,0,0'>
+8	wakkuva	JJ	<fs af='wakkuva,adj,any,any,any,,0_adj,0_adj'>
+9	kulAniki	NN	<fs af='kulaM,n,any,sg,3,,ki,ki'>
+10	ceVMxinavAdu	VM	<fs af='ceVMxu,v,,sg,,,0,0'>
+10	ani	VM	<fs af='anu,v,any,any,any,,i,i'>
+11	anipiMcaxu	VM	<fs af='anipiMcu,v,fn,sg,3,,a,a'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

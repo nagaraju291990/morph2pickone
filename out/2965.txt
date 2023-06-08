@@ -1,0 +1,16 @@
+<Sentence id="2965">
+0	((	SSF
+1	nenu	PRP	<fs af='nenu,pn,any,sg,1,,0,0'>
+2	mA	PRP	<fs af='memu,pn,any,pl,1,,obl,obl'>
+3	ammawo	NN	<fs af='amma,n,any,sg,3,,wo,wo'>
+4	ceVppi	VM	<fs af='ceVppu,v,any,any,any,,i,i'>
+5	Ame	PRP	<fs af='AmeV,pn,f,sg,3,,0,0_e'>
+6	cewa	PSP	<fs af='cewa,avy,,,,,, '>
+7	mIku	PRP	<fs af='mIru,pn,any,pl,2,,ki,ki'>
+7	oVka	PRP	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+8	coVkkA	NN	<fs af='coVkku,v,any,any,any,,i,i_A'>|<fs af='coVkkA,n,any,sg,3,,0,0'>|<fs af='coVkkA,n,any,sg,3,,obl,obl'>
+9	kuttiMci	VM	<fs af='kuttiMcu,v,any,any,any,,i,i'>
+10	peVdawAnu	VAUX	<fs af='peVttu,v,any,sg,1,,wA,wA'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

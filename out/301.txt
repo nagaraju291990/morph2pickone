@@ -1,0 +1,10 @@
+<Sentence id="301">
+0	((	SSF
+1	vijayavAdalo	NNP	<fs af='vijayavAda,n,any,sg,3,,lo,lo'>|<fs af='vijayavAda,n,any,pl,3,,0,0_o'>
+2	maro	QF	<fs af='maro,avy,,,,,, '>|<fs af='maru,n,any,sg,3,,0,0_o'>|<fs af='mara,n,any,sg,3,,0,0_o'>
+3	Ada	VM	<fs af='Ada,n,,sg,,,0,0'>|<fs af='Ada,n,,sg,,,obl,obl'>|<fs af='Ada,adj,,,,,0,0_adj'>|<fs af='Adu,v,any,any,any,,an,an'>
+3	SiSuvu	NN	<fs af='SiSuvu,n,,sg,,,0,0'>|<fs af='SiSuvu,n,,sg,,,obl,obl'>
+4	hawya	NN	<fs af='hawya,n,any,sg,3,,0,0'>|<fs af='hawya,n,any,sg,3,,obl,obl'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

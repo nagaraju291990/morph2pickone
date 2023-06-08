@@ -1,0 +1,13 @@
+<Sentence id="7796">
+0	((	SSF
+1	ayinappatiki	CC	<fs af='avvu,v,any,any,any,,ina_app_ki,ina_app_ki'>|<fs af='ayinappudu,adv,any,any,any,,ku_adv,ku_adv'>
+2	gaxxanu	NN	<fs af='gaxxa,n,any,sg,3,,ni,ni'>|<fs af='gaxxa,n,any,sg,3,,ni_agr,ni_agr'>
+3	guri	NN	<fs af='guri,n,any,sg,3,,0,0'>|<fs af='guri,n,any,sg,3,,obl,obl'>
+4	cUsi	VM	<fs af='cUdu,v,any,any,any,,i,i'>
+5	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+6	mUdu	QC	<fs af='mUdu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='mUdu,n,any,sg,3,,0,0'>|<fs af='mUdu,n,any,sg,3,,obl,obl'>|<fs af='mUdu,num,any,any,any,,0,0'>
+7	rAlYlu	NN	<fs af='rAyi,n,any,pl,3,,0,0'>|<fs af='rAyi,n,any,pl,3,,vu_agr,vu_agr'>
+8	koVttAnu	VM	<fs af='koVttu,v,any,sg,1,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

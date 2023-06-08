@@ -1,0 +1,22 @@
+<Sentence id="4050">			
+0	((	SSF	
+1	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+2	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+3	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+4	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+5	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+6	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+7	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+8	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+9	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+10	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+11	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+12	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+13	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+14	rAmayya	NNP	<fs af='rAmayya,n,any,sg,3,,0,0'>|<fs af='rAmayya,n,any,sg,3,,obl,obl'>
+15	dAktaru	NN	<fs af='dAktar,n,any,sg,3,,0,0'>|<fs af='dAktar,n,any,sg,3,,obl,obl'>
+16	xaggaraki	NN	<fs af='xaggara,adv,any,any,any,,0,0_adv_ki' poslcat="NM">
+17	poyAdu	VM	<fs af='po,v,m,sg,3,,A,A'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

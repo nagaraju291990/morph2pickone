@@ -1,0 +1,16 @@
+<Sentence id="3547">
+0	((	SSF
+1	dAktarlu	NN	<fs af='dAktar,n,any,pl,3,,0,0'>|<fs af='dAktar,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='dAktaru,n,any,pl,3,,0,0'>|<fs af='dAktaru,n,any,pl,3,,vu_agr,vu_agr'>
+2	ninnu	PRP	<fs af='nIvu,pn,any,sg,2,,ni,ni'>
+3	viSrAMwi	NN	<fs af='viSrAMwi,n,any,sg,3,,0,0'>|<fs af='viSrAMwi,n,any,sg,3,,obl,obl'>
+4	wIsukomaMte	VM	<fs af='wIsukomanu,v,any,any,any,,we,we'>
+5	pAra	NN	<fs af='pAru,v,any,any,any,,an,an'>|<fs af='pAra,n,any,sg,3,,0,0'>|<fs af='pAra,n,any,sg,3,,obl,obl'>|<fs af='pAraM,n,any,sg,3,,obl,obl'>
+6	wIsukoVni	VM	<fs af='wIsuko,v,any,any,any,,i,i'>|<fs af='wIsuko,v,any,any,any,,i,i'>
+7	nuvvu	PRP	<fs af='nIvu,pn,any,sg,2,,0,0'>|<fs af='nuvvu,n,any,sg,3,,0,0'>|<fs af='nuvvu,n,any,sg,3,,obl,obl'>
+8	ikkada	NST	<fs af='ikkada,adv,any,any,any,,0_adv,0_adv'>
+8	eM	NST	<fs af='eM,avy,,,,,, '>
+9	ceswunnAvani	VM	<fs af='ceVyyi,v,any,sg,2,,wunn_ani,wunn_ani'>|<fs af='ceswuMdu,v,any,sg,2,,A_ani,A_ani'>
+10	gaxxiMcAdu	VM	<fs af='gaxxiMcu,v,m,sg,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

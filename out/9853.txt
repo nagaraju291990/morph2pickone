@@ -1,0 +1,13 @@
+<Sentence id="9853">
+0	((	SSF
+1	"	SYM	<fs af='",punc,,,,,, '>
+2	mammalni	PRP	<fs af='memu,pn,any,pl,1,,ni,ni'>
+3	mIru	PRP	<fs af='mIru,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='mIru,pn,any,pl,2,,0,0'>
+4	emi	WQ	<fs af='emi,avy,,,,,, '>
+5	anukoVMtunnAru	VM	<fs af='anuko,v,fm,pl,3,,wunn,wunn'>
+6	"	SYM	<fs af='",punc,,,,,, '>
+7	ani	UT	<fs af='ani,avy,,,,,, '>|<fs af='anu,v,any,any,any,,i,i'>
+8	adigAdu	VM	<fs af='adugu,v,m,sg,3,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

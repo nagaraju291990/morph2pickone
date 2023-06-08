@@ -1,0 +1,12 @@
+<Sentence id="3051">
+0	((	SSF
+1	hiMxuvulu	NN	<fs af='hiMxuvu,n,any,pl,3,,0,0'>|<fs af='hiMxuvu,n,any,pl,3,,vu_agr,vu_agr'>
+2	,	SYM	<fs af=',,punc,,,,,, '>
+3	muslimula	NN	<fs af='muslim,n,any,pl,3,,obl,obl'>|<fs af='muslimu,n,any,pl,3,,obl,obl'>|<fs af='muslimulu,n,any,sg,3,,obl,obl'>
+4	maXya	NST	<fs af='maXya,n,any,sg,3,,0,0'>|<fs af='maXya,n,any,sg,3,,obl,obl'>|<fs af='maXyaM,n,any,sg,3,,obl,obl'>
+5	paga	NN	<fs af='paga,n,any,sg,3,,0,0'>|<fs af='paga,n,any,sg,3,,obl,obl'>
+6	rAjuku	NN	<fs af='rAju,n,,sg,,,ki,ki'>|<fs af='rAj,n,,sg,,,ki,ki'>
+6	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

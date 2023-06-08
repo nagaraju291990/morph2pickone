@@ -1,0 +1,21 @@
+<Sentence id="1423">			
+0	((	SSF	
+1	rabI	NN	<fs af='rabI,n,,sg,,,0,0'>|<fs af='rabI,n,,sg,,,obl,obl'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	vesavi	NN	<fs af='vesavi,n,any,sg,3,,0,0'>|<fs af='vesavi,n,any,sg,3,,obl,obl'>
+4	paMtalaku	NN	<fs af='paMta,n,any,pl,3,,ki,ki'>
+5	xIpaM	NN	<fs af='xIpaM,n,any,sg,3,,0,0'>
+6	purugu	NN	<fs af='purugu,n,any,sg,3,,0,0'>|<fs af='purugu,n,any,sg,3,,obl,obl'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	weVllaxoma	NN	<fs af='weVllaxoma,n,any,sg,3,,0,0'>|<fs af='weVllaxoma,n,any,sg,3,,obl,obl'>
+9	vaMti	JJ	<fs af='vaMti,adj,any,any,any,,0_adj,0_adj'>
+10	rasaM	NN	<fs af='rasaM,n,any,sg,3,,0,0'>
+11	pIlce	VM	<fs af='pIlcu,v,any,any,any,,e,e'>|<fs af='pIlcu,v,any,any,any,,i,i_e'>
+12	purugulu	NN	<fs af='purugu,n,any,pl,3,,0,0'>|<fs af='purugu,n,any,pl,3,,vu_agr,vu_agr'>
+13	viviXa	JJ	<fs af='viviXaM,n,any,sg,3,,obl,obl' poslcat="NM">
+14	xaSallo	NN	<fs af='xaSa,n,any,pl,3,,lo,lo'>
+15	hAni	NN	<fs af='hAni,n,any,sg,3,,0,0'>|<fs af='hAni,n,any,sg,3,,obl,obl'>
+16	kalgiMcavaccu	VM	<fs af='kalgiMcu,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='kalgiMcavaccu,v,any,any,any,,e,e'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

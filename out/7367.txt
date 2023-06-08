@@ -1,0 +1,8 @@
+<Sentence id="7367">
+0	((	SSF
+1	calapawiki	NNP	<fs af='calapawi,n,any,sg,3,,ki,ki'>
+2	ixxaru	NN	<fs af='ixxaru,pn,mf,pl,3,,0,0'>|<fs af='ixxaru,pn,mf,pl,3,,vu,vu'>|<fs af='reVMdu,num,any,any,any,,ru,ru'>
+3	kUwulYlu	NN	<fs af='kUwuru,n,any,pl,3,,0,0'>|<fs af='kUwuru,n,any,pl,3,,vu_agr,vu_agr'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

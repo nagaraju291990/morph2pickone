@@ -1,0 +1,11 @@
+<Sentence id="6586">
+0	((	SSF	
+1	muttukuMte	VM	<fs af='muttuko,v,any,any,any,,we,we'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	virigina	VM	<fs af='virugu,v,any,any,any,,ina,ina'>
+4	eVmukalu	NN	<fs af='eVmuka,n,any,pl,3,,0,0'>|<fs af='eVmuka,n,any,pl,3,,vu_agr,vu_agr'>
+5	oVkaxAninoVkati	NN	<fs af='oVkaxAninoVkati,num,any,any,any,,0,0' poslcat="NM">
+6	rAsukuMtAyi	VM	<fs af='rAsuko,v,n,pl,3,,wA,wA'>|<fs af='rAsuko,v,n,pl,3,,wA,wA'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

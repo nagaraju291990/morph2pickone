@@ -1,0 +1,22 @@
+<Sentence id="9544">			
+0	((	SSF	
+1	cuttU	NST	<fs af='cuttu,n,any,sg,3,,0,0_V'>
+2	vunna	VM	<fs af='vuMdu,v,any,any,any,,ina,ina'>
+3	janaM	NN	<fs af='janaM,n,any,sg,3,,0,0'>
+4	aMwA	QF	<fs af='aMwa,pn,any,pl,3,,0,0_A'>'>
+5	BayapaddAru	VM	<fs af='Bayapadu,v,any,pl,2,,A,A'>
+6	ani	UT	<fs af='ani,avy,,,,,,'>
+7	weVlisi	VM	<fs af='weVliyu,v,any,any,any,,i,i'>
+8	koVni	VAUX	<fs af='koVnu,v,any,any,any,,i,i'>
+9	BayaM	NN	<fs af='BayaM,n,any,sg,3,,0,0'>
+10	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>
+11	annatlu	UT	<fs af='annatlu,avy,,,,,,'>
+12	cewiwo	NN	<fs af='ceyi,n,any,sg,3,,wo,wo'>
+13	saMjFa	NN	<fs af='saMjFa,n,any,sg,3,,0,0'>
+14	ceswU	VM	<fs af='ceVyyi,v,any,any,any,,wU,wU'>
+15	aMxarinI	QF	<fs af='aMxaru,pn,mf,pl,3,,ni,ni_V'>
+16	xaggaraku	NN	<fs af='xaggara,adv,any,any,any,,0,0_adv_ku'>
+17	rammannAdu	VM	<fs af='rammanu,v,m,sg,3,,A,A'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

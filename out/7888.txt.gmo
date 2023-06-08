@@ -1,0 +1,11 @@
+<Sentence id="7888">			
+0	((	SSF	
+1	AlociMci	VM	<fs af='AlociMcu,v,any,any,any,,i,i'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	AlociMci	RDP	<fs af='AlociMcu,v,any,any,any,,i,i' poslcat="NM">
+4	nA	PRP	<fs af='nenu,pn,any,sg,1,,obl,obl'>
+5	xaggaraku	NN	<fs af='xaggara,adv,any,any,any,,0,0_adv_ku' poslcat="NM">
+6	vaccAdu	VM	<fs af='vaccu,v,m,sg,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

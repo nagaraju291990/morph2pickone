@@ -1,0 +1,8 @@
+<Sentence id="1318">			
+0	((	SSF	
+1	Uruko	VM	<fs af='Uru,v,any,any,any,,koVn,koVn'>
+2	maMga	NNP	<fs af='maMga,n,any,sg,3,,0,0'>|<fs af='maMga,n,any,sg,3,,obl,obl'>
+3	vicArapadaku	VM	<fs af='vicArapadu,v,any,sg,2,,aku,aku'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

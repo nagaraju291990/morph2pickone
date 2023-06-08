@@ -1,0 +1,9 @@
+<Sentence id="2839">
+0	((	SSF
+1	moVhan	NNP	<fs af='moVhan,n,any,sg,3,,0,0'>|<fs af='moVhan,n,any,sg,3,,obl,obl'>
+2	mAwraM	PSP	<fs af='mAwraM,avy,,,,,, '>
+3	nAluge	QC	<fs af='nAlugu,n,any,sg,3,,0,0_e'>
+4	vrAsinAdu	VM	<fs af='vrAyi,v,m,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,19 @@
+<Sentence id="6947">
+0	((	SSF
+1	*	SYM	<fs af='*,punc,,,,,, '>
+2	arati	NNP	<fs af='arati,n,any,sg,3,,0,0'>|<fs af='arati,n,any,sg,3,,obl,obl'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	xrAkRa	NNP	<fs af='xrAkRa,n,any,sg,3,,0,0'>|<fs af='xrAkRa,n,any,sg,3,,obl,obl'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	mirapa	NNP	<fs af='mirapa,n,any,sg,3,,0,0'>|<fs af='mirapa,n,any,sg,3,,obl,obl'>
+7	,	SYM	<fs af=',,punc,,,,,, '>
+8	baMgAlYAxuMpa	NNP	<fs af='baMgAlYAxuMpa,n,any,sg,3,,0,0'>|<fs af='baMgAlYAxuMpa,n,any,sg,3,,obl,obl'>
+9	pErlaku	NN	<fs af='pEr,n,,pl,,,ki,ki'>
+10	salPetu	NNP	<fs af='salPet,n,any,sg,3,,0,0'>|<fs af='salPet,n,any,sg,3,,obl,obl'>|<fs af='salPetu,n,any,sg,3,,0,0'>|<fs af='salPetu,n,any,sg,3,,obl,obl'>
+11	AP	NN	<fs af='AP,n,any,sg,3,,0,0'>|<fs af='AP,n,any,sg,3,,obl,obl'>
+12	poVtAR	NNP	<fs af='poVtAR,n,any,sg,3,,0,0'>|<fs af='poVtAR,n,any,sg,3,,obl,obl'>
+13	cAlA	INTF	<fs af='cAlu,v,any,any,any,,i,i_A'>
+14	upayogaM	NN	<fs af='upayogaM,n,any,sg,3,,0,0'>
+15	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

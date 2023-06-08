@@ -1,0 +1,17 @@
+<Sentence id="8845">
+0	((	SSF	
+1	waruvAwa	PSP	<fs af='waruvAwa,avy,,,,,,' poslcat="NM">
+2	manaM	PRP	<fs af='manaM,pn,any,pl,1,,0,0'>
+3	KExulo	NN	<fs af='KExu,n,any,sg,3,,lo,lo'>|<fs af='KExu,n,any,pl,3,,0,0_o'>|<fs af='KExi,n,any,pl,3,,0,0_o'>
+4	peVttamani	VM	<fs af='peVttu,v,any,pl,1,,a_ani,a_ani'>|<fs af='peVttamanu,v,any,any,any,,i,i'>
+5	mana	PRP	<fs af='manaM,pn,any,pl,1,,obl,obl'>
+6	prakAraM	NN	<fs af='prakAraM,n,any,sg,3,,0,0'>
+7	ceyavaccu	VM	<fs af='ceVyyi,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='ceyavaccu,v,any,any,any,,e,e'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	kanaka	CC	<fs af='kanu,v,any,any,any,,aka,aka' poslcat="NM">|<fs af='kanakaM,n,any,sg,3,,obl,obl' poslcat="NM">
+10	naxiki	NN	<fs af='naxi,n,any,sg,3,,ki,ki'>
+11	wIsukuveVlYlakuMdataM	VM	<fs af='wIsukuveVlYlakuMdu,v,any,any,any,,adaM,adaM'>
+12	maMcixi	NN	<fs af='maMci,adj,any,any,any,,xi_adj,xi_adj' poslcat="NM">
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

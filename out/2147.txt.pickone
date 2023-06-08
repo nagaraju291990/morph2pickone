@@ -1,0 +1,35 @@
+<Sentence id="2147">			
+0	((	SSF	
+1	*	SYM	<fs af='*,punc,,,,,,'>
+2	*	SYM	<fs af='*,punc,,,,,,'>
+3	*	SYM	<fs af='*,punc,,,,,,'>
+4	*	SYM	<fs af='*,punc,,,,,,'>
+5	*	SYM	<fs af='*,punc,,,,,,'>
+6	*	SYM	<fs af='*,punc,,,,,,'>
+7	*	SYM	<fs af='*,punc,,,,,,'>
+8	boVppAyi	NN	<fs af='boVppAyi,n,any,sg,3,,0,0'>
+9	goVppawanaM	NN	<fs af='goVppawanaM,n,any,sg,3,,0,0'>
+10	-	SYM	<fs af='<'>
+11	-	SYM	<fs af='<'>
+12	-	SYM	<fs af='<'>
+13	-	SYM	<fs af='<'>
+14	-	SYM	<fs af='<'>
+15	-	SYM	<fs af='<'>
+16	-	SYM	<fs af='<'>
+17	-	SYM	<fs af='<'>
+18	-	SYM	<fs af='<'>
+19	-	SYM	<fs af='<'>
+20	-	SYM	<fs af='<'>
+21	-	SYM	<fs af='<'>
+22	-	SYM	<fs af='<'>
+23	-	SYM	<fs af='<'>
+24	-	SYM	<fs af='<'>
+25	-	SYM	<fs af='<'>
+26	-	SYM	<fs af='<'>
+27	boVppAyi	NN	<fs af='boVppAyi,n,any,sg,3,,0,0'>
+28	sulaBaMgA	RB	<fs af='sulaBaM,n,any,sg,3,,gA,gA'>
+29	peVrige	VM	<fs af='peVrugu,v,any,any,any,,e,e'>
+30	ceVttu	NN	<fs af='ceVttu,n,any,sg,3,,0,0'>
+31	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

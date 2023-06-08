@@ -1,0 +1,14 @@
+<Sentence id="6595">
+0	((	SSF
+1	"	SYM	<fs af='",punc,,,,,, '>
+2	"	SYM	<fs af='",punc,,,,,, '>
+3	oVkkoVkkari	NN	<fs af='oVkkoVkkaru,pn,mf,pl,3,,obl,obl'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	virigina	VM	<fs af='virugu,v,any,any,any,,ina,ina'>|<fs af='virigina,n,any,sg,3,,0,0'>|<fs af='virigina,n,any,sg,3,,obl,obl'>
+6	eVmuka	NN	<fs af='eVmuka,n,any,sg,3,,0,0'>|<fs af='eVmuka,n,any,sg,3,,obl,obl'>
+7	bEtiki	NST	<fs af='bEta,adv,any,any,any,,ku_adv,ku_adv'>|<fs af='bEtiki,n,any,sg,3,,0,0'>|<fs af='bEtiki,n,any,sg,3,,obl,obl'>
+8	poVducuku	NN	<fs af='poVducuku,unk,,,,,,'>
+9	vacceswuMxi	VAUX	<fs af='vacceVyyi,v,fn,sg,3,,wA,wA'>|<fs af='vacceswuMdu,v,fn,sg,3,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

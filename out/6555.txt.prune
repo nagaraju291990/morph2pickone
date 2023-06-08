@@ -1,0 +1,9 @@
+<Sentence id="6555">
+0	((	SSF	
+1	xInine	PRP	<fs af='ixi,pn,fn,sg,3,,ni,ni_e'>
+2	kAlRiyaM	NN	<fs af='kAlRiyaM,n,any,sg,3,,0,0'>
+3	aMtAM	VM	<fs af='anu,v,any,pl,1,,wA,wA'>|<fs af='aMtu,v,any,pl,1,,A,A'>
+4	manaM	PRP	<fs af='manaM,pn,any,pl,1,,0,0'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

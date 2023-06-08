@@ -1,0 +1,12 @@
+<Sentence id="5120">
+0	((	SSF
+1	putte	VM	<fs af='puttu,v,any,any,any,,e,e'>|<fs af='puttu,v,any,any,any,,i,i_e'>|<fs af='putti,n,any,sg,3,,0,0_e'>|<fs af='putta,n,any,sg,3,,0,0_e'>
+2	bidda	NN	<fs af='bidda,n,any,sg,3,,0,0'>|<fs af='bidda,n,any,sg,3,,obl,obl'>
+3	neVlalu	NN	<fs af='neVla,n,any,pl,3,,0,0'>|<fs af='neVla,n,any,pl,3,,vu_agr,vu_agr'>
+4	niMdakuMdA	VM	<fs af='niMdu,v,any,any,any,,akuMdA,akuMdA'>|<fs af='niMdakuMdu,v,any,any,any,,i,i_A'>
+5	putti	VM	<fs af='puttu,v,any,any,any,,i,i'>|<fs af='putti,n,any,sg,3,,0,0'>|<fs af='putti,n,any,sg,3,,obl,obl'>
+6	purutilone	NN	<fs af='purudu,n,any,sg,3,,lo,lo_e'>
+7	canipowuMxi	VM	<fs af='canipo,v,fn,sg,3,,wA,wA'>|<fs af='canipowuMdu,v,fn,sg,3,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

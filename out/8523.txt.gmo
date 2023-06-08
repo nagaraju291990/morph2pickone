@@ -1,0 +1,14 @@
+<Sentence id="8523">			
+0	((	SSF	
+1	mari	CC	<fs af='mari,avy,,,,,,'>
+2	oVkadu	NN	<fs af='oVkadu,n,any,sg,3,,0,0'>
+3	"	SYM	<fs af='",punc,,,,,,'>
+4	Ewe	CC	<fs af='avvu,v,any,any,any,,we,we' poslcat="NM">
+5	mari	RP	<fs af='mari,avy,,,,,,'>
+6	xAniki	PRP	<fs af='axi,pn,fn,sg,3,,ki,ki'>
+7	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+8	battalu	NN	<fs af='batta,n,any,pl,3,,0,0'>|<fs af='batta,n,any,pl,3,,vu_agr,vu_agr'>
+9	eVkkadivi	NN	<fs af='eVkkadi,avy,,pl,,,xi,xi_0' deri_cat=pn poslcat="NM">
+10	?	SYM	<fs af='?,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

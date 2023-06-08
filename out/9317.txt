@@ -1,0 +1,15 @@
+<Sentence id="9317">
+0	((	SSF
+1	veVMtane	NST	<fs af='veVMtane,avy,,,,,, '>
+2	exo	WQ	<fs af='exi,pn,fn,sg,3,,0,0_o'>
+3	wIsuku	NN	<fs af='wIsuko,v,,sg,2,,AjFArWa,AjFArWa'>|<fs af='wIsuko,v,,sg,2,,AjFArWa,AjFArWa'>|<fs af='wIsuko,v,any,any,any,,an_u,an_u'>|<fs af='wIsuko,v,any,any,any,,an_u,an_u'>|<fs af='wiyyi,v,any,any,any,,koVn_u,koVn_u'>
+4	vacci	VAUX	<fs af='vaccu,v,any,any,any,,i,i'>
+5	snAnAla	NN	<fs af='snAnaM,n,any,pl,3,,obl,obl'>
+6	gaxiki	NN	<fs af='gaxi,n,any,sg,3,,ki,ki'>
+7	nAlugu	QC	<fs af='nAlugu,n,any,sg,3,,0,0'>|<fs af='nAlugu,n,any,sg,3,,obl,obl'>|<fs af='nAlugu,num,any,any,any,,0,0'>
+8	vepulA	NN	<fs af='veM,nst,,,,,lA_0,lA_0_adv'>
+9	addAlu	NN	<fs af='addaM,n,any,pl,3,,0,0'>|<fs af='addaM,n,any,pl,3,,vu_agr,vu_agr'>
+10	kattAru	VM	<fs af='kattu,v,any,pl,2,,A,A'>|<fs af='kattu,v,mf,pl,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

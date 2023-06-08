@@ -1,0 +1,9 @@
+<Sentence id="8110">
+0	((	SSF
+1	rAkapowe	VM	<fs af='vaccu,v,any,any,any,,akapowe,akapowe'>|<fs af='rAkapo,v,any,any,any,,we,we'>
+2	cUdi	NN	<fs af='cUdi,n,any,sg,3,,0,0'>|<fs af='cUdi,n,any,sg,3,,obl,obl'>
+3	nilicina	VM	<fs af='niluvu,v,any,any,any,,ina,ina'>
+3	atle	VM	<fs af='attu,n,any,pl,3,,0,0_e'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

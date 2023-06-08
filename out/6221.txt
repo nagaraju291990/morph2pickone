@@ -1,0 +1,26 @@
+<Sentence id="6221">
+0	((	SSF
+1	SrIkUrmaM	NN	<fs af='SrIkUrmaM,n,any,sg,3,,0,0'>
+2	:	SYM	<fs af=':,punc,,,,,, '>
+3	SrIkAkulYAniki	NNP	<fs af='SrIkAkulYaM,n,any,sg,3,,ki,ki'>
+4	15	QC	<fs af='15,num,,,,,, '>
+5	ki	NN	<fs af='ki,avy,,,,,, '>|<fs af='mIru,pn,any,pl,2,,obl,obl'>
+6	|	SYM
+7	|	SYM
+8	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+9	xUraMlo	NN	<fs af='xUraM,n,any,sg,3,,lo,lo'>
+10	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+11	I	DEM	<fs af='I,avy,,,,,, '>
+12	grAmaMlo	NN	<fs af='grAmaM,n,any,sg,3,,lo,lo'>
+13	SrImahAviRNuvu	NNP	<fs af='SrImahAviRNuvu,n,any,sg,3,,0,0'>|<fs af='SrImahAviRNuvu,n,any,sg,3,,obl,obl'>
+14	avawAramEna	JJ	<fs af='avawAraM,n,any,sg,3,,Ena,Ena'>
+15	kUrma	NN	<fs af='kUrmaM,n,any,sg,3,,obl,obl'>
+16	rUpaMlo	NN	<fs af='rUpaM,n,any,sg,3,,lo,lo'>
+17	veVlasina	VM	<fs af='veVlayu,v,any,any,any,,ina,ina'>|<fs af='veVlayu,v,any,any,any,,ina,ina'>
+18	SrIkUrmanAXa	NNP	<fs af='SrIkUrmanAXa,n,any,sg,3,,0,0'>|<fs af='SrIkUrmanAXa,n,any,sg,3,,obl,obl'>
+19	xevAlayaM	NN	<fs af='xevAlayaM,n,any,sg,3,,0,0'>
+20	prasixXi	NN	<fs af='prasixXi,n,any,sg,3,,0,0'>|<fs af='prasixXi,n,any,sg,3,,obl,obl'>
+21	ceVMxinaxi	VM	<fs af='ceVMxu,v,any,any,any,,ina_axi,ina_axi'>|<fs af='ceVMxinaxi,pn,any,sg,3,,0,0'>
+22	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

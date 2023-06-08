@@ -1,0 +1,7 @@
+<Sentence id="7885">
+0	((	SSF
+1	calapawi	NNP	<fs af='calapawi,n,any,sg,3,,0,0'>|<fs af='calapawi,n,any,sg,3,,obl,obl'>
+2	beVxiripoyAdu	VM	<fs af='beVxiripo,v,m,sg,3,,A,A'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

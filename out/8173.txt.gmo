@@ -1,0 +1,10 @@
+<Sentence id="8173">			
+0	((	SSF	
+1	ExAru	QC	<fs af='ExAru,n,any,sg,3,,0,0'>|<fs af='ExAru,n,any,sg,3,,obl,obl'>
+2	vArAlu	NN	<fs af='vArA,n,any,pl,3,,0,0'>|<fs af='vArA,n,any,pl,3,,vu_agr,vu_agr'>
+3	ilA	RB	<fs af='ilA,avy,,,,,,' poslcat="NM">'>|<fs af='ila,n,any,sg,3,,0,0_A' poslcat="NM">'>
+4	pAlu	NN	<fs af='paM,n,any,pl,3,,0,0'>|<fs af='paM,n,any,pl,3,,vu_agr,vu_agr'>
+5	wAgiMcAli	VM	<fs af='wAgiMcu,v,any,any,any,,Ali,Ali'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

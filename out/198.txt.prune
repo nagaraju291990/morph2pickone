@@ -1,0 +1,8 @@
+<Sentence id="198">
+0	((	SSF	
+1	AdAmagA	NN	<fs af='AdAmaga,n,any,sg,3,,0,0_A'>|<fs af='AdAmaga,n,any,sg,3,,0,0_V'>|<fs af='AdAmagA,n,any,sg,3,,0,0'>|<fs af='AdAmagA,n,any,sg,3,,obl,obl'>
+2	panilo	NN	<fs af='pani,n,any,sg,3,,lo,lo'>
+3	samAnaM	NN	<fs af='samAnaM,n,any,sg,3,,0,0'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

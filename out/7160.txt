@@ -1,0 +1,9 @@
+<Sentence id="7160">
+0	((	SSF
+1	goviMxuku	NNP	<fs af='goviMx,n,any,sg,3,,ki,ki'>|<fs af='goviMxu,n,any,sg,3,,ki,ki'>
+2	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+3	eM	WQ	<fs af='eM,avy,,,,,, '>
+4	weVlusu	VM	<fs af='weVlusu,avy,,,,,, '>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

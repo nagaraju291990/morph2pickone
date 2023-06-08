@@ -1,0 +1,9 @@
+<Sentence id="1882">
+0	((	SSF	
+1	mosapoyexAniki	VM	<fs af='mosapoyexi,pn,any,sg,3,,ki,ki' poslcat="NM">
+2	caxuvulawo	NN	<fs af='caxuvu,n,any,pl,3,,wo,wo'>
+3	pani	VM	<fs af='pani,n,any,sg,3,,0,0' poslcat="NM">|<fs af='pani,n,any,sg,3,,obl,obl' poslcat="NM">
+3	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

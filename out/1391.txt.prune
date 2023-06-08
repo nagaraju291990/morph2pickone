@@ -1,0 +1,24 @@
+<Sentence id="1391">
+0	((	SSF	
+1	eVruvula	NN	<fs af='eVruvu,n,any,pl,3,,obl,obl'>
+2	vAdakaM	NN	<fs af='vAdakaM,n,any,sg,3,,0,0'>
+3	varRAXAraM	NN	<fs af='varRAXAraM,n,any,sg,3,,0,0'>
+4	kiMxa	NST	<fs af='kiMxa,adv,any,any,any,,0_adv,0_adv'>
+5	woVlakarilo	NN	<fs af='woVlakari,n,any,sg,3,,lo,lo'>
+6	vese	VM	<fs af='veVyyi,v,any,any,any,,e,e'>|<fs af='veVyyi,v,any,any,any,,i,i_e'>
+7	AmuxaM	NN	<fs af='AmuxaM,n,any,sg,3,,0,0'>
+8	paMtaku	NN	<fs af='paMta,n,any,sg,3,,ki,ki'>
+9	heVktAruku	NN	<fs af='heVktAr,n,any,sg,3,,ki,ki'>|<fs af='heVktAru,n,any,sg,3,,ki,ki'>
+10	20	QC	<fs af='20,num,,,,,,'>
+11	kilogrAmula	NN	<fs af='kilogrAm,n,any,pl,3,,obl,obl'>|<fs af='kilogrAmu,n,any,pl,3,,obl,obl'>
+12	nawrajani	NN	<fs af='nawrajani,n,any,sg,3,,0,0'>|<fs af='nawrajani,n,any,sg,3,,obl,obl'>
+13	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+14	40	QC	<fs af='40,num,,,,,,'>
+15	kilogrAmula	NN	<fs af='kilogrAm,n,any,pl,3,,obl,obl'>|<fs af='kilogrAmu,n,any,pl,3,,obl,obl'>
+16	BAsvaraM	NN	<fs af='BAsvaraM,n,any,sg,3,,0,0'>
+17	icce	VM	<fs af='ivvu,v,any,any,any,,e,e'>|<fs af='ivvu,v,any,any,any,,i,i_e'>
+18	eVruvulu	NN	<fs af='eVruvu,n,any,pl,3,,0,0'>|<fs af='eVruvu,n,any,pl,3,,vu_agr,vu_agr'>
+19	vAdAli	VM	<fs af='vAdu,v,any,any,any,,Ali,Ali'>
+20	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

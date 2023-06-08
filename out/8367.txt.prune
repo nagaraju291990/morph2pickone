@@ -1,0 +1,14 @@
+<Sentence id="8367">
+0	((	SSF	
+1	weVnAli	NNP	<fs af='weVnAli,n,any,sg,3,,0,0'>|<fs af='weVnAli,n,any,sg,3,,obl,obl'>
+2	nuMdi	PSP	<fs af='nuMdi,avy,,,,,,' poslcat="NM">
+3	29	QC	<fs af='29,num,,,,,,'>
+4	ki	NN	<fs af='ki,avy,,,,,,' poslcat="NM">|<fs af='mIru,pn,any,pl,2,,obl,obl' poslcat="NM">
+5	|	SYM	<'>|<poslcat="NM"'>
+6	|	SYM	<'>|<poslcat="NM"'>
+7	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl' poslcat="NM">
+8	xUraMlo	NN	<fs af='xUraM,n,any,sg,3,,lo,lo'>
+9	unnaxi	VM	<fs af='uMdu,v,any,any,any,,ina_axi,ina_axi'>|<fs af='uMdu,v,fn,sg,3,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

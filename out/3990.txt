@@ -1,0 +1,11 @@
+<Sentence id="3990">
+0	((	SSF
+1	vIdiki	PRP	<fs af='vIdu,pn,,sg,,,ki,ki'>
+2	wagina	VM	<fs af='wagu,v,any,any,any,,ina,ina'>|<fs af='wagina,adj,any,any,any,,0_adj,0_adj'>
+3	SikRa	NN	<fs af='SikRa,n,any,sg,3,,0,0'>|<fs af='SikRa,n,any,sg,3,,obl,obl'>
+4	veVyyAli	VM	<fs af='veVyyi,v,any,any,any,,Ali,Ali'>
+5	anukunnAdu	VM	<fs af='anuko,v,m,sg,3,,A,A'>
+6	rAju	NN	<fs af='rAju,n,any,sg,3,,0,0'>|<fs af='rAju,n,any,sg,3,,obl,obl'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

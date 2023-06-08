@@ -1,0 +1,22 @@
+<Sentence id="4952">			
+0	((	SSF	
+1	cepa	NN	<fs af='cepa,n,any,sg,3,,0,0'>
+2	valalu	NN	<fs af='vala,n,any,pl,3,,0,0'>
+3	_	SYM	<fs af='<'>
+4	_	SYM	<fs af='<'>
+5	_	SYM	<fs af='<'>
+6	_	SYM	<fs af='<'>
+7	_	SYM	<fs af='<'>
+8	_	SYM	<fs af='<'>
+9	_	SYM	<fs af='<'>
+10	_	SYM	<fs af='<'>
+11	_	SYM	<fs af='<'>
+12	_	SYM	<fs af='<'>
+13	cepalanu	NN	<fs af='cepa,n,any,pl,3,,ni,ni'>
+14	patte	VM	<fs af='pattu,v,any,any,any,,e,e'>
+15	valalu	NN	<fs af='vala,n,any,pl,3,,0,0'>
+16	rakarakAlugA	RB	<fs af='rakarakAlu,n,any,sg,3,,gA,gA'>
+17	uMtAyi	VM	<fs af='uMdu,v,n,pl,3,,wA,wA'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

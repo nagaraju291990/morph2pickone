@@ -1,0 +1,75 @@
+<Sentence id="7457">
+0	((	SSF	
+1	vaXuvu	NN	<fs af='vaXuvu,n,any,sg,3,,0,0'>|<fs af='vaXuvu,n,any,sg,3,,obl,obl'>
+2	kaMTamu	NN	<fs af='kaMTaM,n,any,sg,3,,0,0'>
+3	naMxu	PRP	<fs af='naMxu,n,any,sg,3,,0,0' poslcat="NM">|<fs af='naMxu,n,any,sg,3,,obl,obl' poslcat="NM">
+4	varakatna	NN	<fs af='varakatnaM,n,any,sg,3,,obl,obl'>
+5	wAdu	NN	<fs af='wAdu,n,any,sg,3,,0,0'>|<fs af='wAdu,n,any,sg,3,,obl,obl'>
+6	eVnnatiki	WQ	<fs af='eVnnadu,n,any,sg,3,,ki,ki' poslcat="NM">
+7	mudiveya	VM	<fs af='mudiveVyyi,v,any,any,any,,an,an'>
+7	niMca	VM	<fs af='niMcu,v,any,any,any,,an,an'>
+7	boku	VM	<fs af='bo,v,any,sg,2,,aku,aku'>
+9	!	SYM	<fs af='!,punc,,,,,,'>
+10	maMci	JJ	<fs af='maMci,adj,any,any,any,,0_adj,0_adj'>
+11	puswakaM	NN	<fs af='puswakaM,n,any,sg,3,,0,0'>
+12	nenu	PRP	<fs af='nenu,pn,,sg,,,0,0'>
+12	oVka	NN	<fs af='oVka,adj,,,,,0,0_adj' poslcat="NM">
+13	maMci	JJ	<fs af='maMci,adj,any,any,any,,0_adj,0_adj'>
+14	puswakaM	NN	<fs af='puswakaM,n,any,sg,3,,0,0'>
+15	nannu	PRP	<fs af='nenu,pn,any,sg,1,,ni,ni'>
+16	caxiviwe	VM	<fs af='caxuvu,v,any,any,any,,we,we'>
+17	mIku	PRP	<fs af='mIru,pn,any,pl,2,,ki,ki'>
+17	eVMwo	PRP	<fs af='eVMwa,pn,any,pl,3,,0,0_o'>
+18	lABaM	NN	<fs af='lABaM,n,any,sg,3,,0,0'>
+19	manasunu	NN	<fs af='manasu,n,any,sg,3,,ni,ni'>|<fs af='manasu,n,any,sg,3,,ni_agr,ni_agr'>
+20	pulakiMpa	VM	<fs af='pulakiMcu,v,any,any,any,,an,an'>
+20	ceswAnu	VM	<fs af='ceVyyi,v,any,sg,1,,wA,wA'>
+21	mamawanu	NN	<fs af='mamawa,n,any,sg,3,,ni,ni'>|<fs af='mamawa,n,any,sg,3,,ni_agr,ni_agr'>
+22	moVlakaleVwwu	NN	<fs af='moVlakaleVwwu,n,,sg,,,0,0'>|<fs af='moVlakaleVwwu,n,,sg,,,obl,obl'>
+22	iswAnu	VM	<fs af='ivvu,v,,sg,1,,wA,wA'>
+23	anurAgaM	NN	<fs af='anurAgaM,n,any,sg,3,,0,0'>
+24	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+25	ApyAyawa	NN	<fs af='ApyAyawa,n,any,sg,3,,0,0'>|<fs af='ApyAyawa,n,any,sg,3,,obl,obl'>
+26	aMxiswAnu	VM	<fs af='aMxiMcu,v,any,sg,1,,wA,wA'>
+27	mAnavawvaM	NN	<fs af='mAnavawvaM,n,any,sg,3,,0,0'>
+28	gala	JJ	<fs af='gala,adj,any,any,any,,0_adj,0_adj'>
+29	maniRini	NN	<fs af='maniRi,n,any,sg,3,,ni,ni'>|<fs af='maniRi,n,any,sg,3,,ni_agr,ni_agr'>
+30	ceswAnu	VM	<fs af='ceVyyi,v,any,sg,1,,wA,wA'>
+31	vIrunigA	RB	<fs af='vIrudu,n,any,sg,3,,gA,gA' poslcat="NM">
+32	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+33	SUrunigA	RB	<fs af='SUrudu,n,any,sg,3,,gA,gA' poslcat="NM">
+34	ninu	NN	<fs af='nin,n,,sg,,,0,0'>|<fs af='nin,n,,sg,,,obl,obl'>
+35	ceswAnu	VM	<fs af='ceVyyi,v,any,sg,1,,wA,wA'>
+36	nIwi	NN	<fs af='nIwi,n,any,sg,3,,0,0'>|<fs af='nIwi,n,any,sg,3,,obl,obl'>
+37	niyamAlanu	NN	<fs af='niyamaM,n,any,pl,3,,ni,ni'>
+38	weVliyajeswAnu	VM	<fs af='weVliyajeVyyi,v,any,sg,1,,wA,wA'>
+39	nI	PRP	<fs af='nIvu,pn,any,sg,2,,obl,obl'>
+40	manasunu	NN	<fs af='manasu,n,any,sg,3,,ni,ni'>|<fs af='manasu,n,any,sg,3,,ni_agr,ni_agr'>
+41	AnaMxiMpajeswAnu	VM	<fs af='AnaMxiMpajeVyyi,v,any,sg,1,,wA,wA'>
+42	mAtalalo	NN	<fs af='mAta,n,any,pl,3,,lo,lo'>
+43	cewalalo	NN	<fs af='cewalu,n,any,sg,3,,lo,lo'>
+44	mArpulu	NN	<fs af='mArpu,n,any,pl,3,,0,0'>|<fs af='mArpu,n,any,pl,3,,vu_agr,vu_agr'>
+45	weVswAnu	VM	<fs af='we,v,any,sg,1,,wA,wA'>
+46	maMci	JJ	<fs af='maMci,adj,any,any,any,,0_adj,0_adj'>
+47	maniRigA	RB	<fs af='maniRi,n,any,sg,3,,gA,gA' poslcat="NM">
+48	ninu	NN	<fs af='nin,n,,sg,,,0,0'>|<fs af='nin,n,,sg,,,obl,obl'>
+49	maluswAnu	VM	<fs af='maluvu,v,any,sg,1,,wA,wA'>
+50	nyAyaM	NN	<fs af='nyAyaM,n,any,sg,3,,0,0'>
+51	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+52	XarmaM	NN	<fs af='XarmaM,n,any,sg,3,,0,0'>
+53	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+54	sawyaM	NN	<fs af='sawyaM,n,any,sg,3,,0,0'>
+55	bAtalalo	NN	<fs af='bAta,n,any,pl,3,,lo,lo'>
+56	nadipiswAnu	VM	<fs af='nadipiMcu,v,any,sg,1,,wA,wA'>
+57	nenu	PRP	<fs af='nenu,pn,any,sg,1,,0,0'>
+58	mI	PRP	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+59	neswAnni	NN	<fs af='neswaM,n,any,sg,3,,ni,ni'>|<fs af='neswaM,n,any,sg,3,,ni_agr,ni_agr'>
+60	warawarAla	NN	<fs af='warawaraM,n,any,pl,3,,obl,obl'>
+61	saMpraxAyAnni	NN	<fs af='saMpraxAyaM,n,any,sg,3,,ni,ni'>|<fs af='saMpraxAyaM,n,any,sg,3,,ni_agr,ni_agr'>
+62	xAcipeVttina	VM	<fs af='xAcipeVttu,v,any,any,any,,ina,ina'>
+63	boVkkasAnni	NN	<fs af='boVkkasaM,n,any,sg,3,,ni,ni'>|<fs af='boVkkasaM,n,any,sg,3,,ni_agr,ni_agr'>
+64	maMci	JJ	<fs af='maMci,adj,any,any,any,,0_adj,0_adj'>
+65	puswakAnni	NN	<fs af='puswakaM,n,any,sg,3,,ni,ni'>|<fs af='puswakaM,n,any,sg,3,,ni_agr,ni_agr'>
+66	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

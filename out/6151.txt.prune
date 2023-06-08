@@ -1,0 +1,18 @@
+<Sentence id="6151">
+0	((	SSF	
+1	1933	QC	<fs af='1933,num,,,,,,'>
+2	nAtiki	NST	<fs af='nAdu,n,any,sg,3,,ki,ki'>
+3	AMXrapraxeS	NNP	<fs af='AMXrapraxeS,n,any,sg,3,,0,0'>|<fs af='AMXrapraxeS,n,any,sg,3,,obl,obl'>
+4	lo	PSP	<fs af='lo,avy,,,,,,' poslcat="NM">
+5	jAwIya	JJ	<fs af='jAwIya,adj,any,any,any,,0_adj,0_adj'>
+6	rahaxArlu	NN	<fs af='rahaxAri,n,any,pl,3,,0,0'>|<fs af='rahaxAri,n,any,pl,3,,ni_agr,ni_agr'>
+7	2	QC	<fs af='2,num,,,,,,'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	949	QC	<fs af='949,num,,,,,,'>
+10	ki	NN	<fs af='ki,avy,,,,,,' poslcat="NM">|<fs af='mIru,pn,any,pl,2,,obl,obl' poslcat="NM">
+11	|	SYM	<'>|<poslcat="NM"'>
+12	|	SYM	<'>|<poslcat="NM"'>
+13	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl' poslcat="NM">
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

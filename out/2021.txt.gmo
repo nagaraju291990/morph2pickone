@@ -1,0 +1,9 @@
+<Sentence id="2021">			
+0	((	SSF	
+1	cUswunna	VM	<fs af='cUdu,v,any,any,any,,wunna,wunna'>|<fs af='cUswuMdu,v,any,any,any,,ina,ina'>
+2	manaku	PRP	<fs af='manaM,pn,any,pl,1,,ki,ki'>
+3	guMdeV	NN	<fs af='guMdeV,n,any,sg,3,,0,0'>|<fs af='guMdeV,n,any,sg,3,,obl,obl'>
+4	jallumaMtuMxi	VM	<fs af='jallumanu,v,fn,sg,3,,wA,wA'>|<fs af='jallumaMtuMdu,v,fn,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,7 @@
+<Sentence id="9186">
+0	((	SSF
+1	cUsi	VM	<fs af='cUdu,v,any,any,any,,i,i'>
+2	powunnAru	VM	<fs af='po,v,any,pl,2,,wunn,wunn'>|<fs af='po,v,mf,pl,3,,wunn,wunn'>|<fs af='powuMdu,v,any,pl,2,,A,A'>|<fs af='powuMdu,v,mf,pl,3,,A,A'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

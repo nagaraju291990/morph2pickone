@@ -1,0 +1,8 @@
+<Sentence id="4199">
+0	((	SSF	
+1	BImudu	NNP	<fs af='BImudu,n,any,sg,3,,0,0'>
+2	bIdI	NN	<fs af='bIdI,n,any,sg,3,,0,0'>|<fs af='bIdI,n,any,sg,3,,obl,obl'>
+3	veVligiMcAdu	VM	<fs af='veVligiMcu,v,m,sg,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

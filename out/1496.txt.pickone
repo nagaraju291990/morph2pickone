@@ -1,0 +1,14 @@
+<Sentence id="1496">			
+0	((	SSF	
+1	avunu	VM	<fs af='avvu,v,any,sg,3,,uxu,uxu'>
+2	AdavAlYla	NN	<fs af='AdavAlYlu,pn,mf,pl,3,,obl,obl'>
+3	cewullone	NN	<fs af='ceyi,n,any,pl,3,,lo,lo_e'>
+4	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+5	!	SYM	<fs af='!,punc,,,,,,'>
+6	vAlYlu	PRP	<fs af='vAlYlu,pn,mf,pl,3,,0,0'>
+7	vaxxu	NN	<fs af='vaxxu,avy,,,,,0,0_avy'>
+7	anukuMte	VM	<fs af='anuko,v,any,any,any,,we,we'>
+8	AgoVccu	VM	<fs af='Agu,v,any,any,any,,a_vaccu,a_vaccu'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

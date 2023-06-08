@@ -1,0 +1,21 @@
+<Sentence id="352">			
+0	((	SSF	
+1	AdavAlYla	NN	<fs af='AdavAlYlu,pn,mf,pl,3,,obl,obl'>
+2	ArogyaM	NN	<fs af='ArogyaM,n,any,sg,3,,0,0'>
+3	anniMtA	NN	<fs af='anniMtA,avy,,,,,0,0_avy'>
+4	AdavAlYlu	NN	<fs af='AdavAlYlu,n,any,sg,3,,0,0'>
+5	magavAlYlawo	NN	<fs af='maga,n,,pl,,,vAlYlu_wo,vAlYlu_wo' deri_cat=pn>
+6	samAnaMgA	RB	<fs af='samAnaM,n,any,sg,3,,gA,gA'>
+7	uMtene	VM	<fs af='uMdu,v,any,any,any,,we,we_e'>
+8	sAXyaM	NN	<fs af='sAXyaM,n,any,sg,3,,0,0'>
+9	AdavAlYlaku	NN	<fs af='AdavAlYlu,pn,mf,pl,3,,ki,ki'>
+10	magavAlYlawo	NN	<fs af='maga,n,,pl,,,vAlYlu_wo,vAlYlu_wo' deri_cat=pn>
+11	pAtu	PSP	<fs af='pAtu,n,any,sg,3,,0,0'>'>
+12	samAnaMgA	RB	<fs af='samAnaM,n,any,sg,3,,gA,gA'>
+13	kUcuni	VM	<fs af='kUco,v,any,any,any,,i,i'>
+14	wine	VM	<fs af='winu,v,any,any,any,,e,e'>
+15	hakku	NN	<fs af='hakku,n,any,sg,3,,0,0'>
+16	uMdAli	VM	<fs af='uMdu,v,any,any,any,,Ali,Ali'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

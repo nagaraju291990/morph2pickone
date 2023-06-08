@@ -1,0 +1,8 @@
+<Sentence id="5918">
+0	((	SSF
+1	pagalu	VM	<fs af='pagalu,n,,sg,,,0,0'>|<fs af='pagalu,n,,sg,,,obl,obl'>|<fs af='pagulu,v,,sg,2,,AjFArWa,AjFArWa'>|<fs af='paga,n,,pl,,,0,0'>|<fs af='paga,n,,pl,,,vu,vu'>
+1	aMwA	PRP	<fs af='aMwa,pn,,pl,,,0_A,0_A'>|<fs af='aMwa,pn,,pl,,,0_V,0_V'>
+2	gadicipoyiMxi	VM	<fs af='gadicipo,v,fn,sg,3,,A,A'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

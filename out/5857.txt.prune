@@ -1,0 +1,16 @@
+<Sentence id="5857">
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	ixeVkkadi	PRP	<fs af='ixeVkkada,adv,any,any,any,,yoVkka_adv,yoVkka_adv' poslcat="NM">
+3	picci	NN	<fs af='picci,n,,sg,,,0,0'>|<fs af='picci,n,,sg,,,obl,obl'>
+3	pilla	NN	<fs af='pilla,n,,sg,,,0,0'>|<fs af='pilla,n,,sg,,,0,0'>|<fs af='pilla,n,,sg,,,obl,obl'>|<fs af='pilla,n,,sg,,,obl,obl'>|<fs af='pil,n,,pl,,,obl,obl'>
+4	!	SYM	<fs af='!,punc,,,,,,'>
+5	ilAMti	JJ	<fs af='ilAMti,adj,any,any,any,,0_adj,0_adj'>
+6	picci	NN	<fs af='picci,n,,sg,,,0,0'>|<fs af='picci,n,,sg,,,obl,obl'>
+6	pilla	NN	<fs af='pilla,n,,sg,,,0,0'>|<fs af='pilla,n,,sg,,,0,0'>|<fs af='pilla,n,,sg,,,obl,obl'>|<fs af='pilla,n,,sg,,,obl,obl'>|<fs af='pil,n,,pl,,,obl,obl'>
+7	eVkkadi	NN	<fs af='eVkkadi,avy,,,,,,' poslcat="NM">|<fs af='eVkkada,nst,,,,,yoVkka,yoVkka_adv' poslcat="NM">
+7	EnA	NN	<fs af='EnA,avy,,,,,,' poslcat="NM">
+8	uMtuMxA	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA_A'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A_A'>
+9	?	SYM	<fs af='?,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

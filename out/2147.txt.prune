@@ -1,0 +1,35 @@
+<Sentence id="2147">
+0	((	SSF	
+1	*	SYM	<fs af='*,punc,,,,,,'>
+2	*	SYM	<fs af='*,punc,,,,,,'>
+3	*	SYM	<fs af='*,punc,,,,,,'>
+4	*	SYM	<fs af='*,punc,,,,,,'>
+5	*	SYM	<fs af='*,punc,,,,,,'>
+6	*	SYM	<fs af='*,punc,,,,,,'>
+7	*	SYM	<fs af='*,punc,,,,,,'>
+8	boVppAyi	NN	<fs af='boVppAyi,n,any,sg,3,,0,0'>|<fs af='boVppAyi,n,any,sg,3,,obl,obl'>
+9	goVppawanaM	NN	<fs af='goVppawanaM,n,any,sg,3,,0,0'>
+10	-	SYM	<'>|<poslcat="NM"'>
+11	-	SYM	<'>|<poslcat="NM"'>
+12	-	SYM	<'>|<poslcat="NM"'>
+13	-	SYM	<'>|<poslcat="NM"'>
+14	-	SYM	<'>|<poslcat="NM"'>
+15	-	SYM	<'>|<poslcat="NM"'>
+16	-	SYM	<'>|<poslcat="NM"'>
+17	-	SYM	<'>|<poslcat="NM"'>
+18	-	SYM	<'>|<poslcat="NM"'>
+19	-	SYM	<'>|<poslcat="NM"'>
+20	-	SYM	<'>|<poslcat="NM"'>
+21	-	SYM	<'>|<poslcat="NM"'>
+22	-	SYM	<'>|<poslcat="NM"'>
+23	-	SYM	<'>|<poslcat="NM"'>
+24	-	SYM	<'>|<poslcat="NM"'>
+25	-	SYM	<'>|<poslcat="NM"'>
+26	-	SYM	<'>|<poslcat="NM"'>
+27	boVppAyi	NN	<fs af='boVppAyi,n,any,sg,3,,0,0'>|<fs af='boVppAyi,n,any,sg,3,,obl,obl'>
+28	sulaBaMgA	RB	<fs af='sulaBaM,n,any,sg,3,,gA,gA' poslcat="NM">
+29	peVrige	VM	<fs af='peVrugu,v,any,any,any,,e,e'>|<fs af='peVrugu,v,any,any,any,,i,i_e'>
+30	ceVttu	NN	<fs af='ceVttu,n,any,sg,3,,0,0'>|<fs af='ceVttu,n,any,sg,3,,obl,obl'>
+31	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

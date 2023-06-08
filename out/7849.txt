@@ -1,0 +1,15 @@
+<Sentence id="7849">
+0	((	SSF
+1	mA	PRP	<fs af='memu,pn,any,pl,1,,obl,obl'>
+2	poVruguna	NN	<fs af='poVrugu,n,any,sg,3,,na,na'>
+3	calapawi	NNP	<fs af='calapawi,n,any,sg,3,,0,0'>|<fs af='calapawi,n,any,sg,3,,obl,obl'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	kamala	NNP	<fs af='kamulu,v,any,any,any,,an,an'>|<fs af='kamala,n,any,sg,3,,0,0'>|<fs af='kamala,n,any,sg,3,,obl,obl'>
+6	uMtAru	VM	<fs af='uMdu,v,any,pl,2,,wA,wA'>|<fs af='uMdu,v,mf,pl,3,,wA,wA'>
+7	kamala	NNP	<fs af='kamulu,v,any,any,any,,an,an'>|<fs af='kamala,n,any,sg,3,,0,0'>|<fs af='kamala,n,any,sg,3,,obl,obl'>
+8	paxo	QO	<fs af='paxi,n,any,sg,3,,0,0_o'>
+9	waragawi	NN	<fs af='waragawi,n,any,sg,3,,0,0'>|<fs af='waragawi,n,any,sg,3,,obl,obl'>
+10	caxiviMxi	VM	<fs af='caxuvu,v,fn,sg,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

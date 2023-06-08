@@ -1,0 +1,15 @@
+<Sentence id="4965">
+0	((	SSF	
+1	maMci	JJ	<fs af='maMci,adj,any,any,any,,0_adj,0_adj'>
+2	nIti	NN	<fs af='nIru,n,any,sg,3,,obl,obl'>
+3	cepalu	NN	<fs af='cepa,n,any,pl,3,,0,0'>|<fs af='cepa,n,any,pl,3,,vu_agr,vu_agr'>
+4	pattadAniki	VM	<fs af='pattadaM,n,any,sg,3,,ki,ki' poslcat="NM">
+5	visire	VM	<fs af='visuru,v,any,any,any,,e,e'>|<fs af='visuru,v,any,any,any,,i,i_e'>
+6	vala	NN	<fs af='vala,n,any,sg,3,,0,0'>|<fs af='vala,n,any,sg,3,,obl,obl'>|<fs af='valaM,n,any,sg,3,,obl,obl'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	rAta	NNP	<fs af='rAtaM,n,any,sg,3,,obl,obl'>
+9	vala	NN	<fs af='vala,n,any,sg,3,,0,0'>|<fs af='vala,n,any,sg,3,,obl,obl'>|<fs af='valaM,n,any,sg,3,,obl,obl'>
+10	upayogiswAru	VM	<fs af='upayogiMcu,v,any,pl,2,,wA,wA'>|<fs af='upayogiMcu,v,mf,pl,3,,wA,wA'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

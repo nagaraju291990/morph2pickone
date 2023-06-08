@@ -1,0 +1,15 @@
+<Sentence id="8900">
+0	((	SSF
+1	xIrGaM	NN	<fs af='xIrGa,adj,any,any,any,,xi_adj,xi_adj'>|<fs af='xIrGaM,n,any,sg,3,,0,0'>
+2	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+3	cota	NST	<fs af='cota,adv,any,any,any,,0_adv,0_adv'>
+4	hrasvamU	NN	<fs af='hrasvaM,n,any,sg,3,,0,0_V'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	hrasvaM	NN	<fs af='hrasva,adj,any,any,any,,xi_adj,xi_adj'>|<fs af='hrasvaM,n,any,sg,3,,0,0'>
+7	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+8	cota	NST	<fs af='cota,adv,any,any,any,,0_adv,0_adv'>
+9	xIrGamU	NN	<fs af='xIrGaM,n,any,sg,3,,0,0_V'>
+10	uccariswAru	VM	<fs af='uccariMcu,v,any,pl,2,,wA,wA'>|<fs af='uccariMcu,v,mf,pl,3,,wA,wA'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

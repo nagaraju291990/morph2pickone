@@ -1,0 +1,17 @@
+<Sentence id="2102">
+0	((	SSF	
+1	mAMwrikudu	NN	<fs af='mAMwrikudu,n,any,sg,3,,0,0'>
+2	rAkumArini	NN	<fs af='rAkumAri,n,any,sg,3,,ni,ni'>|<fs af='rAkumAri,n,any,sg,3,,ni_agr,ni_agr'>
+3	eVwwukoVni	VM	<fs af='eVwwuko,v,any,any,any,,i,i'>|<fs af='eVwwuko,v,any,any,any,,i,i'>
+4	gurraM	NN	<fs af='gurraM,n,any,sg,3,,0,0'>
+5	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+6	AkASaMloki	NN	<fs af='AkASaM,n,any,sg,3,,lopalaki,lopalaki'>
+7	eVgiri	VM	<fs af='eVguru,v,any,any,any,,i,i'>
+8	poyAdu	VAUX	<fs af='po,v,m,sg,3,,A,A' poslcat="NM">
+9	aMte	UT	<fs af='aMte,avy,,,,,,'>|<fs af='anu,v,any,any,any,,we,we'>|<fs af='aMtu,v,any,any,any,,e,e'>|<fs af='aMtu,v,any,any,any,,i,i_e'>
+10	kaWa	NN	<fs af='kaWa,n,,sg,,,0,0'>|<fs af='kaWa,n,,sg,,,obl,obl'>
+10	lAge	VM	<fs af='lAgu,v,any,any,any,,e,e'>|<fs af='lAgu,v,any,any,any,,i_e,i_e'>
+11	viMtunnAmu	VM	<fs af='vinu,v,any,pl,1,,wunn,wunn'>|<fs af='viMtuMdu,v,any,pl,1,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

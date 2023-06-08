@@ -1,0 +1,16 @@
+<Sentence id="4115">			
+0	((	SSF	
+1	mIre	PRP	<fs af='nIvu,pn,any,pl,2,,0,0_e'>
+2	cUdaMdi	VM	<fs af='cUdu,v,any,pl,2,,AjFArWa,AjFArWa'>
+3	-	SYM	<fs af='<'>
+4	ani	UT	<fs af='ani,avy,,,,,,'>
+5	samAXi	NN	<fs af='samAXi,n,any,sg,3,,0,0'>
+6	wavviMci	VM	<fs af='wavviMcu,v,any,any,any,,i,i'>
+7	kukka	NN	<fs af='kukka,n,any,sg,3,,0,0'>
+8	eVmukalanu	NN	<fs af='eVmuka,n,any,pl,3,,ni,ni'>
+9	rAjugAriki	NN	<fs af='rAju,n,,pl,,,gAru_ki,gAru_ki' deri_cat=pn>
+10	cUpiMcAdu	VM	<fs af='cUpiMcu,v,m,sg,3,,A,A'>
+11	maMwri	NN	<fs af='maMwri,n,any,sg,3,,0,0'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

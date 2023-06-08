@@ -1,0 +1,12 @@
+<Sentence id="1323">			
+0	((	SSF	
+1	pillAdiki	NN	<fs af='pillAdu,n,any,sg,3,,ki,ki'>
+2	pAliccinappudu	VM	<fs af='pAliMcu,v,any,any,any,,ina_appudu,ina_appudu'>
+3	noVppigA	RB	<fs af='noVppi,n,any,sg,3,,gA,gA'>
+4	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+5	ani	UT	<fs af='ani,avy,,,,,,'>
+6	aMxi	VM	<fs af='anu,v,fn,sg,3,,A,A'>
+7	raMgamma	NNP	<fs af='raMgamma,n,any,sg,3,,0,0'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

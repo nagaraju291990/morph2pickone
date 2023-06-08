@@ -1,0 +1,9 @@
+<Sentence id="3239">
+0	((	SSF
+1	"	SYM	<fs af='",punc,,,,,, '>
+2	riperu	NN	<fs af='riper,n,any,sg,3,,0,0'>|<fs af='riper,n,any,sg,3,,obl,obl'>|<fs af='riperu,n,any,sg,3,,0,0'>|<fs af='riperu,n,any,sg,3,,obl,obl'>
+3	eM	WQ	<fs af='eM,avy,,,,,, '>
+4	karma	NN	<fs af='karma,n,any,sg,3,,0,0'>|<fs af='karma,n,any,sg,3,,obl,obl'>|<fs af='karmaM,n,any,sg,3,,obl,obl'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

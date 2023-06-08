@@ -1,0 +1,9 @@
+<Sentence id="3372">
+0	((	SSF
+1	Alumagalu	NN	<fs af='Alumaga,n,any,pl,3,,0,0'>|<fs af='Alumaga,n,any,pl,3,,vu_agr,vu_agr'>
+2	ixxaru	NN	<fs af='ixxaru,pn,mf,pl,3,,0,0'>|<fs af='ixxaru,pn,mf,pl,3,,vu,vu'>|<fs af='reVMdu,num,any,any,any,,ru,ru'>
+3	kUlipani	NN	<fs af='kUlipani,n,any,sg,3,,0,0'>|<fs af='kUlipani,n,any,sg,3,,obl,obl'>
+4	cesevAru	VM	<fs af='ceVyyi,v,any,any,any,,e_vAru,e_vAru'>|<fs af='cesevAru,pn,mf,pl,3,,0,0'>|<fs af='cesevAru,pn,mf,pl,3,,vu,vu'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

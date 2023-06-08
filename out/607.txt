@@ -1,0 +1,12 @@
+<Sentence id="607">
+0	((	SSF
+1	oVkaroju	NN	<fs af='oVkaroju,n,any,sg,3,,0,0'>|<fs af='oVkaroju,n,any,sg,3,,obl,obl'>
+2	SaMkaraM	NNP	<fs af='SaMkaraM,n,any,sg,3,,0,0'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	awani	PRP	<fs af='awanu,pn,m,sg,3,,obl,obl'>
+5	snehiwudu	NN	<fs af='snehiwa,adj,any,any,any,,vAdu_adj,vAdu_adj'>|<fs af='snehiwudu,n,any,sg,3,,0,0'>
+6	ramaNa	NNP	<fs af='ramaNa,n,any,sg,3,,0,0'>|<fs af='ramaNa,n,any,sg,3,,obl,obl'>|<fs af='ramaNudu,n,any,sg,3,,obl,obl'>
+7	kalisAdu	VM	<fs af='kaluvu,v,m,sg,3,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

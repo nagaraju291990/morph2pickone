@@ -1,0 +1,23 @@
+<Sentence id="7458">
+0	((	SSF
+1	Adaxi	NN	<fs af='Ada,adj,any,any,any,,xi_adj,xi_adj'>|<fs af='Ada,n,any,sg,3,,xi,xi'>|<fs af='Adaxi,n,any,sg,3,,0,0'>|<fs af='Adaxi,n,any,sg,3,,obl,obl'>
+2	AdaxAni	NN	<fs af='AdaxA,n,any,sg,3,,ni,ni'>|<fs af='AdaxAni,adj,any,any,any,,0_adj,0_adj'>
+3	jIviwaM	NN	<fs af='jIviwaM,n,any,sg,3,,0,0'>
+4	aritAku	NN	<fs af='aritAku,n,any,sg,3,,0,0'>|<fs af='aritAku,n,any,sg,3,,obl,obl'>
+5	lAMtixe	NN	<fs af='lAMti,adj,,sg,,,xi_0,xi_0_e' deri_cat='pn'>
+6	kAvaccu	VM	<fs af='avvu,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='kAvaccu,v,any,any,any,,e,e'>
+6	kAnI	VM	<fs af='kAnI,avy,,,,,, '>
+7	,	SYM	<fs af=',,punc,,,,,, '>
+8	Adaxi	NN	<fs af='Ada,adj,any,any,any,,xi_adj,xi_adj'>|<fs af='Ada,n,any,sg,3,,xi,xi'>|<fs af='Adaxi,n,any,sg,3,,0,0'>|<fs af='Adaxi,n,any,sg,3,,obl,obl'>
+9	mAwraM	PSP	<fs af='mAwraM,avy,,,,,, '>
+10	aritAku	NN	<fs af='aritAku,n,any,sg,3,,0,0'>|<fs af='aritAku,n,any,sg,3,,obl,obl'>
+11	kAxu	VM	<fs af='avvu,v,fn,sg,3,,a,a'>
+12	AkurAyi	NN	<fs af='AkurAyi,n,any,sg,3,,0,0'>
+13	lAMtixi	NN	<fs af='lAMti,adj,any,any,any,,xi_adj,xi_adj'>
+14	!	SYM	<fs af='!,punc,,,,,, '>
+15	Adaxi	NN	<fs af='Ada,adj,any,any,any,,xi_adj,xi_adj'>|<fs af='Ada,n,any,sg,3,,xi,xi'>|<fs af='Adaxi,n,any,sg,3,,0,0'>|<fs af='Adaxi,n,any,sg,3,,obl,obl'>
+16	pAlakuMda	NN	<fs af='pAlakuMda,n,any,sg,3,,0,0'>|<fs af='pAlakuMda,n,any,sg,3,,obl,obl'>
+17	lAMtixi	NN	<fs af='lAMti,adj,any,any,any,,xi_adj,xi_adj'>
+18	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

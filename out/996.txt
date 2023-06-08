@@ -1,0 +1,7 @@
+<Sentence id="996">
+0	((	SSF
+1	polIsulawo	NN	<fs af='polIs,n,any,pl,3,,wo,wo'>|<fs af='polIsu,n,any,pl,3,,wo,wo'>
+2	vaccAdu	VM	<fs af='vaccu,v,m,sg,3,,A,A'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,9 @@
+<Sentence id="4441">
+0	((	SSF
+1	annI	QF	<fs af='anni,pn,any,pl,3,,0,0_V'>
+2	cesesariki	VM	<fs af='ceVyyi,v,any,any,any,,e_sariki,e_sariki'>
+3	bAgA	INTF	<fs af='bAgA,avy,,,,,, '>
+4	alisipoyAdu	VM	<fs af='alisipo,v,m,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

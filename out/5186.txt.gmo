@@ -1,0 +1,22 @@
+<Sentence id="5186">			
+0	((	SSF	
+1	Ada	JJ	<fs af='Ada,adj,any,any,any,,0_adj,0_adj'>
+2	pillalanu	NN	<fs af='pilla,n,any,pl,3,,ni,ni'>
+3	puttagAne	VM	<fs af='puttu,v,any,any,any,,a_gAne,a_gAne'>
+4	goVMwu	NN	<fs af='goVMwu,n,any,sg,3,,0,0'>|<fs af='goVMwu,n,any,sg,3,,obl,obl'>
+5	pisiki	NN	<fs af='pisi,n,any,sg,3,,ki,ki'>
+6	caMpadaM	VM	<fs af='caMpu,v,any,any,any,,adaM,adaM'>
+7	kadupuwo	NN	<fs af='kadupu,n,any,sg,3,,wo,wo'>
+8	unnappude	VM	<fs af='unnappudu,adv,any,any,any,,0_e_adv,0_e_adv' poslcat="NM">
+9	puttexi	VM	<fs af='puttu,v,any,any,any,,e_axi,e_axi'>
+10	Adapillani	NN	<fs af='Adapilla,n,any,sg,3,,ni,ni'>
+11	weVlusukoVni	VM	<fs af='weVlusuko,v,any,any,any,,i,i'>
+12	kadupu	NN	<fs af='kadupu,n,any,sg,3,,0,0'>|<fs af='kadupu,n,any,sg,3,,obl,obl'>
+13	wIyiMcukovadaM	VM	<fs af='wIyiMcu,v,any,any,any,,koVn_adaM,koVn_adaM'>
+14	cIkatipalleV	NNP	<fs af='cIkatipalleV,n,any,sg,3,,0,0'>|<fs af='cIkatipalleV,n,any,sg,3,,obl,obl'>
+15	lAMti	JJ	<fs af='lAMti,avy,,,,,,'>|<fs af='lAMti,adj,any,any,any,,0_adj,0_adj'>
+16	UlYlalo	NN	<fs af='Uru,n,any,pl,3,,lo,lo'>
+17	cUdavaccu	VM	<fs af='cUdu,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='cUdavaccu,v,any,any,any,,e,e'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,16 @@
+<Sentence id="8479">
+0	((	SSF	
+1	jUlU	NN	<fs af='jUlu,n,any,sg,3,,0_le,0_le'>|<fs af='jUlu,n,any,pl,3,,0_le,0_le'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	nikkina	VM	<fs af='nikku,v,any,any,any,,ina,ina'>
+4	ceVvulU	NN	<fs af='ceVvi,n,any,pl,3,,0,0_V'>|<fs af='ceVvi,n,any,pl,3,,I,I'>
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	sagaM	QF	<fs af='sagaM,n,any,sg,3,,0,0'>
+7	kanabaduwunna	VM	<fs af='kanabadu,v,any,any,any,,wunna,wunna'>|<fs af='kanabaduwuMdu,v,any,any,any,,ina,ina'>
+8	wiragali	NN	<fs af='wiragali,n,any,sg,3,,0,0'>|<fs af='wiragali,n,any,sg,3,,obl,obl'>
+9	rAlYlalA	JJ	<fs af='rAyi,n,any,pl,3,,lA,lA' poslcat="NM">
+10	palYla	NN	<fs af='padi,n,any,pl,3,,obl,obl'>|<fs af='paMdu,n,any,pl,3,,obl,obl'>|<fs af='pannu,n,any,pl,3,,obl,obl'>
+11	jaMta	NN	<fs af='jaMta,n,any,sg,3,,0,0'>|<fs af='jaMta,n,any,sg,3,,obl,obl'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

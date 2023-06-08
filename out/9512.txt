@@ -1,0 +1,7 @@
+<Sentence id="9512">
+0	((	SSF
+1	poxAM	VM	<fs af='po,v,any,pl,2,,xA,xA'>|<fs af='po,v,any,pl,1,,xA,xA'>
+2	annAru	VM	<fs af='anu,v,any,pl,2,,A,A'>|<fs af='anu,v,mf,pl,3,,A,A'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

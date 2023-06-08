@@ -1,0 +1,20 @@
+<Sentence id="4680">
+0	((	SSF
+1	kASmIr	NNP	<fs af='kASmIr,n,any,sg,3,,0,0'>|<fs af='kASmIr,n,any,sg,3,,obl,obl'>
+1	cepa	NNP	<fs af='cepu,v,any,any,any,,an,an'>|<fs af='cepa,n,any,sg,3,,0,0'>|<fs af='cepa,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,, '>
+3	xIni	PRP	<fs af='ixi,pn,fn,sg,3,,obl,obl'>
+4	SarIraM	NN	<fs af='SarIraM,n,any,sg,3,,0,0'>
+5	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+6	muwyAla	NN	<fs af='muwyaM,n,,pl,,,obl,obl'>
+6	lAgA	VM	<fs af='lAgA,avy,,,,,,'>|<fs af='lAgA,avy,,,,,,'>|<fs af='lAgu,v,any,any,any,,i_A,i_A'>|<fs af='lAgudu,n,,sg,,,I,I'>
+7	cukkala	NN	<fs af='cukka,n,,pl,,,obl,obl'>
+7	uMtAyi	VM	<fs af='uMdu,v,n,pl,3,,wA,wA'>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	poVdavu	NN	<fs af='poVda,n,any,sg,3,,vu_agr,vu_agr'>|<fs af='poVdavu,n,any,sg,3,,0,0'>|<fs af='poVdavu,n,any,sg,3,,obl,obl'>|<fs af='poVdavvu,v,any,sg,2,,AjFArWa,AjFArWa'>
+10	cAlu	NN	<fs af='cAlu,avy,,,,,, '>|<fs af='cAlu,v,any,sg,2,,AjFArWa,AjFArWa'>
+11	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+12	uMtAyi	VM	<fs af='uMdu,v,n,pl,3,,wA,wA'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

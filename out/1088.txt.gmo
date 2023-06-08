@@ -1,0 +1,10 @@
+<Sentence id="1088">			
+0	((	SSF	
+1	kodi	NN	<fs af='kodi,n,any,sg,3,,0,0'>|<fs af='kodi,n,any,sg,3,,obl,obl'>
+2	kaMte	PSP	<fs af='kaMte,avy,,,,,,' poslcat="NM">'>|<fs af='kanu,v,any,any,any,,we,we' poslcat="NM">'>
+3	mekaku	NN	<fs af='meka,n,any,sg,3,,ki,ki'>
+4	Xara	NN	<fs af='Xara,n,any,sg,3,,0,0'>|<fs af='Xara,n,any,sg,3,,obl,obl'>
+5	palukuwuMxi	VM	<fs af='paluku,v,fn,sg,3,,wA,wA'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

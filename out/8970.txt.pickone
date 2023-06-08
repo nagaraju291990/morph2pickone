@@ -1,0 +1,14 @@
+<Sentence id="8970">			
+0	((	SSF	
+1	iwadu	PRP	<fs af='iwadu,pn,,sg,,,0,0'>
+2	gaMXarvudu	NN	<fs af='gaMXarvudu,n,any,sg,3,,0,0'>
+3	kAdu	VM	<fs af='avvu,v,m,sg,3,,a,a'>
+4	ane	VM	<fs af='anu,v,any,any,any,,e,e'>
+4	eVMxuku	VM	<fs af='eVMxuku,avy,,,,,,'>
+5	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+6	prabala	NN	<fs af='prabalaM,n,any,sg,3,,obl,obl'>
+7	hewuvu	NN	<fs af='hewuvu,n,any,sg,3,,0,0'>
+8	unnaxi	VM	<fs af='uMdu,v,any,any,any,,ina_axi,ina_axi'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

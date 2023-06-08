@@ -1,0 +1,11 @@
+<Sentence id="176">
+0	((	SSF
+1	bidda	NN	<fs af='bidda,n,any,sg,3,,0,0'>|<fs af='bidda,n,any,sg,3,,obl,obl'>
+2	wallulu	NN	<fs af='walli,n,any,pl,3,,0,0'>
+3	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+4	palakA	NN	<fs af='palaka,n,any,sg,3,,0,0_A'>|<fs af='palaka,n,any,sg,3,,0,0_V'>
+5	balapaM	NN	<fs af='balapaM,n,any,sg,3,,0,0'>
+6	pattAru	VM	<fs af='pattu,v,any,pl,2,,A,A'>|<fs af='pattu,v,mf,pl,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

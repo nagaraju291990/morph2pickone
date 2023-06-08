@@ -1,0 +1,10 @@
+<Sentence id="1560">			
+0	((	SSF	
+1	e	WQ	<fs af='e,avy,,,,,,'>
+1	mAwralaMte	WQ	<fs af='mAwra,n,any,pl,3,,aMte,aMte' poslcat="NM">
+2	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+3	mAwralu	NN	<fs af='mAwra,n,any,pl,3,,0,0'>|<fs af='mAwra,n,any,pl,3,,vu_agr,vu_agr'>
+4	miMgakUdaxu	VM	<fs af='miMgu,v,any,any,any,,a_kUdaxu,a_kUdaxu'>|<fs af='miMgakUdu,v,fn,sg,3,,a,a'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

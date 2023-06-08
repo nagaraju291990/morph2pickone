@@ -1,0 +1,9 @@
+<Sentence id="6358">
+0	((	SSF	
+1	mUdo	QO	<fs af='mUdu,n,any,sg,3,,0,0_o'>|<fs af='mUdu,num,any,any,any,,ava,ava'>|<fs af='mUdo,adj,any,any,any,,0_adj,0_adj'>
+2	maniRi	NN	<fs af='maniRi,n,any,sg,3,,0,0'>|<fs af='maniRi,n,any,sg,3,,obl,obl'>
+3	Akali	NN	<fs af='Akali,n,any,sg,3,,0,0'>|<fs af='Akali,n,any,sg,3,,obl,obl'>
+4	wIriMxi	VM	<fs af='wIru,v,fn,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

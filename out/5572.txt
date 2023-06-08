@@ -1,0 +1,17 @@
+<Sentence id="5572">
+0	((	SSF
+1	poVyyi	NN	<fs af='po,v,any,any,any,,i,i'>|<fs af='poVyyi,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='poVyyi,n,any,sg,3,,0,0'>|<fs af='poVyyi,n,any,sg,3,,obl,obl'>
+2	aMtene	VM	<fs af='anu,v,any,any,any,,we,we_e'>
+3	poVga	NN	<fs af='poVga,n,any,sg,3,,0,0'>|<fs af='poVga,n,any,sg,3,,obl,obl'>
+4	kaxA	RP	<fs af='kaxA,avy,,,,,, '>
+5	!	SYM	<fs af='!,punc,,,,,, '>
+6	poVga	NN	<fs af='poVga,n,any,sg,3,,0,0'>|<fs af='poVga,n,any,sg,3,,obl,obl'>
+7	rAni	VM	<fs af='raM,n,any,sg,3,,obl,obl'>|<fs af='vaccu,v,any,any,any,,ani,ani'>
+8	poVyyi	NN	<fs af='po,v,any,any,any,,i,i'>|<fs af='poVyyi,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='poVyyi,n,any,sg,3,,0,0'>|<fs af='poVyyi,n,any,sg,3,,obl,obl'>
+9	eVlA	WQ	<fs af='eVlA,avy,,,,,, '>
+10	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A'>
+11	ani	UT	<fs af='ani,avy,,,,,, '>|<fs af='anu,v,any,any,any,,i,i'>
+12	adigAdu	VM	<fs af='adugu,v,m,sg,3,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

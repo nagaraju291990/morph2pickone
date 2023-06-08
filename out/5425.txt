@@ -1,0 +1,30 @@
+<Sentence id="5425">
+0	((	SSF
+1	maccalu	NN	<fs af='macca,n,any,pl,3,,0,0'>|<fs af='macca,n,any,pl,3,,vu_agr,vu_agr'>
+2	povAlaMte	VM	<fs af='po,v,any,any,any,,Ali_aMte,Ali_aMte'>
+3	_	SYM
+4	_	SYM
+5	_	SYM
+6	_	SYM
+7	_	SYM
+8	_	SYM
+9	_	SYM
+10	_	SYM
+11	_	SYM
+12	_	SYM
+13	_	SYM
+14	_	SYM
+15	_	SYM
+16	_	SYM
+17	_	SYM
+18	_	SYM
+19	kyArat	NNP	<fs af='kyArat,n,any,sg,3,,0,0'>|<fs af='kyArat,n,any,sg,3,,obl,obl'>
+20	rasaM	NN	<fs af='rasaM,n,any,sg,3,,0,0'>
+21	,	SYM	<fs af=',,punc,,,,,, '>
+22	nAriMja	NNP	<fs af='nAriMja,n,any,sg,3,,0,0'>|<fs af='nAriMja,n,any,sg,3,,obl,obl'>
+23	rasaM	NN	<fs af='rasaM,n,any,sg,3,,0,0'>
+24	pAlU	NN	<fs af='paM,n,any,pl,3,,0,0_V'>|<fs af='pAlu,n,any,sg,3,,I,I'>|<fs af='pAlu,n,any,sg,3,,0_le,0_le'>|<fs af='pAlu,n,any,pl,3,,0_le,0_le'>
+25	kalapAli	VM	<fs af='kalupu,v,any,any,any,,Ali,Ali'>|<fs af='kalapu,v,any,any,any,,Ali,Ali'>
+26	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

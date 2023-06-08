@@ -1,0 +1,18 @@
+<Sentence id="1618">			
+0	((	SSF	
+1	boVtana	NN	<fs af='boVtanaM,n,any,sg,3,,obl,obl'>|<fs af='boVtanudu,n,any,sg,3,,obl,obl'>
+2	veliwo	NN	<fs af='velu,n,any,sg,3,,wo,wo'>
+3	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+4	cUpudu	NN	<fs af='cUpudu,n,,sg,,,0,0'>|<fs af='cUpudu,n,,sg,,,obl,obl'>
+5	veliwo	NN	<fs af='velu,n,any,sg,3,,wo,wo'>
+6	xIni	PRP	<fs af='ixi,pn,fn,sg,3,,obl,obl'>
+7	moVnagAnI	NN	<fs af='moVna,n,any,sg,3,,gAni,gAni'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	nadumu	NN	<fs af='nadumu,n,any,sg,3,,0,0'>|<fs af='nadumu,n,any,sg,3,,obl,obl'>
+10	gAni	RP	<fs af='gAni,avy,,,,,,'>
+11	noVkkiwe	VM	<fs af='noVkku,v,any,any,any,,we,we'>
+12	gAli	NN	<fs af='gAli,n,any,sg,3,,0,0'>|<fs af='gAli,n,any,sg,3,,obl,obl'>
+13	vacceswuMxi	VM	<fs af='vacceVyyi,v,fn,sg,3,,wA,wA'>|<fs af='vacceswuMdu,v,fn,sg,3,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

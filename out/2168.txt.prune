@@ -1,0 +1,37 @@
+<Sentence id="2168">
+0	((	SSF	
+1	cUdaMdi	VM	<fs af='cUdu,v,any,pl,2,,AjFArWa,AjFArWa'>
+2	!	SYM	<fs af='!,punc,,,,,,'>
+3	boVppAyi	NN	<fs af='boVppAyi,n,any,sg,3,,0,0'>|<fs af='boVppAyi,n,any,sg,3,,obl,obl'>
+4	eVMwa	WQ	<fs af='eVMwa,pn,any,sg,3,,0,0'>
+5	goVppaxo	NN	<fs af='goVppa,adj,,sg,,,ni_xi_0,ni_xi_0_o' deri_cat=pn poslcat="NM">
+6	!	SYM	<fs af='!,punc,,,,,,'>
+7	munaga	NN	<fs af='munaga,n,any,sg,3,,0,0'>|<fs af='munaga,n,any,sg,3,,obl,obl'>
+8	mA	NNP	<fs af='memu,pn,any,pl,1,,obl,obl' poslcat="NM">
+8	laccimi	NNP	<fs af='laccimi,unk,,,,,,' poslcat="NM">
+9	-	SYM	<'>|<poslcat="NM"'>
+10	-	SYM	<'>|<poslcat="NM"'>
+11	-	SYM	<'>|<poslcat="NM"'>
+12	-	SYM	<'>|<poslcat="NM"'>
+13	-	SYM	<'>|<poslcat="NM"'>
+14	-	SYM	<'>|<poslcat="NM"'>
+15	-	SYM	<'>|<poslcat="NM"'>
+16	-	SYM	<'>|<poslcat="NM"'>
+17	-	SYM	<'>|<poslcat="NM"'>
+18	-	SYM	<'>|<poslcat="NM"'>
+19	-	SYM	<'>|<poslcat="NM"'>
+20	-	SYM	<'>|<poslcat="NM"'>
+21	-	SYM	<'>|<poslcat="NM"'>
+22	-	SYM	<'>|<poslcat="NM"'>
+23	-	SYM	<'>|<poslcat="NM"'>
+24	iMti	NN	<fs af='illu,n,any,sg,3,,obl,obl'>
+25	muMxu	NST	<fs af='muMxu,adv,any,any,any,,0_adv,0_adv'>
+26	munaga	NN	<fs af='munaga,n,any,sg,3,,0,0'>|<fs af='munaga,n,any,sg,3,,obl,obl'>
+27	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+28	kuMdalo	NN	<fs af='kuMda,n,any,sg,3,,lo,lo'>|<fs af='kuMda,n,any,pl,3,,0,0_o'>|<fs af='kuMdali,n,any,pl,3,,kaMteV,kaMteV'>
+29	kUra	NN	<fs af='kUra,n,any,sg,3,,0,0'>|<fs af='kUra,n,any,sg,3,,obl,obl'>
+30	aMtAru	VM	<fs af='anu,v,any,pl,2,,wA,wA'>|<fs af='anu,v,mf,pl,3,,wA,wA'>|<fs af='aMtu,v,any,pl,2,,A,A'>|<fs af='aMtu,v,mf,pl,3,,A,A'>
+31	peVxxalu	NN	<fs af='peVxxalu,n,any,sg,3,,0,0'>|<fs af='peVxxalu,n,any,sg,3,,vu_agr,vu_agr'>
+32	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

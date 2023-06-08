@@ -1,0 +1,15 @@
+<Sentence id="9563">
+0	((	SSF
+1	A	DEM	<fs af='A,avy,,,,,, '>
+2	marunAdu	NST	<fs af='marunAdu,n,any,sg,3,,0,0'>|<fs af='marunAdu,n,any,sg,3,,obl,obl'>
+3	proVxxunna	NN	<fs af='proVxxunna,n,any,sg,3,,0,0'>|<fs af='proVxxunna,n,any,sg,3,,obl,obl'>
+4	aXikArulu	NN	<fs af='aXikAri,n,any,pl,3,,0,0'>|<fs af='aXikAri,n,any,pl,3,,ni_agr,ni_agr'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	paMdiwulu	NN	<fs af='paMdiw,n,any,pl,3,,0,0'>|<fs af='paMdiw,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='paMdiwudu,n,any,pl,3,,0,0'>|<fs af='paMdiwudu,n,any,pl,3,,vu_agr,vu_agr'>
+7	aMxarU	PRP	<fs af='aMxaru,pn,mf,pl,3,,0,0_V'>
+8	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+9	xaggaraku	NN	<fs af='xaggara,adv,any,any,any,,0,0_adv_ku'>
+10	veVlYlAru	VM	<fs af='veVlYlu,v,any,pl,2,,A,A'>|<fs af='veVlYlu,v,mf,pl,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

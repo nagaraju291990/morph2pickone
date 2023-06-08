@@ -1,0 +1,10 @@
+<Sentence id="219">			
+0	((	SSF	
+1	AdavAlYlaM	NN	<fs af='AdavAlYlu,pn,mf,pl,3,,nu,nu' poslcat="NM">
+2	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+3	cota	NN	<fs af='cota,adv,any,any,any,,0_adv,0_adv' poslcat="NM">
+4	rojU	NN	<fs af='roju,n,any,sg,3,,0,0_V'>
+5	cerAM	VM	<fs af='ceru,v,any,pl,1,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

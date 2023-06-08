@@ -1,0 +1,11 @@
+<Sentence id="5936">
+0	((	SSF	
+1	pakka	NN	<fs af='pakka,adv,any,any,any,,0_adv,0_adv' poslcat="NM">|<fs af='pakka,adv,any,any,any,,yoVkka_adv,yoVkka_adv' poslcat="NM">
+1	gaxilo	NN	<fs af='gaxi,n,any,sg,3,,lo,lo'>
+2	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+3	lakRmi	NNP	<fs af='lakRmi,n,any,sg,3,,0,0'>|<fs af='lakRmi,n,any,sg,3,,obl,obl'>
+4	parigeVwwukoVni	VM	<fs af='parigeVwwu,v,any,any,any,,koVn_i,koVn_i'>
+5	vacciMxi	VM	<fs af='vaccu,v,fn,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

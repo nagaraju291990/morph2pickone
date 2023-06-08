@@ -1,0 +1,13 @@
+<Sentence id="7971">			
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	poVlaM	NN	<fs af='poVlaM,n,any,sg,3,,0,0'>
+3	ammalexi	NN	<fs af='amma,n,,sg,,,0,0'>
+3	ani	VM	<fs af='anu,v,any,any,any,,i,i'>
+4	"	SYM	<fs af='",punc,,,,,,'>
+5	calapawiki	NNP	<fs af='calapawi,n,any,sg,3,,ki,ki'>
+6	appudu	NST	<fs af='appudu,adv,any,any,any,,0_adv,0_adv'>
+7	ceVppAnu	VM	<fs af='ceVppu,v,any,sg,1,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

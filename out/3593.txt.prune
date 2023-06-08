@@ -1,0 +1,27 @@
+<Sentence id="3593">
+0	((	SSF	
+1	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+1	emaMte	PRP	<fs af='emaMte,avy,,,,,,' poslcat="NM">
+2	_	SYM	<'>|<poslcat="NM"'>
+3	"	SYM	<fs af='",punc,,,,,,'>
+4	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+5	eVxxulalo	NN	<fs af='eVxxu,n,any,pl,3,,lo,lo'>
+6	nuMdi	PSP	<fs af='nuMdi,avy,,,,,,' poslcat="NM">
+7	oVkaxAnni	PRP	<fs af='oVka,pn,,sg,,,xi_ni,xi_ni'>
+8	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+9	rAwriki	NN	<fs af='rAwri,n,any,sg,3,,ki,ki'>
+10	woluko	VM	<fs af='wolu,v,any,any,any,,koVn,koVn'>
+10	powe	VM	<fs af='po,v,any,any,any,,we,we'>
+11	emavuwuMxi	WQ	<fs af='emavvu,v,fn,sg,3,,wA,wA' poslcat="NM">|<fs af='emavuwuMdu,v,fn,sg,3,,A,A' poslcat="NM">
+12	!	SYM	<fs af='!,punc,,,,,,'>
+13	eVxxuku	NN	<fs af='eVxxu,n,any,sg,3,,ki,ki'>
+14	eVxxU	NN	<fs af='eVxxu,n,any,sg,3,,0,0_V'>
+15	xoVrukuwuMxi	VM	<fs af='xoVruku,v,fn,sg,3,,wA,wA'>
+16	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+17	appu	NN	<fs af='appu,n,any,sg,3,,0,0'>|<fs af='appu,n,any,sg,3,,obl,obl'>
+18	nuMdi	PSP	<fs af='nuMdi,avy,,,,,,' poslcat="NM">
+19	bayatA	NST	<fs af='bayata,adv,any,any,any,,0_A_adv,0_A_adv'>
+20	padavaccu	VM	<fs af='padu,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='padavaccu,v,any,any,any,,e,e'>
+21	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

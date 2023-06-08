@@ -1,0 +1,24 @@
+<Sentence id="1944">			
+0	((	SSF	
+1	maMci	JJ	<fs af='maMci,adj,any,any,any,,0_adj,0_adj'>
+2	kAPI	NN	<fs af='kAPI,n,,sg,,,0,0'>
+3	_	SYM	<fs af='<'>
+4	_	SYM	<fs af='<'>
+5	_	SYM	<fs af='<'>
+6	_	SYM	<fs af='<'>
+7	_	SYM	<fs af='<'>
+8	_	SYM	<fs af='<'>
+9	_	SYM	<fs af='<'>
+10	_	SYM	<fs af='<'>
+11	_	SYM	<fs af='<'>
+12	_	SYM	<fs af='<'>
+13	_	SYM	<fs af='<'>
+14	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+15	UlYlo	NN	<fs af='Uru,n,any,sg,3,,lo,lo'>
+16	rAjaSeKarayya	NNP	<fs af='rAjaSeKarayya,n,any,sg,3,,0,0'>
+17	ane	UT	<fs af='ane,avy,,,,,,'>
+18	dAktaru	NN	<fs af='dAktar,n,any,sg,3,,0,0'>
+19	uMdevAdu	VM	<fs af='uMdu,v,any,any,any,,e_vAdu,e_vAdu'>
+20	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

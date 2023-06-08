@@ -1,0 +1,22 @@
+<Sentence id="3658">
+0	((	SSF	
+1	kAnI	CC	<fs af='kAnI,avy,,,,,,'>
+2	parAyi	NN	<fs af='parAyi,n,any,sg,3,,0,0'>|<fs af='parAyi,n,any,sg,3,,obl,obl'>
+3	ilYla	NN	<fs af='illu,n,any,pl,3,,obl,obl'>
+4	nuMdi	PSP	<fs af='nuMdi,avy,,,,,,' poslcat="NM">
+5	vaccina	VM	<fs af='vaccu,v,any,any,any,,ina,ina'>
+6	kodalYlu	NN	<fs af='kodalu,n,any,pl,3,,0,0'>|<fs af='kodalu,n,any,pl,3,,vu_agr,vu_agr'>
+7	nA	PRP	<fs af='nenu,pn,any,sg,1,,obl,obl'>
+8	vAlYlu	PRP	<fs af='vAlYlu,pn,mf,pl,3,,0,0'>|<fs af='vAlYlu,pn,mf,pl,3,,vu,vu'>
+9	kAxu	VM	<fs af='avvu,v,fn,sg,3,,a,a'>
+10	kaxA	RP	<fs af='kaxA,avy,,,,,,'>
+11	!	SYM	<fs af='!,punc,,,,,,'>
+12	Urike	RP	<fs af='Urike,avy,,,,,,'>
+13	veVlYli	VM	<fs af='veVlYlu,v,any,any,any,,i,i'>
+14	vAlYla	PRP	<fs af='vAlYlu,pn,mf,pl,3,,obl,obl'>
+15	neVwwimIxa	NN	<fs af='neVwwi,n,any,sg,3,,mIxa,mIxa'>
+16	eVlA	WQ	<fs af='eVlA,avy,,,,,,'>
+17	kUrconu	VM	<fs af='kUrco,v,any,sg,1,,a,a'>
+18	?	SYM	<fs af='?,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

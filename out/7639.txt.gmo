@@ -1,0 +1,10 @@
+<Sentence id="7639">			
+0	((	SSF	
+1	iMtiki	NN	<fs af='illu,n,any,sg,3,,ki,ki'>
+2	xaggaralone	NN	<fs af='xaggara,adv,any,any,any,,0,0_adv_lo_ne' poslcat="NM">
+3	koVnni	QF	<fs af='koVnni,pn,any,pl,3,,0,0' poslcat="NM">
+4	kowulu	NN	<fs af='kowi,n,any,pl,3,,0,0'>
+5	wiruguwuMdevi	NN	<fs af='wirugu,v,any,pl,any,,wU_uMdu,wU_uMdu_e_vi' poslcat="NM">'>|<fs af='wirugu,v,any,any,pl,,wU_uMdu_i,wU_uMdu_i_e_vi' poslcat="NM">'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

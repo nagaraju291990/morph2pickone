@@ -1,0 +1,15 @@
+<Sentence id="6129">
+0	((	SSF	
+1	)	SYM	<fs af='),punc,,,,,,'>
+2	adavulu	NN	<fs af='adavi,n,any,pl,3,,0,0'>
+3	AMXrapraxeS	NNP	<fs af='AMXrapraxeS,n,any,sg,3,,0,0'>|<fs af='AMXrapraxeS,n,any,sg,3,,obl,obl'>
+4	vESAlyaM	NN	<fs af='vESAlyaM,n,any,sg,3,,0,0'>
+5	2	QC	<fs af='2,num,,,,,,'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	76	QC	<fs af='76,num,,,,,,'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	754	QC	<fs af='754,num,,,,,,'>
+10	ca	NN	<fs af='ca,avy,,,,,,' poslcat="NM">|<fs af='kI,avy,,,,,,' poslcat="NM">
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

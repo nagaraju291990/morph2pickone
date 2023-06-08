@@ -1,0 +1,9 @@
+<Sentence id="4728">
+0	((	SSF
+1	aMxuvalla	PRP	<fs af='aMxuvalla,avy,,,,,, '>
+2	cepalu	NN	<fs af='cepa,n,any,pl,3,,0,0'>|<fs af='cepa,n,any,pl,3,,vu_agr,vu_agr'>
+3	huRArugA	RB	<fs af='huRAr,n,any,sg,3,,gA,gA'>|<fs af='huRAru,n,any,sg,3,,gA,gA'>
+4	IxuwAyi	VM	<fs af='Ixu,v,n,pl,3,,wA,wA'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

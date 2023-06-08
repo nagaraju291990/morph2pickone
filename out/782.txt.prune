@@ -1,0 +1,13 @@
+<Sentence id="782">
+0	((	SSF	
+1	reVMdava	QO	<fs af='reVMdu,num,any,any,any,,ava,ava'>|<fs af='reVMdava,adj,any,any,any,,0_adj,0_adj'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	mUdava	QO	<fs af='mUdu,num,any,any,any,,ava,ava'>|<fs af='mUdava,adj,any,any,any,,0_adj,0_adj'>
+4	saMvawsaraMlo	NN	<fs af='saMvawsaraM,n,any,sg,3,,lo,lo'>
+5	vacce	VM	<fs af='vaccu,v,any,any,any,,e,e'>|<fs af='vaccu,v,any,any,any,,i,i_e'>
+6	AxAyaM	NN	<fs af='AxAyaM,n,any,sg,3,,0,0'>
+7	Karculaku	NN	<fs af='Karcu,n,any,pl,3,,ki,ki'>
+8	saripowuMxi	VM	<fs af='saripo,v,fn,sg,3,,wA,wA'>|<fs af='saripowuMdu,v,fn,sg,3,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

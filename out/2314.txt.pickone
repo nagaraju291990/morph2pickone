@@ -1,0 +1,11 @@
+<Sentence id="2314">			
+0	((	SSF	
+1	kIlu	NN	<fs af='kIlu,n,any,sg,3,,0,0'>
+2	beVNikiwe	VM	<fs af='beVNuku,v,any,any,any,,we,we'>
+3	kAlugAni	NN	<fs af='kAlu,n,any,sg,3,,0_gAni,0_gAni'>
+4	ceyigAni	NN	<fs af='ceyi,n,any,sg,3,,0_gAni,0_gAni'>
+5	beVNikiMxi	VM	<fs af='beVNuku,v,fn,sg,3,,A,A'>
+6	anukoMdi	VM	<fs af='anuko,v,,pl,2,,AjFArWa,AjFArWa'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

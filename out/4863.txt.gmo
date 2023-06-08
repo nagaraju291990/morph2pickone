@@ -1,0 +1,17 @@
+<Sentence id="4863">			
+0	((	SSF	
+1	eVruvulu	NN	<fs af='eVruvu,n,any,pl,3,,0,0'>|<fs af='eVruvu,n,any,pl,3,,vu_agr,vu_agr'>
+2	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+3	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+4	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+5	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+6	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+7	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+8	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+9	cepala	NN	<fs af='cepa,n,any,pl,3,,obl,obl'>
+10	ceVruvulalo	NN	<fs af='ceVruvu,n,any,pl,3,,lo,lo'>
+11	eVruvulu	NN	<fs af='eVruvu,n,any,pl,3,,0,0'>|<fs af='eVruvu,n,any,pl,3,,vu_agr,vu_agr'>
+12	veyAli	VM	<fs af='veVyyi,v,any,any,any,,Ali,Ali'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

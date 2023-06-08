@@ -1,0 +1,25 @@
+<Sentence id="8790">
+0	((	SSF	
+1	itlAMti	JJ	<fs af='itlAMti,adj,any,any,any,,0_adj,0_adj'>
+2	viRayAlu	NN	<fs af='viRayaM,n,any,pl,3,,0,0'>|<fs af='viRayaM,n,any,pl,3,,vu_agr,vu_agr'>
+3	sAmAnya	NN	<fs af='sAmAnyaM,n,any,sg,3,,obl,obl'>|<fs af='sAmAnyudu,n,any,sg,3,,obl,obl'>
+4	janaM	NN	<fs af='janaM,n,any,sg,3,,0,0'>
+5	namminaMwagA	RB	<fs af='nammu,v,any,any,any,,ina_aMwagA,ina_aMwagA' poslcat="NM">
+6	paMdiwulu	NN	<fs af='paMdiw,n,any,pl,3,,0,0'>|<fs af='paMdiw,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='paMdiwudu,n,any,pl,3,,0,0'>|<fs af='paMdiwudu,n,any,pl,3,,vu_agr,vu_agr'>
+7	nammaru	VM	<fs af='nammu,v,any,pl,2,,a,a'>|<fs af='nammu,v,mf,pl,3,,a,a'>
+8	kaxA	RP	<fs af='kaxA,avy,,,,,,'>
+9	!	SYM	<fs af='!,punc,,,,,,'>
+10	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+11	mqgaM	NN	<fs af='mqgaM,n,any,sg,3,,0,0'>
+12	ninna	NST	<fs af='ninna,adv,any,any,any,,0_adv,0_adv'>
+13	melkoVnnaxi	VM	<fs af='melkoVnu,v,,sg,,,0,0'>
+13	anI	VM	<fs af='anu,v,any,any,any,,i_V,i_V'>
+14	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+15	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+16	mAtlAduwunnaxi	VM	<fs af='mAtlAdu,v,,sg,,,0,0'>|<fs af='mAtlAdu,v,fn,sg,3,,wU_uMdu_A,wU_uMdu_A'>
+16	anI	VM	<fs af='anu,v,any,any,any,,i_V,i_V'>
+17	kUdA	PSP	<fs af='kUdA,avy,,,,,,' poslcat="NM">|<fs af='kUdu,v,any,any,any,,i,i_A' poslcat="NM">|<fs af='kUdu,n,any,sg,3,,0,0_A' poslcat="NM">
+18	ceVppAru	VM	<fs af='ceVppu,v,any,pl,2,,A,A'>|<fs af='ceVppu,v,mf,pl,3,,A,A'>
+19	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

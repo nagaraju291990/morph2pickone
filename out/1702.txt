@@ -1,0 +1,19 @@
+<Sentence id="1702">
+0	((	SSF
+1	Ewe	CC	<fs af='avvu,v,any,any,any,,we,we'>
+2	aMxulo	PRP	<fs af='aMxulo,avy,,,,,, '>
+3	maga	NN	<fs af='maga,adj,any,any,any,,0_adj,0_adj'>|<fs af='maga,n,any,sg,3,,0,0'>|<fs af='maga,n,any,sg,3,,obl,obl'>
+3	bIjakaNAle	NN	<fs af='bIjakaNaM,n,any,pl,3,,0,0_e'>
+4	(	SYM	<fs af='(,punc,,,,,, '>
+5	vIryaM	NN	<fs af='vIryaM,n,any,sg,3,,0,0'>
+6	)	SYM	<fs af='),punc,,,,,, '>
+7	uMdavu	VM	<fs af='uMdu,v,any,sg,2,,a,a'>|<fs af='uMda,n,any,sg,3,,vu_agr,vu_agr'>
+8	ilA	RB	<fs af='ilA,avy,,,,,, '>|<fs af='ila,n,any,sg,3,,0,0_A'>|<fs af='ila,n,any,sg,3,,0,0_V'>
+9	cUswe	VM	<fs af='cUdu,v,any,any,any,,we,we'>
+10	ixi	PRP	<fs af='ixi,pn,fn,sg,3,,0,0'>
+11	annitikannA	PRP	<fs af='anni,pn,any,pl,3,,kaMteV,kaMteV'>
+12	uwwamamEna	JJ	<fs af='uwwama,adj,any,any,any,,xEna_na_adj,xEna_na_adj'>|<fs af='uwwamaM,n,any,sg,3,,Ena,Ena'>
+13	paxXawi	NN	<fs af='paxXawi,n,any,sg,3,,0,0'>|<fs af='paxXawi,n,any,sg,3,,obl,obl'>
+14	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

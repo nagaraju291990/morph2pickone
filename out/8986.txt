@@ -1,0 +1,10 @@
+<Sentence id="8986">
+0	((	SSF
+1	ane	UT	<fs af='ane,avy,,,,,, '>|<fs af='anu,v,any,any,any,,e,e'>|<fs af='anu,v,any,any,any,,i,i_e'>
+2	viSvAsaM	NN	<fs af='viSvAsaM,n,any,sg,3,,0,0'>
+3	Ayanaki	PRP	<fs af='Ayana,pn,m,sg,3,,ki,ki'>
+4	gattigA	RB	<fs af='gatti,adj,any,any,any,,gA_adj,gA_adj'>
+5	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

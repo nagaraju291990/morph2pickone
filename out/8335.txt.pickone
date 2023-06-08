@@ -1,0 +1,60 @@
+<Sentence id="8335">			
+0	((	SSF	
+1	naxulu	NN	<fs af='naxi,n,any,pl,3,,0,0'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	kqRNA	NNP	<fs af='kqRNa,n,any,sg,3,,0,0_A'>
+4	,	SYM	<fs af=',,punc,,,,,,'>
+5	nAguleru	NNP	<fs af='nAguleru,n,any,sg,3,,0,0'>
+6	,	SYM	<fs af=',,punc,,,,,,'>
+7	guMdlavamma	NNP	<fs af='guMdlavamma,n,any,sg,3,,0,0'>
+8	(	SYM	<fs af='(,punc,,,,,,'>
+9	jarrivAgu	NNP	<fs af='jarrivAgu,n,any,sg,3,,0,0'>
+10	,	SYM	<fs af=',,punc,,,,,,'>
+11	xiMdi	NNP	<fs af='xiMdi,n,any,sg,3,,0,0'>
+12	,	SYM	<fs af=',,punc,,,,,,'>
+13	golivAgu	NNP	<fs af='golivAgu,n,any,sg,3,,0,0'>
+14	)	SYM	<fs af='),punc,,,,,,'>
+15	paMtalu	NN	<fs af='paMta,n,any,pl,3,,0,0'>
+16	:	SYM	<fs af=':,punc,,,,,,'>
+17	vari	NN	<fs af='vari,n,any,sg,3,,0,0'>
+18	,	SYM	<fs af=',,punc,,,,,,'>
+19	veruSeVnaga	NN	<fs af='veruSeVnaga,n,any,sg,3,,0,0'>
+20	,	SYM	<fs af=',,punc,,,,,,'>
+21	prawwi	NN	<fs af='prawwi,n,any,sg,3,,0,0'>
+22	,	SYM	<fs af=',,punc,,,,,,'>
+23	poVgAku	NN	<fs af='poVgAku,n,any,sg,3,,0,0'>
+24	,	SYM	<fs af=',,punc,,,,,,'>
+25	mirapa	NN	<fs af='mirapa,n,any,sg,3,,0,0'>
+26	Kanijamulu	NN	<fs af='KanijaM,n,any,pl,3,,0,0'>
+27	:	SYM	<fs af=':,punc,,,,,,'>
+28	sunnapurAyi	NNP	<fs af='sunnapurAyi,n,any,sg,3,,0,0'>
+29	,	SYM	<fs af=',,punc,,,,,,'>
+30	rAgi	NN	<fs af='rAgi,n,any,sg,3,,0,0'>
+31	,	SYM	<fs af=',,punc,,,,,,'>
+32	baMkamannu	NN	<fs af='baMkamannu,n,any,sg,3,,0,0'>
+33	pariSramalu	NN	<fs af='pariSrama,n,any,pl,3,,0,0'>
+34	:	SYM	<fs af=':,punc,,,,,,'>
+35	simeVMt	NN	<fs af='simeVMt,n,any,sg,3,,0,0'>
+36	,	SYM	<fs af=',,punc,,,,,,'>
+37	paMcaxAra	NN	<fs af='paMcaxAra,n,any,sg,3,,0,0'>
+38	,	SYM	<fs af=',,punc,,,,,,'>
+39	purugu	NN	<fs af='purugu,n,any,sg,3,,0,0'>
+40	maMxulu	NN	<fs af='maMxu,n,any,pl,3,,0,0'>
+41	cUdaxagina	VM	<fs af='cUdu,v,any,any,any,,a_xagu_ina,a_xagu_ina'>
+42	praxeSamulu	NN	<fs af='praxeSaM,n,any,pl,3,,0,0'>
+43	puNyakRewramulu	NN	<fs af='puNyakRewraM,n,any,pl,3,,0,0'>
+44	:	SYM	<fs af=':,punc,,,,,,'>
+45	amarAvawi	NNP	<fs af='amarAvawi,n,any,sg,3,,0,0'>
+46	:	SYM	<fs af=':,punc,,,,,,'>
+47	guMtUruku	NNP	<fs af='guMtUru,n,any,sg,3,,ki,ki'>
+48	35	QC	<fs af='35,num,,,,,,'>
+49	ki	NN	<fs af='ki,avy,,,,,,'>'>
+50	
+51	
+52	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+53	xUraMlo	NN	<fs af='xUraM,n,any,sg,3,,lo,lo'>
+54	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+55	kRewraM	NN	<fs af='kRewraM,n,any,sg,3,,0,0'>
+56	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

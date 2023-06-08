@@ -1,0 +1,6 @@
+<Sentence id="31">
+0	((	SSF
+1	ayiweneM	WQ	<fs af='ayiweneM,avy,,,,,, '>
+2	?	SYM	<fs af='?,punc,,,,,, '>
+))
+</Sentence>

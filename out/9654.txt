@@ -1,0 +1,9 @@
+<Sentence id="9654">
+0	((	SSF
+1	appatiki	NST	<fs af='appudu,adv,any,any,any,,ku_adv,ku_adv'>
+2	laMdanu	NNP	<fs af='laMdan,n,any,sg,3,,0,0'>|<fs af='laMdan,n,any,sg,3,,obl,obl'>|<fs af='laMdanu,n,any,sg,3,,0,0'>|<fs af='laMdanu,n,any,sg,3,,obl,obl'>
+3	sarigA	RB	<fs af='sariga,n,any,sg,3,,0,0_A'>|<fs af='sariga,n,any,sg,3,,0,0_V'>
+4	melkolexu	VM	<fs af='melko,v,any,any,any,,a_lexu,a_lexu'>|<fs af='melko,v,any,any,any,,a_lexu,a_lexu'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

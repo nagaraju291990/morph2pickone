@@ -1,0 +1,16 @@
+<Sentence id="7874">
+0	((	SSF	
+1	kAru	NN	<fs af='kAru,n,any,sg,3,,0,0'>|<fs af='kAru,n,any,sg,3,,obl,obl'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	baMgalYA	NN	<fs af='baMgalYA,n,any,sg,3,,0,0'>|<fs af='baMgalYA,n,any,sg,3,,obl,obl'>
+4	guriMci	PSP	<fs af='guriMci,avy,,,,,,' poslcat="NM">
+5	kalalu	NN	<fs af='kala,n,any,pl,3,,0,0'>|<fs af='kala,n,any,pl,3,,vu_agr,vu_agr'>
+6	kanexi	VM	<fs af='kanu,v,any,any,any,,e_axi,e_axi'>
+7	pattaNaMlo	NN	<fs af='pattaNaM,n,any,sg,3,,lo,lo'>
+8	welikagA	RB	<fs af='welika,adj,any,any,any,,gA_adj,gA_adj' poslcat="NM">|<fs af='welika,n,any,sg,3,,gA,gA' poslcat="NM">
+9	dabbu	NN	<fs af='dabbu,n,any,sg,3,,0,0'>|<fs af='dabbu,n,any,sg,3,,obl,obl'>
+10	saMpAxiMcagalaM	VM	<fs af='saMpAxiMcagala,v,any,pl,1,,wA,wA'>|<fs af='saMpAxiMcagala,v,any,pl,1,,A,A'>
+11	anexi	VM	<fs af='anu,v,any,any,any,,e_axi,e_axi'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

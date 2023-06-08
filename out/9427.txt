@@ -1,0 +1,23 @@
+<Sentence id="9427">
+0	((	SSF
+1	mIru	PRP	<fs af='mIru,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='mIru,pn,any,pl,2,,0,0'>
+2	memu	PRP	<fs af='memu,pn,any,pl,1,,0,0'>
+3	ceVppina	VM	<fs af='ceVppu,v,any,any,any,,ina,ina'>
+4	prakAraM	NN	<fs af='prakAraM,n,any,sg,3,,0,0'>
+5	vinakapowe	VM	<fs af='vinu,v,any,any,any,,akapowe,akapowe'>|<fs af='vinakapo,v,any,any,any,,we,we'>
+6	I	DEM	<fs af='I,avy,,,,,, '>
+7	wupAkulawo	NN	<fs af='wupAki,n,any,pl,3,,wo,wo'>
+8	mimmalni	PRP	<fs af='mIru,pn,any,pl,2,,ni,ni'>
+9	bAXiMci	VM	<fs af='bAXiMcu,v,any,any,any,,i,i'>
+10	mIku	PRP	<fs af='mIru,pn,any,pl,2,,ki,ki'>
+11	smqwi	NN	<fs af='smqwi,n,any,sg,3,,0,0'>|<fs af='smqwi,n,any,sg,3,,obl,obl'>
+12	poyina	NN	<fs af='po,v,any,any,any,,ina,ina'>|<fs af='poyina,n,any,sg,3,,0,0'>|<fs af='poyina,n,any,sg,3,,obl,obl'>
+13	waruvAwa	PSP	<fs af='waruvAwa,avy,,,,,, '>
+14	mA	PRP	<fs af='memu,pn,any,pl,1,,obl,obl'>
+15	viRaya	NN	<fs af='viRayaM,n,any,sg,3,,obl,obl'>
+15	pariSoXana	NN	<fs af='pariSoXana,n,any,sg,3,,0,0'>|<fs af='pariSoXana,n,any,sg,3,,obl,obl'>|<fs af='pariSoXanaM,n,any,sg,3,,obl,obl'>
+16	cesukovalasi	VM	<fs af='ceVyyi,v,any,any,any,,koVn_a_valayu_i,koVn_a_valayu_i'>
+17	vuMtuMxi	VAUX	<fs af='vuMdu,v,fn,sg,3,,wA,wA'>|<fs af='vuMtuMdu,v,fn,sg,3,,A,A'>
+18	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

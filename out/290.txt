@@ -1,0 +1,10 @@
+<Sentence id="290">
+0	((	SSF
+1	wagina	VM	<fs af='wagu,v,any,any,any,,ina,ina'>|<fs af='wagina,adj,any,any,any,,0_adj,0_adj'>
+2	dAktarlU	NN	<fs af='dAktar,n,any,pl,3,,I,I'>|<fs af='dAktaru,n,any,pl,3,,0,0_V'>|<fs af='dAktaru,n,any,pl,3,,I,I'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	narsulU	NN	<fs af='nars,n,any,pl,3,,I,I'>|<fs af='narsu,n,any,pl,3,,0,0_V'>|<fs af='narsu,n,any,pl,3,,I,I'>
+5	lekapovadaM	VM	<fs af='lekapo,v,any,any,any,,adaM,adaM'>|<fs af='lekapovadaM,n,any,sg,3,,0,0'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

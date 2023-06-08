@@ -1,0 +1,36 @@
+<Sentence id="5449">
+0	((	SSF
+1	guraka	NN	<fs af='guraka,n,any,sg,3,,0,0'>|<fs af='guraka,n,any,sg,3,,obl,obl'>
+2	peVtte	VM	<fs af='peVttu,v,any,any,any,,e,e'>|<fs af='peVttu,v,any,any,any,,i,i_e'>|<fs af='peVtta,n,any,sg,3,,0,0_e'>|<fs af='peVtteV,n,any,sg,3,,0,0_e'>|<fs af='peVtteV,n,any,sg,3,,0,0_V'>
+3	alavAtu	NN	<fs af='alavAtu,n,any,sg,3,,0,0'>|<fs af='alavAtu,n,any,sg,3,,obl,obl'>
+4	uMte	VM	<fs af='uMdu,v,any,any,any,,we,we'>
+5	_	SYM
+6	_	SYM
+7	_	SYM
+8	_	SYM
+9	_	SYM
+10	_	SYM
+11	_	SYM
+12	_	SYM
+13	_	SYM
+14	_	SYM
+15	_	SYM
+16	_	SYM
+17	_	SYM
+18	_	SYM
+19	_	SYM
+20	_	SYM
+21	_	SYM
+22	_	SYM
+23	_	SYM
+24	_	SYM
+25	_	SYM
+26	_	SYM
+27	_	SYM
+28	_	SYM
+29	_	SYM
+30	veVllakilA	NN	<fs af='veVllakila,avy,,,,,A,A_avy'>|<fs af='veVllakila,avy,,,,,V,V_avy'>
+31	padukokUdaxu	VM	<fs af='paduko,v,any,any,any,,a_kUdaxu,a_kUdaxu'>
+32	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

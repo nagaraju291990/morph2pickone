@@ -1,0 +1,19 @@
+<Sentence id="4944">
+0	((	SSF
+1	koVlleru	NNP	<fs af='koVlleru,n,any,sg,3,,0,0'>|<fs af='koVlleru,n,any,sg,3,,obl,obl'>
+2	,	SYM	<fs af=',,punc,,,,,, '>
+3	pulikat	NNP	<fs af='pulikat,n,any,sg,3,,0,0'>|<fs af='pulikat,n,any,sg,3,,obl,obl'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	nAgArjunasAgar	NNP	<fs af='nAgArjunasAgar,n,any,sg,3,,0,0'>|<fs af='nAgArjunasAgar,n,any,sg,3,,obl,obl'>
+6	,	SYM	<fs af=',,punc,,,,,, '>
+7	SrISElaM	NNP	<fs af='SrISElaM,n,any,sg,3,,0,0'>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	wuMgaBaxra	NNP	<fs af='wuMgaBaxra,n,any,sg,3,,0,0'>|<fs af='wuMgaBaxra,n,any,sg,3,,obl,obl'>
+10	vaMti	JJ	<fs af='vaMti,adj,any,any,any,,0_adj,0_adj'>
+11	sarassulu	NN	<fs af='sarassu,n,any,pl,3,,0,0'>|<fs af='sarassu,n,any,pl,3,,vu_agr,vu_agr'>
+12	,	SYM	<fs af=',,punc,,,,,, '>
+13	jalASayAlu	NN	<fs af='jalASayaM,n,any,pl,3,,0,0'>|<fs af='jalASayaM,n,any,pl,3,,vu_agr,vu_agr'>
+14	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+15	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,13 @@
+<Sentence id="6597">			
+0	((	SSF	
+1	cuttupakkala	NN	<fs af='cuttupakkala,n,,sg,,,0,0'>
+2	gala	JJ	<fs af='gala,adj,any,any,any,,0_adj,0_adj'>
+3	xummU	NN	<fs af='xummu,n,any,sg,3,,0,0_V'>
+4	,	SYM	<fs af=',,punc,,,,,,'>
+5	XUlYI	NN	<fs af='XUlYi,n,any,sg,3,,0,0_V'>
+6	gAyAlni	NN	<fs af='gAyaM,n,any,pl,3,,ni,ni'>
+7	malinaM	NN	<fs af='malinaM,n,any,sg,3,,0,0'>
+8	ceswAyi	VM	<fs af='ceVyyi,v,n,pl,3,,wA,wA'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

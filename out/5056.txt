@@ -1,0 +1,11 @@
+<Sentence id="5056">
+0	((	SSF
+1	*	SYM	<fs af='*,punc,,,,,, '>
+2	oVka	QC	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+3	kilo	NN	<fs af='kilo,n,,sg,,,0,0'>|<fs af='kilo,n,,sg,,,obl,obl'>
+4	jilledu	NN	<fs af='jilledu,n,any,sg,3,,0,0'>|<fs af='jilledu,n,any,sg,3,,obl,obl'>
+5	Akulu	NN	<fs af='Aku,n,any,pl,3,,0,0'>|<fs af='Aku,n,any,pl,3,,vu_agr,vu_agr'>
+6	wIsukovAli	VM	<fs af='wIsuko,v,any,any,any,,Ali,Ali'>|<fs af='wIsuko,v,any,any,any,,Ali,Ali'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

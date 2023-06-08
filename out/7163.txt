@@ -1,0 +1,14 @@
+<Sentence id="7163">
+0	((	SSF
+1	pillavAdiki	NN	<fs af='pillavAdu,n,any,sg,3,,ki,ki'>
+2	pAlu	NN	<fs af='paM,n,any,pl,3,,0,0'>|<fs af='paM,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAlu,n,any,sg,3,,0,0'>|<fs af='pAlu,n,any,sg,3,,0,0_A'>|<fs af='pAlu,n,any,sg,3,,obl,obl'>|<fs af='pAlu,n,any,sg,3,,vu_agr,vu_agr'>
+3	ivvAlo	VM	<fs af='ivvu,v,any,any,any,,Ali,Ali_o'>
+4	ivvakUdaxo	VM	<fs af='ivvakUdu,v,fn,sg,3,,a,a_o'>
+5	eVxuriMti	NN	<fs af='eVxurillu,n,any,sg,3,,obl,obl'>
+6	paMwulammanu	NN	<fs af='paMwulamma,n,any,sg,3,,ni,ni'>|<fs af='paMwulamma,n,any,sg,3,,ni_agr,ni_agr'>
+7	adugu	VM	<fs af='adugu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='adugu,n,any,sg,3,,0,0'>|<fs af='adugu,n,any,sg,3,,obl,obl'>
+8	annAdu	VM	<fs af='anu,v,m,sg,3,,A,A'>
+9	goviMxu	NNP	<fs af='goviMx,n,any,sg,3,,0,0'>|<fs af='goviMx,n,any,sg,3,,obl,obl'>|<fs af='goviMxu,n,any,sg,3,,0,0'>|<fs af='goviMxu,n,any,sg,3,,obl,obl'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

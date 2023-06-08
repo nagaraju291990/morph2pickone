@@ -1,0 +1,16 @@
+<Sentence id="6196">
+0	((	SSF
+1	aMxucewa	PRP	<fs af='aMxucewa,avy,,,,,, '>|<fs af='axi,pn,fn,sg,3,,ce,ce'>
+2	navaMbar	NN	<fs af='navaMbar,n,any,sg,3,,0,0'>|<fs af='navaMbar,n,any,sg,3,,obl,obl'>
+3	nuMdi	PSP	<fs af='nuMdi,avy,,,,,, '>
+4	mArci	NN	<fs af='mArcu,v,any,any,any,,i,i'>|<fs af='mArci,n,any,sg,3,,0,0'>|<fs af='mArci,n,any,sg,3,,obl,obl'>|<fs af='mAruvu,v,any,any,any,,i,i'>
+5	varaku	PSP	<fs af='varaku,avy,,,,,, '>|<fs af='varaku,adv,any,any,any,,0_adv,0_adv'>
+6	aMte	UT	<fs af='aMte,avy,,,,,, '>|<fs af='anu,v,any,any,any,,we,we'>|<fs af='aMtu,v,any,any,any,,e,e'>|<fs af='aMtu,v,any,any,any,,i,i_e'>|<fs af='aMtu,n,any,sg,3,,0,0_e'>
+7	SIwAkAlaM	NN	<fs af='SIwAkAlaM,n,any,sg,3,,0,0'>
+8	paryAtakulaku	NN	<fs af='paryAtakudu,n,any,pl,3,,ki,ki'>
+9	anuvEna	JJ	<fs af='anuvu,n,any,sg,3,,Ena,Ena'>
+10	kAlaMgA	RB	<fs af='kAlaM,n,any,sg,3,,gA,gA'>
+11	ceVppabadiMxi	VM	<fs af='ceVppabadu,v,fn,sg,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

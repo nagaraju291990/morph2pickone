@@ -1,0 +1,9 @@
+<Sentence id="7354">
+0	((	SSF
+1	xIni	PRP	<fs af='ixi,pn,fn,sg,3,,obl,obl'>
+2	Xara	NN	<fs af='Xara,n,any,sg,3,,0,0'>|<fs af='Xara,n,any,sg,3,,obl,obl'>
+3	Exu	QC	<fs af='Exu,n,any,sg,3,,0,0'>|<fs af='Exu,n,any,sg,3,,obl,obl'>|<fs af='Exu,num,any,any,any,,0,0'>
+4	vaMxalu	QC	<fs af='vaMxa,n,any,pl,3,,0,0'>|<fs af='vaMxa,n,any,pl,3,,vu_agr,vu_agr'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

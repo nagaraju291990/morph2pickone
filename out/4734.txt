@@ -1,0 +1,39 @@
+<Sentence id="4734">
+0	((	SSF
+1	cepala	NN	<fs af='cepa,n,any,pl,3,,obl,obl'>
+2	ceVruvulu	NN	<fs af='ceVruvu,n,any,pl,3,,0,0'>|<fs af='ceVruvu,n,any,pl,3,,vu_agr,vu_agr'>
+3	eVkkada	WQ	<fs af='eVkkada,adv,any,any,any,,0_adv,0_adv'>|<fs af='eVkkadaM,n,any,sg,3,,obl,obl'>
+4	wavvAli	VM	<fs af='wavvu,v,any,any,any,,Ali,Ali'>
+5	_	SYM
+6	_	SYM
+7	_	SYM
+8	_	SYM
+9	_	SYM
+10	_	SYM
+11	_	SYM
+12	_	SYM
+13	_	SYM
+14	_	SYM
+15	_	SYM
+16	_	SYM
+17	_	SYM
+18	_	SYM
+19	_	SYM
+20	_	SYM
+21	_	SYM
+22	_	SYM
+23	_	SYM
+24	_	SYM
+25	_	SYM
+26	_	SYM
+27	_	SYM
+28	_	SYM
+29	_	SYM
+30	_	SYM
+31	_	SYM
+32	ixi	PRP	<fs af='ixi,pn,fn,sg,3,,0,0'>
+33	cAlA	INTF	<fs af='cAlu,v,any,any,any,,i,i_A'>
+34	muKyaM	NN	<fs af='muKya,adj,any,any,any,,xi_adj,xi_adj'>|<fs af='muKyaM,n,any,sg,3,,0,0'>
+35	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,17 @@
+<Sentence id="8453">			
+0	((	SSF	
+1	ikkadi	NST	<fs af='ikkada,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+2	walpagiri	NNP	<fs af='walpagiri,n,any,sg,3,,0,0'>
+3	raMganAXasvAmi	NNP	<fs af='raMganAXasvAmi,n,any,sg,3,,0,0'>
+4	xevAlayaM	NN	<fs af='xevAlayaM,n,any,sg,3,,0,0'>
+5	mUlasWAneSvarasvAmi	NNP	<fs af='mUlasWAneSvarasvAmi,n,any,sg,3,,0,0'>
+6	,	SYM	<fs af=',,punc,,,,,,'>
+7	_veNugopAlasvAmi	NNP	<fs af='_veNugopAlasvAmi,unk,,,,,,'>
+8	,	SYM	<fs af=',,punc,,,,,,'>
+9	XarmarAju	NNP	<fs af='XarmarAju,n,any,sg,3,,0,0'>
+10	AlayaM	NN	<fs af='AlayaM,n,any,sg,3,,0,0'>
+11	prasixXi	NN	<fs af='prasixXi,n,any,sg,3,,0,0'>
+12	ceVMxinavi	VM	<fs af='ceVMxinaxi,pn,any,pl,3,,0,0'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

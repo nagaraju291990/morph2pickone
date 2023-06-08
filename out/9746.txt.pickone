@@ -1,0 +1,14 @@
+<Sentence id="9746">			
+0	((	SSF	
+1	exi	WQ	<fs af='exi,pn,fn,sg,3,,0,0'>
+2	manaku	PRP	<fs af='manaM,pn,any,pl,1,,ki,ki'>
+3	gADamEna	JJ	<fs af='gADaM,n,any,sg,3,,Ena,Ena'>
+4	anuBavaMloki	NN	<fs af='anuBavaM,n,any,sg,3,,lopalaki,lopalaki'>
+5	vaswe	VM	<fs af='vaccu,v,any,any,any,,we,we'>
+6	xAni	PRP	<fs af='axi,pn,fn,sg,3,,obl,obl'>
+7	yaMxu	PSP	<fs af='yaMxu,avy,,,,,,'>
+8	manaku	PRP	<fs af='manaM,pn,any,pl,1,,ki,ki'>
+9	cariwArXawa,kota,n	NN	<fs af='cariwArXawa,kota,n,unk,,,,,,'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

@@ -1,0 +1,19 @@
+<Sentence id="7056">			
+0	((	SSF	
+1	@	SYM	<fs af='@,unk,,,,,,' poslcat="NM">
+2	@	SYM	<fs af='@,unk,,,,,,' poslcat="NM">
+3	@	SYM	<fs af='@,unk,,,,,,' poslcat="NM">
+4	@	SYM	<fs af='@,unk,,,,,,' poslcat="NM">
+5	2020va	QO	<fs af='2020va,unk,,,,,,' poslcat="NM">
+6	saMvawsarAniki	NN	<fs af='saMvawsaraM,n,any,sg,3,,ki,ki'>
+7	@	SYM	<fs af='@,unk,,,,,,' poslcat="NM">
+8	@	SYM	<fs af='@,unk,,,,,,' poslcat="NM">
+9	@	SYM	<fs af='@,unk,,,,,,' poslcat="NM">
+10	@	SYM	<fs af='@,unk,,,,,,' poslcat="NM">
+11	820	QC	<fs af='820,num,,,,,,'>
+12	kotlaku	QC	<fs af='koti,n,any,pl,3,,ki,ki'>|<fs af='kotu,n,any,pl,3,,ki,ki'>
+13	cerukoVMtuMxani	VM	<fs af='ceruko,v,fn,sg,3,,wU_uMdu_A_ani,wU_uMdu_A_ani'>
+14	aMcanA	NN	<fs af='aMca,n,any,sg,3,,ni,ni_A'>|<fs af='aMcana,n,any,sg,3,,0,0_A'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

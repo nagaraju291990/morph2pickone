@@ -1,0 +1,14 @@
+<Sentence id="7243">			
+0	((	SSF	
+1	pillAdi	NN	<fs af='pillAdu,n,any,sg,3,,obl,obl'>
+2	ArogyaM	NN	<fs af='ArogyaM,n,any,sg,3,,0,0'>
+3	jAgrawwa	NN	<fs af='jAgrawwa,n,any,sg,3,,0,0'>|<fs af='jAgrawwa,n,any,sg,3,,obl,obl'>
+4	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+5	vAlYlaki	NN	<fs af='vAlYlu,pn,mf,pl,3,,ki,ki' poslcat="NM">
+6	ceVppi	VM	<fs af='ceVppu,v,any,any,any,,i,i'>
+7	paMpiMxi	VM	<fs af='paMpu,v,fn,sg,3,,A,A'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	paMwulamma	NN	<fs af='paMwulamma,n,any,sg,3,,0,0'>|<fs af='paMwulamma,n,any,sg,3,,obl,obl'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,9 @@
+<Sentence id="2982">
+0	((	SSF	
+1	vini	VM	<fs af='vinu,v,any,any,any,,i,i'>
+2	pillavAdu	NN	<fs af='pilla,n,any,sg,3,,vAdu,vAdu'>|<fs af='pillavAdu,n,any,sg,3,,0,0'>
+3	Alocanalo	NN	<fs af='Alocana,n,any,sg,3,,lo,lo'>|<fs af='Alocana,n,any,pl,3,,0,0_o'>
+4	paddAdu	VM	<fs af='padu,v,m,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,9 @@
+<Sentence id="3279">
+0	((	SSF
+1	maro	QF	<fs af='maro,avy,,,,,, '>|<fs af='maru,n,any,sg,3,,0,0_o'>|<fs af='mara,n,any,sg,3,,0,0_o'>
+2	pakka	NN	<fs af='pakka,adv,any,any,any,,0_adv,0_adv'>|<fs af='pakka,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+3	kopamu	VM	<fs af='kopaM,n,any,sg,3,,0,0'>
+3	oVcciMxi	VM	<fs af='oVcciMxi,unk,,,,,,'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

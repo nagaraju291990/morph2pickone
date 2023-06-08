@@ -1,0 +1,27 @@
+<Sentence id="8389">			
+0	((	SSF	
+1	xInini	PRP	<fs af='ixi,pn,fn,sg,3,,nu,nu'>
+2	SAwavAhanulu	NNP	<fs af='SAwavAhanudu,n,any,pl,3,,0,0'>
+3	,	SYM	<fs af=',,punc,,,,,,'>
+4	ikRvAkulu	NNP	<fs af='ikRvAku,n,any,pl,3,,0,0'>
+5	,	SYM	<fs af=',,punc,,,,,,'>
+6	pallavulu	NNP	<fs af='pallavi,n,any,pl,3,,0,0'>
+7	,	SYM	<fs af=',,punc,,,,,,'>
+8	cAlYukyulu	NNP	<fs af='cAlYukyudu,n,any,pl,3,,0,0'>
+9	,	SYM	<fs af=',,punc,,,,,,'>
+10	reVddirAjulu	NNP	<fs af='reVddirAju,n,any,pl,3,,0,0'>
+11	,	SYM	<fs af=',,punc,,,,,,'>
+12	vijayanagararAjulu	NNP	<fs af='vijayanagararAju,n,any,pl,3,,0,0'>
+13	,	SYM	<fs af=',,punc,,,,,,'>
+14	karnAtaka	NNP	<fs af='karnAtaka,n,any,sg,3,,0,0'>
+15	navAbulu	NNP	<fs af='navAb,n,any,pl,3,,0,0'>
+16	pAliMcina	VM	<fs af='pAliMcu,v,any,any,any,,ina,ina'>
+17	praxeSaM	NN	<fs af='praxeSaM,n,any,sg,3,,0,0'>
+18	1978va	QO	<fs af='1978va,unk,,,,,,'>
+19	saM
+20	prakASaM	NNP	<fs af='prakASaM,n,any,sg,3,,0,0'>
+21	jillAgA	RB	<fs af='jillA,n,any,sg,3,,gA,gA'>
+22	mArcAru	VM	<fs af='mArcu,v,any,pl,2,,A,A'>
+23	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

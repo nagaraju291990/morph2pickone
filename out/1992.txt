@@ -1,0 +1,13 @@
+<Sentence id="1992">
+0	((	SSF
+1	emEnA	NN	<fs af='emEnA,avy,,,,,0,0_avy'>
+2	sare	RP	<fs af='sare,avy,,,,,, '>
+3	!	SYM	<fs af='!,punc,,,,,, '>
+4	subbayyaku	NNP	<fs af='subbayya,n,any,sg,3,,ki,ki'>
+5	xeVbba	VM	<fs af='xeVbba,n,any,sg,3,,0,0'>|<fs af='xeVbba,n,any,sg,3,,obl,obl'>
+5	wIyAlsiMxe	VM	<fs af='wIyAlsiMxe,unk,,,,,,'>
+6	anukoVnnAdu	VM	<fs af='anuko,v,m,sg,3,,A,A'>
+7	SInayya	NNP	<fs af='SInayya,n,any,sg,3,,0,0'>|<fs af='SInayya,n,any,sg,3,,obl,obl'>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

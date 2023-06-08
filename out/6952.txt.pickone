@@ -1,0 +1,11 @@
+<Sentence id="6952">			
+0	((	SSF	
+1	*	SYM	<fs af='*,punc,,,,,,'>
+2	60	QC	<fs af='60,num,,,,,,'>
+3	pAlYlu	NN	<fs af='pAlu,n,any,pl,3,,0,0'>
+4	rasAyanika	NN	<fs af='rasAyanikaM,n,any,sg,3,,obl,obl'>
+5	eVruvulu	NN	<fs af='eVruvu,n,any,pl,3,,0,0'>
+6	vAdAli	VM	<fs af='vAdu,v,any,any,any,,Ali,Ali'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

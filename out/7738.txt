@@ -1,0 +1,7 @@
+<Sentence id="7738">
+0	((	SSF
+1	eVgiripovAlani	VM	<fs af='eVgiripo,v,any,any,any,,Ali_ani,Ali_ani'>
+2	giMjukuMtunnAyi	VM	<fs af='giMjuko,v,n,pl,3,,wunn,wunn'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,20 @@
+<Sentence id="9756">
+0	((	SSF
+1	I	DEM	<fs af='I,avy,,,,,, '>
+2	mqgaM	NN	<fs af='mqgaM,n,any,sg,3,,0,0'>
+3	emiti	WQ	<fs af='emiti,avy,,,,,, '>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	I	DEM	<fs af='I,avy,,,,,, '>
+6	mAtlAdadaM	VM	<fs af='mAtlAdu,v,any,any,any,,adaM,adaM'>|<fs af='mAtlAdadaM,n,any,sg,3,,0,0'>
+7	emiti	WQ	<fs af='emiti,avy,,,,,, '>
+8	ani	UT	<fs af='ani,avy,,,,,, '>|<fs af='anu,v,any,any,any,,i,i'>
+9	awanini	PRP	<fs af='awanu,pn,m,sg,3,,nu,nu'>|<fs af='awanu,pn,m,sg,3,,ni,ni'>
+10	cUdadAniki	VM	<fs af='cUdadaM,n,any,sg,3,,ki,ki'>
+11	malYlI	RB	<fs af='malYlu,v,any,any,any,,i,i_V'>
+12	guMpulu	NN	<fs af='guMpu,n,any,pl,3,,0,0'>|<fs af='guMpu,n,any,pl,3,,vu_agr,vu_agr'>
+13	gUdi	VM	<fs af='gUdu,v,any,any,any,,i,i'>
+14	bayalu	NN	<fs af='bayalu,n,any,sg,3,,0,0'>|<fs af='bayalu,n,any,sg,3,,0,0_A'>|<fs af='bayalu,n,any,sg,3,,obl,obl'>
+15	xerAru	VM	<fs af='xeru,v,any,pl,2,,A,A'>|<fs af='xeru,v,mf,pl,3,,A,A'>|<fs af='xevaccu,v,any,pl,2,,a,a'>|<fs af='xevaccu,v,mf,pl,3,,a,a'>
+16	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

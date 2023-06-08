@@ -1,0 +1,18 @@
+<Sentence id="1639">
+0	((	SSF	
+1	aMxuvalla	PRP	<fs af='aMxuvalla,avy,,,,,,' poslcat="NM">
+2	prawi	NN	<fs af='prawi,n,,sg,,,0,0'>|<fs af='prawi,n,,sg,,,obl,obl'>
+2	neVla	NN	<fs af='neVla,n,,sg,,,0,0'>|<fs af='neVla,n,,sg,,,obl,obl'>
+3	bahiRtu	NN	<fs af='bahiRtu,n,any,sg,3,,0,0'>|<fs af='bahiRtu,n,any,sg,3,,obl,obl'>
+4	warvAwa	NST	<fs af='warvAwa,avy,,,,,,' poslcat="NM">
+5	ixi	PRP	<fs af='ixi,pn,fn,sg,3,,0,0'>
+6	sarEna	JJ	<fs af='sarEna,n,any,sg,3,,0,0' poslcat="NM">|<fs af='sarEna,n,any,sg,3,,obl,obl' poslcat="NM">
+7	cota	NN	<fs af='cota,adv,any,any,any,,0_adv,0_adv' poslcat="NM">
+8	uMxo	VM	<fs af='uMdu,v,fn,sg,3,,A,A_o'>
+9	lexo	VM	<fs af='lexo,avy,,,,,,' poslcat="NM">
+10	narsamma	NN	<fs af='narsamma,n,any,sg,3,,0,0'>|<fs af='narsamma,n,any,sg,3,,obl,obl'>
+11	xaggara	NST	<fs af='xaggara,adv,any,any,any,,0_adv,0_adv'>
+12	cUpiMcukovAli	VM	<fs af='cUpiMcuko,v,any,any,any,,Ali,Ali'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,11 @@
+<Sentence id="304">			
+0	((	SSF	
+1	ApareRanlu	NN	<fs af='ApareRan,n,any,pl,3,,0,0'>
+2	wappa	RP	<fs af='wappu,v,any,any,any,,an,an'>'>
+3	vAlYlaku	PRP	<fs af='vAlYlu,pn,mf,pl,3,,ki,ki'>
+4	AdavAlYla	NN	<fs af='AdavAlYlu,pn,mf,pl,3,,obl,obl'>
+5	ArogyaM	NN	<fs af='ArogyaM,n,any,sg,3,,0,0'>
+6	pattaxu	VM	<fs af='pattu,v,fn,sg,3,,a,a'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

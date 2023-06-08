@@ -1,0 +1,9 @@
+<Sentence id="8805">
+0	((	SSF
+1	awadu	PRP	<fs af='awadu,pn,,sg,,,0,0'>
+2	marala	NN	<fs af='marala,avy,,,,,, '>|<fs af='mara,n,any,pl,3,,obl,obl'>|<fs af='maralu,v,any,any,any,,an,an'>
+3	marala	RDP	<fs af='marala,avy,,,,,, '>|<fs af='mara,n,any,pl,3,,obl,obl'>|<fs af='maralu,v,any,any,any,,an,an'>
+4	adigAdu	VM	<fs af='adugu,v,m,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

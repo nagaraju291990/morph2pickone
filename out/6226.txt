@@ -1,0 +1,21 @@
+<Sentence id="6226">
+0	((	SSF
+1	SrImuKa	NNP	<fs af='SrImuKaM,n,any,sg,3,,obl,obl'>
+2	liMgaM	NN	<fs af='liMgaM,n,any,sg,3,,0,0'>
+3	:	SYM	<fs af=':,punc,,,,,, '>
+4	SrIkAkulYAniki	NNP	<fs af='SrIkAkulYaM,n,any,sg,3,,ki,ki'>
+5	48	QC	<fs af='48,num,,,,,, '>|<fs af='1,num,,,,,, '>
+6	ki	NN	<fs af='ki,avy,,,,,, '>|<fs af='mIru,pn,any,pl,2,,obl,obl'>
+7	|	SYM
+8	|	SYM
+9	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+10	xUraMlo	NN	<fs af='xUraM,n,any,sg,3,,lo,lo'>
+11	vaMSaXAra	NNP	<fs af='vaMSaXAra,n,any,sg,3,,0,0'>|<fs af='vaMSaXAra,n,any,sg,3,,obl,obl'>
+12	naxi	NN	<fs af='naxi,n,any,sg,3,,0,0'>|<fs af='naxi,n,any,sg,3,,obl,obl'>
+13	oVdduna	NN	<fs af='oVddu,n,any,sg,3,,na,na'>
+14	unnaxi	VM	<fs af='uMdu,v,any,any,any,,ina_axi,ina_axi'>|<fs af='uMdu,v,fn,sg,3,,A,A'>|<fs af='unnaxi,pn,any,sg,3,,0,0'>
+15	I	DEM	<fs af='I,avy,,,,,, '>
+16	grAmaM	NN	<fs af='grAmaM,n,any,sg,3,,0,0'>
+17	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

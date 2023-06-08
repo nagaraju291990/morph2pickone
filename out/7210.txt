@@ -1,0 +1,13 @@
+<Sentence id="7210">
+0	((	SSF
+1	pillAdini	NN	<fs af='pillAdu,n,any,sg,3,,ni,ni'>|<fs af='pillAdu,n,any,sg,3,,ni_agr,ni_agr'>
+2	veVMtane	NST	<fs af='veVMtane,avy,,,,,, '>
+3	Arogya	NN	<fs af='ArogyaM,n,any,sg,3,,obl,obl'>
+4	kAryakarwa	NN	<fs af='kAryakarwa,n,any,sg,3,,0,0'>|<fs af='kAryakarwa,n,any,sg,3,,obl,obl'>
+5	xaggariki	NST	<fs af='xaggara,adv,any,any,any,,ku_adv,ku_adv'>
+6	wIsuko	VM	<fs af='wiyyi,v,any,any,any,,koVn,koVn'>
+6	poxAmu	VM	<fs af='po,v,any,pl,1,,xA,xA'>|<fs af='po,v,any,pl,2,,xA,xA'>
+6	aMxi	VM	<fs af='anu,v,fn,sg,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,5 @@
+<Sentence id="4846">
+0	((	SSF
+1	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

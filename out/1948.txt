@@ -1,0 +1,15 @@
+<Sentence id="1948">
+0	((	SSF
+1	dAktarugAru	NN	<fs af='dAktar,n,any,sg,3,,gAru,gAru'>|<fs af='dAktaru,n,any,sg,3,,gAru,gAru'>|<fs af='dAktarugAru,n,any,sg,3,,0,0'>|<fs af='dAktarugAru,n,any,sg,3,,obl,obl'>
+2	wana	PRP	<fs af='wAnu,pn,mf,sg,3,,obl,obl'>
+3	iMtiki	NN	<fs af='illu,n,any,sg,3,,ki,ki'>
+4	eM	WQ	<fs af='eM,avy,,,,,, '>
+5	kAvalasi	VM	<fs af='kAvalayu,v,any,any,any,,i,i'>
+6	vaccinA	VAUX	<fs af='vaccu,v,any,any,any,,inA,inA'>
+7	subbayya	NNP	<fs af='subbayya,n,any,sg,3,,0,0'>|<fs af='subbayya,n,any,sg,3,,obl,obl'>
+8	koVttu	NN	<fs af='koVttu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='koVttu,n,any,sg,3,,0,0'>|<fs af='koVttu,n,any,sg,3,,obl,obl'>
+8	nuMdIne	NN	<fs af='nuMdIne,unk,,,,,,'>
+9	weVppiMcukoVnevAdu	NN	<fs af='weVppiMcu,v,any,any,any,,koVn_vAdu,koVn_e_vAdu'>|<fs af='weVppiMcu,v,any,any,any,,koVn_an_vAdu,koVn_an_e_vAdu'>|<fs af='weVppiMcu,v,any,any,any,,koVn_i_vAdu,koVn_i_e_vAdu'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

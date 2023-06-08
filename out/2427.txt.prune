@@ -1,0 +1,8 @@
+<Sentence id="2427">
+0	((	SSF	
+1	somuluku	NNP	<fs af='somulu,n,any,sg,3,,ki,ki'>
+2	kUdA	PSP	<fs af='kUdA,avy,,,,,,' poslcat="NM">|<fs af='kUdu,v,any,any,any,,i,i_A' poslcat="NM">|<fs af='kUdu,n,any,sg,3,,0,0_A' poslcat="NM">
+3	weVlisiMxi	VM	<fs af='weVliyu,v,fn,sg,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

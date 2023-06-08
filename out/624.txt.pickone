@@ -1,0 +1,13 @@
+<Sentence id="624">			
+0	((	SSF	
+1	kutuMba	NN	<fs af='kutuMbaM,n,any,sg,3,,obl,obl'>
+2	poRaNaku	NN	<fs af='poRaNa,n,any,sg,3,,ki,ki'>
+3	,	SYM	<fs af=',,punc,,,,,,'>
+4	pillala	NN	<fs af='pilla,n,any,pl,3,,obl,obl'>
+5	caxuvuku	NN	<fs af='caxuvu,n,any,sg,3,,ki,ki'>
+6	saMpAxana	NN	<fs af='saMpAxana,n,any,sg,3,,0,0'>
+7	cAlataM	VM	<fs af='cAlu,v,any,any,any,,adaM,adaM'>
+8	lexu	VAUX	<fs af='gala,v,fn,sg,3,,a,a'>'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

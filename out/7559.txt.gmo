@@ -1,0 +1,11 @@
+<Sentence id="7559">			
+0	((	SSF	
+1	kI	RB	<fs af='kI,avy,,,,,,' poslcat="NM">
+2	kI	RDP	<fs af='kI,avy,,,,,,' poslcat="NM">
+3	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+4	aruswU	VM	<fs af='aruvu,v,any,any,any,,wU,wU'>
+5	gola	NN	<fs af='gola,n,any,sg,3,,0,0'>|<fs af='gola,n,any,sg,3,,obl,obl'>
+6	cesevi	VM	<fs af='cesexi,pn,any,pl,3,,0,0' poslcat="NM">
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,7 @@
+<Sentence id="4574">
+0	((	SSF
+1	Apaleka	VM	<fs af='Apagala,v,any,any,any,,aka,aka'>
+2	poyiMxi	VM	<fs af='po,v,fn,sg,3,,A,A'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,23 @@
+<Sentence id="8839">
+0	((	SSF	
+1	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+2	saMskqwamo	NNP	<fs af='saMskqwaM,n,any,sg,3,,0,0_o'>
+3	kAxo	VM	<fs af='avvu,v,fn,sg,3,,a,a_o'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+6	paMdiwudu	NN	<fs af='paMdiwudu,n,any,sg,3,,0,0'>
+7	atlA	RB	<fs af='attu,n,any,pl,3,,0,0_A' poslcat="NM">
+8	anukoVnnAdu	VM	<fs af='anuko,v,m,sg,3,,A,A'>
+8	emo	VM	<fs af='emo,avy,,,,,,' poslcat="NM">
+9	!	SYM	<fs af='!,punc,,,,,,'>
+10	ayinA	CC	<fs af='avvu,v,any,any,any,,inA,inA' poslcat="NM">
+11	mAtlAde	VM	<fs af='mAtlAdu,v,any,any,any,,e,e'>|<fs af='mAtlAdu,v,any,any,any,,i,i_e'>
+12	BARanibatti	NN	<fs af='BARa,n,any,sg,3,,batti,batti'>
+13	mAtlAdevAlYla	VM	<fs af='mAtlAdevAlYlu,pn,mf,pl,3,,obl,obl' poslcat="NM">
+14	nAgarikawa	NN	<fs af='nAgarikawa,n,any,sg,3,,0,0'>|<fs af='nAgarikawa,n,any,sg,3,,obl,obl'>
+15	nirNayaM	NN	<fs af='nirNayaM,n,any,sg,3,,0,0'>
+16	eVtlA	NN	<fs af='eVtlA,avy,,,,,0,0_avy' poslcat="NM">|<fs af='eVtlu,avy,,,,,A,A_avy' poslcat="NM">
+17	avuwuMxi	VM	<fs af='avvu,v,fn,sg,3,,wA,wA'>|<fs af='avuwuMdu,v,fn,sg,3,,A,A'>
+18	?	SYM	<fs af='?,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

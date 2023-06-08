@@ -1,0 +1,14 @@
+<Sentence id="4568">
+0	((	SSF
+1	paxelYlugA	RB	<fs af='paxelYlu,n,any,sg,3,,gA,gA'>
+2	wanu	PRP	<fs af='wAnu,pn,mf,sg,3,,0,0'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	wana	PRP	<fs af='wAnu,pn,mf,sg,3,,obl,obl'>
+5	Barwa	NN	<fs af='Barwa,n,any,sg,3,,0,0'>|<fs af='Barwa,n,any,sg,3,,obl,obl'>
+6	padina	VM	<fs af='padu,v,any,any,any,,ina,ina'>|<fs af='padi,n,any,sg,3,,na,na'>
+7	kaRtAlu	NN	<fs af='kaRtaM,n,,pl,,,0,0'>|<fs af='kaRtaM,n,,pl,,,vu,vu'>
+7	annI	PRP	<fs af='anni,pn,,pl,,,0_V,0_V'>
+8	ceVppiMxi	VM	<fs af='ceVppu,v,fn,sg,3,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

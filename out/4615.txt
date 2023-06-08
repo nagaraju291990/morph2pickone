@@ -1,0 +1,10 @@
+<Sentence id="4615">
+0	((	SSF
+1	bAgA	INTF	<fs af='bAgA,avy,,,,,, '>
+2	caxuvukoVnnavAru	PRP	<fs af='caxuvukoVn,pn,,pl,,,ina_vAru,ina_vAru_0'>|<fs af='caxuvukoVn,pn,,pl,,,ina_vAru_vu,ina_vAru_vu'>
+3	cepala	NN	<fs af='cepa,n,any,pl,3,,obl,obl'>
+4	pariSramaloki	NN	<fs af='pariSrama,n,any,sg,3,,lopalaki,lopalaki'>
+5	ceruwunnAru	VM	<fs af='ceru,v,any,pl,2,,wunn,wunn'>|<fs af='ceru,v,mf,pl,3,,wunn,wunn'>|<fs af='ceruwuMdu,v,any,pl,2,,A,A'>|<fs af='ceruwuMdu,v,mf,pl,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

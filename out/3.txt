@@ -1,0 +1,10 @@
+<Sentence id="3">
+0	((	SSF
+1	nA	PRP	<fs af='nenu,pn,any,sg,1,,obl,obl'>
+2	kaXa	NN	<fs af='kaXa,n,any,sg,3,,0,0'>|<fs af='kaXa,n,any,sg,3,,obl,obl'>
+3	aMxari	PRP	<fs af='aMxaru,pn,mf,pl,3,,obl,obl'>
+4	Adapillala	NN	<fs af='Adapilla,n,any,pl,3,,obl,obl'>
+5	kaXe	NN	<fs af='kaXa,n,any,sg,3,,0,0_e'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

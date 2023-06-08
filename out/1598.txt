@@ -1,0 +1,7 @@
+<Sentence id="1598">
+0	((	SSF
+1	kanexi	VM	<fs af='kanu,v,any,any,any,,e_axi,e_axi'>|<fs af='kanexi,pn,any,sg,3,,0,0'>
+2	wAnu	PRP	<fs af='wAnu,pn,mf,sg,3,,0,0'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

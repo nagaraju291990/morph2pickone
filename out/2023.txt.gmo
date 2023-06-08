@@ -1,0 +1,13 @@
+<Sentence id="2023">			
+0	((	SSF	
+1	mari	RP	<fs af='mari,avy,,,,,,'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	buttalopala	NN	<fs af='butta,n,any,sg,3,,lo,lo'>
+4	xUrcina	VM	<fs af='xUrcu,v,any,any,any,,ina,ina'>|<fs af='xUruvu,v,any,any,any,,ina,ina'>
+5	kawwi	NN	<fs af='kawwi,n,any,sg,3,,0,0'>|<fs af='kawwi,n,any,sg,3,,obl,obl'>
+6	AmeVku	PRP	<fs af='AmeV,pn,f,sg,3,,ki,ki'>
+7	wagu	VM	<fs af='wagu,v,,sg,2,,AjFArWa,AjFArWa'>
+7	allexA	VM	<fs af='allu,v,,sg,,,e_axi_0,e_axi_0_A' deri_cat=pn>
+8	?	SYM	<fs af='?,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

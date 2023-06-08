@@ -1,0 +1,20 @@
+<Sentence id="8593">			
+0	((	SSF	
+1	skAtlaMduyArdulo	NNP	<fs af='skAtlaMduyArdu,n,any,sg,3,,lo,lo'>
+2	paxi	QC	<fs af='paxi,n,any,sg,3,,0,0'>|<fs af='paxi,n,any,sg,3,,obl,obl'>
+3	gajAla	NN	<fs af='gajaM,n,any,pl,3,,obl,obl'>
+4	poVdugU	JJ	<fs af='poVdugu,n,any,sg,3,,0,0_V' poslcat="NM">
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	paxi	QC	<fs af='paxi,n,any,sg,3,,0,0'>|<fs af='paxi,n,any,sg,3,,obl,obl'>
+7	gajAla	NN	<fs af='gajaM,n,any,pl,3,,obl,obl'>
+8	veVdalpU	NN	<fs af='veVdalpu,n,any,sg,3,,0,0_V'>
+9	paxihenu	QC	<fs af='paxihenu,n,any,sg,3,,0,0'>|<fs af='paxihenu,n,any,sg,3,,obl,obl'>
+10	adugula	NN	<fs af='adugu,n,any,pl,3,,obl,obl'>
+11	eVwwuna	NN	<fs af='eVwwu,n,any,sg,3,,na,na'>
+12	baliRtamEna	JJ	<fs af='baliRta,adj,any,any,any,,xEna_na_adj,xEna_na_adj'>
+13	inupa	NN	<fs af='inupa,adj,any,any,any,,0_adj,0_adj' poslcat="NM">
+14	bonu	NN	<fs af='bonu,n,any,sg,3,,0,0'>|<fs af='bonu,n,any,sg,3,,obl,obl'>
+15	kattAru	VM	<fs af='kattu,v,any,pl,2,,A,A'>|<fs af='kattu,v,mf,pl,3,,A,A'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

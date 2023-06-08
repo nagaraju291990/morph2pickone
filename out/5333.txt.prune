@@ -1,0 +1,9 @@
+<Sentence id="5333">
+0	((	SSF	
+1	cinna	JJ	<fs af='cinna,adj,any,any,any,,0_adj,0_adj'>
+2	cinna	RDP	<fs af='cinna,adj,any,any,any,,0_adj,0_adj' poslcat="NM">
+3	uMdalugA	RB	<fs af='uMda,n,any,pl,3,,gA,gA' poslcat="NM">
+4	ceyAli	VM	<fs af='ceVyyi,v,any,any,any,,Ali,Ali'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

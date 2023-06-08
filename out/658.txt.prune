@@ -1,0 +1,23 @@
+<Sentence id="658">
+0	((	SSF	
+1	pAla	NN	<fs af='pAlu,n,,pl,,,obl,obl'>|<fs af='paM,n,,pl,,,obl,obl'>
+1	kUra	VM	<fs af='kUru,v,any,any,any,,an,an'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	wotakUra	NN	<fs af='wotakUra,n,any,sg,3,,0,0'>|<fs af='wotakUra,n,any,sg,3,,obl,obl'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	meVMwi	NN	<fs af='meVMwi,n,,sg,,,0,0'>|<fs af='meVMwi,n,,sg,,,obl,obl'>
+5	kUra	VM	<fs af='kUru,v,any,any,any,,an,an'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	goMgUra	NN	<fs af='goMgUra,n,any,sg,3,,0,0'>|<fs af='goMgUra,n,any,sg,3,,obl,obl'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	baccali	NN	<fs af='baccali,n,,sg,,,0,0'>|<fs af='baccali,n,,sg,,,obl,obl'>
+9	kUra	VM	<fs af='kUru,v,any,any,any,,an,an'>
+10	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+11	cukka	NN	<fs af='cukka,n,any,sg,3,,0,0'>|<fs af='cukka,n,any,sg,3,,obl,obl'>
+12	kUralanu	NN	<fs af='kUra,n,any,pl,3,,ni,ni'>
+13	rakarakAlugA	RB	<fs af='rakarakAlu,n,any,sg,3,,gA,gA' poslcat="NM">
+14	vaMdukuni	VM	<fs af='vaMdu,v,any,any,any,,koVn_i,koVn_i'>
+15	wiMtAru	VM	<fs af='winu,v,any,pl,2,,wA,wA'>|<fs af='winu,v,mf,pl,3,,wA,wA'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

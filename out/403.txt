@@ -1,0 +1,8 @@
+<Sentence id="403">
+0	((	SSF
+1	lopala	NST	<fs af='lopala,adv,any,any,any,,0_adv,0_adv'>
+2	exo	WQ	<fs af='exi,pn,fn,sg,3,,0,0_o'>
+3	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,11 @@
+<Sentence id="6936">			
+0	((	SSF	
+1	yuriyet	NN	<fs af='yuriyet,n,any,sg,3,,0,0'>|<fs af='yuriyet,n,any,sg,3,,obl,obl'>
+2	AP	NN	<fs af='AP,n,any,sg,3,,0,0'>|<fs af='AP,n,any,sg,3,,obl,obl'>
+3	poVtAR	NN	<fs af='poVtAR,n,any,sg,3,,0,0'>|<fs af='poVtAR,n,any,sg,3,,obl,obl'>
+4	cOdu	NN	<fs af='cOdu,n,any,sg,3,,0,0'>|<fs af='cOdu,n,any,sg,3,,obl,obl'>
+5	nelalaku	NN	<fs af='nela,n,any,pl,3,,ki,ki'>
+6	panikirAvu	VM	<fs af='panikivaccu,v,any,sg,2,,a,a'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,21 @@
+<Sentence id="2064">
+0	((	SSF
+1	weVlisipowe	VM	<fs af='weVlisipo,v,any,any,any,,we,we'>
+2	vIpu	NN	<fs af='vIpu,n,any,sg,3,,0,0'>|<fs af='vIpu,n,any,sg,3,,obl,obl'>
+3	baxxalu	NN	<fs af='baxxa,n,any,pl,3,,0,0'>|<fs af='baxxa,n,any,pl,3,,vu_agr,vu_agr'>
+4	koVdawAru	VM	<fs af='koVttu,v,any,pl,2,,wA,wA'>|<fs af='koVttu,v,mf,pl,3,,wA,wA'>
+5	kaxA	RP	<fs af='kaxA,avy,,,,,, '>
+6	!	SYM	<fs af='!,punc,,,,,, '>
+7	xayyaM	NN	<fs af='xayyaM,n,any,sg,3,,0,0'>
+8	pattadaM	VM	<fs af='pattu,v,any,any,any,,adaM,adaM'>|<fs af='pattadaM,n,any,sg,3,,0,0'>
+9	,	SYM	<fs af=',,punc,,,,,, '>
+10	pUnakaM	NN	<fs af='pUnakaM,n,any,sg,3,,0,0'>
+11	rAvadaM	VM	<fs af='vaccu,v,any,any,any,,adaM,adaM'>|<fs af='rAvadaM,n,any,sg,3,,0,0'>
+12	guriMci	PSP	<fs af='guriMci,avy,,,,,, '>
+13	manaM	PRP	<fs af='manaM,pn,any,pl,1,,0,0'>
+14	appudappudU	NST	<fs af='appudappudU,avy,,,,,, '>
+15	viMtU	VM	<fs af='vinu,v,any,any,any,,wU,wU'>
+16	uMtAM	VAUX	<fs af='uMdu,v,any,pl,1,,wA,wA'>
+17	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

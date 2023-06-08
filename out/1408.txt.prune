@@ -1,0 +1,18 @@
+<Sentence id="1408">
+0	((	SSF	
+1	kalupu	NN	<fs af='kalupu,n,any,sg,3,,0,0'>|<fs af='kalupu,n,any,sg,3,,obl,obl'>
+2	wIyadaM	VM	<fs af='wiyyi,v,any,any,any,,adaM,adaM'>
+3	_	SYM	<'>|<poslcat="NM"'>
+4	nivAraNa	NN	<fs af='nivAraNa,n,any,sg,3,,0,0'>|<fs af='nivAraNa,n,any,sg,3,,obl,obl'>|<fs af='nivAraNaM,n,any,sg,3,,obl,obl'>
+5	paMta	NN	<fs af='paMta,n,any,sg,3,,0,0'>|<fs af='paMta,n,any,sg,3,,obl,obl'>
+6	moVxati	NST	<fs af='moVxata,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+7	xaSalo	NN	<fs af='xaSa,n,any,sg,3,,lo,lo'>|<fs af='xaSa,n,any,pl,3,,0,0_o'>
+8	Amuxapu	NN	<fs af='AmuxaM,n,any,sg,3,,obl,obl'>
+9	paMta	NN	<fs af='paMta,n,any,sg,3,,0,0'>|<fs af='paMta,n,any,sg,3,,obl,obl'>
+10	kalupu	NN	<fs af='kalupu,n,any,sg,3,,0,0'>|<fs af='kalupu,n,any,sg,3,,obl,obl'>
+11	moVkkalavalla	NN	<fs af='moVkka,n,any,pl,3,,valana,valana'>
+12	viparIwaMgA	RB	<fs af='viparIwaM,n,any,sg,3,,gA,gA' poslcat="NM">
+13	naRtapowuMxi	VM	<fs af='naRtapo,v,fn,sg,3,,wA,wA'>|<fs af='naRtapowuMdu,v,fn,sg,3,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

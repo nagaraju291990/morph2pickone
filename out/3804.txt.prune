@@ -1,0 +1,12 @@
+<Sentence id="3804">
+0	((	SSF	
+1	kAnI	CC	<fs af='kAnI,avy,,,,,,'>
+2	awadu	PRP	<fs af='awadu,pn,,sg,,,0,0'>
+3	cesina	VM	<fs af='ceVyyi,v,any,any,any,,ina,ina'>
+4	nerAniki	NN	<fs af='neraM,n,any,sg,3,,ki,ki'>
+5	gala	JJ	<fs af='gala,adj,any,any,any,,0_adj,0_adj'>
+6	kAraNAlu	NN	<fs af='kAraNaM,n,any,pl,3,,0,0'>|<fs af='kAraNaM,n,any,pl,3,,vu_agr,vu_agr'>
+6	emiti	NN	<fs af='emiti,avy,,,,,,' poslcat="NM">
+7	?	SYM	<fs af='?,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

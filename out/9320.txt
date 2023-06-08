@@ -1,0 +1,6 @@
+<Sentence id="9320">
+0	((	SSF
+1	AragiMcAdu	VM	<fs af='AragiMcu,v,m,sg,3,,A,A'>
+2	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

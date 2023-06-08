@@ -1,0 +1,27 @@
+<Sentence id="3750">			
+0	((	SSF	
+1	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+1	emaMte	PRP	<fs af='emaMte,avy,,,,,,'>
+2	IsAri	NN	<fs af='IsAri,avy,,,,,,'>
+3	viduxalEna	VM	<fs af='viduxala,n,any,sg,3,,Ena,Ena'>
+4	waruvAwa	NST	<fs af='waruvAwa,avy,,,,,,'>
+5	30	QC	<fs af='30,num,,,,,,'>
+6	rUpAyalu	NN	<fs af='rUpAya,n,any,pl,3,,0,0'>
+7	jamacesi	VM	<fs af='jamaceVyyi,v,any,any,any,,i,i'>
+8	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+9	Avuni	NN	<fs af='Avu,n,any,sg,3,,ni,ni'>
+10	koVnukkoVni	VM	<fs af='koVnukko,v,any,any,any,,i,i'>
+11	wana	PRP	<fs af='wAnu,pn,mf,sg,3,,obl,obl'>
+12	wammudi	NN	<fs af='wammudu,n,any,sg,3,,obl,obl'>
+13	koVdukula	NN	<fs af='koVduku,n,any,pl,3,,obl,obl'>
+14	xaggariki	NST	<fs af='xaggara,adv,any,any,any,,ku_adv,ku_adv'>
+15	veVlYli	VM	<fs af='veVlYlu,v,any,any,any,,i,i'>
+16	wana	PRP	<fs af='wAnu,pn,mf,sg,3,,obl,obl'>
+17	SeRa	JJ	<fs af='SeRaM,n,any,sg,3,,obl,obl'>'>
+18	jIviwAnni	NN	<fs af='jIviwaM,n,any,sg,3,,ni,ni'>
+19	vAri	PRP	<fs af='vAru,pn,mf,pl,3,,obl,obl'>
+20	xaggara	NST	<fs af='xaggara,adv,any,any,any,,0_adv,0_adv'>
+21	gadapAlani	VM	<fs af='gadupu,v,any,any,any,,Ali_ani,Ali_ani'>
+22	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

@@ -1,0 +1,16 @@
+<Sentence id="8605">
+0	((	SSF	
+1	kaxiliMxi	VM	<fs af='kaxulu,v,fn,sg,3,,A,A'>
+1	anna	VM	<fs af='anu,v,any,any,any,,ina,ina'>
+2	vArwa	NN	<fs af='vArwa,n,any,sg,3,,0,0'>|<fs af='vArwa,n,any,sg,3,,obl,obl'>
+3	kannu	NN	<fs af='kannu,n,any,sg,3,,0,0'>|<fs af='kannu,n,any,sg,3,,obl,obl'>
+4	mUsi	VM	<fs af='muyyi,v,any,any,any,,i,i'>
+5	kannu	NN	<fs af='kannu,n,any,sg,3,,0,0'>|<fs af='kannu,n,any,sg,3,,obl,obl'>
+6	weVricetappatiki	NN	<fs af='weVruvu,nst,,,,,_e_appudu_ku,_e_appudu_ku_adv' poslcat="NM">
+7	laMdan	NNP	<fs af='laMdan,n,any,sg,3,,0,0'>|<fs af='laMdan,n,any,sg,3,,obl,obl'>
+8	laMdan	RDP	<fs af='laMdan,n,any,sg,3,,0,0' poslcat="NM">|<fs af='laMdan,n,any,sg,3,,obl,obl' poslcat="NM">
+9	aMwA	QF	<fs af='aMwa,pn,any,pl,3,,0,0_A' poslcat="NM">|<fs af='aMwa,pn,any,pl,3,,0,0_V' poslcat="NM">
+10	weVlisipoyiMxi	VM	<fs af='weVlisipo,v,fn,sg,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

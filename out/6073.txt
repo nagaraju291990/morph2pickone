@@ -1,0 +1,20 @@
+<Sentence id="6073">
+0	((	SSF
+1	veVlagoVMdalu	NNP	<fs af='veVlagoVMda,n,any,pl,3,,0,0'>|<fs af='veVlagoVMda,n,any,pl,3,,vu_agr,vu_agr'>
+2	,	SYM	<fs af=',,punc,,,,,, '>
+3	nallamalalu	NNP	<fs af='nallamala,n,any,pl,3,,0,0'>|<fs af='nallamala,n,any,pl,3,,vu_agr,vu_agr'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	eVrramalalu	NNP	<fs af='eVrramala,n,any,pl,3,,0,0'>|<fs af='eVrramala,n,any,pl,3,,vu_agr,vu_agr'>
+6	,	SYM	<fs af=',,punc,,,,,, '>
+7	pAlakoVMdalu	NNP	<fs af='pAlakoVMda,n,any,pl,3,,0,0'>|<fs af='pAlakoVMda,n,any,pl,3,,vu_agr,vu_agr'>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	SeRAcalaM	NNP	<fs af='SeRAcalaM,n,any,sg,3,,0,0'>
+10	koVMdalu	NN	<fs af='koVMda,n,any,pl,3,,0,0'>|<fs af='koVMda,n,any,pl,3,,vu_agr,vu_agr'>
+11	-	SYM
+12	ivannI	QF	<fs af='ivannI,avy,,,,,, '>
+13	wUrpu	NN	<fs af='wUrpu,n,any,sg,3,,0,0'>|<fs af='wUrpu,n,any,sg,3,,obl,obl'>
+14	kanumalalo	NN	<fs af='kanuma,n,any,pl,3,,lo,lo'>
+15	BAgAle	NN	<fs af='BAgaM,n,any,pl,3,,0,0_e'>
+16	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

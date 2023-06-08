@@ -1,0 +1,31 @@
+<Sentence id="8324">
+0	((	SSF	
+1	mOryulu	NNP	<fs af='mOryu,n,any,pl,3,,0,0'>|<fs af='mOryu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='mOryudu,n,any,pl,3,,0,0'>|<fs af='mOryudu,n,any,pl,3,,vu_agr,vu_agr'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	pallavulu	NNP	<fs af='pallavi,n,any,pl,3,,0,0'>|<fs af='pallavudu,n,any,pl,3,,0,0'>|<fs af='pallavudu,n,any,pl,3,,vu_agr,vu_agr'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	ikRvAkulu	NNP	<fs af='ikRvAku,n,any,pl,3,,0,0'>|<fs af='ikRvAku,n,any,pl,3,,vu_agr,vu_agr'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	viRNukuMdinulu	NNP	<fs af='viRNukuMdinulu,n,any,sg,3,,0,0'>|<fs af='viRNukuMdinulu,n,any,sg,3,,vu_agr,vu_agr'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	codulu	NNP	<fs af='codi,n,any,pl,3,,0,0'>|<fs af='codi,n,any,pl,3,,vu_agr,vu_agr'>
+10	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+11	cAlYukyulu	NNP	<fs af='cAlYukyudu,n,any,pl,3,,0,0'>|<fs af='cAlYukyudu,n,any,pl,3,,vu_agr,vu_agr'>
+12	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+13	kAkawIyulu	NNP	<fs af='kAkawIyudu,n,any,pl,3,,0,0'>|<fs af='kAkawIyudu,n,any,pl,3,,vu_agr,vu_agr'>
+14	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+15	koVMdavIti	NNP	<fs af='koVMdavIdu,n,any,sg,3,,obl,obl'>
+16	reVddirAjulu	NNP	<fs af='reVddirAju,n,any,pl,3,,0,0'>|<fs af='reVddirAju,n,any,pl,3,,vu_agr,vu_agr'>
+17	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+18	vijayanagara	NNP	<fs af='vijayanagara,n,any,sg,3,,0,0'>|<fs af='vijayanagara,n,any,sg,3,,obl,obl'>|<fs af='vijayanagaraM,n,any,sg,3,,obl,obl'>
+19	rAjulu	NN	<fs af='rAju,n,any,pl,3,,0,0'>|<fs af='rAju,n,any,pl,3,,vu_agr,vu_agr'>
+20	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+21	gajapawulu	NNP	<fs af='gajapawi,n,any,pl,3,,0,0'>
+22	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+23	golkoVMda	NNP	<fs af='golkoVMda,n,any,sg,3,,0,0'>|<fs af='golkoVMda,n,any,sg,3,,obl,obl'>
+24	navAbulu	NN	<fs af='navAb,n,any,pl,3,,0,0'>|<fs af='navAb,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='navAbu,n,any,pl,3,,0,0'>|<fs af='navAbu,n,any,pl,3,,vu_agr,vu_agr'>
+25	pAliMcina	VM	<fs af='pAliMcu,v,any,any,any,,ina,ina'>
+26	prAMwamu	NN	<fs af='prAMwaM,n,any,sg,3,,0,0'>
+27	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,14 @@
+<Sentence id="2156">
+0	((	SSF
+1	boVppAyi	NN	<fs af='boVppAyi,n,any,sg,3,,0,0'>|<fs af='boVppAyi,n,any,sg,3,,obl,obl'>
+2	kAya	VM	<fs af='kAyi,v,any,any,any,,an,an'>|<fs af='kAya,n,any,sg,3,,0,0'>|<fs af='kAya,n,any,sg,3,,obl,obl'>|<fs af='kAyaM,n,any,sg,3,,obl,obl'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	giMjalu	NN	<fs af='giMja,n,any,pl,3,,0,0'>|<fs af='giMja,n,any,pl,3,,vu_agr,vu_agr'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	pAlu	NN	<fs af='paM,n,any,pl,3,,0,0'>|<fs af='paM,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAlu,n,any,sg,3,,0,0'>|<fs af='pAlu,n,any,sg,3,,0,0_A'>|<fs af='pAlu,n,any,sg,3,,obl,obl'>|<fs af='pAlu,n,any,sg,3,,vu_agr,vu_agr'>
+7	cAlA	QF	<fs af='cAlu,v,any,any,any,,i,i_A'>
+8	jabbulu	NN	<fs af='jabbu,n,any,pl,3,,0,0'>|<fs af='jabbu,n,any,pl,3,,vu_agr,vu_agr'>
+9	pogoVdawAyi	VM	<fs af='pogoVttu,v,n,pl,3,,wA,wA'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

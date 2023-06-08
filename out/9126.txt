@@ -1,0 +1,24 @@
+<Sentence id="9126">
+0	((	SSF
+1	BARA	NN	<fs af='BARa,n,any,sg,3,,0,0_A'>|<fs af='BARa,n,any,sg,3,,0,0_V'>|<fs af='BARA,n,any,sg,3,,0,0'>|<fs af='BARA,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,, '>
+3	mI	PRP	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+4	SAswramu	NN	<fs af='SAswraM,n,any,sg,3,,0,0'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	mA	PRP	<fs af='memu,pn,any,pl,1,,obl,obl'>
+7	SAswramu	NN	<fs af='SAswraM,n,any,sg,3,,0,0'>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	reVMdU	QC	<fs af='reVMdu,n,any,sg,3,,0,0_V'>|<fs af='reVMdu,num,any,any,any,,V,V'>
+10	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+11	mArgAla	NN	<fs af='mArgaM,n,any,pl,3,,obl,obl'>
+12	powunnA	VM	<fs af='po,v,any,any,any,,wunnA,wunnA'>|<fs af='powuMdu,v,any,any,any,,inA,inA'>
+13	,	SYM	<fs af=',,punc,,,,,, '>
+14	avi	PRP	<fs af='axi,pn,fn,pl,3,,0,0'>
+15	gurwiMcina	VM	<fs af='gurwiMcu,v,any,any,any,,ina,ina'>
+16	yaxArWa	NN	<fs af='yaxArWa,adj,any,any,any,,0_adj,0_adj'>|<fs af='yaxArWaM,n,any,sg,3,,obl,obl'>|<fs af='yaxArWudu,n,any,sg,3,,obl,obl'>
+17	viRayaM	NN	<fs af='viRayaM,n,any,sg,3,,0,0'>
+18	mAwraM	PSP	<fs af='mAwraM,avy,,,,,, '>
+19	oVkate	QC	<fs af='oVkati,n,any,sg,3,,0,0_e'>
+20	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

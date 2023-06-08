@@ -1,0 +1,12 @@
+<Sentence id="6805">			
+0	((	SSF	
+1	maMci	JJ	<fs af='maMci,adj,any,any,any,,0_adj,0_adj'>
+2	paMta	NN	<fs af='paMta,n,any,sg,3,,0,0'>
+3	xigubadiki	NN	<fs af='xigubadi,n,any,sg,3,,ki,ki'>
+4	18	QC	<fs af='18,num,,,,,,'>
+5	poRaka	NN	<fs af='poRakaM,n,any,sg,3,,obl,obl'>
+6	paxArWAlu	NN	<fs af='paxArWaM,n,any,pl,3,,0,0'>
+7	avasaraM	NN	<fs af='avasaraM,n,any,sg,3,,0,0'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

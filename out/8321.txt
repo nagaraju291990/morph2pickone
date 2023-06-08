@@ -1,0 +1,30 @@
+<Sentence id="8321">
+0	((	SSF
+1	I	DEM	<fs af='I,avy,,,,,, '>
+2	jillAlu	NN	<fs af='jillA,n,any,pl,3,,0,0'>|<fs af='jillA,n,any,pl,3,,vu_agr,vu_agr'>
+3	uwwarAna	NN	<fs af='uwwaraM,n,any,sg,3,,na,na'>
+4	nalgoVMda	NNP	<fs af='nalgoVMda,n,any,sg,3,,0,0'>|<fs af='nalgoVMda,n,any,sg,3,,obl,obl'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	kqRNA	NNP	<fs af='kqRNa,n,any,sg,3,,0,0_A'>|<fs af='kqRNa,n,any,sg,3,,0,0_V'>|<fs af='kqRNudu,n,any,sg,3,,I,I'>
+7	jillAlu	NN	<fs af='jillA,n,any,pl,3,,0,0'>|<fs af='jillA,n,any,pl,3,,vu_agr,vu_agr'>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	xakRiNAna	NN	<fs af='xakRiNaM,n,any,sg,3,,na,na'>
+10	prakASaM	NNP	<fs af='prakASaM,n,any,sg,3,,0,0'>
+11	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>|<fs af='jillA,n,any,sg,3,,0,0'>|<fs af='jillA,n,any,sg,3,,obl,obl'>
+12	,	SYM	<fs af=',,punc,,,,,, '>
+13	paScimAna	NN	<fs af='paScimaM,n,any,sg,3,,na,na'>
+14	prakASaM	NNP	<fs af='prakASaM,n,any,sg,3,,0,0'>
+15	,	SYM	<fs af=',,punc,,,,,, '>
+16	meVhabUbnagar	NNP	<fs af='meVhabUbnagar,n,any,sg,3,,0,0'>|<fs af='meVhabUbnagar,n,any,sg,3,,obl,obl'>
+17	jillAlu	NN	<fs af='jillA,n,any,pl,3,,0,0'>|<fs af='jillA,n,any,pl,3,,vu_agr,vu_agr'>
+18	,	SYM	<fs af=',,punc,,,,,, '>
+19	wUrpuna	NN	<fs af='wUrpu,n,any,sg,3,,na,na'>
+20	baMgAlYAKAwamu	NNP	<fs af='baMgAlYAKAwaM,n,any,sg,3,,0,0'>
+21	,	SYM	<fs af=',,punc,,,,,, '>
+22	kqRNA	NNP	<fs af='kqRNa,n,any,sg,3,,0,0_A'>|<fs af='kqRNa,n,any,sg,3,,0,0_V'>|<fs af='kqRNudu,n,any,sg,3,,I,I'>
+23	jillAlu	NN	<fs af='jillA,n,any,pl,3,,0,0'>|<fs af='jillA,n,any,pl,3,,vu_agr,vu_agr'>
+24	sarihaxxulugA	RB	<fs af='sarihaxxu,n,any,pl,3,,gA,gA'>
+25	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+26	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

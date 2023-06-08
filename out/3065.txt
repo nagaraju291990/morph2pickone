@@ -1,0 +1,7 @@
+<Sentence id="3065">
+0	((	SSF
+1	eVkkadA	WQ	<fs af='eVkkadA,avy,,,,,, '>|<fs af='eVkku,v,m,sg,3,,a,a_A'>|<fs af='eVkkada,adv,any,any,any,,0_A_adv,0_A_adv'>|<fs af='eVkkada,adv,any,any,any,,0_V_adv,0_V_adv'>
+2	kanapadalexu	VM	<fs af='kanapadu,v,any,any,any,,a_lexu,a_lexu'>|<fs af='kanapadagala,v,fn,sg,3,,a,a'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

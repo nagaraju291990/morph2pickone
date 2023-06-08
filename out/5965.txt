@@ -1,0 +1,8 @@
+<Sentence id="5965">
+0	((	SSF
+1	Bayapadina	VM	<fs af='Bayapadu,v,any,any,any,,ina,ina'>
+1	atle	VM	<fs af='attu,n,any,pl,3,,0,0_e'>
+2	ayyiMxi	VM	<fs af='avvu,v,fn,sg,3,,A,A'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

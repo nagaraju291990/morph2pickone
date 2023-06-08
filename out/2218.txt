@@ -1,0 +1,22 @@
+<Sentence id="2218">
+0	((	SSF
+1	koVbbari	NN	<fs af='koVbbari,n,any,sg,3,,0,0'>|<fs af='koVbbari,n,any,sg,3,,obl,obl'>
+2	ceVttu	NN	<fs af='ceVttu,n,any,sg,3,,0,0'>|<fs af='ceVttu,n,any,sg,3,,obl,obl'>
+3	-	SYM
+4	-	SYM
+5	-	SYM
+6	-	SYM
+7	-	SYM
+8	-	SYM
+9	-	SYM
+10	-	SYM
+11	-	SYM
+12	-	SYM
+13	-	SYM
+14	axanaMgA	RB	<fs af='axanaMgA,avy,,,,,, '>
+15	saMpAxiMcAlani	VM	<fs af='saMpAxiMcu,v,any,any,any,,Ali_ani,Ali_ani'>
+16	aMxarikI	PRP	<fs af='aMxaru,pn,mf,pl,3,,ki,ki_V'>
+17	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A'>
+18	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

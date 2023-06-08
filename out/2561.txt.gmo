@@ -1,0 +1,18 @@
+<Sentence id="2561">			
+0	((	SSF	
+1	viwwanAlu	NN	<fs af='viwwanaM,n,any,pl,3,,0,0'>|<fs af='viwwanaM,n,any,pl,3,,vu_agr,vu_agr'>
+2	vese	VM	<fs af='veVyyi,v,any,any,any,,e,e'>|<fs af='veVyyi,v,any,any,any,,i,i_e'>
+3	paxXawi	NN	<fs af='paxXawi,n,any,sg,3,,0,0'>|<fs af='paxXawi,n,any,sg,3,,obl,obl'>
+4	aviseV	NN	<fs af='aviseV,n,any,sg,3,,0,0'>|<fs af='aviseV,n,any,sg,3,,obl,obl'>
+5	paMta	NN	<fs af='paMta,n,any,sg,3,,0,0'>|<fs af='paMta,n,any,sg,3,,obl,obl'>
+6	vese	VM	<fs af='veVyyi,v,any,any,any,,e,e'>|<fs af='veVyyi,v,any,any,any,,i,i_e'>
+7	muMxu	NST	<fs af='muMxu,adv,any,any,any,,0_adv,0_adv'>
+8	nelanu	NN	<fs af='nela,n,any,sg,3,,ni,ni'>|<fs af='nela,n,any,sg,3,,ni_agr,ni_agr'>
+9	2	QC	<fs af='2,num,,,,,,'>
+10	leka	CC	<fs af='gala,v,any,any,any,,aka,aka' poslcat="NM">
+11	3	QC	<fs af='3,num,,,,,,'>
+12	sArlu	NN	<fs af='sAri,n,any,pl,3,,0,0'>|<fs af='sAri,n,any,pl,3,,ni_agr,ni_agr'>
+13	xunnAli	VM	<fs af='xunnu,v,any,any,any,,Ali,Ali'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

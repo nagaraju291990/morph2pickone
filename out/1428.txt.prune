@@ -1,0 +1,20 @@
+<Sentence id="1428">
+0	((	SSF	
+1	KarIP	NN	<fs af='KarIP,n,any,sg,3,,0,0'>|<fs af='KarIP,n,any,sg,3,,obl,obl'>
+2	paMta	NN	<fs af='paMta,n,any,sg,3,,0,0'>|<fs af='paMta,n,any,sg,3,,obl,obl'>
+3	woVlixaSalo	NN	<fs af='woVlixaSa,n,any,sg,3,,lo,lo'>|<fs af='woVlixaSa,n,any,pl,3,,0,0_o'>
+4	veVMta	NST	<fs af='veVMta,avy,,,,,,' poslcat="NM">
+5	veVMta	RDP	<fs af='veVMta,avy,,,,,,' poslcat="NM">
+6	varRAlu	NN	<fs af='varRA,n,any,pl,3,,0,0'>|<fs af='varRA,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='varRaM,n,any,pl,3,,0,0'>|<fs af='varRaM,n,any,pl,3,,vu_agr,vu_agr'>
+7	padinatlu	VM	<fs af='padu,v,any,any,any,,ina_atlu,ina_atlu'>
+7	ayiwe	VM	<fs af='avvu,v,any,any,any,,we,we'>
+8	eVMdumacca	NN	<fs af='eVMdumacca,n,any,sg,3,,0,0'>|<fs af='eVMdumacca,n,any,sg,3,,obl,obl'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	nallamacca	NN	<fs af='nallamacca,n,any,sg,3,,0,0'>|<fs af='nallamacca,n,any,sg,3,,obl,obl'>
+11	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+12	weVgulYlu	NN	<fs af='weVgudu,n,,pl,,,0,0'>|<fs af='weVgudu,n,,pl,,,vu,vu'>
+13	sAXAraNaMgA	RB	<fs af='sAXAraNaM,n,any,sg,3,,gA,gA' poslcat="NM">
+14	kanabadawAyi	VM	<fs af='kanabadu,v,n,pl,3,,wA,wA'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

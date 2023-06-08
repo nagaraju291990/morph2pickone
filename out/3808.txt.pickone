@@ -1,0 +1,23 @@
+<Sentence id="3808">			
+0	((	SSF	
+1	jadjI	NN	<fs af='jadj,n,any,sg,3,,ni,ni_V'>
+2	bAgA	INTF	<fs af='bAgA,avy,,,,,,'>
+3	caxuvukunnavAdu	PRP	<fs af='caxuvukoVn,pn,,sg,,,ina_vAdu,ina_vAdu_0'>
+4	,	SYM	<fs af=',,punc,,,,,,'>
+5	xayArxrahqxayudu	NN	<fs af='xayArxrahqxayudu,n,any,sg,3,,0,0'>
+6	,	SYM	<fs af=',,punc,,,,,,'>
+7	kAni	RP	<fs af='kAni,avy,,,,,,'>
+8	"	SYM	<fs af='",punc,,,,,,'>
+9	nyAyamu	NN	<fs af='nyAyaM,n,,sg,,,0,0'>
+9	ane	VM	<fs af='anu,v,any,any,any,,e,e'>
+10	"	SYM	<fs af='",punc,,,,,,'>
+11	cattAniki	NN	<fs af='cattaM,n,any,sg,3,,ki,ki'>
+12	"	SYM	<fs af='",punc,,,,,,'>
+13	xaya	NN	<fs af='xaya,n,any,sg,3,,0,0'>
+14	"	SYM	<fs af='",punc,,,,,,'>
+15	ane	UT	<fs af='ane,avy,,,,,,'>
+16	raMgu	NN	<fs af='raMg,n,any,sg,3,,0,0'>
+17	pulamaledu	VM	<fs af='pulamagala,v,m,sg,3,,a,a'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

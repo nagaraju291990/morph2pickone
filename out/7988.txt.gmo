@@ -1,0 +1,9 @@
+<Sentence id="7988">			
+0	((	SSF	
+1	varRaM	NN	<fs af='varRaM,n,any,sg,3,,0,0'>
+2	mIxe	NST	<fs af='mIxi,n,any,sg,3,,0,0_e'>|<fs af='mIxa,n,any,sg,3,,0,0_e'>
+3	pEru	NN	<fs af='pEru,n,any,sg,3,,0,0'>|<fs af='pEru,n,any,sg,3,,obl,obl'>
+4	AxAyaM	NN	<fs af='AxAyaM,n,any,sg,3,,0,0'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

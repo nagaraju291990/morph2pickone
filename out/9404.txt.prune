@@ -1,0 +1,17 @@
+<Sentence id="9404">
+0	((	SSF	
+1	paSu	NN	<fs af='paSuvu,n,any,sg,3,,obl,obl'>|<fs af='paSuvu,n,any,sg,3,,I,I'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+4	saMgawi	NN	<fs af='saMgawi,n,any,sg,3,,0,0'>|<fs af='saMgawi,n,any,sg,3,,obl,obl'>
+5	lArdu	NN	<fs af='lArd,n,any,sg,3,,0,0'>|<fs af='lArd,n,any,sg,3,,obl,obl'>
+6	meyaruwo	NN	<fs af='meyar,n,any,sg,3,,wo,wo'>|<fs af='meyaru,n,any,sg,3,,wo,wo'>
+7	ceVppi	VM	<fs af='ceVppu,v,any,any,any,,i,i'>
+8	dAktarlanu	NN	<fs af='dAktar,n,any,pl,3,,ni,ni'>
+9	wIsikoVni	VM	<fs af='wIsiko,v,any,any,any,,i,i'>
+10	poyi	VM	<fs af='po,v,any,any,any,,i,i'>|<fs af='poVyyi,v,any,sg,2,,AjFArWa,AjFArWa'>
+11	prayawnaM	NN	<fs af='prayawnaM,n,any,sg,3,,0,0'>
+12	cexxAM	VM	<fs af='ceVyyi,v,any,pl,2,,xA,xA'>|<fs af='ceVyyi,v,any,pl,1,,xA,xA'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

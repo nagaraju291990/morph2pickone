@@ -1,0 +1,10 @@
+<Sentence id="4515">
+0	((	SSF	
+1	pUrwigA	RB	<fs af='pUrwi,n,any,sg,3,,gA,gA' poslcat="NM">
+2	appula	NN	<fs af='appu,n,any,pl,3,,obl,obl'>
+3	Ubilo	NN	<fs af='Ubi,n,any,sg,3,,lo,lo'>
+4	kUruku	VM	<fs af='kUruku,v,any,sg,2,,AjFArWa,AjFArWa'>
+4	poyAru	VM	<fs af='po,v,any,pl,2,,A,A'>|<fs af='po,v,mf,pl,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

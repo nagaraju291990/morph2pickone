@@ -1,0 +1,17 @@
+<Sentence id="9279">			
+0	((	SSF	
+1	pEgA	RP	<fs af='pE,adj,any,any,any,,gA_adj,gA_adj'>
+2	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+3	wala	NN	<fs af='wala,n,any,sg,3,,0,0'>
+4	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>
+5	,	SYM	<fs af=',,punc,,,,,,'>
+6	neVmmaxi	VM	<fs af='neVmmaxi,n,any,sg,3,,0,0'>'>
+6	xiMpiMcina	VM	<fs af='xiMpiMcu,v,any,any,any,,ina,ina'>
+6	vAlYlaM	VM	<fs af='vAlYlu,pn,mf,pl,3,,nu,nu'>
+7	kAkapowAmu	VM	<fs af='kAkapo,v,any,pl,1,,wA,wA'>
+7	emo	VM	<fs af='emo,avy,,,,,,'>
+8	!	SYM	<fs af='!,punc,,,,,,'>
+9	ja	NN	<fs af='jaM,n,any,sg,3,,obl,obl'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

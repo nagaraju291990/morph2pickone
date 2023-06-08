@@ -1,0 +1,25 @@
+<Sentence id="5396">			
+0	((	SSF	
+1	kadupunoVppi	NN	<fs af='kadupunoVppi,n,any,sg,3,,0,0'>|<fs af='kadupunoVppi,n,any,sg,3,,obl,obl'>
+2	vaswe	VM	<fs af='vaccu,v,any,any,any,,we,we'>
+3	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+4	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+5	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+6	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+7	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+8	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+9	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+10	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+11	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+12	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+13	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+14	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+15	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+16	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+17	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+18	vAmu	NN	<fs af='vAmu,n,any,sg,3,,0,0'>|<fs af='vAmu,n,any,sg,3,,obl,obl'>
+19	poVdigA	RB	<fs af='poVdi,adj,any,any,any,,gA_adj,gA_adj' poslcat="NM">'>|<fs af='poVdi,n,any,sg,3,,gA,gA' poslcat="NM">'>
+20	xaMcAli	VM	<fs af='xaMcu,v,any,any,any,,Ali,Ali'>
+21	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

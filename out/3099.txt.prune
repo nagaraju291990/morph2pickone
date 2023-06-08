@@ -1,0 +1,13 @@
+<Sentence id="3099">
+0	((	SSF	
+1	civaraku	NN	<fs af='civara,n,,sg,,,ki,ki'>
+2	eVlAga	NN	<fs af='eV,n,,sg,,,lA,lA'>
+2	Ewene	WQ	<fs af='avvu,v,any,any,any,,we,we_e' poslcat="NM">
+2	emi	WQ	<fs af='emi,avy,,,,,,'>
+3	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+4	rAwimukka	NN	<fs af='rAwimukka,n,any,sg,3,,0,0'>|<fs af='rAwimukka,n,any,sg,3,,obl,obl'>
+5	xoVrakane	VM	<fs af='xoVruku,v,any,sg,1,,a,a_e'>|<fs af='xoVruku,v,any,any,any,,an,an_e'>|<fs af='xoVraku,v,any,sg,1,,a,a_e'>|<fs af='xoVraku,v,any,any,any,,an,an_e'>
+6	xoVrikiMxi	VM	<fs af='xoVruku,v,fn,sg,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

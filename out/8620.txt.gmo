@@ -1,0 +1,9 @@
+<Sentence id="8620">			
+0	((	SSF	
+1	BARe	NN	<fs af='BARa,n,any,sg,3,,0,0_e'>
+2	Ewe	CC	<fs af='avvu,v,any,any,any,,we,we' poslcat="NM">
+3	emi	WQ	<fs af='emi,avy,,,,,,'>
+4	BARo	NN	<fs af='BARa,n,any,sg,3,,0,0_o'>
+5	?	SYM	<fs af='?,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

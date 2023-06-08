@@ -1,0 +1,13 @@
+<Sentence id="2493">
+0	((	SSF
+1	alAge	RB	<fs af='alAge,avy,,,,,, '>
+2	vesavi	NN	<fs af='vesavi,n,any,sg,3,,0,0'>|<fs af='vesavi,n,any,sg,3,,obl,obl'>
+3	kAlapu	NN	<fs af='kAlaM,n,any,sg,3,,obl,obl'>
+4	veruseVnaga	NN	<fs af='veruseVnaga,n,any,sg,3,,0,0'>|<fs af='veruseVnaga,n,any,sg,3,,obl,obl'>
+5	paMta	NN	<fs af='paMta,n,any,sg,3,,0,0'>|<fs af='paMta,n,any,sg,3,,obl,obl'>
+6	waruvAwa	NST	<fs af='waruvAwa,avy,,,,,, '>
+7	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+8	vesukovaccu	VM	<fs af='veVyyi,v,any,any,any,,koVn_a_vaccu,koVn_a_vaccu'>|<fs af='veVyyi,v,any,any,any,,koVn_a_vaccu,koVn_a_vaccu'>|<fs af='veVyyi,v,any,any,any,,koVn_a_vaccu,koVn_a_vaccu'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,16 @@
+<Sentence id="6042">
+0	((	SSF	
+1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+2	xakRiNa	NN	<fs af='xakRiNaM,n,any,sg,3,,obl,obl'>|<fs af='xakRiNudu,n,any,sg,3,,obl,obl'>
+3	BArawaxeSamu	NNP	<fs af='BArawaxeSaM,n,any,sg,3,,0,0'>
+4	xakkanu	à°£à±à°£à±à°«à±	<fs af='xakku,v,any,sg,1,,a,a' poslcat="NM">|<fs af='xakkan,n,any,sg,3,,0,0' poslcat="NM">|<fs af='xakkan,n,any,sg,3,,obl,obl' poslcat="NM">
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	xrAvida	NNP	<fs af='xrAvida,n,any,sg,3,,0,0'>|<fs af='xrAvida,n,any,sg,3,,obl,obl'>|<fs af='xrAvidudu,n,any,sg,3,,obl,obl'>
+7	xeSaM	NN	<fs af='xeSaM,n,any,sg,3,,0,0'>
+8	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+9	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+10	BAgAlugA	RB	<fs af='BAgaM,n,any,pl,3,,gA,gA' poslcat="NM">
+11	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

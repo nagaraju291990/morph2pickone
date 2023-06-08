@@ -1,0 +1,16 @@
+<Sentence id="6655">
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	koVnnisArlu	NN	<fs af='koVnnisArlu,n,any,sg,3,,0,0'>|<fs af='koVnnisArlu,n,any,sg,3,,vu_agr,vu_agr'>
+3	virigina	VM	<fs af='virugu,v,any,any,any,,ina,ina'>
+4	eVmukanu	NN	<fs af='eVmuka,n,any,sg,3,,ni,ni'>|<fs af='eVmuka,n,any,sg,3,,ni_agr,ni_agr'>
+5	winnagA	RB	<fs af='winna,adj,any,any,any,,gA_adj,gA_adj' poslcat="NM">
+6	peVtti	VM	<fs af='peVttu,v,any,any,any,,i,i'>
+7	kattinaMxuvalla	VM	<fs af='kattu,v,any,any,any,,ina_aMxuvalla,ina_aMxuvalla'>
+8	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+9	rakapu	NN	<fs af='rakaM,n,any,sg,3,,obl,obl'>
+10	oVwwidini	NN	<fs af='oVwwidi,n,any,sg,3,,ni,ni'>|<fs af='oVwwidi,n,any,sg,3,,ni_agr,ni_agr'>
+11	waggiMcavaccunu	VM	<fs af='waggiMcavaccu,v,any,sg,3,,uxu,uxu'>|<fs af='waggiMcavaccu,v,n,pl,3,,uxu,uxu'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

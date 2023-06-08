@@ -1,0 +1,14 @@
+<Sentence id="1983">			
+0	((	SSF	
+1	subbayya	NNP	<fs af='subbayya,n,any,sg,3,,0,0'>|<fs af='subbayya,n,any,sg,3,,obl,obl'>
+2	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+3	nelalo	NN	<fs af='nela,n,any,sg,3,,lo,lo'>|<fs af='nela,n,any,pl,3,,0,0_o'>
+4	baMgAlYAxuMpalu	NN	<fs af='baMgAlYAxuMpa,n,any,pl,3,,0,0'>|<fs af='baMgAlYAxuMpa,n,any,pl,3,,vu_agr,vu_agr'>
+5	(	SYM	<fs af='(,punc,,,,,,'>
+6	urlagaddalu	NN	<fs af='urlagadda,n,any,pl,3,,0,0'>|<fs af='urlagadda,n,any,pl,3,,vu_agr,vu_agr'>
+7	)	SYM	<fs af='),punc,,,,,,'>
+8	paMta	NN	<fs af='paMta,n,any,sg,3,,0,0'>|<fs af='paMta,n,any,sg,3,,obl,obl'>
+9	peVttAdu	VM	<fs af='peVttu,v,m,sg,3,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

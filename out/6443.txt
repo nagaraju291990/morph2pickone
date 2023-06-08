@@ -1,0 +1,9 @@
+<Sentence id="6443">
+0	((	SSF
+1	vItilo	PRP	<fs af='ixi,pn,fn,pl,3,,lo,lo'>|<fs af='vIdu,n,any,sg,3,,lo,lo'>
+2	jiMku	NNP	<fs af='jiMk,n,any,sg,3,,0,0'>|<fs af='jiMk,n,any,sg,3,,obl,obl'>|<fs af='jiMku,n,any,sg,3,,0,0'>|<fs af='jiMku,n,any,sg,3,,obl,obl'>
+3	PAsPet	NNP	<fs af='PAsPet,n,any,sg,3,,0,0'>|<fs af='PAsPet,n,any,sg,3,,obl,obl'>
+4	maMcixi	NN	<fs af='maMci,adj,any,any,any,,xi_adj,xi_adj'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

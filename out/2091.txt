@@ -1,0 +1,11 @@
+<Sentence id="2091">
+0	((	SSF
+1	prawixAnini	NN	<fs af='prawi,n,,sg,,,xi_nu,xi_nu' deri_cat='pn'>|<fs af='prawi,adj,,sg,,,xi_ni,xi_ni' deri_cat='pn'>
+2	eVMxuku	WQ	<fs af='eVMxuku,avy,,,,,, '>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	emi	WQ	<fs af='emi,avy,,,,,, '>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	eVlA	WQ	<fs af='eVlA,avy,,,,,, '>
+7	?	SYM	<fs af='?,punc,,,,,, '>
+))
+</Sentence>

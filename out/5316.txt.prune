@@ -1,0 +1,11 @@
+<Sentence id="5316">
+0	((	SSF	
+1	veVccagA	RB	<fs af='veVcca,adj,any,any,any,,gA_adj,gA_adj' poslcat="NM">
+2	uMde	VM	<fs af='uMdu,v,any,any,any,,e,e'>|<fs af='uMdu,v,any,any,any,,i,i_e'>
+3	nItilo	NN	<fs af='nIru,n,any,sg,3,,lo,lo'>
+4	kalYlanu	NN	<fs af='kannu,n,any,pl,3,,ni,ni'>
+5	appudappudu	NST	<fs af='appudappudu,avy,,,,,,' poslcat="NM">
+6	kadagAli	VM	<fs af='kadugu,v,any,any,any,,Ali,Ali'>|<fs af='kadagu,v,any,any,any,,Ali,Ali'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

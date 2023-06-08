@@ -1,0 +1,9 @@
+<Sentence id="7741">			
+0	((	SSF	
+1	reVppa	NN	<fs af='reVppa,n,any,sg,3,,0,0'>|<fs af='reVppa,n,any,sg,3,,obl,obl'>
+2	vAlcakuMdA	VM	<fs af='vAlcu,v,any,any,any,,akuMdA,akuMdA'>|<fs af='vAlcakuMdu,v,any,any,any,,i,i_A'>
+3	xAnine	PRP	<fs af='axi,pn,fn,sg,3,,ni,ni_e'>
+4	cUswunnAM	VM	<fs af='cUdu,v,any,pl,1,,wunn,wunn'>|<fs af='cUswuMdu,v,any,pl,1,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

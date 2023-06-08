@@ -1,0 +1,10 @@
+<Sentence id="1998">
+0	((	SSF	
+1	subbayya	NNP	<fs af='subbayya,n,any,sg,3,,0,0'>|<fs af='subbayya,n,any,sg,3,,obl,obl'>
+2	kAssepu	NST	<fs af='kAssepu,adv,any,any,any,,0_adv,0_adv'>
+3	AlociMci	VM	<fs af='AlociMcu,v,any,any,any,,i,i'>
+4	xAnikI	PRP	<fs af='axi,pn,fn,sg,3,,ki,ki_V'>
+5	oVppukoVnnAdu	VM	<fs af='oVppuko,v,m,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

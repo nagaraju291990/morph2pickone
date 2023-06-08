@@ -1,0 +1,12 @@
+<Sentence id="1089">			
+0	((	SSF	
+1	kanuka	CC	<fs af='kanuka,avy,,,,,,'>
+2	kodi	NN	<fs af='kodi,n,any,sg,3,,0,0'>|<fs af='kodi,n,any,sg,3,,obl,obl'>
+3	yajamAni	NN	<fs af='yajamAni,n,any,sg,3,,0,0'>|<fs af='yajamAni,n,any,sg,3,,obl,obl'>
+4	sare	VM	<fs af='sare,avy,,,,,,' poslcat="NM">
+4	ani	VM	<fs af='anu,v,any,any,any,,i,i'>
+5	wala	NN	<fs af='wala,n,any,sg,3,,0,0'>|<fs af='wala,n,any,sg,3,,obl,obl'>
+6	UpAdu	VM	<fs af='Upu,v,m,sg,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

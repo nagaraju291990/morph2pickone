@@ -1,0 +1,12 @@
+<Sentence id="7473">			
+0	((	SSF	
+1	kUrcoVni	VM	<fs af='kUrco,v,any,any,any,,i,i'>
+2	wiMtuMte	VM	<fs af='winu,v,any,any,any,,wuMte,wuMte'>|<fs af='wiMtuMdu,v,any,any,any,,we,we'>
+3	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+4	peVnu	JJ	<fs af='peVnu,adj,any,any,any,,0_adj,0_adj'>
+5	koVMdalu	NN	<fs af='koVMda,n,,pl,,,0,0'>|<fs af='koVMda,n,,pl,,,vu,vu'>
+5	EnA	NN	<fs af='EnA,avy,,,,,,' poslcat="NM">
+6	karagavA	VM	<fs af='karugu,v,any,sg,2,,a,a_A'>|<fs af='karagu,v,any,sg,2,,a,a_A'>
+7	?	SYM	<fs af='?,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

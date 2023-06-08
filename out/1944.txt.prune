@@ -1,0 +1,24 @@
+<Sentence id="1944">
+0	((	SSF	
+1	maMci	JJ	<fs af='maMci,adj,any,any,any,,0_adj,0_adj'>
+2	kAPI	NN	<fs af='kAPI,n,,sg,,,0,0'>|<fs af='kAPI,n,,sg,,,obl,obl'>
+3	_	SYM	<'>|<poslcat="NM"'>
+4	_	SYM	<'>|<poslcat="NM"'>
+5	_	SYM	<'>|<poslcat="NM"'>
+6	_	SYM	<'>|<poslcat="NM"'>
+7	_	SYM	<'>|<poslcat="NM"'>
+8	_	SYM	<'>|<poslcat="NM"'>
+9	_	SYM	<'>|<poslcat="NM"'>
+10	_	SYM	<'>|<poslcat="NM"'>
+11	_	SYM	<'>|<poslcat="NM"'>
+12	_	SYM	<'>|<poslcat="NM"'>
+13	_	SYM	<'>|<poslcat="NM"'>
+14	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+15	UlYlo	NN	<fs af='Uru,n,any,sg,3,,lo,lo'>|<fs af='Uru,n,any,pl,3,,0,0_o'>
+16	rAjaSeKarayya	NNP	<fs af='rAjaSeKarayya,n,any,sg,3,,0,0'>|<fs af='rAjaSeKarayya,n,any,sg,3,,obl,obl'>
+17	ane	UT	<fs af='ane,avy,,,,,,'>|<fs af='anu,v,any,any,any,,e,e'>|<fs af='anu,v,any,any,any,,i,i_e'>
+18	dAktaru	NN	<fs af='dAktar,n,any,sg,3,,0,0'>|<fs af='dAktar,n,any,sg,3,,obl,obl'>|<fs af='dAktaru,n,any,sg,3,,0,0'>|<fs af='dAktaru,n,any,sg,3,,obl,obl'>
+19	uMdevAdu	VM	<fs af='uMdu,v,any,any,any,,e_vAdu,e_vAdu'>
+20	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,13 @@
+<Sentence id="1763">
+0	((	SSF
+1	vAlYlixxarU	PRP	<fs af='vAlYlixxaru,pn,mf,pl,3,,0,0_V'>
+2	ceVro	NN	<fs af='ceVri,n,any,sg,3,,0,0_o'>|<fs af='ceVra,n,any,sg,3,,0,0_o'>
+3	5	QC	<fs af='5,num,,,,,, '>|<fs af='va,avy,,,,,, '>
+4	velu	QC	<fs af='velu,n,any,sg,3,,0,0'>|<fs af='veVyyi,n,any,pl,3,,0,0'>
+5	icci	VM	<fs af='ivvu,v,any,any,any,,i,i'>
+6	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+7	cIralu	NN	<fs af='cIra,n,any,pl,3,,0,0'>|<fs af='cIra,n,any,pl,3,,vu_agr,vu_agr'>
+8	koVnukkoVnnAru	VM	<fs af='koVnukko,v,fm,pl,3,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

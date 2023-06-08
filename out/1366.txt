@@ -1,0 +1,17 @@
+<Sentence id="1366">
+0	((	SSF
+1	I	DEM	<fs af='I,avy,,,,,, '>
+2	nelale	NN	<fs af='nela,n,any,sg,3,,0_le,0_le'>|<fs af='nela,n,any,pl,3,,0,0_e'>
+3	kAka	CC	<fs af='kAka,avy,,,,,, '>|<fs af='kAka,n,any,sg,3,,0,0'>|<fs af='kAka,n,any,sg,3,,obl,obl'>|<fs af='avvu,v,any,any,any,,aka,aka'>|<fs af='kAkaM,n,any,sg,3,,obl,obl'>
+4	welika	JJ	<fs af='welika,adj,any,any,any,,0_adj,0_adj'>|<fs af='welika,n,any,sg,3,,0,0'>|<fs af='welika,n,any,sg,3,,obl,obl'>
+5	rakaM	NN	<fs af='rakaM,n,any,sg,3,,0,0'>
+6	nalla	JJ	<fs af='nalla,adj,any,any,any,,0_adj,0_adj'>|<fs af='nalla,n,any,sg,3,,0,0'>|<fs af='nalla,n,any,sg,3,,obl,obl'>
+7	BUmulu	NN	<fs af='BUmi,n,any,pl,3,,0,0'>
+8	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+9	AmuxaM	NN	<fs af='AmuxaM,n,any,sg,3,,0,0'>
+10	paMtaku	NN	<fs af='paMta,n,any,sg,3,,ki,ki'>
+11	anuvu	NN	<fs af='anuvu,n,any,sg,3,,0,0'>|<fs af='anuvu,n,any,sg,3,,obl,obl'>
+11	Enavi	NN	<fs af='Enaxi,pn,any,pl,3,,0,0'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,19 @@
+<Sentence id="8818">			
+0	((	SSF	
+1	prakkana	NST	<fs af='prakka,n,any,sg,3,,na,na'>
+2	exEnA	WQ	<fs af='exi,pn,fn,sg,3,,Ena,Ena'>
+3	naxi	NN	<fs af='naxi,n,any,sg,3,,0,0'>
+4	uMxA	VM	<fs af='uMdu,v,fn,sg,3,,A,A_A'>
+5	ani	UT	<fs af='ani,avy,,,,,,'>
+6	aduguwunnAdu	VM	<fs af='adugu,v,m,sg,3,,wunn,wunn'>
+7	"	SYM	<fs af='",punc,,,,,,'>
+8	I	DEM	<fs af='I,avy,,,,,,'>
+9	mAtalu	NN	<fs af='mAta,n,any,pl,3,,0,0'>
+10	vinetappatiki	NN	<fs af='vinu,nst,,,,,_e_appudu_ku,_e_appudu_ku_adv'>
+11	meyaru	NN	<fs af='meyar,n,any,sg,3,,0,0'>
+12	guMdeV	NN	<fs af='guMdeV,n,any,sg,3,,0,0'>
+13	gubelu	VM	<fs af='gubelu,n,any,sg,3,,0,0'>'>
+13	mannaxi	VM	<fs af='mannaxi,unk,,,,,,'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

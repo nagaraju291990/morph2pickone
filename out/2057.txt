@@ -1,0 +1,17 @@
+<Sentence id="2057">
+0	((	SSF
+1	cewi	NN	<fs af='ceyi,n,any,sg,3,,obl,obl'>
+2	velYlanu	NN	<fs af='velu,n,any,pl,3,,ni,ni'>|<fs af='veru,n,any,pl,3,,ni,ni'>
+3	kaxiliswU	VM	<fs af='kaxulcu,v,any,any,any,,wU,wU'>|<fs af='kaxiliMcu,v,any,any,any,,wU,wU'>
+4	velYla	NN	<fs af='velu,n,any,pl,3,,obl,obl'>|<fs af='veru,n,any,pl,3,,obl,obl'>
+5	maXya	NST	<fs af='maXya,n,any,sg,3,,0,0'>|<fs af='maXya,n,any,sg,3,,obl,obl'>|<fs af='maXyaM,n,any,sg,3,,obl,obl'>
+6	uMdalni	NN	<fs af='uMda,n,any,pl,3,,ni,ni'>
+7	civaraku	NN	<fs af='civara,n,,sg,,,ki,ki'>
+8	weVccukoVni	VM	<fs af='weVccuko,v,any,any,any,,i,i'>
+9	kalipiwe	VM	<fs af='kalupu,v,any,any,any,,we,we'>
+10	viBUwi	NN	<fs af='viBUwi,n,any,sg,3,,0,0'>|<fs af='viBUwi,n,any,sg,3,,obl,obl'>
+11	kiMxaku	NN	<fs af='kiMxa,n,,sg,,,ki,ki'>
+12	jAruwuMxi	VM	<fs af='jAru,v,fn,sg,3,,wA,wA'>|<fs af='jAruwuMdu,v,fn,sg,3,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

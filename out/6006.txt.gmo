@@ -1,0 +1,16 @@
+<Sentence id="6006">			
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	ninnu	PRP	<fs af='nIvu,pn,any,sg,2,,ni,ni'>
+3	bawikiMcina	VM	<fs af='bawikiMcu,v,any,any,any,,ina,ina'>
+4	Aku	NN	<fs af='Aku,n,any,sg,3,,0,0'>|<fs af='Aku,n,any,sg,3,,obl,obl'>
+5	boVmma	NN	<fs af='boVmma,n,any,sg,3,,0,0'>|<fs af='boVmma,n,any,sg,3,,obl,obl'>
+6	!	SYM	<fs af='!,punc,,,,,,'>
+7	axigo	NN	<fs af='axigo,avy,,,,,0,0_avy' poslcat="NM">
+8	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+9	boVmmane	NN	<fs af='boVmma,n,any,sg,3,,ni,ni_e'>
+10	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+11	gISAru	VM	<fs af='giyyi,v,any,pl,2,,A,A'>|<fs af='giyyi,v,mf,pl,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

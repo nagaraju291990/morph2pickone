@@ -1,0 +1,19 @@
+<Sentence id="3350">
+0	((	SSF
+1	awani	PRP	<fs af='awanu,pn,m,sg,3,,obl,obl'>
+2	kalYla	NN	<fs af='kannu,n,any,pl,3,,obl,obl'>|<fs af='kalYlaM,n,any,sg,3,,obl,obl'>
+3	niMdA	NN	<fs af='niMdu,v,any,any,any,,i,i_A'>|<fs af='niMdu,n,any,sg,3,,0,0_A'>
+4	kannIlYlu	NN	<fs af='kannIru,n,any,pl,3,,0,0'>|<fs af='kannIru,n,any,pl,3,,vu_agr,vu_agr'>
+5	!	SYM	<fs af='!,punc,,,,,, '>
+6	drEvaru	NN	<fs af='drEvar,n,any,sg,3,,0,0'>|<fs af='drEvar,n,any,sg,3,,obl,obl'>|<fs af='drEvaru,n,any,sg,3,,0,0'>|<fs af='drEvaru,n,any,sg,3,,obl,obl'>
+7	hAran	NN	<fs af='hAran,n,any,sg,3,,0,0'>|<fs af='hAran,n,any,sg,3,,obl,obl'>
+8	mogiMcAdu	VM	<fs af='mogiMcu,v,m,sg,3,,A,A'>
+9	aMwe	RP	<fs af='aMwa,pn,any,pl,3,,0,0_e'>
+10	!	SYM	<fs af='!,punc,,,,,, '>
+11	malYlI	RB	<fs af='malYlu,v,any,any,any,,i,i_V'>
+12	munupati	NST	<fs af='munupu,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+13	waMwu	NN	<fs af='waMwu,n,any,sg,3,,0,0'>|<fs af='waMwu,n,any,sg,3,,obl,obl'>
+14	moVxalayyiMxi	VM	<fs af='moVxalavvu,v,fn,sg,3,,A,A'>
+15	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

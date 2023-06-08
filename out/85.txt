@@ -1,0 +1,9 @@
+<Sentence id="85">
+0	((	SSF
+1	iMtiki	NN	<fs af='illu,n,,sg,,,ki,ki'>
+1	oVcci	VM	<fs af='oVccu,v,any,any,any,,i,i'>
+2	poVyyi	NN	<fs af='po,v,any,any,any,,i,i'>|<fs af='poVyyi,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='poVyyi,n,any,sg,3,,0,0'>|<fs af='poVyyi,n,any,sg,3,,obl,obl'>
+3	muttiMcAli	VM	<fs af='muttiMcu,v,any,any,any,,Ali,Ali'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

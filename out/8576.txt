@@ -1,0 +1,37 @@
+<Sentence id="8576">
+0	((	SSF
+1	"	SYM	<fs af='",punc,,,,,, '>
+2	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+3	rAwri	NN	<fs af='rAwri,n,any,sg,3,,0,0'>|<fs af='rAwri,n,any,sg,3,,obl,obl'>
+4	pUta	NN	<fs af='pUta,n,any,sg,3,,0,0'>|<fs af='pUta,n,any,sg,3,,obl,obl'>
+5	eVppudo	NST	<fs af='eVppudo,avy,,,,,, '>|<fs af='eVppudu,adv,any,any,any,,0_o_adv,0_o_adv'>
+6	jarigivuMdAli	VM	<fs af='jarugu,v,any,any,any,,i_uMdu_Ali,i_uMdu_Ali'>
+7	;	SYM	<fs af=';,punc,,,,,, '>
+8	I	DEM	<fs af='I,avy,,,,,, '>
+9	jaMwuvu	NN	<fs af='jaMwuvu,n,any,sg,3,,0,0'>|<fs af='jaMwuvu,n,any,sg,3,,obl,obl'>
+10	vimAnaMnuMdi	NN	<fs af='vimAnaM,n,any,sg,3,,niMci,niMci'>
+11	kriMxaku	NN	<fs af='kriMxa,n,,sg,,,ki,ki'>
+12	xUkabowU	VM	<fs af='xUku,v,any,any,any,,a_po_wU,a_po_wU'>
+13	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+14	cewulU	NN	<fs af='ceyi,n,any,pl,3,,0,0_V'>|<fs af='ceyi,n,any,pl,3,,I,I'>|<fs af='cewu,n,any,pl,3,,0,0_V'>|<fs af='cewu,n,any,pl,3,,I,I'>
+15	veVnakki	NN	<fs af='veVnakki,avy,,,,,0,0_avy'>
+16	vesi	VM	<fs af='veVyyi,v,any,any,any,,i,i'>
+17	exo	WQ	<fs af='exi,pn,fn,sg,3,,0,0_o'>
+18	paxunEna	VM	<fs af='paxunu,n,any,sg,3,,Ena,Ena'>|<fs af='paxunavvu,v,any,any,any,,ina,ina'>
+19	vaswuvunu	NN	<fs af='vaswuvu,n,any,sg,3,,ni,ni'>|<fs af='vaswuvu,n,any,sg,3,,ni_agr,ni_agr'>
+20	pattukoVni	VM	<fs af='pattukoVnu,v,any,any,any,,i,i'>
+21	uMdAli	VM	<fs af='uMdu,v,any,any,any,,Ali,Ali'>
+22	;	SYM	<fs af=';,punc,,,,,, '>
+23	appudu	NST	<fs af='appudu,adv,any,any,any,,0_adv,0_adv'>
+24	I	DEM	<fs af='I,avy,,,,,, '>
+25	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+26	cewula	NN	<fs af='ceyi,n,any,pl,3,,obl,obl'>|<fs af='cewu,n,any,pl,3,,obl,obl'>
+27	veVnuka	NST	<fs af='veVnuka,adv,any,any,any,,0_adv,0_adv'>
+28	kosukoVnipoyivuMtuMxi	VM	<fs af='koVyyi,v,fn,sg,3,,koVn_i_po_i_uMdu_wU_uMdu_A,koVn_i_po_i_uMdu_wU_uMdu_A'>|<fs af='koVyyi,v,fn,sg,3,,koVn_i_po_i_uMdu_wA,koVn_i_po_i_uMdu_wA'>
+29	"	SYM	<fs af='",punc,,,,,, '>
+30	ani	UT	<fs af='ani,avy,,,,,, '>|<fs af='anu,v,any,any,any,,i,i'>
+31	niScayaM	NN	<fs af='niScayaM,n,any,sg,3,,0,0'>
+32	ceSAru	VM	<fs af='ceVyyi,v,any,pl,2,,A,A'>|<fs af='ceVyyi,v,mf,pl,3,,A,A'>
+33	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

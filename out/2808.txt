@@ -1,0 +1,18 @@
+<Sentence id="2808">
+0	((	SSF
+1	eVkkadinuMci	NN	<fs af='eVkkadinuMci,avy,,,,,,'>|<fs af='eVkkada,nst,,,,,nuMdi,nuMdi_adv'>
+1	EnA	NN	<fs af='EnA,avy,,,,,,'>
+2	BUwa	NN	<fs af='BUwaM,n,any,sg,3,,obl,obl'>
+3	piSAcAlu	NN	<fs af='piSAcaM,n,any,pl,3,,0,0'>|<fs af='piSAcaM,n,any,pl,3,,vu_agr,vu_agr'>
+4	vacci	VM	<fs af='vaccu,v,any,any,any,,i,i'>
+5	cuttumuttavu	VM	<fs af='cuttumuttu,v,any,sg,2,,a,a'>
+6	kaxA	RP	<fs af='kaxA,avy,,,,,, '>
+7	!	SYM	<fs af='!,punc,,,,,, '>
+8	"	SYM	<fs af='",punc,,,,,, '>
+9	annAdu	VM	<fs af='anu,v,m,sg,3,,A,A'>
+10	mohan	NNP	<fs af='mohan,n,any,sg,3,,0,0'>|<fs af='mohan,n,any,sg,3,,obl,obl'>
+11	gajagaja	RB	<fs af='gajagaja,n,any,sg,3,,0,0'>|<fs af='gajagaja,n,any,sg,3,,obl,obl'>
+12	vaNikipowU	VM	<fs af='vaNikipo,v,any,any,any,,wU,wU'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

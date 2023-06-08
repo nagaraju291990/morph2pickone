@@ -1,0 +1,54 @@
+<Sentence id="6862">
+0	((	SSF
+1	_	SYM
+2	_	SYM
+3	_	SYM
+4	_	SYM
+5	_	SYM
+6	_	SYM
+7	_	SYM
+8	_	SYM
+9	_	SYM
+10	_	SYM
+11	_	SYM
+12	_	SYM
+13	_	SYM
+14	_	SYM
+15	_	SYM
+16	_	SYM
+17	_	SYM
+18	_	SYM
+19	_	SYM
+20	_	SYM
+21	_	SYM
+22	_	SYM
+23	_	SYM
+24	_	SYM
+25	_	SYM
+26	_	SYM
+27	_	SYM
+28	_	SYM
+29	_	SYM
+30	_	SYM
+31	_	SYM
+32	_	SYM
+33	_	SYM
+34	_	SYM
+35	_	SYM
+36	_	SYM
+37	_	SYM
+38	*	SYM	<fs af='*,punc,,,,,, '>
+39	myuriyet	NN	<fs af='myuriyet,n,any,sg,3,,0,0'>|<fs af='myuriyet,n,any,sg,3,,obl,obl'>
+40	AP	NN	<fs af='AP,n,any,sg,3,,0,0'>|<fs af='AP,n,any,sg,3,,obl,obl'>
+41	poVtAR	NN	<fs af='poVtAR,n,any,sg,3,,0,0'>|<fs af='poVtAR,n,any,sg,3,,obl,obl'>
+42	,	SYM	<fs af=',,punc,,,,,, '>
+43	salPetu	NN	<fs af='salPet,n,any,sg,3,,0,0'>|<fs af='salPet,n,any,sg,3,,obl,obl'>|<fs af='salPetu,n,any,sg,3,,0,0'>|<fs af='salPetu,n,any,sg,3,,obl,obl'>
+44	AP	NN	<fs af='AP,n,any,sg,3,,0,0'>|<fs af='AP,n,any,sg,3,,obl,obl'>
+45	poVtAR	NN	<fs af='poVtAR,n,any,sg,3,,0,0'>|<fs af='poVtAR,n,any,sg,3,,obl,obl'>
+46	eVruvulalo	NN	<fs af='eVruvu,n,any,pl,3,,lo,lo'>
+47	poVtAR	NN	<fs af='poVtAR,n,any,sg,3,,0,0'>|<fs af='poVtAR,n,any,sg,3,,obl,obl'>
+48	*	SYM	<fs af='*,punc,,,,,, '>
+49	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A'>
+50	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

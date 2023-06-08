@@ -1,0 +1,21 @@
+<Sentence id="6819">
+0	((	SSF
+1	seMxriya	NN	<fs af='seMxriyaM,n,any,sg,3,,obl,obl'>
+2	eVruvulu	NN	<fs af='eVruvu,n,any,pl,3,,0,0'>|<fs af='eVruvu,n,any,pl,3,,vu_agr,vu_agr'>
+3	*	SYM	<fs af='*,punc,,,,,, '>
+4	paSuvula	NN	<fs af='paSuvu,n,any,pl,3,,obl,obl'>
+5	peda	NN	<fs af='pedu,v,any,any,any,,an,an'>|<fs af='peda,n,any,sg,3,,0,0'>|<fs af='peda,n,any,sg,3,,obl,obl'>
+6	*	SYM	<fs af='*,punc,,,,,, '>
+7	pillipeVsara	NNP	<fs af='pillipeVsara,n,any,sg,3,,0,0'>|<fs af='pillipeVsara,n,any,sg,3,,obl,obl'>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	jIluga	NN	<fs af='jIluga,unk,,,,,,'>
+10	,	SYM	<fs af=',,punc,,,,,, '>
+11	janumu	NNP	<fs af='janumu,n,any,sg,3,,0,0'>|<fs af='janumu,n,any,sg,3,,obl,obl'>
+12	moVkkalawo	NN	<fs af='moVkka,n,any,pl,3,,wo,wo'>
+13	wayArucesina	VM	<fs af='wayAruceVyyi,v,any,any,any,,ina,ina'>
+14	pacci	JJ	<fs af='pacci,adj,any,any,any,,0_adj,0_adj'>
+15	roVtta	NN	<fs af='roVtta,n,any,sg,3,,0,0'>|<fs af='roVtta,n,any,sg,3,,obl,obl'>
+16	eVruvu	NN	<fs af='eVruvu,n,any,sg,3,,0,0'>|<fs af='eVruvu,n,any,sg,3,,obl,obl'>
+17	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

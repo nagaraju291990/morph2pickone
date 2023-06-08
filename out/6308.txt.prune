@@ -1,0 +1,14 @@
+<Sentence id="6308">
+0	((	SSF	
+1	koti	NN	<fs af='koti,n,,sg,,,0,0'>|<fs af='koti,n,,sg,,,obl,obl'>
+1	liMgAlu	NN	<fs af='liMgaM,n,,pl,,,0,0'>|<fs af='liMgaM,n,,pl,,,vu,vu'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	goVdugula	NNP	<fs af='goVdugu,n,any,pl,3,,obl,obl'>
+4	xAra	NN	<fs af='xAra,n,any,sg,3,,0,0'>|<fs af='xAra,n,any,sg,3,,obl,obl'>|<fs af='xAraM,n,any,sg,3,,obl,obl'>|<fs af='xArudu,n,any,sg,3,,obl,obl'>
+5	ane	UT	<fs af='ane,avy,,,,,,'>|<fs af='anu,v,any,any,any,,e,e'>|<fs af='anu,v,any,any,any,,i,i_e'>
+6	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+7	snAnaGattAlu	NN	<fs af='snAnaGattaM,n,any,pl,3,,0,0'>|<fs af='snAnaGattaM,n,any,pl,3,,vu_agr,vu_agr'>
+8	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,14 @@
+<Sentence id="8468">
+0	((	SSF
+1	veVMkatagiri	NNP	<fs af='veVMkatagiri,n,any,sg,3,,0,0'>|<fs af='veVMkatagiri,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,, '>
+3	cenewa	NN	<fs af='cenewa,n,any,sg,3,,0,0'>|<fs af='cenewa,n,any,sg,3,,obl,obl'>
+4	maggAlapE	NN	<fs af='maggaM,n,any,pl,3,,pE,pE'>
+5	vesina	VM	<fs af='veVyyi,v,any,any,any,,ina,ina'>
+6	cIralu	NN	<fs af='cIra,n,any,pl,3,,0,0'>|<fs af='cIra,n,any,pl,3,,vu_agr,vu_agr'>
+7	veVMkatagiri	NNP	<fs af='veVMkatagiri,n,any,sg,3,,0,0'>|<fs af='veVMkatagiri,n,any,sg,3,,obl,obl'>
+8	cIralugA	RB	<fs af='cIra,n,any,pl,3,,gA,gA'>
+9	prasixXiceVMxAyi	VM	<fs af='prasixXiceVMxu,v,n,pl,3,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

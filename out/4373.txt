@@ -1,0 +1,14 @@
+<Sentence id="4373">
+0	((	SSF
+1	AmeV	PRP	<fs af='AmeV,pn,f,sg,3,,0,0'>|<fs af='AmeV,pn,f,sg,3,,obl,obl'>
+2	cewulU	NN	<fs af='ceyi,n,any,pl,3,,0,0_V'>|<fs af='ceyi,n,any,pl,3,,I,I'>|<fs af='cewu,n,any,pl,3,,0,0_V'>|<fs af='cewu,n,any,pl,3,,I,I'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	kAlYlU	NN	<fs af='kAlu,n,any,pl,3,,0,0_V'>|<fs af='kAlu,n,any,pl,3,,I,I'>|<fs af='kAdu,n,any,pl,3,,0,0_V'>|<fs af='kAdu,n,any,pl,3,,I,I'>|<fs af='kAdi,n,any,pl,3,,0,0_V'>|<fs af='kAdi,n,any,pl,3,,I,I'>
+5	vaNikAyi	VM	<fs af='vaNuku,v,n,pl,3,,A,A'>
+6	,	SYM	<fs af=',,punc,,,,,, '>
+7	guMdeV	NN	<fs af='guMdeV,n,any,sg,3,,0,0'>|<fs af='guMdeV,n,any,sg,3,,obl,obl'>
+8	xadaxadA	NN	<fs af='xadaxada,avy,,,,,A,A_avy'>|<fs af='xadaxada,avy,,,,,V,V_avy'>
+9	koVttukuMxi	VM	<fs af='koVttuko,v,fn,sg,3,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

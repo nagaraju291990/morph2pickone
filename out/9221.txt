@@ -1,0 +1,8 @@
+<Sentence id="9221">
+0	((	SSF
+1	prakkanu	NN	<fs af='prakka,n,any,sg,3,,ni,ni'>|<fs af='prakka,n,any,sg,3,,ni_agr,ni_agr'>
+2	meyaru	NN	<fs af='meyar,n,any,sg,3,,0,0'>|<fs af='meyar,n,any,sg,3,,obl,obl'>|<fs af='meVyyi,v,any,pl,2,,a,a'>|<fs af='meVyyi,v,mf,pl,3,,a,a'>|<fs af='meyaru,n,any,sg,3,,0,0'>|<fs af='meyaru,n,any,sg,3,,obl,obl'>
+3	nilcunnAdu	VM	<fs af='nilcuMdu,v,m,sg,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

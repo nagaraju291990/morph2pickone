@@ -1,0 +1,20 @@
+<Sentence id="2798">
+0	((	SSF	
+1	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+2	cIkatilo	NN	<fs af='cIkati,n,any,sg,3,,lo,lo'>
+3	vAdiki	PRP	<fs af='vAdu,pn,m,sg,3,,ki,ki'>
+4	eVppudu	NN	<fs af='eVppudu,n,,sg,,,0,0'>|<fs af='eVppudu,n,,sg,,,obl,obl'>
+4	EnA	NN	<fs af='EnA,avy,,,,,,' poslcat="NM">
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	eVkkadinuMci	NN	<fs af='eVkkadinuMci,avy,,,,,,' poslcat="NM">|<fs af='eVkkada,nst,,,,,nuMdi,nuMdi_adv' poslcat="NM">
+6	EnA	NN	<fs af='EnA,avy,,,,,,' poslcat="NM">
+7	BUwa	NN	<fs af='BUwaM,n,any,sg,3,,obl,obl'>
+8	piSAcAlu	NN	<fs af='piSAcaM,n,any,pl,3,,0,0'>|<fs af='piSAcaM,n,any,pl,3,,vu_agr,vu_agr'>
+9	vacci	VM	<fs af='vaccu,v,any,any,any,,i,i'>
+10	pattu	VM	<fs af='pattu,v,,sg,2,,AjFArWa,AjFArWa'>
+10	kuMtAyane	NN	<fs af='kuMta,n,,sg,,,Ayana_0,Ayana_0_e' deri_cat=pn>
+11	BayaMwo	NN	<fs af='BayaM,n,any,sg,3,,wo,wo'>
+12	vaNikipowunnAdu	VM	<fs af='vaNikipo,v,m,sg,3,,wunn,wunn'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

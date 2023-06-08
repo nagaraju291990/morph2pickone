@@ -1,0 +1,36 @@
+<Sentence id="7461">
+0	((	SSF
+1	nippuni	NN	<fs af='nippu,n,any,sg,3,,ni,ni'>
+2	!	SYM	<fs af='!,punc,,,,,, '>
+3	xikkulenivAdi	NN	<fs af='xikkuleni,adj,,sg,,,vAdu,vAdu_obl' deri_cat='pn'>
+4	pAliti	NN	<fs af='pAliti,avy,,,,,0,0_avy'>
+5	xevuNNi	NN	<fs af='xevudu,n,any,sg,3,,ni,ni'>
+6	!	SYM	<fs af='!,punc,,,,,, '>
+7	nijAyiwI	NN	<fs af='nijAyiwi,n,any,sg,3,,0,0_V'>
+8	nIku	VM	<fs af='nIvu,pn,any,sg,2,,ki,ki'>
+8	uMte	VM	<fs af='uMdu,v,any,any,any,,we,we'>
+9	,	SYM	<fs af=',,punc,,,,,, '>
+10	nI	PRP	<fs af='nIvu,pn,any,sg,2,,obl,obl'>
+11	cewi	NN	<fs af='ceyi,n,any,sg,3,,obl,obl'>
+12	AyuXAnni	NN	<fs af='AyuXaM,n,any,sg,3,,ni,ni'>|<fs af='AyuXaM,n,any,sg,3,,ni_agr,ni_agr'>
+13	nannu	PRP	<fs af='nenu,pn,any,sg,1,,ni,ni'>
+14	nammi	VM	<fs af='nammu,v,any,any,any,,i,i'>
+15	BAraM	NN	<fs af='BAraM,n,any,sg,3,,0,0'>
+16	nAmIxa	PRP	<fs af='nenu,pn,any,sg,1,,mIxa,mIxa'>
+17	mopi	VM	<fs af='mopu,v,any,any,any,,i,i'>|<fs af='mopi,n,any,sg,3,,0,0'>|<fs af='mopi,n,any,sg,3,,obl,obl'>
+18	muMxuku	NN	<fs af='muMxu,n,,sg,,,ki,ki'>
+19	adugeswe	NN	<fs af='adugu,n,any,any,any,,i_veVyyi_we,i_veVyyi_we' deri_cat='v'>
+20	nenu	PRP	<fs af='nenu,pn,any,sg,1,,0,0'>
+21	sAraWilA	NN	<fs af='sAraWi,n,any,sg,3,,lA,lA'>
+22	nI	PRP	<fs af='nIvu,pn,any,sg,2,,obl,obl'>
+23	jIvana	NN	<fs af='jIvanaM,n,any,sg,3,,obl,obl'>
+23	raWaM	NN	<fs af='raWaM,n,any,sg,3,,0,0'>
+24	eVkkuwAnu	VM	<fs af='eVkku,v,any,sg,1,,wA,wA'>
+25	ninnu	PRP	<fs af='nIvu,pn,any,sg,2,,ni,ni'>
+26	vijayuNNi	NN	<fs af='vijayudu,n,any,sg,3,,ni,ni'>|<fs af='vijayudu,n,any,sg,3,,ni_agr,ni_agr'>
+27	ceswAnu	VM	<fs af='ceVyyi,v,any,sg,1,,wA,wA'>
+28	!	SYM	<fs af='!,punc,,,,,, '>
+29	kulamexi	NN	<fs af='kulaM,n,,sg,,,xi,xi_0' deri_cat='pn'>
+30	?	SYM	<fs af='?,punc,,,,,, '>
+))
+</Sentence>

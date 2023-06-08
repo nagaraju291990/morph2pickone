@@ -1,0 +1,20 @@
+<Sentence id="3004">			
+0	((	SSF	
+1	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+2	appudu	NST	<fs af='appudu,adv,any,any,any,,0_adv,0_adv'>
+3	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+4	muwyAla	NN	<fs af='muwyaM,n,any,pl,3,,obl,obl'>
+5	hArAnni	NN	<fs af='hAraM,n,any,sg,3,,ni,ni'>|<fs af='hAraM,n,any,sg,3,,ni_agr,ni_agr'>
+6	akkada	NST	<fs af='akkada,adv,any,any,any,,0_adv,0_adv'>
+7	vaxali	VM	<fs af='vaxalu,v,any,any,any,,i,i'>
+8	peVtti	VAUX	<fs af='peVttu,v,any,any,any,,i,i' poslcat="NM">
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	caccina	VM	<fs af='cAvu,v,any,any,any,,ina,ina'>
+11	pAmu	NN	<fs af='pAmu,n,any,sg,3,,0,0'>|<fs af='pAmu,n,any,sg,3,,obl,obl'>
+12	SavAnni	NN	<fs af='SavaM,n,any,sg,3,,ni,ni'>|<fs af='SavaM,n,any,sg,3,,ni_agr,ni_agr'>
+13	nota	NN	<fs af='nota,avy,,,,,0,0_avy' poslcat="NM">
+14	karacukuni	VM	<fs af='karacuko,v,any,any,any,,i,i'>
+15	poyiMxi	VAUX	<fs af='po,v,fn,sg,3,,A,A' poslcat="NM">
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

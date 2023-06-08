@@ -1,0 +1,10 @@
+<Sentence id="127">
+0	((	SSF
+1	koVwwa	JJ	<fs af='koVwwa,adj,any,any,any,,0_adj,0_adj'>
+2	pEtA	NN	<fs af='pEta,n,any,sg,3,,0,0_A'>|<fs af='pEta,n,any,sg,3,,0,0_V'>
+3	pAvadA	NN	<fs af='pAvada,n,any,sg,3,,0,0_A'>|<fs af='pAvada,n,any,sg,3,,0,0_V'>
+4	koVni	VM	<fs af='koVnu,v,any,any,any,,i,i'>
+4	iccAru	VM	<fs af='ivvu,v,any,pl,2,,A,A'>|<fs af='ivvu,v,mf,pl,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

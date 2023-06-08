@@ -1,0 +1,215 @@
+<Sentence id="8451">
+0	((	SSF
+1	I	DEM	<fs af='I,avy,,,,,, '>
+2	jillAku	NN	<fs af='jillA,n,any,sg,3,,ki,ki'>
+3	saMbaMXiMcina	VM	<fs af='saMbaMXiMcina,avy,,,,,, '>|<fs af='saMbaMXiMcu,v,any,any,any,,ina,ina'>
+4	iwara	JJ	<fs af='iwara,n,any,sg,3,,0,0'>|<fs af='iwara,n,any,sg,3,,obl,obl'>|<fs af='iwaraM,n,any,sg,3,,obl,obl'>
+5	vivaramulu	NN	<fs af='vivaraM,n,any,pl,3,,0,0'>|<fs af='vivaraM,n,any,pl,3,,vu_agr,vu_agr'>
+6	:	SYM	<fs af=':,punc,,,,,, '>
+7	vESAlyaM	NN	<fs af='vESAlyaM,n,any,sg,3,,0,0'>
+8	:	SYM	<fs af=':,punc,,,,,, '>
+9	13	QC	<fs af='13,num,,,,,, '>
+10	,	SYM	<fs af=',,punc,,,,,, '>
+11	076	QC	<fs af='076,num,,,,,, '>
+12	adavI	NN	<fs af='adavi,n,any,sg,3,,0,0_V'>
+13	prAMwamu	NN	<fs af='prAMwaM,n,any,sg,3,,0,0'>
+14	:	SYM	<fs af=':,punc,,,,,, '>
+15	19	QC	<fs af='19,num,,,,,, '>|<fs af='va,avy,,,,,, '>
+16	%	SYM
+17	janABA	NN	<fs af='janABA,n,any,sg,3,,0,0'>|<fs af='janABA,n,any,sg,3,,obl,obl'>
+18	:	SYM	<fs af=':,punc,,,,,, '>
+19	23	QC	<fs af='23,num,,,,,, '>
+20	,	SYM	<fs af=',,punc,,,,,, '>
+21	92	QC	<fs af='92,num,,,,,, '>
+22	,	SYM	<fs af=',,punc,,,,,, '>
+23	000	QC	<fs af='000,num,,,,,, '>
+24	akRarAsyawa	NN	<fs af='akRarAsya,adj,any,any,any,,wanaM_adj,wanaM_adj'>|<fs af='akRarAsyawa,n,any,sg,3,,0,0'>|<fs af='akRarAsyawa,n,any,sg,3,,obl,obl'>
+25	:	SYM	<fs af=':,punc,,,,,, '>
+26	48	QC	<fs af='48,num,,,,,, '>|<fs af='1,num,,,,,, '>
+27	%	SYM
+28	munsipal	NN	<fs af='munsipal,n,any,sg,3,,0,0'>|<fs af='munsipal,n,any,sg,3,,obl,obl'>
+29	pattaNamulu	NN	<fs af='pattaNaM,n,any,pl,3,,0,0'>|<fs af='pattaNaM,n,any,pl,3,,vu_agr,vu_agr'>
+30	:	SYM	<fs af=':,punc,,,,,, '>
+31	3	QC	<fs af='3,num,,,,,, '>
+32	iwara	JJ	<fs af='iwara,n,any,sg,3,,0,0'>|<fs af='iwara,n,any,sg,3,,obl,obl'>|<fs af='iwaraM,n,any,sg,3,,obl,obl'>
+33	pattaNamulu	NN	<fs af='pattaNaM,n,any,pl,3,,0,0'>|<fs af='pattaNaM,n,any,pl,3,,vu_agr,vu_agr'>
+34	:	SYM	<fs af=':,punc,,,,,, '>
+35	5	QC	<fs af='5,num,,,,,, '>|<fs af='va,avy,,,,,, '>
+36	lok	NN	<fs af='lok,n,,sg,,,0,0'>|<fs af='lok,n,,sg,,,obl,obl'>
+37	saBa	NN	<fs af='saBa,n,any,sg,3,,0,0'>|<fs af='saBa,n,any,sg,3,,obl,obl'>
+38	niyojakavargamulu	NN	<fs af='niyojakavargaM,n,any,pl,3,,0,0'>|<fs af='niyojakavargaM,n,any,pl,3,,vu_agr,vu_agr'>
+39	:	SYM	<fs af=':,punc,,,,,, '>
+40	1	QC	<fs af='1,num,,,,,, '>|<fs af='va,avy,,,,,, '>
+41	SAsanasaBA	NN	<fs af='SAsanasaBa,n,any,sg,3,,0,0_A'>|<fs af='SAsanasaBa,n,any,sg,3,,0,0_V'>
+42	niyojakavargamulu	NN	<fs af='niyojakavargaM,n,any,pl,3,,0,0'>|<fs af='niyojakavargaM,n,any,pl,3,,vu_agr,vu_agr'>
+43	:	SYM	<fs af=':,punc,,,,,, '>
+44	11	QC	<fs af='11,num,,,,,, '>
+45	maMdalamulu	NN	<fs af='maMdalaM,n,any,pl,3,,0,0'>|<fs af='maMdalaM,n,any,pl,3,,vu_agr,vu_agr'>
+46	:	SYM	<fs af=':,punc,,,,,, '>
+47	46	QC	<fs af='46,num,,,,,, '>
+48	(	SYM	<fs af='(,punc,,,,,, '>
+49	943	QC	<fs af='943,num,,,,,, '>
+50	grAmamulu	NN	<fs af='grAmaM,n,any,pl,3,,0,0'>|<fs af='grAmaM,n,any,pl,3,,vu_agr,vu_agr'>
+51	)	SYM	<fs af='),punc,,,,,, '>
+52	sIwArAMpuraM	NNP	<fs af='sIwArAMpuraM,n,any,sg,3,,0,0'>
+53	,	SYM	<fs af=',,punc,,,,,, '>
+54	uxayagiri	NNP	<fs af='uxayagiri,n,any,sg,3,,0,0'>|<fs af='uxayagiri,n,any,sg,3,,obl,obl'>
+55	,	SYM	<fs af=',,punc,,,,,, '>
+56	varikoVMtapAdu	NNP	<fs af='varikoVMtapAdu,n,any,sg,3,,0,0'>|<fs af='varikoVMtapAdu,n,any,sg,3,,obl,obl'>
+57	,	SYM	<fs af=',,punc,,,,,, '>
+58	xuwwalUru	NNP	<fs af='xuwwalUru,n,any,sg,3,,0,0'>
+59	,	SYM	<fs af=',,punc,,,,,, '>
+60	marripAdu	NNP	<fs af='marripAdu,n,any,sg,3,,0,0'>|<fs af='marripAdu,n,any,sg,3,,obl,obl'>
+61	,	SYM	<fs af=',,punc,,,,,, '>
+62	viMjamUru	NNP	<fs af='viMjamUru,n,any,sg,3,,0,0'>
+63	,	SYM	<fs af=',,punc,,,,,, '>
+64	kanigiri	NNP	<fs af='kanigiri,n,any,sg,3,,0,0'>|<fs af='kanigiri,n,any,sg,3,,obl,obl'>
+65	,	SYM	<fs af=',,punc,,,,,, '>
+66	koVMdApuraM	NNP	<fs af='koVMdApuraM,n,any,sg,3,,0,0'>
+67	,	SYM	<fs af=',,punc,,,,,, '>
+68	kAvali	NNP	<fs af='kAvali,n,any,sg,3,,0,0'>|<fs af='kAvali,n,any,sg,3,,obl,obl'>
+69	,	SYM	<fs af=',,punc,,,,,, '>
+70	jalaxaMki	NNP	<fs af='jalaxaM,n,any,sg,3,,ki,ki'>
+71	,	SYM	<fs af=',,punc,,,,,, '>
+72	bogolu	NNP	<fs af='bogolu,n,any,sg,3,,0,0'>|<fs af='bogolu,n,any,sg,3,,obl,obl'>
+73	,	SYM	<fs af=',,punc,,,,,, '>
+74	kovUru	NNP	<fs af='kovUru,n,any,sg,3,,0,0'>
+75	,	SYM	<fs af=',,punc,,,,,, '>
+76	koVdavalUru	NNP	<fs af='koVdavalUru,n,any,sg,3,,0,0'>
+77	,	SYM	<fs af=',,punc,,,,,, '>
+78	vidavalUru	NNP	<fs af='vidavalUru,n,any,sg,3,,0,0'>
+79	,	SYM	<fs af=',,punc,,,,,, '>
+80	xagaxarwi	NNP	<fs af='xagaxarwi,n,any,sg,3,,0,0'>|<fs af='xagaxarwi,n,any,sg,3,,obl,obl'>
+81	,	SYM	<fs af=',,punc,,,,,, '>
+82	allUru	NNP	<fs af='allUru,n,any,sg,3,,0,0'>
+83	,	SYM	<fs af=',,punc,,,,,, '>
+84	buccireVddipAleVM	NNP	<fs af='buccireVddipAleVM,n,any,sg,3,,0,0'>|<fs af='buccireVddipAleVM,n,any,sg,3,,obl,obl'>
+85	,	SYM	<fs af=',,punc,,,,,, '>
+86	saMgaM	NNP	<fs af='saMgaM,n,any,sg,3,,0,0'>
+87	,	SYM	<fs af=',,punc,,,,,, '>
+88	AwmakUru	NNP	<fs af='AwmakUru,n,any,sg,3,,0,0'>|<fs af='AwmakUru,n,any,sg,3,,obl,obl'>
+89	,	SYM	<fs af=',,punc,,,,,, '>
+90	hanumasamuxraMpeta	NNP	<fs af='hanumasamuxraMpeta,n,any,sg,3,,0,0'>|<fs af='hanumasamuxraMpeta,n,any,sg,3,,obl,obl'>
+91	,	SYM	<fs af=',,punc,,,,,, '>
+92	anaMwa	NN	<fs af='anaMwaM,n,,sg,,,obl,obl'>|<fs af='anaMwudu,n,,sg,,,obl,obl'>
+92	sAgaraM	NN	<fs af='sAgaraM,n,,sg,,,0,0'>
+93	,	SYM	<fs af=',,punc,,,,,, '>
+94	iMxukUrupeta	NNP	<fs af='iMxukUrupeta,n,any,sg,3,,0,0'>|<fs af='iMxukUrupeta,n,any,sg,3,,obl,obl'>
+95	,	SYM	<fs af=',,punc,,,,,, '>
+96	wotapalli	NNP	<fs af='wotapalli,n,any,sg,3,,0,0'>|<fs af='wotapalli,n,any,sg,3,,obl,obl'>
+97	,	SYM	<fs af=',,punc,,,,,, '>
+98	gUdUru	NNP	<fs af='gUdUru,n,any,sg,3,,0,0'>
+99	,	SYM	<fs af=',,punc,,,,,, '>
+100	neVllUru	NNP	<fs af='neVllUru,n,any,sg,3,,0,0'>|<fs af='neVllUru,n,any,sg,3,,obl,obl'>
+101	,	SYM	<fs af=',,punc,,,,,, '>
+102	veVMkatAcalaM	NNP	<fs af='veVMkatAcalaM,n,any,sg,3,,0,0'>
+103	,	SYM	<fs af=',,punc,,,,,, '>
+104	muwwukUru	NNP	<fs af='muwwukUru,n,any,sg,3,,0,0'>
+105	,	SYM	<fs af=',,punc,,,,,, '>
+106	pAxalakUru	NNP	<fs af='pAxalakUru,n,any,sg,3,,0,0'>
+107	,	SYM	<fs af=',,punc,,,,,, '>
+108	cejeVrla	NNP	<fs af='cejeVrla,n,any,sg,3,,0,0'>|<fs af='cejeVrla,n,any,sg,3,,obl,obl'>
+109	,	SYM	<fs af=',,punc,,,,,, '>
+110	kalu	NN	<fs af='kalu,avy,,,,,,'>|<fs af='kal,n,,sg,,,0,0'>|<fs af='kal,n,,sg,,,obl,obl'>
+110	vAyi	VM	<fs af='vAyi,v,,sg,2,,AjFArWa,AjFArWa'>|<fs af='vAcu,v,,sg,2,,AjFArWa,AjFArWa'>
+111	,	SYM	<fs af=',,punc,,,,,, '>
+112	rAvUru	NNP	<fs af='rAvUru,n,any,sg,3,,0,0'>
+113	,	SYM	<fs af=',,punc,,,,,, '>
+114	sExApuraM	NNP	<fs af='sExApuraM,n,any,sg,3,,0,0'>
+115	,	SYM	<fs af=',,punc,,,,,, '>
+116	manubolu	NNP	<fs af='manubolu,n,any,sg,3,,0,0'>|<fs af='manubolu,n,any,sg,3,,obl,obl'>
+117	,	SYM	<fs af=',,punc,,,,,, '>
+118	cilakUru	NNP	<fs af='cilakUru,n,any,sg,3,,0,0'>
+119	,	SYM	<fs af=',,punc,,,,,, '>
+120	vAkAdu	NNP	<fs af='vAkAdu,n,any,sg,3,,0,0'>|<fs af='vAkAdu,n,any,sg,3,,obl,obl'>
+121	,	SYM	<fs af=',,punc,,,,,, '>
+122	kota	NNP	<fs af='kota,n,any,sg,3,,0,0'>|<fs af='kota,n,any,sg,3,,obl,obl'>
+123	,	SYM	<fs af=',,punc,,,,,, '>
+124	ciMwamUru	NNP	<fs af='ciMwamUru,n,any,sg,3,,0,0'>
+125	,	SYM	<fs af=',,punc,,,,,, '>
+126	nAyudupeta	NNP	<fs af='nAyudupeta,n,any,sg,3,,0,0'>|<fs af='nAyudupeta,n,any,sg,3,,obl,obl'>
+127	,	SYM	<fs af=',,punc,,,,,, '>
+128	peVlYlYakUru	NNP	<fs af='peVlYlYakUru,n,any,sg,3,,0,0'>
+129	,	SYM	<fs af=',,punc,,,,,, '>
+130	bijili	NNP	<fs af='bijili,n,any,sg,3,,0,0'>|<fs af='bijili,n,any,sg,3,,obl,obl'>
+131	,	SYM	<fs af=',,punc,,,,,, '>
+132	sUlYlYUrupeta	NNP	<fs af='sUlYlYUrupeta,n,any,sg,3,,0,0'>|<fs af='sUlYlYUrupeta,n,any,sg,3,,obl,obl'>
+133	,	SYM	<fs af=',,punc,,,,,, '>
+134	xoVravAri	NN	<fs af='xoVra,n,,pl,,,vAru,vAru_obl' deri_cat='pn'>
+135	sawraM	NNP	<fs af='sawraM,n,any,sg,3,,0,0'>
+136	,	SYM	<fs af=',,punc,,,,,, '>
+137	sawraM	NNP	<fs af='sawraM,n,any,sg,3,,0,0'>
+138	,	SYM	<fs af=',,punc,,,,,, '>
+139	wada	NNP	<fs af='wada,n,any,sg,3,,0,0'>|<fs af='wada,n,any,sg,3,,obl,obl'>
+140	,	SYM	<fs af=',,punc,,,,,, '>
+141	veVMkatagiri	NNP	<fs af='veVMkatagiri,n,any,sg,3,,0,0'>|<fs af='veVMkatagiri,n,any,sg,3,,obl,obl'>
+142	,	SYM	<fs af=',,punc,,,,,, '>
+143	bAlAyapalli	NNP	<fs af='bAlAyapalli,n,any,sg,3,,0,0'>|<fs af='bAlAyapalli,n,any,sg,3,,obl,obl'>
+144	,	SYM	<fs af=',,punc,,,,,, '>
+145	xakkali	NNP	<fs af='xakkali,n,any,sg,3,,0,0'>|<fs af='xakkali,n,any,sg,3,,obl,obl'>
+146	(	SYM	<fs af='(,punc,,,,,, '>
+147	sarvepalli	NNP	<fs af='sarvepalli,n,any,sg,3,,0,0'>|<fs af='sarvepalli,n,any,sg,3,,obl,obl'>
+148	)	SYM	<fs af='),punc,,,,,, '>
+149	naxulu	NN	<fs af='naxi,n,any,pl,3,,0,0'>
+150	:	SYM	<fs af=':,punc,,,,,, '>
+151	peVnna	NNP	<fs af='peVn,n,any,sg,3,,na,na'>|<fs af='peVnna,n,any,sg,3,,0,0'>|<fs af='peVnna,n,any,sg,3,,obl,obl'>
+152	,	SYM	<fs af=',,punc,,,,,, '>
+153	kaMxaleru	NNP	<fs af='kaMxagala,v,any,pl,2,,a,a'>|<fs af='kaMxagala,v,mf,pl,3,,a,a'>
+154	,	SYM	<fs af=',,punc,,,,,, '>
+155	svarNamuKi	NNP	<fs af='svarNamuKi,n,any,sg,3,,0,0'>|<fs af='svarNamuKi,n,any,sg,3,,obl,obl'>
+156	,	SYM	<fs af=',,punc,,,,,, '>
+157	pila	NN	<fs af='pil,n,,sg,,,obl,obl'>
+157	peru	NN	<fs af='peru,n,,sg,,,0,0'>|<fs af='peru,n,,sg,,,obl,obl'>
+158	,	SYM	<fs af=',,punc,,,,,, '>
+159	upputeru	NNP	<fs af='upputeru,n,any,sg,3,,0,0'>|<fs af='upputeru,n,any,sg,3,,obl,obl'>
+160	paMtalu	NN	<fs af='paMta,n,any,pl,3,,0,0'>|<fs af='paMta,n,any,pl,3,,vu_agr,vu_agr'>
+161	:	SYM	<fs af=':,punc,,,,,, '>
+162	vari	NN	<fs af='vari,n,any,sg,3,,0,0'>|<fs af='vari,n,any,sg,3,,obl,obl'>
+163	,	SYM	<fs af=',,punc,,,,,, '>
+164	sajjalu	NN	<fs af='sajja,n,any,pl,3,,0,0'>|<fs af='sajja,n,any,pl,3,,vu_agr,vu_agr'>
+165	,	SYM	<fs af=',,punc,,,,,, '>
+166	rAgulu	NN	<fs af='rAgi,n,any,pl,3,,0,0'>|<fs af='rAgulu,n,any,sg,3,,0,0'>|<fs af='rAgulu,n,any,sg,3,,vu_agr,vu_agr'>
+167	,	SYM	<fs af=',,punc,,,,,, '>
+168	mirapa	NN	<fs af='mirapa,n,any,sg,3,,0,0'>|<fs af='mirapa,n,any,sg,3,,obl,obl'>
+169	,	SYM	<fs af=',,punc,,,,,, '>
+170	veruSeVnaga	NN	<fs af='veruSeVnaga,n,any,sg,3,,0,0'>|<fs af='veruSeVnaga,n,any,sg,3,,obl,obl'>
+171	,	SYM	<fs af=',,punc,,,,,, '>
+172	kAyagUralu	NN	<fs af='kAyagUralu,n,any,sg,3,,0,0'>|<fs af='kAyagUralu,n,any,sg,3,,vu_agr,vu_agr'>
+173	,	SYM	<fs af=',,punc,,,,,, '>
+174	nuvvulu	NN	<fs af='nuvvu,n,any,pl,3,,0,0'>|<fs af='nuvvu,n,any,pl,3,,vu_agr,vu_agr'>
+175	Kanijamulu	NN	<fs af='KanijaM,n,any,pl,3,,0,0'>|<fs af='KanijaM,n,any,pl,3,,vu_agr,vu_agr'>
+176	:	SYM	<fs af=':,punc,,,,,, '>
+177	mEkA	NN	<fs af='mEku,n,any,sg,3,,0,0_A'>
+178	,	SYM	<fs af=',,punc,,,,,, '>
+179	kvArtj	NN	<fs af='kvArtj,n,any,sg,3,,0,0'>|<fs af='kvArtj,n,any,sg,3,,obl,obl'>
+180	;	SYM	<fs af=';,punc,,,,,, '>
+181	,	SYM	<fs af=',,punc,,,,,, '>
+182	gArnEt	NN	<fs af='gArnEt,n,any,sg,3,,0,0'>|<fs af='gArnEt,n,any,sg,3,,obl,obl'>
+183	,	SYM	<fs af=',,punc,,,,,, '>
+184	silikAnu	NN	<fs af='silikA,n,any,sg,3,,ni,ni'>|<fs af='silikA,n,any,sg,3,,ni_agr,ni_agr'>|<fs af='silikAn,n,any,sg,3,,0,0'>|<fs af='silikAn,n,any,sg,3,,obl,obl'>|<fs af='silikAnu,n,any,sg,3,,0,0'>|<fs af='silikAnu,n,any,sg,3,,obl,obl'>
+185	pariSramalu	NN	<fs af='pariSrama,n,any,pl,3,,0,0'>|<fs af='pariSrama,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pariSramalu,n,any,sg,3,,0,0'>|<fs af='pariSramalu,n,any,sg,3,,vu_agr,vu_agr'>
+186	:	SYM	<fs af=':,punc,,,,,, '>
+187	byAtarIlu	NN	<fs af='byAtarI,n,,pl,,,0,0'>|<fs af='byAtarI,n,,pl,,,vu,vu'>
+188	,	SYM	<fs af=',,punc,,,,,, '>
+189	peparu	NN	<fs af='pepar,n,any,sg,3,,0,0'>|<fs af='pepar,n,any,sg,3,,obl,obl'>|<fs af='peparu,n,any,sg,3,,0,0'>|<fs af='peparu,n,any,sg,3,,obl,obl'>
+190	,	SYM	<fs af=',,punc,,,,,, '>
+191	rasAyanamulu	NN	<fs af='rasAyanaM,n,any,pl,3,,0,0'>|<fs af='rasAyanaM,n,any,pl,3,,vu_agr,vu_agr'>
+192	,	SYM	<fs af=',,punc,,,,,, '>
+193	cenewa	NN	<fs af='cenewa,n,any,sg,3,,0,0'>|<fs af='cenewa,n,any,sg,3,,obl,obl'>
+194	(	SYM	<fs af='(,punc,,,,,, '>
+195	veVMkatagiri	NNP	<fs af='veVMkatagiri,n,any,sg,3,,0,0'>|<fs af='veVMkatagiri,n,any,sg,3,,obl,obl'>
+196	)	SYM	<fs af='),punc,,,,,, '>
+197	,	SYM	<fs af=',,punc,,,,,, '>
+198	AkvA	NN	<fs af='AkvA,n,any,sg,3,,0,0'>|<fs af='AkvA,n,any,sg,3,,obl,obl'>
+199	cUdaxagina	VM	<fs af='cUdu,v,any,any,any,,a_xagu_ina,a_xagu_ina'>
+200	praxeSamulu	NN	<fs af='praxeSaM,n,any,pl,3,,0,0'>|<fs af='praxeSaM,n,any,pl,3,,vu_agr,vu_agr'>
+201	neVllUru	NNP	<fs af='neVllUru,n,any,sg,3,,0,0'>|<fs af='neVllUru,n,any,sg,3,,obl,obl'>
+202	:	SYM	<fs af=':,punc,,,,,, '>
+203	peVnnA	NNP	<fs af='peVnnu,n,any,sg,3,,0,0_A'>|<fs af='peVnna,n,any,sg,3,,0,0_A'>|<fs af='peVnna,n,any,sg,3,,0,0_V'>
+204	naxi	NN	<fs af='naxi,n,any,sg,3,,0,0'>|<fs af='naxi,n,any,sg,3,,obl,obl'>
+205	oVdduna	NN	<fs af='oVddu,n,any,sg,3,,na,na'>
+206	gala	RP	<fs af='gala,v,any,any,any,,ina,ina'>|<fs af='gala,adj,any,any,any,,0_adj,0_adj'>
+207	pattaNamu	NN	<fs af='pattaNaM,n,any,sg,3,,0,0'>
+208	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

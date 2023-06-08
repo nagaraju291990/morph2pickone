@@ -1,0 +1,9 @@
+<Sentence id="7875">			
+0	((	SSF	
+1	pattaNaM	NN	<fs af='pattaNaM,n,any,sg,3,,0,0'>
+2	poxAmani	VM	<fs af='po,v,any,pl,1,,xA_ani,xA_ani'>|<fs af='po,v,any,pl,2,,xA_ani,xA_ani'>
+3	calapawini	NNP	<fs af='calapawi,n,any,sg,3,,ni,ni'>|<fs af='calapawi,n,any,sg,3,,ni_agr,ni_agr'>
+4	korexi	VM	<fs af='koru,v,any,any,any,,e_axi,e_axi'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

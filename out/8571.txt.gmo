@@ -1,0 +1,21 @@
+<Sentence id="8571">			
+0	((	SSF	
+1	jaMwu	NN	<fs af='jaMwuvu,n,any,sg,3,,obl,obl'>|<fs af='jaMwuvu,n,any,sg,3,,I,I'>
+2	SAswravewwa	NN	<fs af='SAswravewwa,n,any,sg,3,,0,0'>|<fs af='SAswravewwa,n,any,sg,3,,obl,obl'>
+3	ayyi	VM	<fs af='avvu,v,any,any,any,,i,i'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	APrikAnuMci	NNP	<fs af='APrikA,n,any,sg,3,,niMci,niMci'>
+6	aneka	QF	<fs af='aneka,adj,any,any,any,,0_adj,0_adj'>|<fs af='anekaM,n,any,sg,3,,obl,obl'>
+7	viMwa	NN	<fs af='viMwa,n,any,sg,3,,0,0'>|<fs af='viMwa,n,any,sg,3,,obl,obl'>
+8	mqgAlanu	NN	<fs af='mqgaM,n,any,pl,3,,ni,ni'>
+9	laMdanu	NNP	<fs af='laMdan,n,any,sg,3,,0,0'>|<fs af='laMdan,n,any,sg,3,,obl,obl'>
+10	jUku	NN	<fs af='jU,n,,sg,,,ki,ki'>
+11	weVccina	VM	<fs af='we,v,any,any,any,,ina,ina'>
+12	mistaru	NN	<fs af='mistar,n,any,sg,3,,0,0'>|<fs af='mistar,n,any,sg,3,,obl,obl'>
+13	dikeVnsanu	NNP	<fs af='dikeVnsanu,n,any,sg,3,,0,0'>|<fs af='dikeVnsanu,n,any,sg,3,,obl,obl'>
+14	dAktarlanu	NN	<fs af='dAktar,n,any,pl,3,,ni,ni'>
+15	aMxarinI	QF	<fs af='aMxaru,pn,mf,pl,3,,ni,ni_V' poslcat="NM">
+16	parihasiMcAdu	VM	<fs af='parihasiMcu,v,m,sg,3,,A,A'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,8 @@
+<Sentence id="5978">			
+0	((	SSF	
+1	ceVppina	VM	<fs af='ceVppu,v,any,any,any,,ina,ina'>
+1	atle	VM	<fs af='attu,n,any,pl,3,,0,0_e' poslcat="NM">
+2	ceSAru	VM	<fs af='ceVyyi,v,any,pl,2,,A,A'>|<fs af='ceVyyi,v,mf,pl,3,,A,A'>
+3	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

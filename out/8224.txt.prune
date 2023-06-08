@@ -1,0 +1,37 @@
+<Sentence id="8224">
+0	((	SSF	
+1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+2	xAnA	NN	<fs af='xAnA,n,any,sg,3,,0,0'>|<fs af='xAnA,n,any,sg,3,,obl,obl'>
+3	pAlYlu	NN	<fs af='pAlu,n,any,pl,3,,0,0'>|<fs af='pAlu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAdu,n,any,pl,3,,0,0'>|<fs af='pAdu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAdi,n,any,pl,3,,0,0'>|<fs af='pAdi,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAlYlu,n,any,sg,3,,0,0'>|<fs af='pAlYlu,n,any,sg,3,,vu_agr,vu_agr'>
+4	ilA	RB	<fs af='ilA,avy,,,,,,' poslcat="NM">|<fs af='ila,n,any,sg,3,,0,0_A' poslcat="NM">|<fs af='ila,n,any,sg,3,,0,0_V' poslcat="NM">
+5	uMdAli	VM	<fs af='uMdu,v,any,any,any,,Ali,Ali'>
+6	:	SYM	<fs af=':,punc,,,,,,'>
+7	34	QC	<fs af='34,num,,,,,,'>
+8	pAlYlu	NN	<fs af='pAlu,n,any,pl,3,,0,0'>|<fs af='pAlu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAdu,n,any,pl,3,,0,0'>|<fs af='pAdu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAdi,n,any,pl,3,,0,0'>|<fs af='pAdi,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAlYlu,n,any,sg,3,,0,0'>|<fs af='pAlYlu,n,any,sg,3,,vu_agr,vu_agr'>
+9	moVkkajoVnna	NNP	<fs af='moVkkajoVnna,n,any,sg,3,,0,0'>|<fs af='moVkkajoVnna,n,any,sg,3,,obl,obl'>
+10	nUka	NN	<fs af='nUka,n,any,sg,3,,0,0'>|<fs af='nUka,n,any,sg,3,,obl,obl'>
+11	21	QC	<fs af='21,num,,,,,,'>
+12	pAlYlu	NN	<fs af='pAlu,n,any,pl,3,,0,0'>|<fs af='pAlu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAdu,n,any,pl,3,,0,0'>|<fs af='pAdu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAdi,n,any,pl,3,,0,0'>|<fs af='pAdi,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAlYlu,n,any,sg,3,,0,0'>|<fs af='pAlYlu,n,any,sg,3,,vu_agr,vu_agr'>
+13	biyyapu	NN	<fs af='biyyaM,n,any,sg,3,,obl,obl'>
+14	nUka	NN	<fs af='nUka,n,any,sg,3,,0,0'>|<fs af='nUka,n,any,sg,3,,obl,obl'>
+15	38	QC	<fs af='38,num,,,,,,'>
+16	pAlYlu	NN	<fs af='pAlu,n,any,pl,3,,0,0'>|<fs af='pAlu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAdu,n,any,pl,3,,0,0'>|<fs af='pAdu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAdi,n,any,pl,3,,0,0'>|<fs af='pAdi,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAlYlu,n,any,sg,3,,0,0'>|<fs af='pAlYlu,n,any,sg,3,,vu_agr,vu_agr'>
+17	biyyapu	NN	<fs af='biyyaM,n,any,sg,3,,obl,obl'>
+18	wavudu	NN	<fs af='wavudu,n,any,sg,3,,0,0'>
+19	4	QC	<fs af='4,num,,,,,,'>
+20	pAlYlu	NN	<fs af='pAlu,n,any,pl,3,,0,0'>|<fs af='pAlu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAdu,n,any,pl,3,,0,0'>|<fs af='pAdu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAdi,n,any,pl,3,,0,0'>|<fs af='pAdi,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAlYlu,n,any,sg,3,,0,0'>|<fs af='pAlYlu,n,any,sg,3,,vu_agr,vu_agr'>
+21	veruSanaga	NNP	<fs af='veruSanaga,n,any,sg,3,,0,0'>|<fs af='veruSanaga,n,any,sg,3,,obl,obl'>
+22	piMdi	NN	<fs af='piMdi,n,any,sg,3,,0,0'>|<fs af='piMdi,n,any,sg,3,,obl,obl'>
+23	2	QC	<fs af='2,num,,,,,,'>
+24	pAlYlu	NN	<fs af='pAlu,n,any,pl,3,,0,0'>|<fs af='pAlu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAdu,n,any,pl,3,,0,0'>|<fs af='pAdu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAdi,n,any,pl,3,,0,0'>|<fs af='pAdi,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAlYlu,n,any,sg,3,,0,0'>|<fs af='pAlYlu,n,any,sg,3,,vu_agr,vu_agr'>
+25	lavaNa	NN	<fs af='lavaNaM,n,any,sg,3,,obl,obl'>
+26	miSramaM	NN	<fs af='miSramaM,n,any,sg,3,,0,0'>
+27	1	QC	<fs af='1,num,,,,,,'>
+28	pAlu	NN	<fs af='paM,n,any,pl,3,,0,0'>|<fs af='paM,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAlu,n,any,sg,3,,0,0'>|<fs af='pAlu,n,any,sg,3,,0,0_A'>|<fs af='pAlu,n,any,sg,3,,obl,obl'>|<fs af='pAlu,n,any,sg,3,,vu_agr,vu_agr'>
+29	uppu	NN	<fs af='uppu,n,any,sg,3,,0,0'>|<fs af='uppu,n,any,sg,3,,obl,obl'>
+30	annI	QF	<fs af='anni,pn,any,pl,3,,0,0_V' poslcat="NM">
+31	kalipi	VM	<fs af='kalupu,v,any,any,any,,i,i'>
+32	wayAruceyAli	VM	<fs af='wayAruceVyyi,v,any,any,any,,Ali,Ali'>
+33	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

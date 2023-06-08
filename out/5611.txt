@@ -1,0 +1,20 @@
+<Sentence id="5611">
+0	((	SSF
+1	katteVlu	NN	<fs af='katteV,n,any,pl,3,,0,0'>|<fs af='katteV,n,any,pl,3,,vu_agr,vu_agr'>
+2	maMde	VM	<fs af='maMdu,v,any,any,any,,e,e'>|<fs af='maMdu,v,any,any,any,,i,i_e'>|<fs af='maMdi,n,any,sg,3,,0,0_e'>|<fs af='maMda,n,any,sg,3,,0,0_e'>|<fs af='maMdeV,n,any,sg,3,,0,0_e'>|<fs af='maMdeV,n,any,sg,3,,0,0_V'>
+3	BAgamu	NN	<fs af='BAgaM,n,any,sg,3,,0,0'>
+4	:	SYM	<fs af=':,punc,,,,,, '>
+5	ixi	PRP	<fs af='ixi,pn,fn,sg,3,,0,0'>
+6	mUdu	QC	<fs af='mUdu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='mUdu,n,any,sg,3,,0,0'>|<fs af='mUdu,n,any,sg,3,,obl,obl'>|<fs af='mUdu,num,any,any,any,,0,0'>
+7	vEpula	NN	<fs af='vEpu,n,any,pl,3,,obl,obl'>
+8	mUyabadi	VM	<fs af='mUyabadu,v,any,any,any,,i,i'>
+9	unnaMxuna	VM	<fs af='uMdu,v,any,any,any,,ina_aMxuna,ina_aMxuna'>
+10	uRNaM	NN	<fs af='uRNaM,n,any,sg,3,,0,0'>
+11	(	SYM	<fs af='(,punc,,,,,, '>
+12	vedi	NN	<fs af='vedu,v,any,any,any,,i,i'>|<fs af='vedi,adj,any,any,any,,0_adj,0_adj'>|<fs af='vedi,n,any,sg,3,,0,0'>|<fs af='vedi,n,any,sg,3,,obl,obl'>|<fs af='vedi,n,any,sg,3,,vu_agr,vu_agr'>
+13	)	SYM	<fs af='),punc,,,,,, '>
+14	naRtaM	NN	<fs af='naRtaM,n,any,sg,3,,0,0'>
+15	kAxu	VM	<fs af='avvu,v,fn,sg,3,,a,a'>
+16	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

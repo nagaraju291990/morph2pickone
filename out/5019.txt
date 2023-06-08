@@ -1,0 +1,6 @@
+<Sentence id="5019">
+0	((	SSF
+1	ArabeVttAli	VM	<fs af='ArabeVttu,v,any,any,any,,Ali,Ali'>
+2	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

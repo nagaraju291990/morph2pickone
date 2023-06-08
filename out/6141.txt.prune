@@ -1,0 +1,21 @@
+<Sentence id="6141">
+0	((	SSF	
+1	ayiwe	CC	<fs af='avvu,v,any,any,any,,we,we' poslcat="NM">
+2	1988	QC	<fs af='1988,num,,,,,,'>
+3	lo	PSP	<fs af='lo,avy,,,,,,' poslcat="NM">
+4	prAraMBamayina	VM	<fs af='prAraMBamavvu,v,any,any,any,,ina,ina'>|<fs af='prAraMBamavvu,v,any,any,any,,ina_axi,ina_axi'>
+5	jAwIya	JJ	<fs af='jAwIya,adj,any,any,any,,0_adj,0_adj'>
+6	akRarAsyawa	NN	<fs af='akRarAsyawa,n,any,sg,3,,0,0'>|<fs af='akRarAsyawa,n,any,sg,3,,obl,obl'>
+7	uxyamaMlo	NN	<fs af='uxyamaM,n,any,sg,3,,lo,lo'>
+8	BAgaMgA	RB	<fs af='BAgaM,n,any,sg,3,,gA,gA' poslcat="NM">
+9	100	QC	<fs af='100,num,,,,,,'>
+10	%	SYM	<'>|<poslcat="NM"'>
+11	akRarAsyawa	NN	<fs af='akRarAsyawa,n,any,sg,3,,0,0'>|<fs af='akRarAsyawa,n,any,sg,3,,obl,obl'>
+12	sAXiMcadAniki	VM	<fs af='sAXiMcadaM,n,any,sg,3,,ki,ki' poslcat="NM">
+13	aneka	JJ	<fs af='aneka,adj,any,any,any,,0_adj,0_adj'>
+14	kAryakramAlu	NN	<fs af='kAryakramaM,n,any,pl,3,,0,0'>|<fs af='kAryakramaM,n,any,pl,3,,vu_agr,vu_agr'>
+15	amalu	NN	<fs af='amalu,n,any,sg,3,,0,0'>|<fs af='amalu,n,any,sg,3,,0,0_A'>|<fs af='amalu,n,any,sg,3,,obl,obl'>
+16	avuwunnAyi	VM	<fs af='avvu,v,n,pl,3,,wunn,wunn'>|<fs af='avuwuMdu,v,n,pl,3,,A,A'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

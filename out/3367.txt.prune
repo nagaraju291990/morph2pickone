@@ -1,0 +1,13 @@
+<Sentence id="3367">
+0	((	SSF	
+1	eVnimixi	QC	<fs af='eVnimixi,n,any,sg,3,,0,0'>|<fs af='eVnimixi,n,any,sg,3,,obl,obl'>|<fs af='eVnimixi,num,any,any,any,,0,0'>
+2	gaMtala	NN	<fs af='gaMta,n,any,pl,3,,obl,obl'>
+3	bassu	NN	<fs af='bassu,n,any,sg,3,,0,0'>|<fs af='bassu,n,any,sg,3,,obl,obl'>
+4	burru	RB	<fs af='burru,n,any,sg,3,,0,0' poslcat="NM">|<fs af='burru,n,any,sg,3,,obl,obl' poslcat="NM">
+5	burru	VM	<fs af='burru,n,any,sg,3,,0,0' poslcat="NM">|<fs af='burru,n,any,sg,3,,obl,obl' poslcat="NM">
+5	aMtu	VM	<fs af='aMtu,v,any,sg,2,,AjFArWa,AjFArWa'>
+6	muMxuku	NN	<fs af='muMxu,n,,sg,,,ki,ki'>
+7	kaxiliMxi	VM	<fs af='kaxulu,v,fn,sg,3,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

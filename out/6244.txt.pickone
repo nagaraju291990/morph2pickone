@@ -1,0 +1,12 @@
+<Sentence id="6244">			
+0	((	SSF	
+1	vihAra	NN	<fs af='vihAraM,n,any,sg,3,,obl,obl'>
+2	sWalAlu	NN	<fs af='sWalaM,n,any,pl,3,,0,0'>
+3	SAlihuMdaM	NNP	<fs af='SAlihuMdaM,n,any,sg,3,,0,0'>
+4	:	SYM	<fs af=':,punc,,,,,,'>
+5	SrIkAkulYAniki	NNP	<fs af='SrIkAkulYaM,n,any,sg,3,,ki,ki'>
+6	18	QC	<fs af='18,num,,,,,,'>
+7	ki	NN	<fs af='ki,avy,,,,,,'>'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

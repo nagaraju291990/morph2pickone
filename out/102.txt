@@ -1,0 +1,9 @@
+<Sentence id="102">
+0	((	SSF
+1	nannu	PRP	<fs af='nenu,pn,any,sg,1,,ni,ni'>
+2	Ada	VM	<fs af='Ada,n,,sg,,,0,0'>|<fs af='Ada,n,,sg,,,obl,obl'>|<fs af='Ada,adj,,,,,0,0_adj'>|<fs af='Adu,v,any,any,any,,an,an'>
+2	muMda	NN	<fs af='muMda,n,,sg,,,0,0'>|<fs af='muMda,n,,sg,,,obl,obl'>|<fs af='muMdaM,n,,sg,,,obl,obl'>
+3	aMtunnAru	VM	<fs af='anu,v,any,pl,2,,wunn,wunn'>|<fs af='anu,v,mf,pl,3,,wunn,wunn'>|<fs af='aMtuMdu,v,any,pl,2,,A,A'>|<fs af='aMtuMdu,v,mf,pl,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

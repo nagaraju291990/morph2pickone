@@ -1,0 +1,11 @@
+<Sentence id="5092">
+0	((	SSF	
+1	Adapilla	NN	<fs af='Adapilla,n,any,sg,3,,0,0'>|<fs af='Adapilla,n,any,sg,3,,obl,obl'>
+2	caxuvukunnaxi	VM	<fs af='caxuvukunnaxi,unk,,,,,,' poslcat="NM">
+2	anuko	VM	<fs af='anuko,unk,,,,,,' poslcat="NM">
+3	!	SYM	<fs af='!,punc,,,,,,'>
+4	weVlivi	NN	<fs af='weVlivi,n,any,sg,3,,0,0'>|<fs af='weVlivi,n,any,sg,3,,obl,obl'>
+5	mIripowuMxi	VM	<fs af='mIripo,v,fn,sg,3,,wA,wA'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

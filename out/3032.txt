@@ -1,0 +1,16 @@
+<Sentence id="3032">
+0	((	SSF
+1	EnA	CC	<fs af='EnA,avy,,,,,, '>
+2	leVkkaceyakuMdA	VM	<fs af='leVkkaceVyyi,v,any,any,any,,akuMdA,akuMdA'>|<fs af='leVkkaceyakuMdu,v,any,any,any,,i,i_A'>
+3	AmeV	PRP	<fs af='AmeV,pn,f,sg,3,,0,0'>|<fs af='AmeV,pn,f,sg,3,,obl,obl'>
+4	vAlYlawo	PRP	<fs af='vAlYlu,pn,mf,pl,3,,wo,wo'>
+5	potlAdi	VM	<fs af='potlAdu,v,any,any,any,,i,i'>
+6	,	SYM	<fs af=',,punc,,,,,, '>
+7	xeVbbalAdi	VM	<fs af='xeVbbalAdu,v,any,any,any,,i,i'>
+8	eVlAgo	WQ	<fs af='eVlAgo,avy,,,,,, '>
+9	gAMXIjI	NN	<fs af='gAMXIjI,n,,sg,,,0,0'>|<fs af='gAMXIjI,n,,sg,,,obl,obl'>
+10	xaggaraku	NN	<fs af='xaggara,adv,any,any,any,,0,0_adv_ku'>
+11	cerukuMxi	VM	<fs af='ceruko,v,fn,sg,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

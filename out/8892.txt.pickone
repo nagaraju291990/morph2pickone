@@ -1,0 +1,29 @@
+<Sentence id="8892">			
+0	((	SSF	
+1	mAtlAdetappudu	VM	<fs af='mAtlAdu,v,any,any,any,,e_appudu,e_appudu'>
+2	A	DEM	<fs af='A,avy,,,,,,'>
+3	mqgaM	NN	<fs af='mqgaM,n,any,sg,3,,0,0'>
+4	I	DEM	<fs af='I,avy,,,,,,'>
+5	yaMwrAnni	NN	<fs af='yaMwraM,n,any,sg,3,,ni,ni'>
+6	notiki	NN	<fs af='noru,n,any,sg,3,,ki,ki'>
+7	awani	PRP	<fs af='awanu,pn,m,sg,3,,obl,obl'>
+8	notlonuMci	NN	<fs af='noru,n,any,sg,3,,lonuMdi,lonuMdi'>
+9	vaccina	VM	<fs af='vaccu,v,any,any,any,,ina,ina'>
+10	Xvani	NN	<fs af='Xvani,n,any,sg,3,,0,0'>
+11	aMwA	QF	<fs af='aMwa,pn,any,pl,3,,0,0_A'>'>
+12	A	DEM	<fs af='A,avy,,,,,,'>
+13	yaMwraM	NN	<fs af='yaMwraM,n,any,sg,3,,0,0'>
+14	pogu	NN	<fs af='pogu,n,any,sg,3,,0,0'>
+15	cesi	VM	<fs af='ceVyyi,v,any,any,any,,i,i'>
+16	A	DEM	<fs af='A,avy,,,,,,'>
+17	Xvanini	NN	<fs af='Xvani,n,any,sg,3,,ni,ni'>
+18	waggiMci	VM	<fs af='waggiMcu,v,any,any,any,,i,i'>
+19	bayataku	NN	<fs af='bayata,n,,sg,,,ki,ki'>
+20	pUrvaM	NN	<fs af='pUrvaM,adv,any,any,any,,0_adv,0_adv'>'>
+21	aracinatlu	VM	<fs af='aracu,v,any,any,any,,ina_atlu,ina_atlu'>
+22	kAkuMdA	CC	<fs af='avvu,v,any,any,any,,akuMdA,akuMdA'>'>
+23	mAtalavaleV	NN	<fs af='mAta,n,any,pl,3,,vale,vale'>
+24	vinipiswuMxi	VM	<fs af='vinipiMcu,v,fn,sg,3,,wA,wA'>
+25	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

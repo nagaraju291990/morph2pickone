@@ -1,0 +1,20 @@
+<Sentence id="6103">
+0	((	SSF
+1	I	DEM	<fs af='I,avy,,,,,, '>
+2	viXaMgA	RB	<fs af='viXaM,n,any,sg,3,,gA,gA'>|<fs af='viXaMga,n,any,sg,3,,0,0_A'>|<fs af='viXaMga,n,any,sg,3,,0,0_V'>
+3	kramepi	NN	<fs af='kramepi,avy,,,,,0,0_avy'>
+4	aBivqxXi	NN	<fs af='aBivqxXi,n,any,sg,3,,0,0'>|<fs af='aBivqxXi,n,any,sg,3,,obl,obl'>
+5	sAXiswU	VM	<fs af='sAXiMcu,v,any,any,any,,wU,wU'>
+6	1025	QC	<fs af='1025,num,,,,,, '>
+7	prAMwaMlo	NN	<fs af='prAMwaM,n,any,sg,3,,lo,lo'>
+8	nannayya	NNP	<fs af='nannayya,n,any,sg,3,,0,0'>|<fs af='nannayya,n,any,sg,3,,obl,obl'>
+9	sAgiMcina	VM	<fs af='sAgiMcu,v,any,any,any,,ina,ina'>
+10	mahABArawa	NNP	<fs af='mahABArawaM,n,any,sg,3,,obl,obl'>
+11	kAvyaracana	NN	<fs af='kAvyaracana,n,any,sg,3,,0,0'>|<fs af='kAvyaracana,n,any,sg,3,,obl,obl'>
+12	weVlugu	NNP	<fs af='weVlugu,n,any,sg,3,,0,0'>|<fs af='weVlugu,n,any,sg,3,,obl,obl'>
+13	BARABivqxXiki	NN	<fs af='BARABivqxXi,n,any,sg,3,,ki,ki'>
+14	nAMxi	NN	<fs af='nAMxi,n,any,sg,3,,0,0'>|<fs af='nAMxi,n,any,sg,3,,obl,obl'>
+15	ayiMxi	VM	<fs af='avvu,v,fn,sg,3,,A,A'>
+16	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

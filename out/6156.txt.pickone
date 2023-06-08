@@ -1,0 +1,23 @@
+<Sentence id="6156">			
+0	((	SSF	
+1	AMXrapraxeS	NNP	<fs af='AMXrapraxeS,n,any,sg,3,,0,0'>
+2	lo	PSP	<fs af='lo,avy,,,,,,'>
+3	xivyamEna	JJ	<fs af='xivyaM,n,any,sg,3,,Ena,Ena'>
+4	xevAlayAlu	NN	<fs af='xevAlayaM,n,any,pl,3,,0,0'>
+5	,	SYM	<fs af=',,punc,,,,,,'>
+6	manoharamEna	JJ	<fs af='manoharaM,n,any,sg,3,,Ena,Ena'>
+7	jalapAwAlu	NN	<fs af='jalapAwaM,n,any,pl,3,,0,0'>
+8	,	SYM	<fs af=',,punc,,,,,,'>
+9	sarassulu	NN	<fs af='sarassu,n,any,pl,3,,0,0'>
+10	,	SYM	<fs af=',,punc,,,,,,'>
+11	unnawamEna	JJ	<fs af='unnawa,adj,any,any,any,,xEna_na_adj,xEna_na_adj'>
+12	parvawAlu	NN	<fs af='parvawaM,n,any,pl,3,,0,0'>
+13	,	SYM	<fs af=',,punc,,,,,,'>
+14	ASramAlu	NN	<fs af='ASramaM,n,any,pl,3,,0,0'>
+15	,	SYM	<fs af=',,punc,,,,,,'>
+16	vanyaprANi	NN	<fs af='vanyaprANi,n,any,sg,3,,0,0'>
+17	aBayAraNyAlu	NN	<fs af='aBayAraNyaM,n,,pl,,,0,0'>
+17	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

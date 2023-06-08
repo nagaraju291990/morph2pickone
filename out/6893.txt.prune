@@ -1,0 +1,9 @@
+<Sentence id="6893">
+0	((	SSF	
+1	*	SYM	<fs af='*,punc,,,,,,'>
+2	goVrru	NN	<fs af='goVrru,n,any,sg,3,,0,0'>|<fs af='goVrru,n,any,sg,3,,obl,obl'>
+3	nAgalini	NN	<fs af='nAgali,n,any,sg,3,,ni,ni'>|<fs af='nAgali,n,any,sg,3,,ni_agr,ni_agr'>
+4	vAdavaccu	VM	<fs af='vAdu,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='vAdavaccu,v,any,any,any,,e,e'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

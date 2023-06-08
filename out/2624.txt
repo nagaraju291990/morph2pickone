@@ -1,0 +1,10 @@
+<Sentence id="2624">
+0	((	SSF
+1	pidikeVdu	QF	<fs af='pidikeVdu,n,any,sg,3,,0,0'>|<fs af='pidikeVdu,n,any,sg,3,,obl,obl'>
+2	ayinA	CC	<fs af='avvu,v,any,any,any,,inA,inA'>
+3	eVvarini	WQ	<fs af='eVvaru,pn,mf,pl,3,,ni,ni'>
+4	adigi	VM	<fs af='adugu,v,any,any,any,,i,i'>
+5	veSAvu	VM	<fs af='veVyyi,v,any,sg,2,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

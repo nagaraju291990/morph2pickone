@@ -1,0 +1,8 @@
+<Sentence id="4980">
+0	((	SSF	
+1	rohuni	NNP	<fs af='rohu,n,any,sg,3,,ni,ni'>
+2	lebiyorohitA	NNP	<fs af='lebiyorohitA,n,any,sg,3,,0,0'>|<fs af='lebiyorohitA,n,any,sg,3,,obl,obl'>
+3	aMtAru	VM	<fs af='anu,v,any,pl,2,,wA,wA'>|<fs af='anu,v,mf,pl,3,,wA,wA'>|<fs af='aMtu,v,any,pl,2,,A,A'>|<fs af='aMtu,v,mf,pl,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

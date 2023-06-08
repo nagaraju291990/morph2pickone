@@ -1,0 +1,13 @@
+<Sentence id="7835">			
+0	((	SSF	
+1	goriMka	NN	<fs af='goriMka,n,any,sg,3,,0,0'>
+2	pillalaku	NN	<fs af='pilla,n,any,pl,3,,ki,ki'>
+3	ika	RP	<fs af='ika,avy,,,,,,'>
+4	BayaM	NN	<fs af='BayaM,n,any,sg,3,,0,0'>
+5	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>
+6	"	SYM	<fs af='",punc,,,,,,'>
+7	annAdu	VM	<fs af='anu,v,m,sg,3,,A,A'>
+8	nAgarAju	NNP	<fs af='nAgarAju,n,any,sg,3,,0,0'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

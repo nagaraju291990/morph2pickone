@@ -1,0 +1,9 @@
+<Sentence id="8671">
+0	((	SSF
+1	gaMtasepatiki	NN	<fs af='gaMta,nst,,,,,sepu_ku,sepu_ku_adv'>
+2	malYlI	RB	<fs af='malYlu,v,any,any,any,,i,i_V'>
+3	kalYlu	NN	<fs af='kannu,n,any,pl,3,,0,0'>|<fs af='kannu,n,any,pl,3,,vu_agr,vu_agr'>
+4	weVriciMxi	VM	<fs af='weVruvu,v,fn,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

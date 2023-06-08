@@ -1,0 +1,16 @@
+<Sentence id="4115">
+0	((	SSF
+1	mIre	PRP	<fs af='nIvu,pn,any,pl,2,,0,0_e'>|<fs af='mIru,v,any,any,any,,e,e'>|<fs af='mIru,v,any,any,any,,i,i_e'>
+2	cUdaMdi	VM	<fs af='cUdu,v,any,pl,2,,AjFArWa,AjFArWa'>
+3	-	SYM
+4	ani	UT	<fs af='ani,avy,,,,,, '>|<fs af='anu,v,any,any,any,,i,i'>
+5	samAXi	NN	<fs af='samAXi,n,any,sg,3,,0,0'>|<fs af='samAXi,n,any,sg,3,,obl,obl'>
+6	wavviMci	VM	<fs af='wavviMcu,v,any,any,any,,i,i'>
+7	kukka	NN	<fs af='kukku,v,any,any,any,,an,an'>|<fs af='kukka,n,any,sg,3,,0,0'>|<fs af='kukka,n,any,sg,3,,obl,obl'>|<fs af='kukkudu,n,any,sg,3,,obl,obl'>
+8	eVmukalanu	NN	<fs af='eVmuka,n,any,pl,3,,ni,ni'>
+9	rAjugAriki	NN	<fs af='rAju,n,,pl,,,gAru_ki,gAru_ki' deri_cat='pn'>
+10	cUpiMcAdu	VM	<fs af='cUpiMcu,v,m,sg,3,,A,A'>
+11	maMwri	NN	<fs af='maMwri,n,any,sg,3,,0,0'>|<fs af='maMwri,n,any,sg,3,,obl,obl'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

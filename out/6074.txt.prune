@@ -1,0 +1,23 @@
+<Sentence id="6074">
+0	((	SSF	
+1	padamata	NST	<fs af='padamata,adv,any,any,any,,0_adv,0_adv'>
+2	pITaBUmi	NN	<fs af='pITaBUmi,n,any,sg,3,,0,0'>|<fs af='pITaBUmi,n,any,sg,3,,obl,obl'>
+3	prAMwaM	NN	<fs af='prAMwaM,n,any,sg,3,,0,0'>
+4	:	SYM	<fs af=':,punc,,,,,,'>
+5	anaMwapuraM	NNP	<fs af='anaMwapuraM,n,any,sg,3,,0,0'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	karnUlu	NNP	<fs af='karnUl,n,any,sg,3,,0,0'>|<fs af='karnUl,n,any,sg,3,,obl,obl'>|<fs af='karnUlu,n,any,sg,3,,0,0'>|<fs af='karnUlu,n,any,sg,3,,0,0_A'>|<fs af='karnUlu,n,any,sg,3,,obl,obl'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	weVlaMgANA	NNP	<fs af='weVlaMgANa,n,any,sg,3,,0,0_A'>|<fs af='weVlaMgANa,n,any,sg,3,,0,0_V'>|<fs af='weVlaMgANA,n,any,sg,3,,0,0'>|<fs af='weVlaMgANA,n,any,sg,3,,obl,obl'>
+10	prAMwamulu	NN	<fs af='prAMwaM,n,any,pl,3,,0,0'>|<fs af='prAMwaM,n,any,pl,3,,vu_agr,vu_agr'>
+11	-	SYM	<'>|<poslcat="NM"'>
+12	pEna	NN	<fs af='pEna,n,,sg,,,0,0'>|<fs af='pEna,n,,sg,,,obl,obl'>|<fs af='pE,n,,sg,,,na,na'>|<fs af='pi,n,,sg,,,Ena,Ena'>
+13	samawalaMgA	RB	<fs af='samawalaM,n,any,sg,3,,gA,gA' poslcat="NM">
+14	uMdi	VM	<fs af='uMdu,v,any,any,any,,i,i'>
+15	rAwi	NN	<fs af='rAyi,n,any,sg,3,,obl,obl'>
+16	gaddalawo	NN	<fs af='gadda,n,any,pl,3,,wo,wo'>
+17	uMde	VM	<fs af='uMdu,v,any,any,any,,e,e'>|<fs af='uMdu,v,any,any,any,,i,i_e'>
+18	prAMwamulu	NN	<fs af='prAMwaM,n,any,pl,3,,0,0'>|<fs af='prAMwaM,n,any,pl,3,,vu_agr,vu_agr'>
+19	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

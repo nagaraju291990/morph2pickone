@@ -1,0 +1,10 @@
+<Sentence id="6376">
+0	((	SSF
+1	ceVri	NN	<fs af='ceVri,n,any,sg,3,,0,0'>|<fs af='ceVri,n,any,sg,3,,obl,obl'>
+2	nAlugu	QC	<fs af='nAlugu,n,any,sg,3,,0,0'>|<fs af='nAlugu,n,any,sg,3,,obl,obl'>|<fs af='nAlugu,num,any,any,any,,0,0'>
+3	rUpAyalu	NN	<fs af='rUpAya,n,any,pl,3,,0,0'>|<fs af='rUpAya,n,any,pl,3,,vu_agr,vu_agr'>
+4	annAdu	VM	<fs af='anu,v,m,sg,3,,A,A'>
+5	raMgadu	NNP	<fs af='raMgadu,n,any,sg,3,,0,0'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

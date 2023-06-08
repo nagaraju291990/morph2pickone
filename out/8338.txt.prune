@@ -1,0 +1,10 @@
+<Sentence id="8338">
+0	((	SSF	
+1	ikkadi	NST	<fs af='ikkada,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+2	amareSvarasvAmi	NNP	<fs af='amareSvarasvAmi,n,any,sg,3,,0,0'>|<fs af='amareSvarasvAmi,n,any,sg,3,,obl,obl'>
+3	AlayaM	NN	<fs af='AlayaM,n,any,sg,3,,0,0'>
+4	vigAwaM	NN	<fs af='vigAwaM,unk,,,,,,' poslcat="NM">
+4	Enaxi	NN	<fs af='Ena,adj,any,any,any,,xi_adj,xi_adj' poslcat="NM">|<fs af='avvu,v,any,any,any,,ina_axi,ina_axi' poslcat="NM">|<fs af='Enaxi,pn,any,sg,3,,0,0' poslcat="NM">
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

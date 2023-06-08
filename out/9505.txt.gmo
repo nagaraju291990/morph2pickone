@@ -1,0 +1,11 @@
+<Sentence id="9505">			
+0	((	SSF	
+1	waruvAwa	PSP	<fs af='waruvAwa,avy,,,,,,' poslcat="NM">
+2	pAwika	QC	<fs af='pAwika,n,any,sg,3,,0,0'>|<fs af='pAwika,n,any,sg,3,,obl,obl'>
+3	wUtAlu	NN	<fs af='wUtA,n,any,pl,3,,0,0'>|<fs af='wUtA,n,any,pl,3,,vu_agr,vu_agr'>
+4	wagili	VM	<fs af='wagulu,v,any,any,any,,i,i'>
+5	kriMxa	NST	<fs af='kriMxa,adv,any,any,any,,0_adv,0_adv'>
+6	padipoyina	VM	<fs af='padipo,v,any,any,any,,ina,ina'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,20 @@
+<Sentence id="6650">			
+0	((	SSF	
+1	oVka	NN	<fs af='oVka,adj,,,,,0,0_adj' poslcat="NM">
+1	velYa	NN	<fs af='velYa,n,,sg,,,0,0'>|<fs af='velYa,n,,sg,,,obl,obl'>
+2	veVMtane	NST	<fs af='veVMtane,avy,,,,,,' poslcat="NM">
+3	ApareRan	NN	<fs af='ApareRan,n,any,sg,3,,0,0'>|<fs af='ApareRan,n,any,sg,3,,obl,obl'>
+4	xvArA	PSP	<fs af='xvArA,avy,,,,,,' poslcat="NM">
+5	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+6	oVwwidini	NN	<fs af='oVwwidi,n,any,sg,3,,ni,ni'>|<fs af='oVwwidi,n,any,sg,3,,ni_agr,ni_agr'>
+7	woVlagiMcaka	VM	<fs af='woVlagiMcu,v,any,any,any,,aka,aka'>
+8	poyinatlu	VM	<fs af='po,v,any,any,any,,ina_atlu,ina_atlu'>
+8	ayiwe	VM	<fs af='avvu,v,any,any,any,,we,we'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+11	BAgaM	NN	<fs af='BAgaM,n,any,sg,3,,0,0'>
+12	eVppatikI	NST	<fs af='eVppudu,adv,any,any,any,,ki_V_adv,ki_V_adv'>
+13	caccupadipowuMxi	NN	<fs af='caccupadipowuMxi,unk,,,,,,' poslcat="NM">
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

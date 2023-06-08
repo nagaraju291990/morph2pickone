@@ -1,0 +1,7 @@
+<Sentence id="5301">
+0	((	SSF
+1	cilaka	NN	<fs af='ciluku,v,any,any,any,,an,an'>|<fs af='cilaka,n,any,sg,3,,0,0'>|<fs af='cilaka,n,any,sg,3,,obl,obl'>
+2	palikexi	VM	<fs af='paluku,v,any,any,any,,e_axi,e_axi'>|<fs af='palikexi,pn,any,sg,3,,0,0'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

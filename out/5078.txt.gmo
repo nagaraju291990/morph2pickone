@@ -1,0 +1,18 @@
+<Sentence id="5078">			
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	kAnI	CC	<fs af='kAnI,avy,,,,,,'>
+3	eVvarU	WQ	<fs af='eVvaru,pn,mf,pl,3,,0,0_V'>
+4	mammalni	PRP	<fs af='memu,pn,any,pl,1,,ni,ni'>
+5	SikRiMcinaxi	VM	<fs af='SikRiMcu,v,any,any,any,,ina_axi,ina_axi'>
+6	lexu	VAUX	<fs af='gala,v,fn,sg,3,,a,a' poslcat="NM">'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu' poslcat="NM">'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	eVppatikI	NST	<fs af='eVppudu,adv,any,any,any,,ki_V_adv,ki_V_adv'>
+9	SikRiMcaleru	VM	<fs af='SikRiMcagala,v,any,pl,2,,a,a'>|<fs af='SikRiMcagala,v,mf,pl,3,,a,a'>
+10	"	SYM	<fs af='",punc,,,,,,'>
+11	aMtAru	VM	<fs af='anu,v,any,pl,2,,wA,wA'>|<fs af='anu,v,mf,pl,3,,wA,wA'>
+12	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+13	peVxxalu	NN	<fs af='peVxxalu,n,any,sg,3,,0,0'>|<fs af='peVxxalu,n,any,sg,3,,vu_agr,vu_agr'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

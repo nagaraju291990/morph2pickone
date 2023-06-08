@@ -1,0 +1,21 @@
+<Sentence id="4987">			
+0	((	SSF	
+1	AkvAkalcar	NNP	<fs af='AkvAkalcar,n,any,sg,3,,0,0'>
+2	_	SYM	<fs af='<'>
+3	_	SYM	<fs af='<'>
+4	_	SYM	<fs af='<'>
+5	_	SYM	<fs af='<'>
+6	_	SYM	<fs af='<'>
+7	_	SYM	<fs af='<'>
+8	_	SYM	<fs af='<'>
+9	_	SYM	<fs af='<'>
+10	_	SYM	<fs af='<'>
+11	_	SYM	<fs af='<'>
+12	_	SYM	<fs af='<'>
+13	cepala	NN	<fs af='cepa,n,any,pl,3,,obl,obl'>
+14	peVMpakAnni	NN	<fs af='peVMpakaM,n,any,sg,3,,ni,ni'>
+15	pisikalcar	NNP	<fs af='pisikalcar,n,any,sg,3,,0,0'>
+16	aMtAru	VM	<fs af='anu,v,any,pl,2,,wA,wA'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

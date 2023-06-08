@@ -1,0 +1,10 @@
+<Sentence id="3337">			
+0	((	SSF	
+1	ixxaru	NN	<fs af='ixxaru,pn,mf,pl,3,,0,0' poslcat="NM">'>|<fs af='ixxaru,pn,mf,pl,3,,vu,vu' poslcat="NM">'>
+2	mugguru	NN	<fs af='mUdu,num,any,any,any,,ru,ru' poslcat="NM">
+3	magavAlYlu	NN	<fs af='maga,n,,pl,,,vAlYlu,vAlYlu_0' deri_cat=pn>
+4	muMxuku	NN	<fs af='muMxu,n,,sg,,,ki,ki'>
+5	nadicAru	VM	<fs af='naduvu,v,any,pl,2,,A,A'>|<fs af='naduvu,v,mf,pl,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,12 @@
+<Sentence id="6139">
+0	((	SSF
+1	akRarAsyawa	NN	<fs af='akRarAsya,adj,any,any,any,,wanaM_adj,wanaM_adj'>|<fs af='akRarAsyawa,n,any,sg,3,,0,0'>|<fs af='akRarAsyawa,n,any,sg,3,,obl,obl'>
+2	vixyA	NN	<fs af='vixya,n,any,sg,3,,0,0_A'>|<fs af='vixya,n,any,sg,3,,0,0_V'>
+3	viRayaMgA	RB	<fs af='viRayaM,n,any,sg,3,,gA,gA'>
+4	BArawaxeSaMwo	NNP	<fs af='BArawaxeSaM,n,any,sg,3,,wo,wo'>
+5	polci	VM	<fs af='polcu,v,any,any,any,,i,i'>|<fs af='poluvu,v,any,any,any,,i,i'>
+6	cUswe	VM	<fs af='cUdu,v,any,any,any,,we,we'>
+7	44	QC	<fs af='44,num,,,,,, '>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

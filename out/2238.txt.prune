@@ -1,0 +1,25 @@
+<Sentence id="2238">
+0	((	SSF	
+1	ceVttu	NN	<fs af='ceVttu,n,any,sg,3,,0,0'>|<fs af='ceVttu,n,any,sg,3,,obl,obl'>
+2	moVxata	NST	<fs af='moVxata,adv,any,any,any,,0_adv,0_adv'>
+3	kUralu	NN	<fs af='kUra,n,any,pl,3,,0,0'>|<fs af='kUra,n,any,pl,3,,vu_agr,vu_agr'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	UragAyala	NN	<fs af='UragAya,n,any,pl,3,,obl,obl'>
+6	vaMtivi	NN	<fs af='vaMti,adj,,pl,,,xi,xi_0' deri_cat=pn poslcat="NM">
+7	padiveyakUdaxu	VM	<fs af='padiveVyyi,v,any,any,any,,a_kUdaxu,a_kUdaxu'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+10	koVbbari	NN	<fs af='koVbbari,n,any,sg,3,,0,0'>|<fs af='koVbbari,n,any,sg,3,,obl,obl'>
+11	ceVttu	NN	<fs af='ceVttu,n,any,sg,3,,0,0'>|<fs af='ceVttu,n,any,sg,3,,obl,obl'>
+12	sumArugA	RB	<fs af='sumAru,n,any,sg,3,,gA,gA' poslcat="NM">
+13	kApu	VM	<fs af='kApu,v,any,sg,2,,AjFArWa,AjFArWa'>
+14	padiwe	VM	<fs af='padu,v,any,any,any,,we,we'>|<fs af='pattu,v,any,any,any,,we,we'>
+15	ayixu	QC	<fs af='ayixu,n,any,sg,3,,0,0'>|<fs af='ayixu,n,any,sg,3,,obl,obl'>
+16	vaMxala	QC	<fs af='vaMxa,n,any,pl,3,,obl,obl'>
+17	rUpAyala	NN	<fs af='rUpAya,n,any,pl,3,,obl,obl'>
+18	varaku	PSP	<fs af='varaku,avy,,,,,,' poslcat="NM">|<fs af='varaku,adv,any,any,any,,0_adv,0_adv' poslcat="NM">
+19	AxAyaM	NN	<fs af='AxAyaM,n,any,sg,3,,0,0'>
+20	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A'>
+21	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

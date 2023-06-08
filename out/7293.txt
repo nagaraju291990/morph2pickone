@@ -1,0 +1,36 @@
+<Sentence id="7293">
+0	((	SSF
+1	*	SYM	<fs af='*,punc,,,,,, '>
+2	*	SYM	<fs af='*,punc,,,,,, '>
+3	*	SYM	<fs af='*,punc,,,,,, '>
+4	*	SYM	<fs af='*,punc,,,,,, '>
+5	*	SYM	<fs af='*,punc,,,,,, '>
+6	subbArAyudi	NNP	<fs af='subbArAyudu,n,any,sg,3,,obl,obl'>
+7	xaya	NN	<fs af='xaya,n,any,sg,3,,0,0'>|<fs af='xaya,n,any,sg,3,,obl,obl'>
+8	_	SYM
+9	_	SYM
+10	_	SYM
+11	_	SYM
+12	_	SYM
+13	_	SYM
+14	_	SYM
+15	_	SYM
+16	_	SYM
+17	_	SYM
+18	_	SYM
+19	_	SYM
+20	_	SYM
+21	_	SYM
+22	_	SYM
+23	_	SYM
+24	_	SYM
+25	mA	PRP	<fs af='memu,pn,any,pl,1,,obl,obl'>
+26	Uri	NN	<fs af='Uru,v,any,any,any,,i,i'>|<fs af='Uru,n,any,sg,3,,obl,obl'>
+27	poVlimeralo	NN	<fs af='poVlimera,n,any,sg,3,,lo,lo'>|<fs af='poVlimera,n,any,pl,3,,0,0_o'>
+28	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+29	peVxxa	JJ	<fs af='peVxxa,adj,any,any,any,,0_adj,0_adj'>
+30	wippa	NN	<fs af='wippu,v,any,any,any,,an,an'>|<fs af='wippa,n,any,sg,3,,0,0'>|<fs af='wippa,n,any,sg,3,,obl,obl'>
+31	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+32	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

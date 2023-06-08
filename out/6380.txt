@@ -1,0 +1,10 @@
+<Sentence id="6380">
+0	((	SSF
+1	sare	RP	<fs af='sare,avy,,,,,, '>
+2	nIvu	PRP	<fs af='nIvu,pn,any,sg,2,,0,0'>
+3	ayixu	QC	<fs af='ayixu,n,any,sg,3,,0,0'>|<fs af='ayixu,n,any,sg,3,,obl,obl'>
+4	rUpAyalu	NN	<fs af='rUpAya,n,any,pl,3,,0,0'>|<fs af='rUpAya,n,any,pl,3,,vu_agr,vu_agr'>
+5	wIsuko	VM	<fs af='wiyyi,v,any,any,any,,koVn,koVn'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

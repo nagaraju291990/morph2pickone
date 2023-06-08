@@ -1,0 +1,10 @@
+<Sentence id="2451">			
+0	((	SSF	
+1	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+2	rawwAlu	NNP	<fs af='rawwAlu,n,any,sg,3,,0,0'>|<fs af='rawwAlu,n,any,sg,3,,vu_agr,vu_agr'>
+3	dAktaruwo	NN	<fs af='dAktar,n,any,sg,3,,wo,wo'>|<fs af='dAktaru,n,any,sg,3,,wo,wo'>
+4	oVkate	RP	<fs af='oVkati,n,any,sg,3,,0,0_e' poslcat="NM">
+5	edupu	NN	<fs af='edupu,n,any,sg,3,,0,0'>|<fs af='edupu,n,any,sg,3,,obl,obl'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

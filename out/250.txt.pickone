@@ -1,0 +1,12 @@
+<Sentence id="250">			
+0	((	SSF	
+1	Ewe	CC	<fs af='avvu,v,any,any,any,,we,we'>
+2	mA	PRP	<fs af='memu,pn,any,pl,1,,obl,obl'>
+3	ammalAgA	RB	<fs af='amma,n,any,sg,3,,lA,lA'>
+4	BayaMBayaMgA	RB	<fs af='BayaMBayaM,n,any,sg,3,,gA,gA'>
+5	mAwraM	PSP	<fs af='mAwraM,avy,,,,,,'>
+6	wallini	NN	<fs af='walli,n,any,sg,3,,ni,ni'>
+7	kAnu	VM	<fs af='avvu,v,any,sg,1,,a,a'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

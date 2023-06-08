@@ -1,0 +1,21 @@
+<Sentence id="6560">
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	sarIgA	NN	<fs af='sarI,n,,sg,,,gA,gA'>
+3	axe	PRP	<fs af='axi,pn,fn,sg,3,,0,0_e'>
+4	samAyaniki	NN	<fs af='samAyaM,n,any,pl,3,,ni_ki,ni_ki'>
+5	oVkAmeV	PRP	<fs af='oVkAmeV,pn,f,sg,3,,0,0'>|<fs af='oVkAmeV,pn,f,sg,3,,obl,obl'>
+6	wana	PRP	<fs af='wAnu,pn,mf,sg,3,,obl,obl'>
+7	cewullo	NN	<fs af='ceyi,n,any,pl,3,,lo,lo'>
+8	koVnni	QF	<fs af='koVnni,pn,any,pl,3,,0,0' poslcat="NM">
+9	rojula	NN	<fs af='roju,n,any,pl,3,,obl,obl'>
+10	vayasu	NN	<fs af='vayasu,n,any,sg,3,,0,0'>|<fs af='vayasu,n,any,sg,3,,obl,obl'>
+11	mAwrame	PSP	<fs af='mAwrame,avy,,,,,,' poslcat="NM">
+12	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+13	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+14	biddanu	NN	<fs af='bidda,n,any,sg,3,,ni,ni'>|<fs af='bidda,n,any,sg,3,,ni_agr,ni_agr'>
+15	wIsukuni	VM	<fs af='wIsuko,v,any,any,any,,i,i'>|<fs af='wIsuko,v,any,any,any,,i,i'>
+16	vacciMxi	VM	<fs af='vaccu,v,fn,sg,3,,A,A'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

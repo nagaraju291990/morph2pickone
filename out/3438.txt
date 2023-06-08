@@ -1,0 +1,9 @@
+<Sentence id="3438">
+0	((	SSF
+1	nenU	PRP	<fs af='nenu,pn,any,sg,1,,0,0_V'>
+2	yAxagiri	NNP	<fs af='yAxagiri,n,any,sg,3,,0,0'>|<fs af='yAxagiri,n,any,sg,3,,obl,obl'>
+3	kalisi	VM	<fs af='kaluvu,v,any,any,any,,i,i'>|<fs af='kaliyu,v,any,any,any,,i,i'>
+4	vaswAM	VAUX	<fs af='vaccu,v,any,pl,1,,wA,wA'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

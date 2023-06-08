@@ -1,0 +1,14 @@
+<Sentence id="9235">
+0	((	SSF	
+1	kloroPAraM	NN	<fs af='kloroPAraM,n,any,sg,3,,0,0'>
+2	dabbA	NN	<fs af='dabbu,n,any,sg,3,,0,0_A'>|<fs af='dabbA,n,any,sg,3,,0,0'>|<fs af='dabbA,n,any,sg,3,,obl,obl'>
+3	veVnakku	NST	<fs af='veVnakku,avy,,,,,,' poslcat="NM">
+4	wIsi	VM	<fs af='wiyyi,v,any,any,any,,i,i'>
+5	awani	PRP	<fs af='awanu,pn,m,sg,3,,obl,obl'>
+6	mukku	NN	<fs af='mukku,n,any,sg,3,,0,0'>|<fs af='mukku,n,any,sg,3,,obl,obl'>
+7	xaggara	NST	<fs af='xaggara,adv,any,any,any,,0_adv,0_adv'>
+8	vrelYlu	NN	<fs af='vrelu,n,any,pl,3,,0,0'>|<fs af='vrelu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='vredu,n,any,pl,3,,0,0'>|<fs af='vredu,n,any,pl,3,,vu_agr,vu_agr'>
+9	peVttAdu	VM	<fs af='peVttu,v,m,sg,3,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

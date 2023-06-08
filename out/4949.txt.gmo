@@ -1,0 +1,35 @@
+<Sentence id="4949">			
+0	((	SSF	
+1	cepala	NN	<fs af='cepa,n,any,pl,3,,obl,obl'>
+2	pariSramalo	NN	<fs af='pariSrama,n,any,sg,3,,lo,lo'>|<fs af='pariSrama,n,any,pl,3,,0,0_o'>
+3	rakAlu	NN	<fs af='rakaM,n,any,pl,3,,0,0'>|<fs af='rakaM,n,any,pl,3,,vu_agr,vu_agr'>
+4	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+5	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+6	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+7	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+8	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+9	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+10	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+11	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+12	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+13	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+14	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+15	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+16	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+17	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+18	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+19	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+20	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+21	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+22	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+23	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+24	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+25	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+26	cepala	NN	<fs af='cepa,n,any,pl,3,,obl,obl'>
+27	pariSramalo	NN	<fs af='pariSrama,n,any,sg,3,,lo,lo'>|<fs af='pariSrama,n,any,pl,3,,0,0_o'>
+28	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>
+29	rakAlu	NN	<fs af='rakaM,n,,pl,,,0,0'>|<fs af='rakaM,n,,pl,,,vu,vu'>
+29	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+30	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,8 @@
+<Sentence id="7601">
+0	((	SSF	
+1	kAlYlawo	NN	<fs af='kAlu,n,any,pl,3,,wo,wo'>|<fs af='kAdu,n,any,pl,3,,wo,wo'>|<fs af='kAdi,n,any,pl,3,,wo,wo'>
+2	gattigA	RB	<fs af='gatti,adj,any,any,any,,gA_adj,gA_adj' poslcat="NM">
+3	pattesukuMtuMxi	VM	<fs af='pattu,v,fn,sg,3,,i_veVyyi_koVn_wU_uMdu_A,i_veVyyi_koVn_wU_uMdu_A'>|<fs af='pattu,v,fn,sg,3,,i_veVyyi_koVn_wA,i_veVyyi_koVn_wA'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

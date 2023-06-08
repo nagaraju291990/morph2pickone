@@ -1,0 +1,17 @@
+<Sentence id="1403">
+0	((	SSF
+1	40	QC	<fs af='40,num,,,,,, '>
+2	kilogrAmula	NN	<fs af='kilogrAm,n,any,pl,3,,obl,obl'>|<fs af='kilogrAmu,n,any,pl,3,,obl,obl'>
+3	nawrajani	NN	<fs af='nawrajani,n,any,sg,3,,0,0'>|<fs af='nawrajani,n,any,sg,3,,obl,obl'>
+4	30	QC	<fs af='30,num,,,,,, '>|<fs af='rU,avy,,,,,, '>
+5	kilogrAmula	NN	<fs af='kilogrAm,n,any,pl,3,,obl,obl'>|<fs af='kilogrAmu,n,any,pl,3,,obl,obl'>
+6	BAsvaraM	NN	<fs af='BAsvaraM,n,any,sg,3,,0,0'>
+7	icce	VM	<fs af='icca,n,any,sg,3,,0,0_e'>|<fs af='ivvu,v,any,any,any,,e,e'>|<fs af='ivvu,v,any,any,any,,i,i_e'>
+8	eVruvulu	NN	<fs af='eVruvu,n,any,pl,3,,0,0'>|<fs af='eVruvu,n,any,pl,3,,vu_agr,vu_agr'>
+9	viwwanaMwo	NN	<fs af='viwwanaM,n,any,sg,3,,wo,wo'>
+10	pAtu	NN	<fs af='pAtu,n,any,sg,3,,0,0'>|<fs af='pAtu,n,any,sg,3,,obl,obl'>
+11	vesukuMte	VM	<fs af='veVyyi,v,any,any,any,,koVn_we,koVn_we'>
+12	saripowuMxi	VM	<fs af='saripo,v,fn,sg,3,,wA,wA'>|<fs af='saripowuMdu,v,fn,sg,3,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

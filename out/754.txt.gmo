@@ -1,0 +1,10 @@
+<Sentence id="754">			
+0	((	SSF	
+1	baccali	NN	<fs af='baccali,n,any,sg,3,,0,0'>|<fs af='baccali,n,any,sg,3,,obl,obl'>
+2	kUralo	NN	<fs af='kUra,n,any,sg,3,,lo,lo'>|<fs af='kUra,n,any,pl,3,,0,0_o'>
+3	poRaka	NN	<fs af='poRakaM,n,any,sg,3,,obl,obl'>|<fs af='poRakudu,n,any,sg,3,,obl,obl'>
+4	paxArWAlu	NN	<fs af='paxArWaM,n,any,pl,3,,0,0'>|<fs af='paxArWaM,n,any,pl,3,,vu_agr,vu_agr'>
+5	eVkkuva	NN	<fs af='eVkkuva,adj,any,any,any,,0_adj,0_adj' poslcat="NM">
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,14 @@
+<Sentence id="9463">
+0	((	SSF
+1	cewula	NN	<fs af='ceyi,n,any,pl,3,,obl,obl'>|<fs af='cewu,n,any,pl,3,,obl,obl'>
+2	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+3	kAlYla	NN	<fs af='kAlu,n,any,pl,3,,obl,obl'>|<fs af='kAdi,n,any,pl,3,,obl,obl'>
+4	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+5	wupAkulawo	NN	<fs af='wupAki,n,any,pl,3,,wo,wo'>
+6	pelcamani	VM	<fs af='pelcu,v,any,pl,1,,a_ani,a_ani'>|<fs af='pelcamanu,v,any,any,any,,i,i'>
+7	sEnikulaku	NN	<fs af='sEnik,n,any,pl,3,,ki,ki'>|<fs af='sEnikudu,n,any,pl,3,,ki,ki'>
+8	AjFa	NN	<fs af='AjFa,n,any,sg,3,,0,0'>|<fs af='AjFa,n,any,sg,3,,obl,obl'>
+9	iccAru	VM	<fs af='ivvu,v,any,pl,2,,A,A'>|<fs af='ivvu,v,mf,pl,3,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

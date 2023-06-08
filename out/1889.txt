@@ -1,0 +1,7 @@
+<Sentence id="1889">
+0	((	SSF
+1	Exu	QC	<fs af='Exu,n,any,sg,3,,0,0'>|<fs af='Exu,n,any,sg,3,,obl,obl'>|<fs af='Exu,num,any,any,any,,0,0'>
+2	rUpAyile	NN	<fs af='rUpAyi,n,any,pl,3,,0_e,0_e'>|<fs af='rUpAyi,n,any,pl,3,,vu_3,vu_3'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

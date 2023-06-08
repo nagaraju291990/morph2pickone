@@ -1,0 +1,11 @@
+<Sentence id="3574">			
+0	((	SSF	
+1	awadu	PRP	<fs af='awadu,pn,,sg,,,0,0'>
+2	rojaMwA	NN	<fs af='roj,nst,,,,,aMwa_0_A,aMwa_0_A_adv' poslcat="NM">
+3	pAra	NN	<fs af='pAra,n,any,sg,3,,0,0'>|<fs af='pAra,n,any,sg,3,,obl,obl'>
+4	iwara	RP	<fs af='iwara,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='iwara,n,any,sg,3,,obl,obl' poslcat="NM">'>
+5	panimutlawone	NN	<fs af='panimuttu,n,any,pl,3,,wo,wo_e'>
+6	kanapadevAdu	VM	<fs af='kanapadu,v,any,any,any,,e_vAdu,e_vAdu'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

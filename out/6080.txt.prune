@@ -1,0 +1,26 @@
+<Sentence id="6080">
+0	((	SSF	
+1	ika	RP	<fs af='ika,avy,,,,,,'>
+2	migilina	VM	<fs af='migulu,v,any,any,any,,ina,ina'>
+3	peVnnA	NNP	<fs af='peVnnu,n,any,sg,3,,0,0_A'>|<fs af='peVnna,n,any,sg,3,,0,0_A'>|<fs af='peVnna,n,any,sg,3,,0,0_V'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	wuMgaBaxra	NNP	<fs af='wuMgaBaxra,n,any,sg,3,,0,0'>|<fs af='wuMgaBaxra,n,any,sg,3,,obl,obl'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	maMjIra	NNP	<fs af='maMjIra,n,any,sg,3,,0,0'>|<fs af='maMjIra,n,any,sg,3,,obl,obl'>|<fs af='maMjIraM,n,any,sg,3,,obl,obl'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	prANahiwa	NNP	<fs af='prANahiwa,n,any,sg,3,,0,0'>|<fs af='prANahiwa,n,any,sg,3,,obl,obl'>
+10	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+11	mUsi	VM	<fs af='muyyi,v,any,any,any,,i,i'>
+12	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+13	nAgAvalYi	NNP	<fs af='nAgAvalYi,n,any,sg,3,,0,0'>|<fs af='nAgAvalYi,n,any,sg,3,,obl,obl'>
+14	naxule	NN	<fs af='naxi,n,any,pl,3,,0,0_e'>
+15	kAkuMdA	CC	<fs af='avvu,v,any,any,any,,akuMdA,akuMdA' poslcat="NM">|<fs af='kAkuMdu,v,any,any,any,,i,i_A' poslcat="NM">
+16	AyA	JJ	<fs af='AyA,avy,,,,,,'>
+17	prAMwAlalo	NN	<fs af='prAMwaM,n,any,pl,3,,lo,lo'>
+18	aneka	JJ	<fs af='aneka,adj,any,any,any,,0_adj,0_adj'>
+19	naxulu	NN	<fs af='naxi,n,any,pl,3,,0,0'>
+20	putti	NN	<fs af='putti,n,any,sg,3,,0,0'>|<fs af='putti,n,any,sg,3,,obl,obl'>
+21	pravahiswunnAyi	VM	<fs af='pravahiMcu,v,n,pl,3,,wunn,wunn'>|<fs af='pravahiswuMdu,v,n,pl,3,,A,A'>
+22	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

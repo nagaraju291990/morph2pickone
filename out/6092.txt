@@ -1,0 +1,10 @@
+<Sentence id="6092">
+0	((	SSF
+1	pESAcI	NNP	<fs af='pESAci,n,any,sg,3,,0,0_V'>
+2	BARa	NN	<fs af='BARa,n,any,sg,3,,0,0'>|<fs af='BARa,n,any,sg,3,,obl,obl'>
+3	prajala	NN	<fs af='praja,n,any,pl,3,,obl,obl'>|<fs af='prajalu,n,any,sg,3,,obl,obl'>
+4	vAduka	NN	<fs af='vAduka,n,any,sg,3,,0,0'>|<fs af='vAduka,n,any,sg,3,,obl,obl'>
+5	BARa	NN	<fs af='BARa,n,any,sg,3,,0,0'>|<fs af='BARa,n,any,sg,3,,obl,obl'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

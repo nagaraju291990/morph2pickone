@@ -1,0 +1,11 @@
+<Sentence id="4928">
+0	((	SSF	
+1	xAni	PRP	<fs af='axi,pn,fn,sg,3,,obl,obl'>
+2	insulin	NN	<fs af='insulin,n,any,sg,3,,0,0'>|<fs af='insulin,n,any,sg,3,,obl,obl'>
+3	cakkeVra	NN	<fs af='cakkeVra,n,any,sg,3,,0,0'>|<fs af='cakkeVra,n,any,sg,3,,obl,obl'>
+3	vyAXi	NN	<fs af='vyAXi,n,any,sg,3,,0,0'>|<fs af='vyAXi,n,any,sg,3,,obl,obl'>
+4	unnavAriki	VM	<fs af='unnavAru,pn,mf,pl,3,,ki,ki' poslcat="NM">
+5	upayogaM	NN	<fs af='upayogaM,n,any,sg,3,,0,0'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

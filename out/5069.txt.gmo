@@ -1,0 +1,10 @@
+<Sentence id="5069">			
+0	((	SSF	
+1	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+2	neragAlYlu	NN	<fs af='neragAlYlu,n,any,sg,3,,0,0'>|<fs af='neragAlYlu,n,any,sg,3,,obl,obl'>
+3	uMde	VM	<fs af='uMdu,v,any,any,any,,e,e'>|<fs af='uMdu,v,any,any,any,,i,i_e'>
+4	Uru	NN	<fs af='Uru,n,any,sg,3,,0,0'>
+5	kAxu	VM	<fs af='avvu,v,fn,sg,3,,a,a'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

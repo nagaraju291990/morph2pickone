@@ -1,0 +1,10 @@
+<Sentence id="3326">
+0	((	SSF
+1	memu	PRP	<fs af='memu,pn,any,pl,1,,0,0'>
+2	nadaci	VM	<fs af='nadacu,v,any,any,any,,i,i'>
+3	veVlYawAM	VM	<fs af='veVlYlu,v,any,pl,1,,wA,wA'>
+4	"	SYM	<fs af='",punc,,,,,, '>
+5	annAru	VM	<fs af='anu,v,any,pl,2,,A,A'>|<fs af='anu,v,mf,pl,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

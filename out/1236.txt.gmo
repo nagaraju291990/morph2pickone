@@ -1,0 +1,15 @@
+<Sentence id="1236">			
+0	((	SSF	
+1	poliyo	NN	<fs af='poliyo,n,,sg,,,0,0'>|<fs af='poliyo,n,,sg,,,obl,obl'>
+2	aMte	UT	<fs af='aMte,avy,,,,,,'>|<fs af='anu,v,any,any,any,,we,we'>
+3	weVlusu	VM	<fs af='weVlusu,avy,,,,,,' poslcat="NM">
+4	kaxA	RP	<fs af='kaxA,avy,,,,,,'>
+5	!	SYM	<fs af='!,punc,,,,,,'>
+6	kAlYlu	NN	<fs af='kAlu,n,any,pl,3,,0,0'>|<fs af='kAlu,n,any,pl,3,,vu_agr,vu_agr'>
+7	cewulu	NN	<fs af='ceyi,n,any,pl,3,,0,0'>|<fs af='ceyi,n,any,pl,3,,vu_agr,vu_agr'>
+8	caccu	VM	<fs af='caccu,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='caccu,n,any,sg,3,,obl,obl' poslcat="NM">'>
+8	badi	VM	<fs af='badu,v,any,any,any,,i,i'>
+9	powAyi	VAUX	<fs af='po,v,n,pl,3,,wA,wA' poslcat="NM">
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,8 @@
+<Sentence id="5558">
+0	((	SSF
+1	rAjunu	NNP	<fs af='rAju,n,any,sg,3,,ni,ni'>|<fs af='rAju,n,any,sg,3,,ni_agr,ni_agr'>
+2	ravaNabAbu	NNP	<fs af='ravaNabAbu,n,any,sg,3,,0,0'>|<fs af='ravaNabAbu,n,any,sg,3,,obl,obl'>
+3	pilicAdu	VM	<fs af='piluvu,v,m,sg,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

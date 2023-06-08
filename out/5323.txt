@@ -1,0 +1,9 @@
+<Sentence id="5323">
+0	((	SSF
+1	karakkAya	NNP	<fs af='karakkAya,n,any,sg,3,,0,0'>|<fs af='karakkAya,n,any,sg,3,,obl,obl'>
+2	mukkanu	NN	<fs af='mukku,v,any,sg,1,,a,a'>|<fs af='mukka,n,any,sg,3,,ni,ni'>|<fs af='mukka,n,any,sg,3,,ni_agr,ni_agr'>
+3	bugganu	NN	<fs af='bugga,n,any,sg,3,,ni,ni'>|<fs af='bugga,n,any,sg,3,,ni_agr,ni_agr'>
+4	peVttukovAli	VM	<fs af='peVttuko,v,any,any,any,,Ali,Ali'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

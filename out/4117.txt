@@ -1,0 +1,31 @@
+<Sentence id="4117">
+0	((	SSF
+1	*	SYM	<fs af='*,punc,,,,,, '>
+2	*	SYM	<fs af='*,punc,,,,,, '>
+3	*	SYM	<fs af='*,punc,,,,,, '>
+4	*	SYM	<fs af='*,punc,,,,,, '>
+5	*	SYM	<fs af='*,punc,,,,,, '>
+6	cAxaswapu	NN	<fs af='cAxaswaM,n,any,sg,3,,obl,obl'>
+7	moVgudu	NN	<fs af='moVgudu,n,any,sg,3,,0,0'>
+8	-	SYM
+9	-	SYM
+10	-	SYM
+11	-	SYM
+12	-	SYM
+13	-	SYM
+14	-	SYM
+15	-	SYM
+16	-	SYM
+17	-	SYM
+18	-	SYM
+19	-	SYM
+20	-	SYM
+21	-	SYM
+22	-	SYM
+23	-	SYM
+24	anaganagA	NN	<fs af='anaganagA,n,,sg,,,0,0'>|<fs af='anaganagA,n,,sg,,,obl,obl'>
+25	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+26	Uru	VM	<fs af='Uru,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='Uru,n,any,sg,3,,0,0'>
+27	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

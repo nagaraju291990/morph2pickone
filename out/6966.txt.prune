@@ -1,0 +1,15 @@
+<Sentence id="6966">
+0	((	SSF	
+1	nUneV	NN	<fs af='nUneV,n,any,sg,3,,0,0'>|<fs af='nUneV,n,any,sg,3,,obl,obl'>
+2	giMja	NN	<fs af='giMja,n,any,sg,3,,0,0'>|<fs af='giMja,n,any,sg,3,,obl,obl'>
+3	paMtalu	NN	<fs af='paMta,n,any,pl,3,,0,0'>|<fs af='paMta,n,any,pl,3,,vu_agr,vu_agr'>
+4	:	SYM	<fs af=':,punc,,,,,,'>
+5	veruseVnaga	NNP	<fs af='veruseVnaga,n,any,sg,3,,0,0'>|<fs af='veruseVnaga,n,any,sg,3,,obl,obl'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	poVxxuwirugudulAMtivi	NN	<fs af='poVxxuwirugudu,n,,pl,,,lAMti_xi,lAMti_xi_0' deri_cat=pn>
+8	nUneV	NN	<fs af='nUneV,n,any,sg,3,,0,0'>|<fs af='nUneV,n,any,sg,3,,obl,obl'>
+9	giMja	NN	<fs af='giMja,n,any,sg,3,,0,0'>|<fs af='giMja,n,any,sg,3,,obl,obl'>
+10	paMtalu	NN	<fs af='paMta,n,any,pl,3,,0,0'>|<fs af='paMta,n,any,pl,3,,vu_agr,vu_agr'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

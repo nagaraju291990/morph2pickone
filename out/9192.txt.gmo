@@ -1,0 +1,23 @@
+<Sentence id="9192">			
+0	((	SSF	
+1	waruvAwa	PSP	<fs af='waruvAwa,avy,,,,,,' poslcat="NM">
+2	paxihenu	QC	<fs af='paxihenu,n,any,sg,3,,0,0'>|<fs af='paxihenu,n,any,sg,3,,obl,obl'>
+3	rojulaku	NN	<fs af='roju,n,any,pl,3,,ki,ki'>
+4	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+5	rojuna	NN	<fs af='roju,n,any,sg,3,,na,na'>
+6	rAwri	NN	<fs af='rAwri,n,any,sg,3,,0,0'>|<fs af='rAwri,n,any,sg,3,,obl,obl'>
+7	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>
+8	jAmula	NST	<fs af='jAmunu,n,any,pl,3,,obl,obl'>
+8	appudu	NST	<fs af='appudu,adv,any,any,any,,0_adv,0_adv'>
+9	yABE	NN	<fs af='yABE,num,any,any,any,,0,0' poslcat="NM">
+10	maMxi	CL	<fs af='maMxi,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='maMxi,n,any,sg,3,,obl,obl' poslcat="NM">'>
+11	manuRyulu	NN	<fs af='manuRyudu,n,any,pl,3,,0,0'>|<fs af='manuRyudu,n,any,pl,3,,vu_agr,vu_agr'>
+12	gumigUdi	VM	<fs af='gumigUdu,v,any,any,any,,i,i'>
+13	saxxu	NN	<fs af='saxxu,n,any,sg,3,,0,0'>|<fs af='saxxu,n,any,sg,3,,obl,obl'>
+14	lekuMdA	VM	<fs af='gala,v,any,any,any,,akuMdA,akuMdA'>|<fs af='lekuMdu,v,any,any,any,,i,i_A'>
+15	hAhU	NNP	<fs af='hAhU,n,any,sg,3,,0,0'>|<fs af='hAhU,n,any,sg,3,,obl,obl'>
+16	iMtiki	NN	<fs af='illu,n,any,sg,3,,ki,ki'>
+17	vaccAru	VM	<fs af='vaccu,v,any,pl,2,,A,A'>|<fs af='vaccu,v,mf,pl,3,,A,A'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

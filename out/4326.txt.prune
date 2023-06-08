@@ -1,0 +1,7 @@
+<Sentence id="4326">
+0	((	SSF	
+1	repe	NN	<fs af='repu,v,any,any,any,,e,e' poslcat="NM">|<fs af='repu,v,any,any,any,,i,i_e' poslcat="NM">
+2	viMxuroju	NN	<fs af='viMxuroju,n,any,sg,3,,0,0'>|<fs af='viMxuroju,n,any,sg,3,,obl,obl'>
+3	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

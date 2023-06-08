@@ -1,0 +1,17 @@
+<Sentence id="2305">			
+0	((	SSF	
+1	usirika	NN	<fs af='usirika,n,any,sg,3,,0,0'>|<fs af='usirika,n,any,sg,3,,obl,obl'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	regu	VM	<fs af='regu,v,any,sg,2,,AjFArWa,AjFArWa'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	jAma	NN	<fs af='jAma,n,any,sg,3,,0,0'>|<fs af='jAma,n,any,sg,3,,obl,obl'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	sapotA	NN	<fs af='sapotA,n,any,sg,3,,0,0'>|<fs af='sapotA,n,any,sg,3,,obl,obl'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	sIwAPalaM	NN	<fs af='sIwAPalaM,n,any,sg,3,,0,0'>
+10	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+11	lAMtivi	NN	<fs af='lAMti,adj,,pl,,,xi,xi_0' deri_cat=pn poslcat="NM">
+12	melu	NN	<fs af='me,n,any,pl,3,,0,0'>|<fs af='me,n,any,pl,3,,vu_agr,vu_agr'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

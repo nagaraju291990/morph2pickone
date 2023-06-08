@@ -1,0 +1,8 @@
+<Sentence id="3967">			
+0	((	SSF	
+1	repo	NN	<fs af='repu,v,any,any,any,,i,i_o' poslcat="NM">
+2	mApo	NN	<fs af='mApu,n,any,sg,3,,0,0_o'>
+3	koVyyAli	VM	<fs af='koVyyi,v,any,any,any,,Ali,Ali'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

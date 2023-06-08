@@ -1,0 +1,9 @@
+<Sentence id="1372">
+0	((	SSF
+1	avi	PRP	<fs af='axi,pn,fn,pl,3,,0,0'>
+2	melu	NN	<fs af='me,n,any,pl,3,,0,0'>|<fs af='me,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='melu,n,any,sg,3,,0,0'>|<fs af='menu,n,any,pl,3,,0,0'>|<fs af='menu,n,any,pl,3,,vu_agr,vu_agr'>
+3	rakaM	NN	<fs af='rakaM,n,any,sg,3,,0,0'>
+4	viwwanAlu	NN	<fs af='viwwanaM,n,any,pl,3,,0,0'>|<fs af='viwwanaM,n,any,pl,3,,vu_agr,vu_agr'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

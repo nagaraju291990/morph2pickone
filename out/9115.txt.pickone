@@ -1,0 +1,21 @@
+<Sentence id="9115">			
+0	((	SSF	
+1	vIti	PRP	<fs af='ixi,pn,fn,pl,3,,obl,obl'>
+2	saMskqwa	NNP	<fs af='saMskqwaM,n,any,sg,3,,obl,obl'>
+3	vEyAkaruNulu	NN	<fs af='vEyAkaruNulu,unk,,,,,,'>
+4	spqRtaM	NN	<fs af='spqRtaM,n,any,sg,3,,0,0'>
+5	anI	UT	<fs af='anI,avy,,,,,,'>
+6	,	SYM	<fs af=',,punc,,,,,,'>
+7	IRawspqRtaM	NN	<fs af='IRawspqRtaM,n,any,sg,3,,0,0'>
+8	anI	UT	<fs af='anI,avy,,,,,,'>
+9	,	SYM	<fs af=',,punc,,,,,,'>
+10	saMvAxaM	NN	<fs af='saMvAxaM,n,any,sg,3,,0,0'>
+11	anI	UT	<fs af='anI,avy,,,,,,'>
+12	,	SYM	<fs af=',,punc,,,,,,'>
+13	vivAxaM	NN	<fs af='vivAxaM,n,any,sg,3,,0,0'>
+14	anI	UT	<fs af='anI,avy,,,,,,'>
+15	moVxalugA	RB	<fs af='moVxalu,n,any,sg,3,,gA,gA'>
+16	aMtAru	VM	<fs af='anu,v,any,pl,2,,wA,wA'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

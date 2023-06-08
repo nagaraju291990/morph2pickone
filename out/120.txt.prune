@@ -1,0 +1,11 @@
+<Sentence id="120">
+0	((	SSF	
+1	maga	NN	<fs af='maga,n,any,sg,3,,0,0'>|<fs af='maga,n,any,sg,3,,obl,obl'>
+1	pillalu	NN	<fs af='pilla,n,any,pl,3,,0,0'>|<fs af='pilla,n,any,pl,3,,vu_agr,vu_agr'>
+2	eVnni	WQ	<fs af='eVnni,pn,any,pl,3,,0,0'>
+3	elYlu	NN	<fs af='edu,n,any,pl,3,,0,0'>|<fs af='edu,n,any,pl,3,,vu_agr,vu_agr'>
+4	vaccinA	VM	<fs af='vaccu,v,any,any,any,,inA,inA'>
+5	AdukoVMtunnAru	VM	<fs af='Adu,v,fm,pl,3,,koVn_wU_uMdu_A,koVn_wU_uMdu_A'>|<fs af='Adu,v,fm,pl,3,,koVn_wunn,koVn_wunn'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

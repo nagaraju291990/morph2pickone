@@ -1,0 +1,17 @@
+<Sentence id="1420">			
+0	((	SSF	
+1	vItiwopAtu	PRP	<fs af='ixi,pn,fn,pl,3,,wopAtu,wopAtu'>
+2	AmuxaM	NN	<fs af='AmuxaM,n,any,sg,3,,0,0'>
+3	paMtaku	NN	<fs af='paMta,n,any,sg,3,,ki,ki'>
+4	poVgAku	NN	<fs af='poVgAku,n,any,sg,3,,0,0'>|<fs af='poVgAku,n,any,sg,3,,obl,obl'>
+5	laxxeV	NN	<fs af='laxxeV,n,any,sg,3,,0,0'>|<fs af='laxxeV,n,any,sg,3,,obl,obl'>
+6	purugu	NN	<fs af='purugu,n,any,sg,3,,0,0'>|<fs af='purugu,n,any,sg,3,,obl,obl'>
+7	akkadakkada	NN	<fs af='akkadakkada,avy,,,,,0,0_avy' poslcat="NM">
+8	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	mUdu	QC	<fs af='mUdu,n,any,sg,3,,0,0'>|<fs af='mUdu,n,any,sg,3,,obl,obl'>
+11	Akulaku	NN	<fs af='Aku,n,any,pl,3,,ki,ki'>
+12	sokavaccu	VM	<fs af='soku,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='sokavaccu,v,any,any,any,,e,e'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

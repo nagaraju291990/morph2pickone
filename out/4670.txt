@@ -1,0 +1,10 @@
+<Sentence id="4670">
+0	((	SSF
+1	iwara	RP	<fs af='iwara,n,any,sg,3,,0,0'>|<fs af='iwara,n,any,sg,3,,obl,obl'>|<fs af='iwaraM,n,any,sg,3,,obl,obl'>
+2	cepalani	NN	<fs af='cepa,n,any,pl,3,,ni,ni'>
+3	wine	VM	<fs af='winu,v,any,any,any,,e,e'>|<fs af='winu,v,any,any,any,,i,i_e'>
+4	alavAtu	NN	<fs af='alavAtu,n,any,sg,3,,0,0'>|<fs af='alavAtu,n,any,sg,3,,obl,obl'>
+5	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

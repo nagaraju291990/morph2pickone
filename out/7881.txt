@@ -1,0 +1,7 @@
+<Sentence id="7881">
+0	((	SSF
+1	calapawini	NNP	<fs af='calapawi,n,any,sg,3,,ni,ni'>|<fs af='calapawi,n,any,sg,3,,ni_agr,ni_agr'>
+2	sAxiMcexi	VM	<fs af='sAxiMcu,v,any,any,any,,e_axi,e_axi'>|<fs af='sAxiMcexi,pn,any,sg,3,,0,0'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

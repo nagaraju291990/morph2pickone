@@ -1,0 +1,13 @@
+<Sentence id="3690">
+0	((	SSF
+1	alAge	RB	<fs af='alAge,avy,,,,,, '>
+2	jElulo	NN	<fs af='jElu,n,,sg,,,lo,lo'>
+3	KExIlaki	NN	<fs af='KExI,n,,pl,,,ki,ki'>
+4	saMvawsaraMlo	NN	<fs af='saMvawsaraM,n,any,sg,3,,lo,lo'>
+5	oVkesAri	NN	<fs af='oVkesAri,avy,,,,,, '>
+6	piMdivaMtalawo	NN	<fs af='piMdivaMta,n,any,pl,3,,wo,wo'>
+7	BojanaM	NN	<fs af='BojanaM,n,any,sg,3,,0,0'>
+8	peVttabaduwuMxi	VM	<fs af='peVttabadu,v,fn,sg,3,,wA,wA'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

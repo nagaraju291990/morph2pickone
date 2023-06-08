@@ -1,0 +1,12 @@
+<Sentence id="1738">			
+0	((	SSF	
+1	aduguna	NST	<fs af='adugu,n,any,sg,3,,na,na'>
+2	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+3	Exu	QC	<fs af='Exu,n,any,sg,3,,0,0'>|<fs af='Exu,n,any,sg,3,,obl,obl'>
+4	cIralu	NN	<fs af='cIra,n,any,pl,3,,0,0'>|<fs af='cIra,n,any,pl,3,,vu_agr,vu_agr'>
+5	awanu	PRP	<fs af='awanu,pn,m,sg,3,,0,0'>
+6	pEki	NST	<fs af='pEki,avy,,,,,,' poslcat="NM">
+7	wISAdu	VM	<fs af='wiyyi,v,m,sg,3,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

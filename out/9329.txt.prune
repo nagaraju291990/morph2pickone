@@ -1,0 +1,17 @@
+<Sentence id="9329">
+0	((	SSF	
+1	itlA	RB	<fs af='itlA,avy,,,,,,' poslcat="NM">
+2	uMdagA	RB	<fs af='uMdu,v,any,any,any,,a_gA,a_gA' poslcat="NM">|<fs af='uMda,n,any,sg,3,,gA,gA' poslcat="NM">
+3	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+4	vAraM	NN	<fs af='vAraM,n,any,sg,3,,0,0'>
+5	rojulaki	NN	<fs af='roju,n,any,pl,3,,ki,ki'>
+6	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+7	vIpu	NN	<fs af='vIpu,n,any,sg,3,,0,0'>|<fs af='vIpu,n,any,sg,3,,obl,obl'>
+8	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+9	exo	WQ	<fs af='exi,pn,fn,sg,3,,0,0_o'>
+10	eVwwugA	RB	<fs af='eVwwu,adj,any,any,any,,gA_adj,gA_adj' poslcat="NM">|<fs af='eVwwu,n,any,sg,3,,gA,gA' poslcat="NM">
+11	unnatlu	VM	<fs af='uMdu,v,any,any,any,,ina_atlu,ina_atlu'>
+12	kanipiMciMxi	VM	<fs af='kanipiMcu,v,fn,sg,3,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

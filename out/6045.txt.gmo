@@ -1,0 +1,25 @@
+<Sentence id="6045">			
+0	((	SSF	
+1	aMte	UT	<fs af='aMte,avy,,,,,,'>|<fs af='anu,v,any,any,any,,we,we'>
+2	wUrpuna	NN	<fs af='wUrpu,n,any,sg,3,,na,na'>
+3	baMgAlYAKAwamu	NNP	<fs af='baMgAlYAKAwaM,n,any,sg,3,,0,0'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	xakRiNAna	NN	<fs af='xakRiNaM,n,any,sg,3,,na,na'>
+6	wamilYanAdu	NNP	<fs af='wamilYanAdu,n,any,sg,3,,0,0'>|<fs af='wamilYanAdu,n,any,sg,3,,obl,obl'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	paScimAna	NN	<fs af='paScimaM,n,any,sg,3,,na,na'>
+9	karnAtaka	NNP	<fs af='karnAtaka,n,any,sg,3,,0,0'>|<fs af='karnAtaka,n,any,sg,3,,obl,obl'>
+10	rARtraM	NN	<fs af='rARtraM,n,any,sg,3,,0,0'>
+11	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+12	uwwarAna	NN	<fs af='uwwaraM,n,any,sg,3,,na,na'>
+13	mahArARtra	NNP	<fs af='mahArARtra,n,any,sg,3,,0,0'>|<fs af='mahArARtra,n,any,sg,3,,obl,obl'>
+14	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+15	maXyapraxeS	NNP	<fs af='maXyapraxeS,n,any,sg,3,,0,0'>|<fs af='maXyapraxeS,n,any,sg,3,,obl,obl'>
+16	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+17	oVrissA	NNP	<fs af='oVrissA,n,any,sg,3,,0,0'>|<fs af='oVrissA,n,any,sg,3,,obl,obl'>
+18	rARtrAlu	NN	<fs af='rARtraM,n,any,pl,3,,0,0'>|<fs af='rARtraM,n,any,pl,3,,vu_agr,vu_agr'>
+19	sarihaxxulugA	RB	<fs af='sarihaxxu,n,any,pl,3,,gA,gA' poslcat="NM">
+20	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+21	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

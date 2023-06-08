@@ -1,0 +1,24 @@
+<Sentence id="8283">
+0	((	SSF	
+1	goVrreVla	NN	<fs af='goVrreV,n,any,pl,3,,obl,obl'>
+2	vivarAlu	NN	<fs af='vivaraM,n,any,pl,3,,0,0'>|<fs af='vivaraM,n,any,pl,3,,vu_agr,vu_agr'>
+3	_	SYM	<'>|<poslcat="NM"'>
+4	_	SYM	<'>|<poslcat="NM"'>
+5	_	SYM	<'>|<poslcat="NM"'>
+6	_	SYM	<'>|<poslcat="NM"'>
+7	_	SYM	<'>|<poslcat="NM"'>
+8	_	SYM	<'>|<poslcat="NM"'>
+9	_	SYM	<'>|<poslcat="NM"'>
+10	_	SYM	<'>|<poslcat="NM"'>
+11	_	SYM	<'>|<poslcat="NM"'>
+12	_	SYM	<'>|<poslcat="NM"'>
+13	_	SYM	<'>|<poslcat="NM"'>
+14	_	SYM	<'>|<poslcat="NM"'>
+15	_	SYM	<'>|<poslcat="NM"'>
+16	_	SYM	<'>|<poslcat="NM"'>
+17	goVrreVlanu	NN	<fs af='goVrreV,n,any,pl,3,,ni,ni'>
+18	peVMcevAru	VM	<fs af='peVMcu,v,any,any,any,,e_vAru,e_vAru'>
+19	caxuvukovAli	VM	<fs af='caxuvu,v,any,any,any,,koVn_Ali,koVn_Ali'>
+20	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

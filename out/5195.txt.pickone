@@ -1,0 +1,21 @@
+<Sentence id="5195">			
+0	((	SSF	
+1	avasaraM	NN	<fs af='avasaraM,n,any,sg,3,,0,0'>
+2	vaswe	VM	<fs af='vaccu,v,any,any,any,,we,we'>
+3	AdavAlYlu	NN	<fs af='AdavAlYlu,n,any,sg,3,,0,0'>
+4	wamanU	NN	<fs af='wAmu,pn,any,sg,2,,ni_u,ni_u'>
+5	,	SYM	<fs af=',,punc,,,,,,'>
+6	kutuMbAlanU	NN	<fs af='kutuMbaM,n,any,pl,3,,ni,ni_V'>
+7	poRiMcukogalaru	VM	<fs af='poRiMcu,v,fm,pl,3,,koVn_a_gala_wA,koVn_a_gala_wA'>
+8	,	SYM	<fs af=',,punc,,,,,,'>
+9	manaM	PRP	<fs af='manaM,pn,any,pl,1,,0,0'>
+10	cIkatipalleV	NNP	<fs af='cIkatipalleV,n,any,sg,3,,0,0'>
+11	prajalaku	NN	<fs af='praja,n,any,pl,3,,ki,ki'>
+12	ceVbuxAM	VM	<fs af='ceVppu,v,any,pl,2,,xA,xA'>
+13	alAMti	JJ	<fs af='alAMti,adj,any,any,any,,0_adj,0_adj'>
+14	UlYlu	NN	<fs af='Uru,n,,pl,,,0,0'>
+14	annitikI	PRP	<fs af='anni,pn,,pl,,,ki_V,ki_V'>
+15	ceVbuxAM	VM	<fs af='ceVppu,v,any,pl,2,,xA,xA'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

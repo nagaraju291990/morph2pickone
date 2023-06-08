@@ -1,0 +1,20 @@
+<Sentence id="6657">
+0	((	SSF	
+1	rakwanAlYAlu	NN	<fs af='rakwanAlYaM,n,any,pl,3,,0,0'>|<fs af='rakwanAlYaM,n,any,pl,3,,vu_agr,vu_agr'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	narAlU	NN	<fs af='naraM,n,any,pl,3,,0,0_V'>
+4	sariggA	RB	<fs af='sariggA,avy,,,,,,' poslcat="NM">
+5	unnatlu	VM	<fs af='uMdu,v,any,any,any,,ina_atlu,ina_atlu'>
+5	ayiwe	VM	<fs af='avvu,v,any,any,any,,we,we'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	eVmukanu	NN	<fs af='eVmuka,n,any,sg,3,,ni,ni'>|<fs af='eVmuka,n,any,sg,3,,ni_agr,ni_agr'>
+8	saricesi	VM	<fs af='sariceVyyi,v,any,any,any,,i,i'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	eVmukanu	NN	<fs af='eVmuka,n,any,sg,3,,ni,ni'>|<fs af='eVmuka,n,any,sg,3,,ni_agr,ni_agr'>
+11	exEnA	WQ	<fs af='exi,pn,fn,sg,3,,Ena,Ena'>
+12	oVwwupeVtti	VM	<fs af='oVwwupeVttu,v,any,any,any,,i,i'>
+13	kattu	NN	<fs af='kattu,n,any,sg,3,,0,0'>|<fs af='kattu,n,any,sg,3,,obl,obl'>
+14	kadawAru	VM	<fs af='kattu,v,any,pl,2,,wA,wA'>|<fs af='kattu,v,mf,pl,3,,wA,wA'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

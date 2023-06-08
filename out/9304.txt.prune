@@ -1,0 +1,15 @@
+<Sentence id="9304">
+0	((	SSF	
+1	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+2	mAtlAduwunnAdu	VM	<fs af='mAtlAdu,v,m,sg,3,,wunn,wunn'>|<fs af='mAtlAduwuMdu,v,m,sg,3,,A,A'>
+3	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+4	weVlisi	VM	<fs af='weVliyu,v,any,any,any,,i,i'>
+5	akkada	NST	<fs af='akkada,adv,any,any,any,,0_adv,0_adv'>
+6	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+7	polIsuvAru	NN	<fs af='polIs,n,any,sg,3,,vAru,vAru'>|<fs af='polIsu,n,any,sg,3,,vAru,vAru'>
+8	poyi	VM	<fs af='po,v,any,any,any,,i,i'>|<fs af='poVyyi,v,any,sg,2,,AjFArWa,AjFArWa'>
+9	meyaruwo	NN	<fs af='meyar,n,any,sg,3,,wo,wo'>|<fs af='meyaru,n,any,sg,3,,wo,wo'>
+10	ceVppAru	VM	<fs af='ceVppu,v,any,pl,2,,A,A'>|<fs af='ceVppu,v,mf,pl,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,17 @@
+<Sentence id="9811">
+0	((	SSF
+1	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+2	mqgaM	NN	<fs af='mqgaM,n,any,sg,3,,0,0'>
+3	vacci	VM	<fs af='vaccu,v,any,any,any,,i,i'>
+4	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+5	maXura	NN	<fs af='maXuraM,n,any,sg,3,,obl,obl'>
+6	Xvani	NN	<fs af='Xvani,n,any,sg,3,,0,0'>|<fs af='Xvani,n,any,sg,3,,obl,obl'>
+7	viSeRAnni	NN	<fs af='viSeRaM,n,any,sg,3,,ni,ni'>|<fs af='viSeRaM,n,any,sg,3,,ni_agr,ni_agr'>
+8	viMwagA	RB	<fs af='viMwa,n,any,sg,3,,gA,gA'>
+9	pariSIliMcinatlu	VM	<fs af='pariSIliMcu,v,any,any,any,,ina_atlu,ina_atlu'>
+10	saBAsaxulu	NN	<fs af='saBAsaxudu,n,any,pl,3,,0,0'>|<fs af='saBAsaxudu,n,any,pl,3,,vu_agr,vu_agr'>
+11	aMxaru	QF	<fs af='aMxaru,pn,mf,pl,3,,0,0'>
+12	BAviMcAru	VM	<fs af='BAviMcu,v,any,pl,2,,A,A'>|<fs af='BAviMcu,v,mf,pl,3,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

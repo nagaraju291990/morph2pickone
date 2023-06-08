@@ -1,0 +1,9 @@
+<Sentence id="4700">
+0	((	SSF	
+1	winadAniki	VM	<fs af='winadaM,n,any,sg,3,,ki,ki' poslcat="NM">
+2	cAlA	INTF	<fs af='cAlu,v,any,any,any,,i,i_A' poslcat="NM">
+3	anuvu	NN	<fs af='anuvu,n,any,sg,3,,0,0'>|<fs af='anuvu,n,any,sg,3,,obl,obl'>
+3	Enaxi	NN	<fs af='Ena,adj,any,any,any,,xi_adj,xi_adj' poslcat="NM">|<fs af='avvu,v,any,any,any,,ina_axi,ina_axi' poslcat="NM">|<fs af='Enaxi,pn,any,sg,3,,0,0' poslcat="NM">
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

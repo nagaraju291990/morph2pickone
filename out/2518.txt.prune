@@ -1,0 +1,19 @@
+<Sentence id="2518">
+0	((	SSF	
+1	viwwanaM	NN	<fs af='viwwanaM,n,any,sg,3,,0,0'>
+2	vesemuMxu	VM	<fs af='veVyyi,v,any,any,any,,e_muMxu,e_muMxu'>
+4	heVktAruku	NN	<fs af='heVktAr,n,any,sg,3,,ki,ki'>|<fs af='heVktAru,n,any,sg,3,,ki,ki'>
+5	oVkati	QC	<fs af='oVkati,n,any,sg,3,,0,0'>|<fs af='oVkati,n,any,sg,3,,obl,obl'>|<fs af='oVkati,num,any,any,any,,0,0'>
+6	lexA	CC	<fs af='lexA,avy,,,,,,'>
+7	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+8	kilola	NN	<fs af='kilo,n,,pl,,,obl,obl'>
+9	maMxunu	NN	<fs af='maMxu,n,any,sg,3,,ni,ni'>|<fs af='maMxu,n,any,sg,3,,ni_agr,ni_agr'>
+10	nelapE	NN	<fs af='nela,n,any,sg,3,,pE,pE'>|<fs af='neVyyi,n,any,pl,3,,pE,pE'>
+11	picikAri	NN	<fs af='picikAri,n,any,sg,3,,0,0'>|<fs af='picikAri,n,any,sg,3,,obl,obl'>
+12	ceswe	VM	<fs af='ceVyyi,v,any,any,any,,we,we'>
+13	kalupu	NN	<fs af='kalupu,n,any,sg,3,,0,0'>|<fs af='kalupu,n,any,sg,3,,obl,obl'>
+14	moVkkalu	NN	<fs af='moVkka,n,any,pl,3,,0,0'>|<fs af='moVkka,n,any,pl,3,,vu_agr,vu_agr'>
+15	peVragavu	VM	<fs af='peVrugu,v,any,sg,2,,a,a'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

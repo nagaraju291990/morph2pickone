@@ -1,0 +1,16 @@
+<Sentence id="4801">
+0	((	SSF
+1	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+2	vIti	PRP	<fs af='ixi,pn,fn,pl,3,,obl,obl'>|<fs af='vIdu,n,any,sg,3,,obl,obl'>
+3	saMwAnAniki	NN	<fs af='saMwAnaM,n,any,sg,3,,ki,ki'>
+4	anuvu	NN	<fs af='anuvu,n,any,sg,3,,0,0'>|<fs af='anuvu,n,any,sg,3,,obl,obl'>
+4	Enaxi	NN	<fs af='Ena,adj,any,any,any,,xi_adj,xi_adj'>|<fs af='avvu,v,any,any,any,,ina_axi,ina_axi'>|<fs af='Enaxi,pn,any,sg,3,,0,0'>
+5	Ada	NN	<fs af='Adu,v,any,any,any,,an,an'>|<fs af='Ada,adj,any,any,any,,0_adj,0_adj'>|<fs af='Ada,n,any,sg,3,,0,0'>|<fs af='Ada,n,any,sg,3,,obl,obl'>
+6	,	SYM	<fs af=',,punc,,,,,, '>
+7	maga	NN	<fs af='maga,adj,any,any,any,,0_adj,0_adj'>|<fs af='maga,n,any,sg,3,,0,0'>|<fs af='maga,n,any,sg,3,,obl,obl'>
+8	cepalu	NN	<fs af='cepa,n,any,pl,3,,0,0'>|<fs af='cepa,n,any,pl,3,,vu_agr,vu_agr'>
+9	xaggira	NST	<fs af='xaggira,adv,any,any,any,,0_adv,0_adv'>
+10	cerawAyi	VM	<fs af='ceru,v,n,pl,3,,wA,wA'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

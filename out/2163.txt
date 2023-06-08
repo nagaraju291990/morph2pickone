@@ -1,0 +1,9 @@
+<Sentence id="2163">
+0	((	SSF
+1	kadupulo	NN	<fs af='kadupu,n,any,sg,3,,lo,lo'>|<fs af='kadupu,n,any,pl,3,,0,0_o'>
+2	purugulu	NN	<fs af='purugu,n,any,pl,3,,0,0'>|<fs af='purugu,n,any,pl,3,,vu_agr,vu_agr'>
+3	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+4	caccipowAyi	VM	<fs af='caccipo,v,n,pl,3,,wA,wA'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

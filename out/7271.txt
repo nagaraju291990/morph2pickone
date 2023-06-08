@@ -1,0 +1,34 @@
+<Sentence id="7271">
+0	((	SSF
+1	*	SYM	<fs af='*,punc,,,,,, '>
+2	*	SYM	<fs af='*,punc,,,,,, '>
+3	*	SYM	<fs af='*,punc,,,,,, '>
+4	sIwaku	NNP	<fs af='sIwa,n,any,sg,3,,ki,ki'>
+5	moVgudu	NN	<fs af='moVgudu,n,any,sg,3,,0,0'>
+6	xoVrikAdu	VM	<fs af='xoVruku,v,m,sg,3,,A,A'>
+7	_	SYM
+8	_	SYM
+9	_	SYM
+10	_	SYM
+11	_	SYM
+12	_	SYM
+13	_	SYM
+14	_	SYM
+15	_	SYM
+16	_	SYM
+17	_	SYM
+18	_	SYM
+19	_	SYM
+20	_	SYM
+21	_	SYM
+22	_	SYM
+23	_	SYM
+24	_	SYM
+25	_	SYM
+26	_	SYM
+27	_	SYM
+28	calapawi	NNP	<fs af='calapawi,n,any,sg,3,,0,0'>|<fs af='calapawi,n,any,sg,3,,obl,obl'>
+29	pexavAdu	NN	<fs af='pexa,n,any,sg,3,,vAdu,vAdu'>|<fs af='pexavAdu,n,any,sg,3,,0,0'>
+30	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

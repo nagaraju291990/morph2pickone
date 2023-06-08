@@ -1,0 +1,8 @@
+<Sentence id="65">
+0	((	SSF	
+1	evevo	NN	<fs af='e,adj,,pl,,,xi_0,xi_0_o' poslcat="NM" deri_cat=pn>
+2	pAtalu	NN	<fs af='pAta,n,any,pl,3,,0,0'>|<fs af='pAta,n,any,pl,3,,vu_agr,vu_agr'>
+3	pAdevAdu	NN	<fs af='pAdevAdu,n,any,sg,3,,0,0'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

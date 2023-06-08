@@ -1,0 +1,14 @@
+<Sentence id="6054">			
+0	((	SSF	
+1	rAyalasIma	NNP	<fs af='rAyalasIma,n,any,sg,3,,0,0'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	kqRNA	NNP	<fs af='kqRNa,n,any,sg,3,,0,0_A'>
+4	wuMgaBaxrala	NNP	<fs af='wuMgaBaxra,n,any,pl,3,,obl,obl'>
+5	maXya	NST	<fs af='maXya,n,any,sg,3,,0,0'>
+6	prAMwaM	NN	<fs af='prAMwaM,n,any,sg,3,,0,0'>
+7	-	SYM	<fs af='<'>
+8	4	QC	<fs af='4,num,,,,,,'>
+9	jillAlu	NN	<fs af='jillA,n,any,pl,3,,0,0'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

@@ -1,0 +1,20 @@
+<Sentence id="4984">
+0	((	SSF
+1	soVracepalu	NNP	<fs af='soVracepa,n,any,pl,3,,0,0'>|<fs af='soVracepa,n,any,pl,3,,vu_agr,vu_agr'>
+2	_	SYM
+3	_	SYM
+4	_	SYM
+5	_	SYM
+6	_	SYM
+7	_	SYM
+8	_	SYM
+9	_	SYM
+10	_	SYM
+11	soVracepalu	NNP	<fs af='soVracepa,n,any,pl,3,,0,0'>|<fs af='soVracepa,n,any,pl,3,,vu_agr,vu_agr'>
+12	kevalaM	NN	<fs af='keva,n,any,pl,3,,ni_agr,ni_agr'>|<fs af='kevalaM,n,any,sg,3,,0,0'>
+13	samuxraM	NN	<fs af='samuxraM,n,any,sg,3,,0,0'>
+14	lone	NST	<fs af='lone,avy,,,,,, '>|<fs af='lona,adv,any,any,any,,0_e_adv,0_e_adv'>
+15	uMtAyi	VM	<fs af='uMdu,v,n,pl,3,,wA,wA'>
+16	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

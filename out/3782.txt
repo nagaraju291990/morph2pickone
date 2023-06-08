@@ -1,0 +1,10 @@
+<Sentence id="3782">
+0	((	SSF
+1	bAD	NNP	<fs af='bAD,n,any,sg,3,,0,0'>|<fs af='bAD,n,any,sg,3,,obl,obl'>
+2	grAmAniki	NN	<fs af='grAmaM,n,any,sg,3,,ki,ki'>
+3	ceVMxina	VM	<fs af='ceVMxu,v,any,any,any,,ina,ina'>
+4	axe	PRP	<fs af='axi,pn,fn,sg,3,,0,0_e'>
+5	jElu	NN	<fs af='jElu,n,any,sg,3,,0,0'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

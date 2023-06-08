@@ -1,0 +1,16 @@
+<Sentence id="2822">			
+0	((	SSF	
+1	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>
+2	_	SYM	<fs af='<'>
+3	_	SYM	<fs af='<'>
+4	_	SYM	<fs af='<'>
+5	_	SYM	<fs af='<'>
+6	_	SYM	<fs af='<'>
+7	_	SYM	<fs af='<'>
+8	mohanu	NNP	<fs af='mohan,n,any,sg,3,,0,0'>
+9	eVMwo	INTF	<fs af='eVMwa,pn,any,pl,3,,0,0_o'>
+10	siggupade	VM	<fs af='siggupadu,v,any,any,any,,e,e'>
+11	pillavAdu	NN	<fs af='pilla,n,any,sg,3,,vAdu,vAdu'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

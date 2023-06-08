@@ -1,0 +1,28 @@
+<Sentence id="5364">
+0	((	SSF
+1	kAlYla	NN	<fs af='kAlu,n,any,pl,3,,obl,obl'>|<fs af='kAdi,n,any,pl,3,,obl,obl'>
+2	pagulYlu	NN	<fs af='pagulu,n,any,pl,3,,0,0'>|<fs af='pagulu,n,any,pl,3,,vu_agr,vu_agr'>
+3	uMte	VM	<fs af='uMdu,v,any,any,any,,we,we'>
+4	_	SYM
+5	_	SYM
+6	_	SYM
+7	_	SYM
+8	_	SYM
+9	_	SYM
+10	_	SYM
+11	_	SYM
+12	_	SYM
+13	_	SYM
+14	_	SYM
+15	_	SYM
+16	_	SYM
+17	_	SYM
+18	_	SYM
+19	_	SYM
+20	_	SYM
+21	citikeVdu	QF	<fs af='citikeVdu,n,any,sg,3,,0,0'>|<fs af='citikeVdu,n,any,sg,3,,obl,obl'>
+22	pasupu	NN	<fs af='pasupu,n,any,sg,3,,0,0'>|<fs af='pasupu,n,any,sg,3,,obl,obl'>
+23	wIsukovAli	VM	<fs af='wIsuko,v,any,any,any,,Ali,Ali'>|<fs af='wIsuko,v,any,any,any,,Ali,Ali'>
+24	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

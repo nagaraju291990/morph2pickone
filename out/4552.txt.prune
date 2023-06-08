@@ -1,0 +1,9 @@
+<Sentence id="4552">
+0	((	SSF	
+1	muppE	NN	<fs af='muppE,n,,sg,,,0,0'>|<fs af='muppE,n,,sg,,,obl,obl'>
+2	elYlake	NN	<fs af='edu,n,any,pl,3,,ki,ki_e'>
+3	musalixAnilA	NN	<fs af='musalixi,n,,sg,,,xi_lA,xi_lA' deri_cat=pn>
+4	mAripoyiMxi	VM	<fs af='mAripo,v,fn,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

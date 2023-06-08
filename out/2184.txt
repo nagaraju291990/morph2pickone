@@ -1,0 +1,11 @@
+<Sentence id="2184">
+0	((	SSF
+1	pAla	NN	<fs af='paM,n,any,pl,3,,obl,obl'>|<fs af='pAlu,n,any,sg,3,,obl,obl'>
+2	xigubadi	NN	<fs af='xigubadi,n,any,sg,3,,0,0'>|<fs af='xigubadi,n,any,sg,3,,obl,obl'>
+3	peVrigiwe	VM	<fs af='peVrugu,v,any,any,any,,we,we'>
+4	mana	PRP	<fs af='manaM,pn,any,pl,1,,obl,obl'>
+5	AxAyaM	NN	<fs af='AxAyaM,n,any,sg,3,,0,0'>
+6	peVruguwuMxi	VM	<fs af='peVrugu,v,fn,sg,3,,wA,wA'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

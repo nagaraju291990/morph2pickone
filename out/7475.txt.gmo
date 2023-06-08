@@ -1,0 +1,43 @@
+<Sentence id="7475">			
+0	((	SSF	
+1	appu	NN	<fs af='appu,n,any,sg,3,,0,0'>|<fs af='appu,n,any,sg,3,,obl,obl'>
+1	lenivAdoyi	NN	<fs af='lenivAdoyi,unk,,,,,,' poslcat="NM">
+2	goVppa	JJ	<fs af='goVppa,adj,any,any,any,,0_adj,0_adj'>
+3	maniRi	NN	<fs af='maniRi,n,any,sg,3,,0,0'>|<fs af='maniRi,n,any,sg,3,,obl,obl'>
+4	!	SYM	<fs af='!,punc,,,,,,'>
+5	weVlusuko	VM	<fs af='weVliyu,v,any,any,any,,koVn,koVn'>
+6	!	SYM	<fs af='!,punc,,,,,,'>
+7	nippuwoti	NN	<fs af='nippu,n,any,sg,3,,wo,wo'>
+8	ceVlagAtaM	NN	<fs af='ceVlagAtaM,n,any,sg,3,,0,0'>
+9	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+10	appu	NN	<fs af='appu,n,,sg,,,0,0'>|<fs af='appu,n,,sg,,,obl,obl'>
+10	leka	VM	<fs af='gala,v,any,any,any,,aka,aka'>
+11	masaluko	VM	<fs af='masalu,v,any,any,any,,koVn,koVn'>
+12	!	SYM	<fs af='!,punc,,,,,,'>
+13	nIdalo	NN	<fs af='nIda,n,any,sg,3,,lo,lo'>|<fs af='nIda,n,any,pl,3,,0,0_o'>
+14	nI	PRP	<fs af='nIvu,pn,any,sg,2,,obl,obl'>
+15	bawuku	NN	<fs af='bawuku,n,any,sg,3,,0,0'>|<fs af='bawuku,n,any,sg,3,,obl,obl'>
+16	adavulu	NN	<fs af='adavi,n,any,pl,3,,0,0'>
+17	viswAraMgA	RB	<fs af='viswAraM,n,any,sg,3,,gA,gA' poslcat="NM">
+18	uMte	VM	<fs af='uMdu,v,any,any,any,,we,we'>
+19	BUmiki	NN	<fs af='BUmi,n,any,sg,3,,ki,ki'>
+20	aMxaM	NN	<fs af='aMxaM,n,any,sg,3,,0,0'>
+21	maniRiki	NN	<fs af='maniRi,n,any,sg,3,,ki,ki'>
+22	AnaMxaM	NN	<fs af='AnaMxaM,n,any,sg,3,,0,0'>
+23	!	SYM	<fs af='!,punc,,,,,,'>
+24	iMtlo	NN	<fs af='illu,n,any,sg,3,,lo,lo'>
+25	ceVttunu	NN	<fs af='ceVttu,n,any,sg,3,,ni,ni'>|<fs af='ceVttu,n,any,sg,3,,ni_agr,ni_agr'>
+26	peVMcu	VM	<fs af='peVMcu,v,any,sg,2,,AjFArWa,AjFArWa'>
+27	iswuMxi	VM	<fs af='ivvu,v,fn,sg,3,,wA,wA'>|<fs af='iswuMdu,v,fn,sg,3,,A,A'>
+27	axi	VM	<fs af='axi,pn,fn,sg,3,,0,0' poslcat="NM">
+28	maMci	NN	<fs af='maMci,adj,any,any,any,,0_adj,0_adj' poslcat="NM">
+28	gAli	NN	<fs af='gAli,n,any,sg,3,,0,0'>|<fs af='gAli,n,any,sg,3,,obl,obl'>
+29	callani	JJ	<fs af='calla,adj,any,any,any,,ti_adj,ti_adj'>
+30	nIdanu	NN	<fs af='nIda,n,,sg,,,nu,nu'>|<fs af='nIda,n,,sg,,,ni,ni'>
+30	icci	VM	<fs af='ivvu,v,any,any,any,,i,i'>
+31	sexa	NN	<fs af='sexa,n,any,sg,3,,0,0'>|<fs af='sexa,n,any,sg,3,,obl,obl'>
+32	wIrci	VM	<fs af='wIrcu,v,any,any,any,,i,i'>|<fs af='wIruvu,v,any,any,any,,i,i'>
+33	jokoVduwuMxi	VM	<fs af='jokoVttu,v,fn,sg,3,,wA,wA'>|<fs af='jokoVduwuMdu,v,fn,sg,3,,A,A'>
+34	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,8 @@
+<Sentence id="3192">
+0	((	SSF
+1	subbayyagAru	NNP	<fs af='subbayya,n,any,sg,3,,gAru,gAru'>
+2	mUluguwU	VM	<fs af='mUlugu,v,any,any,any,,wU,wU'>
+3	lecAru	VM	<fs af='le,v,any,pl,2,,A,A'>|<fs af='le,v,mf,pl,3,,A,A'>|<fs af='lecu,v,any,pl,2,,A,A'>|<fs af='lecu,v,mf,pl,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

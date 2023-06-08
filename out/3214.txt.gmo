@@ -1,0 +1,8 @@
+<Sentence id="3214">			
+0	((	SSF	
+1	mariMwa	INTF	<fs af='mariMwa,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='mariMwa,n,any,sg,3,,obl,obl' poslcat="NM">'>
+2	galABA	NN	<fs af='galABA,n,any,sg,3,,0,0'>|<fs af='galABA,n,any,sg,3,,obl,obl'>
+3	ayyiMxi	VM	<fs af='avvu,v,fn,sg,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

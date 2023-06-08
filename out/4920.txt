@@ -1,0 +1,31 @@
+<Sentence id="4920">
+0	((	SSF
+1	dabbAlalo	NN	<fs af='dabbA,n,any,pl,3,,lo,lo'>
+2	niluva	NN	<fs af='niluva,n,any,sg,3,,0,0'>|<fs af='niluva,n,any,sg,3,,obl,obl'>
+3	ceyadaM	VM	<fs af='ceVyyi,v,any,any,any,,adaM,adaM'>|<fs af='ceyadaM,n,any,sg,3,,0,0'>
+4	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+5	upayogame	NN	<fs af='upayogaM,n,any,sg,3,,0,0_e'>
+6	!	SYM	<fs af='!,punc,,,,,, '>
+7	iwara	JJ	<fs af='iwara,n,any,sg,3,,0,0'>|<fs af='iwara,n,any,sg,3,,obl,obl'>|<fs af='iwaraM,n,any,sg,3,,obl,obl'>
+8	lABAlu	NN	<fs af='lABaM,n,any,pl,3,,0,0'>|<fs af='lABaM,n,any,pl,3,,vu_agr,vu_agr'>
+9	_	SYM
+10	_	SYM
+11	_	SYM
+12	_	SYM
+13	_	SYM
+14	_	SYM
+15	_	SYM
+16	_	SYM
+17	_	SYM
+18	_	SYM
+19	_	SYM
+20	_	SYM
+21	cepalu	NN	<fs af='cepa,n,any,pl,3,,0,0'>|<fs af='cepa,n,any,pl,3,,vu_agr,vu_agr'>
+22	AhAraM	NN	<fs af='AhAraM,n,any,sg,3,,0,0'>
+23	gAne	RP	<fs af='gAne,avy,,,,,, '>|<fs af='gaM,n,any,sg,3,,ni,ni_e'>
+24	kAka	CC	<fs af='kAka,avy,,,,,, '>|<fs af='kAka,n,any,sg,3,,0,0'>|<fs af='kAka,n,any,sg,3,,obl,obl'>|<fs af='avvu,v,any,any,any,,aka,aka'>|<fs af='kAkaM,n,any,sg,3,,obl,obl'>
+25	iwarawrA	NN	<fs af='iwarawrA,avy,,,,,0,0_avy'>
+26	upayogapadawAyi	VM	<fs af='upayogapadu,v,n,pl,3,,wA,wA'>
+27	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

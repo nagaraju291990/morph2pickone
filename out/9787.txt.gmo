@@ -1,0 +1,18 @@
+<Sentence id="9787">			
+0	((	SSF	
+1	koVnni	QF	<fs af='koVnni,pn,any,pl,3,,0,0' poslcat="NM">
+2	kowulu	NN	<fs af='kowi,n,any,pl,3,,0,0'>
+3	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+4	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>
+5	enugulu	NN	<fs af='enugu,n,any,pl,3,,0,0'>|<fs af='enugu,n,any,pl,3,,vu_agr,vu_agr'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	mUdu	QC	<fs af='mUdu,n,any,sg,3,,0,0'>|<fs af='mUdu,n,any,sg,3,,obl,obl'>
+8	nAlugu	QC	<fs af='nAlugu,n,any,sg,3,,0,0'>|<fs af='nAlugu,n,any,sg,3,,obl,obl'>
+9	moVsalYlu	NN	<fs af='moVsali,n,any,sg,3,,lAMti_vAru,lAMti_vAru'>|<fs af='moVsali,n,any,pl,3,,xi,xi'>
+10	wama	PRP	<fs af='wAmu,pn,mf,sg,3,,obl,obl'>
+11	sWAnAlu	NN	<fs af='sWAnaM,n,any,pl,3,,0,0'>|<fs af='sWAnaM,n,any,pl,3,,vu_agr,vu_agr'>
+12	wappiMcukoVni	VM	<fs af='wappiMcuko,v,any,any,any,,i,i'>
+13	bayatapadinAyi	VM	<fs af='bayatapadu,v,n,pl,3,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

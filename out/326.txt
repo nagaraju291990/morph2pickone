@@ -1,0 +1,20 @@
+<Sentence id="326">
+0	((	SSF
+1	atlA	RB	<fs af='attu,n,any,pl,3,,0,0_A'>
+2	kAkuMdA	VM	<fs af='avvu,v,any,any,any,,akuMdA,akuMdA'>|<fs af='kAkuMdu,v,any,any,any,,i,i_A'>
+3	AkalI	NN	<fs af='Akali,n,any,pl,3,,Ena,Ena'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	goVddu	NN	<fs af='goVddu,n,any,sg,3,,0,0'>|<fs af='goVddu,n,any,sg,3,,obl,obl'>
+6	cAkiriwo	NN	<fs af='cAkiri,n,any,sg,3,,wo,wo'>
+7	sawamawaM	NN	<fs af='sawamawaM,n,any,sg,3,,0,0'>
+8	avuwuMte	VM	<fs af='avvu,v,any,any,any,,wuMte,wuMte'>|<fs af='avuwuMdu,v,any,any,any,,we,we'>
+9	!	SYM	<fs af='!,punc,,,,,, '>
+10	AmeVku	PRP	<fs af='AmeV,pn,f,sg,3,,ki,ki'>
+11	garBavawi	NN	<fs af='garBavawi,n,any,sg,3,,0,0'>|<fs af='garBavawi,n,any,sg,3,,obl,obl'>
+12	kAvadaM	VM	<fs af='avvu,v,any,any,any,,adaM,adaM'>|<fs af='kAvadaM,n,any,sg,3,,0,0'>
+13	BAraM	NN	<fs af='BAraM,n,any,sg,3,,0,0'>
+13	gAka	NN	<fs af='gAka,avy,,,,,, '>
+14	emavuwuMxi	VM	<fs af='emavvu,v,fn,sg,3,,wA,wA'>|<fs af='emavuwuMdu,v,fn,sg,3,,A,A'>
+15	?	SYM	<fs af='?,punc,,,,,, '>
+))
+</Sentence>

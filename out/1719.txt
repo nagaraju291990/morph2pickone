@@ -1,0 +1,7 @@
+<Sentence id="1719">
+0	((	SSF
+1	AdavAlYla	NN	<fs af='AdavAlYlu,pn,mf,pl,3,,obl,obl'>
+2	hakku	NN	<fs af='hakku,n,any,sg,3,,0,0'>|<fs af='hakku,n,any,sg,3,,obl,obl'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

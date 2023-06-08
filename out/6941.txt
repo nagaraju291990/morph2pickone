@@ -1,0 +1,8 @@
+<Sentence id="6941">
+0	((	SSF
+1	anni	QF	<fs af='anni,pn,any,pl,3,,0,0'>
+2	nelallo	NN	<fs af='nela,n,any,pl,3,,lo,lo'>|<fs af='neVyyi,n,any,pl,3,,lo,lo'>
+3	veyavaccu	VM	<fs af='vecu,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='veVyyi,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='veyavaccu,v,any,any,any,,e,e'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

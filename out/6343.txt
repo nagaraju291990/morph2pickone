@@ -1,0 +1,9 @@
+<Sentence id="6343">
+0	((	SSF
+1	iMwalo	NST	<fs af='iMwa,pn,any,sg,3,,lo,lo'>|<fs af='iMwa,n,any,sg,3,,lo,lo'>|<fs af='iMwa,n,any,pl,3,,0,0_o'>|<fs af='iMwalu,n,any,sg,3,,0,0_o'>
+2	eVvarixo	WQ	<fs af='eVvaru,pn,mf,pl,3,,xi,xi_o'>
+3	alikidi	NN	<fs af='alikidi,n,,sg,,,0,0'>|<fs af='alikidi,n,,sg,,,obl,obl'>
+4	ayiMxi	VM	<fs af='avvu,v,fn,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,22 @@
+<Sentence id="2481">
+0	((	SSF
+1	I	DEM	<fs af='I,avy,,,,,, '>
+2	paMtanu	NN	<fs af='paMta,n,any,sg,3,,ni,ni'>|<fs af='paMta,n,any,sg,3,,ni_agr,ni_agr'>
+3	I	DEM	<fs af='I,avy,,,,,, '>
+4	maXyane	NST	<fs af='maXya,n,any,sg,3,,ni,ni_e'>
+5	mana	PRP	<fs af='manaM,pn,any,pl,1,,obl,obl'>
+6	rARtraMlo	NN	<fs af='rARtraM,n,any,sg,3,,lo,lo'>
+7	kqRNA	NNP	<fs af='kqRNa,n,any,sg,3,,0,0_A'>|<fs af='kqRNa,n,any,sg,3,,0,0_V'>|<fs af='kqRNudu,n,any,sg,3,,I,I'>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	guMtUru	NNP	<fs af='guMtUru,n,any,sg,3,,0,0'>|<fs af='guMtUru,n,any,sg,3,,obl,obl'>
+10	,	SYM	<fs af=',,punc,,,,,, '>
+11	karnUlu	NNP	<fs af='karnUl,n,any,sg,3,,0,0'>|<fs af='karnUl,n,any,sg,3,,obl,obl'>|<fs af='karnUlu,n,any,sg,3,,0,0'>|<fs af='karnUlu,n,any,sg,3,,0,0_A'>|<fs af='karnUlu,n,any,sg,3,,obl,obl'>
+12	,	SYM	<fs af=',,punc,,,,,, '>
+13	axilAbAxu	NNP	<fs af='axilAbAxu,n,any,sg,3,,0,0'>|<fs af='axilAbAxu,n,any,sg,3,,obl,obl'>
+14	,	SYM	<fs af=',,punc,,,,,, '>
+15	nijAmAbAxu	NNP	<fs af='nijAmAbAx,n,any,sg,3,,0,0'>|<fs af='nijAmAbAx,n,any,sg,3,,obl,obl'>|<fs af='nijAmAbAxu,n,any,sg,3,,0,0'>|<fs af='nijAmAbAxu,n,any,sg,3,,obl,obl'>
+16	jillAlalo	NN	<fs af='jillA,n,any,pl,3,,lo,lo'>
+17	paMdiswunnAru	VM	<fs af='paMdiMcu,v,any,pl,2,,wunn,wunn'>|<fs af='paMdiMcu,v,mf,pl,3,,wunn,wunn'>|<fs af='paMdiswuMdu,v,any,pl,2,,A,A'>|<fs af='paMdiswuMdu,v,mf,pl,3,,A,A'>
+18	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

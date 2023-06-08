@@ -1,0 +1,11 @@
+<Sentence id="1459">			
+0	((	SSF	
+1	SAMwiki	NNP	<fs af='SAMwi,n,any,sg,3,,ki,ki'>
+2	Barwanu	NN	<fs af='Barwa,n,any,sg,3,,ni,ni'>|<fs af='Barwa,n,any,sg,3,,ni_agr,ni_agr'>
+3	mariMwa	INTF	<fs af='mariMwa,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='mariMwa,n,any,sg,3,,obl,obl' poslcat="NM">'>
+4	arWaM	NN	<fs af='arWaM,n,any,sg,3,,0,0'>
+5	cesukovAlani	VM	<fs af='ceVyyi,v,any,any,any,,koVn_Ali_ani,koVn_Ali_ani'>
+6	uMxi	VAUX	<fs af='uMdu,v,fn,sg,3,,A,A' poslcat="NM">
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,9 @@
+<Sentence id="6175">
+0	((	SSF
+1	tUrist	NN	<fs af='tUrist,n,any,sg,3,,0,0'>|<fs af='tUrist,n,any,sg,3,,obl,obl'>
+2	gEd	NN	<fs af='gEd,n,,sg,,,0,0'>|<fs af='gEd,n,,sg,,,0,0'>|<fs af='gEd,n,,sg,,,obl,obl'>|<fs af='gEd,n,,sg,,,obl,obl'>
+3	nirmiMcadaM	VM	<fs af='nirmiMcu,v,any,any,any,,adaM,adaM'>|<fs af='nirmiMcadaM,n,any,sg,3,,0,0'>
+4	jarigiMxi	VM	<fs af='jarugu,v,fn,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

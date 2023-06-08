@@ -1,0 +1,15 @@
+<Sentence id="8455">
+0	((	SSF
+1	peVMcalakona	NNP	<fs af='peVMcalakona,n,any,sg,3,,0,0'>|<fs af='peVMcalakona,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,, '>
+3	neVllUruku	NNP	<fs af='neVllUru,n,any,sg,3,,ki,ki'>
+4	50	QC	<fs af='50,num,,,,,, '>|<fs af='pE,adj,any,any,any,,0_adj,0_adj'>
+5	ki	NN	<fs af='ki,avy,,,,,, '>|<fs af='mIru,pn,any,pl,2,,obl,obl'>
+6	|	SYM
+7	|	SYM
+8	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+9	xUraMlo	NN	<fs af='xUraM,n,any,sg,3,,lo,lo'>
+10	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

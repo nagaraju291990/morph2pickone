@@ -1,0 +1,47 @@
+<Sentence id="6152">			
+0	((	SSF	
+1	rARtra	NN	<fs af='rARtraM,n,any,sg,3,,obl,obl'>
+2	rahaxArlu	NN	<fs af='rahaxAri,n,any,pl,3,,0,0'>
+3	41	QC	<fs af='41,num,,,,,,'>
+4	,	SYM	<fs af=',,punc,,,,,,'>
+5	395	QC	<fs af='395,num,,,,,,'>
+6	ki	NN	<fs af='ki,avy,,,,,,'>'>
+7	
+8	
+9	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+10	,	SYM	<fs af=',,punc,,,,,,'>
+11	peVxxa	JJ	<fs af='peVxxa,adj,any,any,any,,0_adj,0_adj'>
+12	warahA	NN	<fs af='warahA,n,any,sg,3,,0,0'>
+13	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>
+14	rodlu	NN	<fs af='roddu,n,any,pl,3,,0,0'>
+15	2	QC	<fs af='2,num,,,,,,'>
+16	,	SYM	<fs af=',,punc,,,,,,'>
+17	321	QC	<fs af='321,num,,,,,,'>
+18	ki	NN	<fs af='ki,avy,,,,,,'>'>
+19	
+20	
+21	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+22	,	SYM	<fs af=',,punc,,,,,,'>
+23	iwaramulu	NN	<fs af='iwaraM,n,any,pl,3,,0,0'>
+24	91	QC	<fs af='91,num,,,,,,'>
+25	,	SYM	<fs af=',,punc,,,,,,'>
+26	173	QC	<fs af='173,num,,,,,,'>
+27	ki	NN	<fs af='ki,avy,,,,,,'>'>
+28	
+29	
+30	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+31	moVwwaM	NN	<fs af='moVwwu,v,any,pl,1,,a,a'>
+32	1	QC	<fs af='1,num,,,,,,'>
+33	,	SYM	<fs af=',,punc,,,,,,'>
+34	37	QC	<fs af='37,num,,,,,,'>
+35	,	SYM	<fs af=',,punc,,,,,,'>
+36	838	QC	<fs af='838,num,,,,,,'>
+37	ki	NN	<fs af='ki,avy,,,,,,'>'>
+38	
+39	
+40	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+41	rodlu	NN	<fs af='roddu,n,any,pl,3,,0,0'>
+42	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+43	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

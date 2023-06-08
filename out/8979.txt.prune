@@ -1,0 +1,10 @@
+<Sentence id="8979">
+0	((	SSF	
+1	PrAnsulo	NNP	<fs af='PrAns,n,any,sg,3,,lo,lo'>|<fs af='PrAnsu,n,any,sg,3,,lo,lo'>|<fs af='PrAnsu,n,any,pl,3,,0,0_o'>
+2	maroVka	QF	<fs af='maroVka,avy,,,,,,'>
+3	paSu	NN	<fs af='paSuvu,n,any,sg,3,,obl,obl'>|<fs af='paSuvu,n,any,sg,3,,I,I'>
+4	SAswravewwa	NN	<fs af='SAswravewwa,n,any,sg,3,,0,0'>|<fs af='SAswravewwa,n,any,sg,3,,obl,obl'>
+5	unnAdu	VM	<fs af='uMdu,v,m,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

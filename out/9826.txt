@@ -1,0 +1,23 @@
+<Sentence id="9826">
+0	((	SSF
+1	mUwi	NN	<fs af='mUwi,n,any,sg,3,,0,0'>|<fs af='mUwi,n,any,sg,3,,obl,obl'>
+2	sannati	JJ	<fs af='sanna,adj,any,any,any,,ti_adj,ti_adj'>
+3	kadavalonuMci	NN	<fs af='kadava,n,any,sg,3,,lonuMdi,lonuMdi'>
+4	niMdA	RB	<fs af='niMdu,v,any,any,any,,i,i_A'>|<fs af='niMdu,n,any,sg,3,,0,0_A'>
+5	vunna	VM	<fs af='vuMdu,v,any,any,any,,ina,ina'>
+6	nIlYlu	NN	<fs af='nIru,n,any,pl,3,,0,0'>|<fs af='nIru,n,any,pl,3,,vu_agr,vu_agr'>
+7	oVlikiMcinatlu	VM	<fs af='oVlikiMcu,v,any,any,any,,ina_atlu,ina_atlu'>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	parupugA	RB	<fs af='parupu,n,any,sg,3,,gA,gA'>
+10	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+11	rAwi	NN	<fs af='rAyi,n,any,sg,3,,obl,obl'>
+12	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+13	samuxra	NN	<fs af='samuxraM,n,any,sg,3,,obl,obl'>|<fs af='samuxrudu,n,any,sg,3,,obl,obl'>
+14	keVrataM	NN	<fs af='keVrataM,n,any,sg,3,,0,0'>
+15	jarruna	RB	<fs af='jarruna,avy,,,,,, '>
+16	koVttinatlu	VM	<fs af='koVttu,v,any,any,any,,ina_atlu,ina_atlu'>
+17	Xvanulu	NN	<fs af='Xvani,n,any,pl,3,,0,0'>|<fs af='Xvani,n,any,pl,3,,vu_agr,vu_agr'>
+18	veVllivirisina	VM	<fs af='veVlliviriyu,v,any,any,any,,ina,ina'>
+19	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

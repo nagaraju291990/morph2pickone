@@ -1,0 +1,24 @@
+<Sentence id="7505">
+0	((	SSF
+1	"	SYM	<fs af='",punc,,,,,, '>
+2	ori	NN	<fs af='ori,avy,,,,,0,0_avy'>
+3	nAyanoy	INJ	<fs af='nAyanoy,avy,,,,,, '>
+4	!	SYM	<fs af='!,punc,,,,,, '>
+5	ori	NN	<fs af='ori,avy,,,,,0,0_avy'>
+6	xevudu	NN	<fs af='xevudu,n,any,sg,3,,0,0'>
+6	oye	NN	<fs af='oye,unk,,,,,,'>
+7	!	SYM	<fs af='!,punc,,,,,, '>
+8	nannu	PRP	<fs af='nenu,pn,any,sg,1,,ni,ni'>
+9	caMpeswunnAduro	NN	<fs af='caMpu,v,m,sg,3,,i_veVyyi_wU_uMdu_A_ro,i_veVyyi_wU_uMdu_A_ro'>|<fs af='caMpu,v,m,sg,3,,i_veVyyi_wunn,i_veVyyi_wunn_A_ro'>
+10	!	SYM	<fs af='!,punc,,,,,, '>
+11	sAr	NN	<fs af='sAr,n,,sg,,,0,0'>|<fs af='sAr,n,,sg,,,obl,obl'>
+12	nannu	PRP	<fs af='nenu,pn,any,sg,1,,ni,ni'>
+13	caMpeswunnAduro	NN	<fs af='caMpu,v,m,sg,3,,i_veVyyi_wU_uMdu_A_ro,i_veVyyi_wU_uMdu_A_ro'>|<fs af='caMpu,v,m,sg,3,,i_veVyyi_wunn,i_veVyyi_wunn_A_ro'>
+14	!	SYM	<fs af='!,punc,,,,,, '>
+15	"	SYM	<fs af='",punc,,,,,, '>
+16	ani	UT	<fs af='ani,avy,,,,,, '>|<fs af='anu,v,any,any,any,,i,i'>
+17	peVxxagA	RB	<fs af='peVxxa,adj,any,any,any,,gA_adj,gA_adj'>
+18	aricevAdu	VM	<fs af='aruvu,v,any,any,any,,e_vAdu,e_vAdu'>|<fs af='aricevAdu,pn,m,sg,3,,0,0'>
+19	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

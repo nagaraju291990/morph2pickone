@@ -1,0 +1,19 @@
+<Sentence id="8738">
+0	((	SSF	
+1	ika	RP	<fs af='ika,avy,,,,,,'>
+2	wupAkulu	NN	<fs af='wupAki,n,,pl,,,0,0'>
+2	annI	PRP	<fs af='anni,pn,,pl,,,0_V,0_V'>
+3	jaMwuvuvepu	NN	<fs af='jaMwuvu,n,any,sg,3,,vEpu,vEpu'>
+4	bAru	NN	<fs af='bAru,n,,sg,,,0,0'>|<fs af='bAru,n,,sg,,,obl,obl'>|<fs af='bAr,n,,sg,,,0,0'>|<fs af='bAr,n,,sg,,,obl,obl'>
+4	peVttiMci	VM	<fs af='peVttiMcu,v,any,any,any,,i,i'>
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	wupAki	NN	<fs af='wupAki,n,any,sg,3,,0,0'>|<fs af='wupAki,n,any,sg,3,,obl,obl'>
+7	bayata	NST	<fs af='bayata,adv,any,any,any,,0_adv,0_adv'>
+8	padeswAvA	VM	<fs af='padeVyyi,v,any,sg,2,,wA,wA_A'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	kAlcamannAvA	VM	<fs af='kAlcamanu,v,any,sg,2,,A,A_A'>
+11	annattugA	VM	<fs af='anu,v,any,any,any,,ina_atlugA,ina_atlugA'>
+12	saMjFaceSAdu	VM	<fs af='saMjFaceVyyi,v,m,sg,3,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,6 @@
+<Sentence id="2467">
+0	((	SSF
+1	pudawAru	VM	<fs af='puttu,v,any,pl,2,,wA,wA'>|<fs af='puttu,v,mf,pl,3,,wA,wA'>
+2	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

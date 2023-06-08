@@ -1,0 +1,17 @@
+<Sentence id="4998">			
+0	((	SSF	
+1	iMkA	CC	<fs af='iMkA,avy,,,,,,'>
+2	stet	NN	<fs af='stet,n,any,sg,3,,0,0'>
+3	PEnAnRiyal	NN	<fs af='PEnAnRiyal,n,any,sg,3,,0,0'>
+4	kArpoVreRan	NN	<fs af='kArpoVreRan,n,any,sg,3,,0,0'>
+5	,	SYM	<fs af=',,punc,,,,,,'>
+6	cirAgAlIlen	NNP	<fs af='cirAgAlIlen,n,any,sg,3,,0,0'>
+7	,	SYM	<fs af=',,punc,,,,,,'>
+8	hExarAbAxu	NNP	<fs af='hExarAbAx,n,any,sg,3,,0,0'>
+9	_	SYM	<fs af='<'>
+10	500001	QC	<fs af='500001,num,,,,,,'>
+11	vArini	PRP	<fs af='vAru,pn,mf,pl,3,,ni,ni'>
+12	kalavaMdi	VM	<fs af='uMdu,v,any,sg,2,,A_aMdi,A_aMdi'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

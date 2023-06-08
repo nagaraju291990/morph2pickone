@@ -1,0 +1,27 @@
+<Sentence id="9900">
+0	((	SSF
+1	"	SYM	<fs af='",punc,,,,,, '>
+2	"	SYM	<fs af='",punc,,,,,, '>
+3	sari	RP	<fs af='sari,avy,,,,,, '>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	roddu	NN	<fs af='roddu,n,any,sg,3,,0,0'>|<fs af='roddu,n,any,sg,3,,obl,obl'>
+6	veyiMcaMdi	VM	<fs af='veyiMcu,v,any,pl,2,,AjFArWa,AjFArWa'>
+7	"	SYM	<fs af='",punc,,,,,, '>
+8	"	SYM	<fs af='",punc,,,,,, '>
+9	UlYlo	NN	<fs af='Uru,n,any,sg,3,,lo,lo'>|<fs af='Uru,n,any,pl,3,,0,0_o'>
+10	kareVMtu	NN	<fs af='kareVMt,n,any,sg,3,,0,0'>|<fs af='kareVMt,n,any,sg,3,,obl,obl'>|<fs af='kareVMtu,n,any,sg,3,,0,0'>|<fs af='kareVMtu,n,any,sg,3,,obl,obl'>
+11	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+12	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+13	"	SYM	<fs af='",punc,,,,,, '>
+14	"	SYM	<fs af='",punc,,,,,, '>
+15	kareVMtu	NN	<fs af='kareVMt,n,any,sg,3,,0,0'>|<fs af='kareVMt,n,any,sg,3,,obl,obl'>|<fs af='kareVMtu,n,any,sg,3,,0,0'>|<fs af='kareVMtu,n,any,sg,3,,obl,obl'>
+16	veyiMcaMdi	VM	<fs af='veyiMcu,v,any,pl,2,,AjFArWa,AjFArWa'>
+17	'	SYM	<fs af='',punc,,,,,, '>
+18	"	SYM	<fs af='",punc,,,,,, '>
+19	jAnIki	NN	<fs af='jAnI,n,,sg,,,ki,ki'>
+20	illu	NN	<fs af='illu,n,any,sg,3,,0,0'>
+21	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+22	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+23	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

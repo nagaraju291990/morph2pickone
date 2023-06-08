@@ -1,0 +1,23 @@
+<Sentence id="1809">			
+0	((	SSF	
+1	'	SYM	<fs af=',punc,,,,,,'>
+2	retu	NN	<fs af='retu,n,any,sg,3,,0,0'>
+3	gittubAtu	NN	<fs af='gittubAtu,n,any,sg,3,,0,0'>
+4	kAlexu	VM	<fs af='avvu,v,any,any,any,,a_lexu,a_lexu'>
+5	'	SYM	<fs af=',punc,,,,,,'>
+6	aMtU	UT	<fs af='aMtU,avy,,,,,,'>
+7	velaM	NN	<fs af='velaM,n,any,sg,3,,0,0'>
+8	vese	VM	<fs af='veVyyi,v,any,any,any,,e,e'>
+9	vyakwi	NN	<fs af='vyakwi,n,any,sg,3,,0,0'>
+10	50	QC	<fs af='50,num,,,,,,'>
+11	rUpAyalu	NN	<fs af='rUpAya,n,any,pl,3,,0,0'>
+12	pAdina	VM	<fs af='pAdu,v,any,any,any,,ina,ina'>
+13	awaniki	PRP	<fs af='awanu,pn,m,sg,3,,ki,ki'>
+14	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+15	sabbu	NN	<fs af='sabbu,n,any,sg,3,,0,0'>
+16	peVtteV	NN	<fs af='peVtteV,n,any,sg,3,,0,0'>
+17	uciwaMgA	RB	<fs af='uciwaM,n,any,sg,3,,gA,gA'>
+18	iccAdu	VM	<fs af='ivvu,v,m,sg,3,,A,A'>
+19	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

@@ -1,0 +1,30 @@
+<Sentence id="4935">
+0	((	SSF	
+1	cepala	NN	<fs af='cepa,n,any,pl,3,,obl,obl'>
+2	poRakaviluvalu	NN	<fs af='poRakaviluva,n,any,pl,3,,0,0'>|<fs af='poRakaviluva,n,any,pl,3,,vu_agr,vu_agr'>
+3	_	SYM	<'>|<poslcat="NM"'>
+4	_	SYM	<'>|<poslcat="NM"'>
+5	_	SYM	<'>|<poslcat="NM"'>
+6	_	SYM	<'>|<poslcat="NM"'>
+7	_	SYM	<'>|<poslcat="NM"'>
+8	_	SYM	<'>|<poslcat="NM"'>
+9	_	SYM	<'>|<poslcat="NM"'>
+10	_	SYM	<'>|<poslcat="NM"'>
+11	_	SYM	<'>|<poslcat="NM"'>
+12	_	SYM	<'>|<poslcat="NM"'>
+13	_	SYM	<'>|<poslcat="NM"'>
+14	_	SYM	<'>|<poslcat="NM"'>
+15	_	SYM	<'>|<poslcat="NM"'>
+16	_	SYM	<'>|<poslcat="NM"'>
+17	_	SYM	<'>|<poslcat="NM"'>
+18	_	SYM	<'>|<poslcat="NM"'>
+19	_	SYM	<'>|<poslcat="NM"'>
+20	_	SYM	<'>|<poslcat="NM"'>
+21	_	SYM	<'>|<poslcat="NM"'>
+22	cepallo	NN	<fs af='cepa,n,any,pl,3,,lo,lo'>
+23	protInulu	NN	<fs af='protIn,n,any,pl,3,,0,0'>|<fs af='protIn,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='protInu,n,any,pl,3,,0,0'>|<fs af='protInu,n,any,pl,3,,vu_agr,vu_agr'>
+24	aXikaMgA	RB	<fs af='aXikaM,n,any,sg,3,,gA,gA' poslcat="NM">
+25	uMtAyi	VM	<fs af='uMdu,v,n,pl,3,,wA,wA'>
+26	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

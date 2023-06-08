@@ -1,0 +1,9 @@
+<Sentence id="8288">
+0	((	SSF
+1	prawi	JJ	<fs af='prawi,adj,any,any,any,,0_adj,0_adj'>|<fs af='prawi,n,any,sg,3,,0,0'>|<fs af='prawi,n,any,sg,3,,obl,obl'>
+2	goVrreV	NN	<fs af='goVrreV,n,any,sg,3,,0,0'>|<fs af='goVrreV,n,any,sg,3,,obl,obl'>
+3	vivarAlu	NN	<fs af='vivaraM,n,any,pl,3,,0,0'>|<fs af='vivaraM,n,any,pl,3,,vu_agr,vu_agr'>
+4	rAsukovAli	VM	<fs af='rAsuko,v,any,any,any,,Ali,Ali'>|<fs af='rAsuko,v,any,any,any,,Ali,Ali'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

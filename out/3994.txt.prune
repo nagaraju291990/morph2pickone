@@ -1,0 +1,11 @@
+<Sentence id="3994">
+0	((	SSF	
+1	biccagAdini	NN	<fs af='biccagAdu,n,any,sg,3,,ni,ni'>|<fs af='biccagAdu,n,any,sg,3,,ni_agr,ni_agr'>
+2	cUci	VM	<fs af='cUdu,v,any,any,any,,i,i'>|<fs af='cUcu,v,any,any,any,,i,i'>
+3	rAju	NN	<fs af='rAju,n,any,sg,3,,0,0'>|<fs af='rAju,n,any,sg,3,,obl,obl'>
+4	iMwi	NN	<fs af='iMwi,n,,sg,,,0,0'>|<fs af='iMwi,n,,sg,,,obl,obl'>
+4	eVwwuna	NN	<fs af='eVwwu,n,,sg,,,na,na'>
+5	eVgirAdu	VM	<fs af='eVguru,v,m,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

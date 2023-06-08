@@ -1,0 +1,37 @@
+<Sentence id="9559">
+0	((	SSF
+1	wupAki	NN	<fs af='wupAki,n,any,sg,3,,0,0'>|<fs af='wupAki,n,any,sg,3,,obl,obl'>
+2	xeVbbale	NN	<fs af='xeVbba,n,any,sg,3,,0_le,0_le'>|<fs af='xeVbba,n,any,pl,3,,0,0_e'>
+3	wagallexu	VM	<fs af='wagulu,v,any,any,any,,i_uMdu_a_lexu,i_uMdu_a_lexu'>
+4	ani	UT	<fs af='ani,avy,,,,,, '>|<fs af='anu,v,any,any,any,,i,i'>
+5	ixivaraku	NST	<fs af='ixivaraku,adv,any,any,any,,0_adv,0_adv'>
+6	pawrikalalo	NN	<fs af='pawrika,n,any,pl,3,,lo,lo'>
+7	padiwe	VM	<fs af='padu,v,any,any,any,,we,we'>|<fs af='pattu,v,any,any,any,,we,we'>|<fs af='padiwi,n,any,sg,3,,0,0_e'>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	AScaryapoyina	VM	<fs af='AScaryapo,v,any,any,any,,ina,ina'>
+10	ameVrikA	NNP	<fs af='ameVrikA,n,any,sg,3,,0,0'>|<fs af='ameVrikA,n,any,sg,3,,obl,obl'>
+11	,	SYM	<fs af=',,punc,,,,,, '>
+12	yUrapu	NNP	<fs af='yUrap,n,any,sg,3,,0,0'>|<fs af='yUrap,n,any,sg,3,,obl,obl'>|<fs af='yUrapu,n,any,sg,3,,0,0'>|<fs af='yUrapu,n,any,sg,3,,obl,obl'>
+13	,	SYM	<fs af=',,punc,,,,,, '>
+14	AstreliyA	NNP	<fs af='AstreliyA,n,any,sg,3,,0,0'>|<fs af='AstreliyA,n,any,sg,3,,obl,obl'>
+15	,	SYM	<fs af=',,punc,,,,,, '>
+16	keVnadA	NNP	<fs af='keVnadA,n,any,sg,3,,0,0'>|<fs af='keVnadA,n,any,sg,3,,obl,obl'>
+17	,	SYM	<fs af=',,punc,,,,,, '>
+18	APrikAlu	NNP	<fs af='APrikA,n,any,pl,3,,0,0'>|<fs af='APrikA,n,any,pl,3,,vu_agr,vu_agr'>
+19	annI	QF	<fs af='anni,pn,any,pl,3,,0,0_V'>
+20	pogulupadi	NN	<fs af='pogulupadi,unk,,,,,,'>
+21	laMdanu	NNP	<fs af='laMdan,n,any,sg,3,,0,0'>|<fs af='laMdan,n,any,sg,3,,obl,obl'>|<fs af='laMdanu,n,any,sg,3,,0,0'>|<fs af='laMdanu,n,any,sg,3,,obl,obl'>
+22	cerinE	NN	<fs af='ceru,v,any,any,any,,ina,ina'>
+23	;	SYM	<fs af=';,punc,,,,,, '>
+24	prayANaM	NN	<fs af='prayANaM,n,any,sg,3,,0,0'>
+25	ceVyyadAniki	VM	<fs af='ceVyyadaM,n,any,sg,3,,ki,ki'>
+26	dabbu	NN	<fs af='dabbu,n,any,sg,3,,0,0'>|<fs af='dabbu,n,any,sg,3,,obl,obl'>
+27	unnaa	NN	<fs af='unna,adj,,sg,,,obl,obl'>
+27	vAdallA	NN	<fs af='vAda,n,,pl,,,lA,lA'>
+28	wana	PRP	<fs af='wAnu,pn,mf,sg,3,,obl,obl'>
+29	padava	VM	<fs af='paduvu,v,any,any,any,,an,an'>|<fs af='padava,n,any,sg,3,,0,0'>|<fs af='padava,n,any,sg,3,,obl,obl'>
+30	laMdanu	NNP	<fs af='laMdan,n,any,sg,3,,0,0'>|<fs af='laMdan,n,any,sg,3,,obl,obl'>|<fs af='laMdanu,n,any,sg,3,,0,0'>|<fs af='laMdanu,n,any,sg,3,,obl,obl'>
+31	pattiMcAdu	VM	<fs af='pattiMcu,v,m,sg,3,,A,A'>
+32	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

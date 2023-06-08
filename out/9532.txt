@@ -1,0 +1,15 @@
+<Sentence id="9532">
+0	((	SSF
+1	cuttU	NST	<fs af='cuttu,n,any,sg,3,,0,0_V'>
+2	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+3	vaMxa	QC	<fs af='vaMxu,v,any,any,any,,an,an'>|<fs af='vaMxa,n,any,sg,3,,0,0'>|<fs af='vaMxa,n,any,sg,3,,obl,obl'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+6	vaMxala	NN	<fs af='vaMxa,n,any,pl,3,,obl,obl'>
+7	maMxi	CL	<fs af='maMxi,n,any,sg,3,,0,0'>|<fs af='maMxi,n,any,sg,3,,obl,obl'>|<fs af='maMxi,n,any,sg,3,,vu_agr,vu_agr'>
+8	kannulu	NN	<fs af='kannu,n,any,pl,3,,0,0'>|<fs af='kannu,n,any,pl,3,,vu_agr,vu_agr'>
+9	mirumitlu	NN	<fs af='mirumitlu,n,any,sg,3,,0,0'>|<fs af='mirumitlu,n,any,sg,3,,obl,obl'>
+10	koVnnAyi	VM	<fs af='koVnu,v,n,pl,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

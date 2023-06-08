@@ -1,0 +1,24 @@
+<Sentence id="6527">			
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	dAktaru	NN	<fs af='dAktar,n,any,sg,3,,0,0'>
+3	annAru	VM	<fs af='anu,v,any,pl,2,,A,A'>
+4	,	SYM	<fs af=',,punc,,,,,,'>
+5	"	SYM	<fs af='",punc,,,,,,'>
+6	sarEna	JJ	<fs af='sarEna,n,any,sg,3,,0,0'>'>
+7	cikiwsalo	NN	<fs af='cikiwsa,n,any,sg,3,,lo,lo'>
+8	cAlA	INTF	<fs af='cAlu,v,any,any,any,,i,i_A'>
+9	mattuku	NN	<fs af='mattu,n,any,sg,3,,ki,ki'>
+10	,	SYM	<fs af=',,punc,,,,,,'>
+11	eVmukalu	NN	<fs af='eVmuka,n,any,pl,3,,0,0'>
+12	awwukuMtAyi	VM	<fs af='awwuko,v,n,pl,3,,wA,wA'>
+13	,	SYM	<fs af=',,punc,,,,,,'>
+14	eVmukala	NN	<fs af='eVmuka,n,any,pl,3,,obl,obl'>
+15	sarEna	JJ	<fs af='sarEna,n,any,sg,3,,0,0'>'>
+16	parisWiwi	NN	<fs af='parisWiwi,n,any,sg,3,,0,0'>
+17	eVksare	NN	<fs af='eVksar,n,any,sg,3,,0,0_e'>
+18	xvArA	PSP	<fs af='xvArA,avy,,,,,,'>
+19	weVlusukovaccu	VM	<fs af='weVlusuko,v,any,any,any,,a_vaccu,a_vaccu'>
+20	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

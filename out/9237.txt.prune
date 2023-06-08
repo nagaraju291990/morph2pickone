@@ -1,0 +1,8 @@
+<Sentence id="9237">
+0	((	SSF	
+1	dAktarlu	NN	<fs af='dAktar,n,any,pl,3,,0,0'>|<fs af='dAktar,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='dAktaru,n,any,pl,3,,0,0'>|<fs af='dAktaru,n,any,pl,3,,vu_agr,vu_agr'>
+2	hqxayaM	NN	<fs af='hqxayaM,n,any,sg,3,,0,0'>
+3	pariSIliMcAru	VM	<fs af='pariSIliMcu,v,any,pl,2,,A,A'>|<fs af='pariSIliMcu,v,mf,pl,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

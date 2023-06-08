@@ -1,0 +1,13 @@
+<Sentence id="9160">
+0	((	SSF	
+1	memu	PRP	<fs af='memu,pn,any,pl,1,,0,0'>
+2	prayogaM	NN	<fs af='prayogaM,n,any,sg,3,,0,0'>
+3	(	SYM	<fs af='(,punc,,,,,,'>
+4	eVksparimeVMt	NN	<fs af='eVksparimeVMt,unk,,,,,,' poslcat="NM">
+5	)	SYM	<fs af='),punc,,,,,,'>
+6	cesi	VM	<fs af='ceVyyi,v,any,any,any,,i,i'>
+7	cUdavaleV	VM	<fs af='cUdu,v,any,any,any,,Ali,Ali'>
+8	aMtAmu	VM	<fs af='anu,v,any,pl,1,,wA,wA'>|<fs af='aMtu,v,any,pl,1,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

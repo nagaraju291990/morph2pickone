@@ -1,0 +1,20 @@
+<Sentence id="1585">			
+0	((	SSF	
+1	rANI	NNP	<fs af='rANi,n,any,sg,3,,0,0_V'>
+2	kAnIMdi	RP	<fs af='kAnIMdi,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='kAnIMdi,n,any,sg,3,,obl,obl' poslcat="NM">'>
+3	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+4	SAMwi	NNP	<fs af='SAMwi,n,any,sg,3,,0,0'>|<fs af='SAMwi,n,any,sg,3,,obl,obl'>
+5	kAnIMdi	RP	<fs af='kAnIMdi,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='kAnIMdi,n,any,sg,3,,obl,obl' poslcat="NM">'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	kamala	NNP	<fs af='kamala,n,any,sg,3,,0,0'>|<fs af='kamala,n,any,sg,3,,obl,obl'>
+8	kAnIMdi	RP	<fs af='kAnIMdi,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='kAnIMdi,n,any,sg,3,,obl,obl' poslcat="NM">'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	saroja	NNP	<fs af='saroja,n,any,sg,3,,0,0'>|<fs af='saroja,n,any,sg,3,,obl,obl'>
+11	kAnIMdi	RP	<fs af='kAnIMdi,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='kAnIMdi,n,any,sg,3,,obl,obl' poslcat="NM">'>
+12	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+13	vAlYlaki	PRP	<fs af='vAlYlu,pn,mf,pl,3,,ki,ki'>
+14	kAvAlsiMxi	VM	<fs af='kAvalayu,v,fn,sg,3,,A,A'>
+15	jFAnaM	NN	<fs af='jFAnaM,n,any,sg,3,,0,0'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

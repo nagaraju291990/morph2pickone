@@ -1,0 +1,83 @@
+<Sentence id="6841">
+0	((	SSF
+1	_	SYM
+2	_	SYM
+3	28	QC	<fs af='28,num,,,,,, '>
+4	_	SYM
+5	_	SYM
+6	0	QC	<fs af='0,num,,,,,, '>
+7	23	QC	<fs af='23,num,,,,,, '>
+8	_	SYM
+9	_	SYM
+10	16	QC	<fs af='16,num,,,,,, '>
+11	_	SYM
+12	_	SYM
+13	15	QC	<fs af='15,num,,,,,, '>
+14	_	SYM
+15	_	SYM
+16	17	QC	<fs af='17,num,,,,,, '>
+17	_	SYM
+18	_	SYM
+19	14	QC	<fs af='14,num,,,,,, '>|<fs af='va,avy,,,,,, '>
+20	_	SYM
+21	_	SYM
+22	14	QC	<fs af='14,num,,,,,, '>|<fs af='va,avy,,,,,, '>
+23	_	SYM
+24	_	SYM
+25	_	SYM
+26	_	SYM
+27	_	SYM
+28	_	SYM
+29	_	SYM
+30	_	SYM
+31	_	SYM
+32	_	SYM
+33	_	SYM
+34	_	SYM
+35	_	SYM
+36	_	SYM
+37	_	SYM
+38	_	SYM
+39	_	SYM
+40	_	SYM
+41	_	SYM
+42	_	SYM
+43	_	SYM
+44	_	SYM
+45	_	SYM
+46	_	SYM
+47	_	SYM
+48	_	SYM
+49	_	SYM
+50	_	SYM
+51	_	SYM
+52	_	SYM
+53	_	SYM
+54	_	SYM
+55	_	SYM
+56	_	SYM
+57	_	SYM
+58	_	SYM
+59	_	SYM
+60	_	SYM
+61	_	SYM
+62	_	SYM
+63	_	SYM
+64	_	SYM
+65	_	SYM
+66	_	SYM
+67	_	SYM
+68	pEruku	NN	<fs af='pEru,n,any,sg,3,,ki,ki'>
+69	eVruvula	NN	<fs af='eVruvu,n,any,pl,3,,obl,obl'>
+70	upayogaM	NN	<fs af='upayogaM,n,any,sg,3,,0,0'>
+71	*	SYM	<fs af='*,punc,,,,,, '>
+72	moVkkalu	NN	<fs af='moVkka,n,any,pl,3,,0,0'>|<fs af='moVkka,n,any,pl,3,,vu_agr,vu_agr'>
+73	lavaNAlanu	NN	<fs af='lavaNaM,n,any,pl,3,,ni,ni'>
+74	nela	NN	<fs af='nela,n,any,sg,3,,0,0'>|<fs af='nela,n,any,sg,3,,obl,obl'>|<fs af='neVyyi,n,any,pl,3,,obl,obl'>
+75	nuMdi	PSP	<fs af='nuMdi,avy,,,,,, '>
+76	verla	NN	<fs af='veru,n,any,pl,3,,obl,obl'>
+77	xvArA	PSP	<fs af='xvArA,avy,,,,,, '>
+78	wIsukuMtAyi	VM	<fs af='wIsuko,v,n,pl,3,,wA,wA'>|<fs af='wIsuko,v,n,pl,3,,wA,wA'>
+79	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

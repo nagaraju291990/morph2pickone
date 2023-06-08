@@ -1,0 +1,18 @@
+<Sentence id="9147">			
+0	((	SSF	
+1	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+2	mana	PRP	<fs af='manaM,pn,any,pl,1,,obl,obl'>
+3	xeSaMlo	NN	<fs af='xeSaM,n,any,sg,3,,lo,lo'>
+4	koVnnAlYlu	NN	<fs af='koVnnAlYlu,n,any,sg,3,,0,0'>|<fs af='koVnnAlYlu,n,any,sg,3,,vu_agr,vu_agr'>
+5	uMte	VM	<fs af='uMdu,v,any,any,any,,we,we'>
+6	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+7	xeSaM	NN	<fs af='xeSaM,n,any,sg,3,,0,0'>
+8	exo	WQ	<fs af='exi,pn,fn,sg,3,,0,0_o'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+11	eVvvaro	WQ	<fs af='eVvvaru,pn,mf,pl,3,,0,0_o'>
+12	kanukkovAlani	VM	<fs af='kanukko,v,any,any,any,,Ali_ani,Ali_ani'>
+13	uMxi	VAUX	<fs af='uMdu,v,fn,sg,3,,A,A' poslcat="NM">
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

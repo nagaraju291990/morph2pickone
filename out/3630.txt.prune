@@ -1,0 +1,24 @@
+<Sentence id="3630">
+0	((	SSF	
+1	nenu	PRP	<fs af='nenu,pn,any,sg,1,,0,0'>
+2	gucci	VM	<fs af='guccu,v,any,any,any,,i,i'>
+3	gucci	RDP	<fs af='guccu,v,any,any,any,,i,i' poslcat="NM">
+4	adigina	VM	<fs af='adugu,v,any,any,any,,ina,ina'>
+5	mIxata	NST	<fs af='mIxata,adv,any,any,any,,0_adv,0_adv'>
+6	AKariki	NN	<fs af='AKaru,n,any,sg,3,,ki,ki'>|<fs af='AKari,n,any,sg,3,,ki,ki'>
+7	bEjU	NNP	<fs af='bEjU,n,any,sg,3,,0,0'>|<fs af='bEjU,n,any,sg,3,,obl,obl'>
+8	mAmayya	NN	<fs af='mAmayya,n,any,sg,3,,0,0'>|<fs af='mAmayya,n,any,sg,3,,obl,obl'>
+9	wana	PRP	<fs af='wAnu,pn,mf,sg,3,,obl,obl'>
+10	jAwi	NN	<fs af='jAwi,n,any,sg,3,,0,0'>|<fs af='jAwi,n,any,sg,3,,obl,obl'>
+11	peru	NN	<fs af='peru,n,any,sg,3,,0,0'>|<fs af='peru,n,any,sg,3,,obl,obl'>
+12	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+13	grAmaM	NN	<fs af='grAmaM,n,any,sg,3,,0,0'>
+14	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+15	wana	PRP	<fs af='wAnu,pn,mf,sg,3,,obl,obl'>
+16	iMti	NN	<fs af='illu,n,any,sg,3,,obl,obl'>
+17	parisWiwi	NN	<fs af='parisWiwi,n,any,sg,3,,0,0'>|<fs af='parisWiwi,n,any,sg,3,,obl,obl'>
+18	annI	QF	<fs af='anni,pn,any,pl,3,,0,0_V' poslcat="NM">
+19	ceVppAdu	VM	<fs af='ceVppu,v,m,sg,3,,A,A'>
+20	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

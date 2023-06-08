@@ -1,0 +1,21 @@
+<Sentence id="2125">
+0	((	SSF	
+1	e	WQ	<fs af='e,avy,,,,,,'>
+2	puttalo	NN	<fs af='putta,n,any,sg,3,,lo,lo'>|<fs af='putta,n,any,pl,3,,0,0_o'>
+3	e	WQ	<fs af='e,avy,,,,,,'>
+4	pAmu	NN	<fs af='pAmu,n,any,sg,3,,0,0'>|<fs af='pAmu,n,any,sg,3,,obl,obl'>
+5	uMtuMxo	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA_o'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A_o'>
+6	anukoVni	VM	<fs af='anuko,v,any,any,any,,i,i'>
+7	_	SYM	<'>|<poslcat="NM"'>
+8	svAmI	NN	<fs af='svAmi,n,any,sg,3,,0,0_V'>
+9	!	SYM	<fs af='!,punc,,,,,,'>
+10	mIru	PRP	<fs af='mIru,pn,any,pl,2,,0,0'>
+11	xevulYlu	NN	<fs af='xevudu,n,any,pl,3,,0,0'>
+12	mammalni	PRP	<fs af='memu,pn,any,pl,1,,ni,ni'>
+13	kanikariMcaMdi	VM	<fs af='kanikariMcu,v,any,pl,2,,AjFArWa,AjFArWa'>
+14	ASIrvaxiMcaMdi	VM	<fs af='ASIrvaxiMcu,v,any,pl,2,,AjFArWa,AjFArWa'>
+15	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+16	vedukoVMtunnAmu	VM	<fs af='veduko,v,,pl,1,,wunn,wunn'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

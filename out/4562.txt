@@ -1,0 +1,6 @@
+<Sentence id="4562">
+0	((	SSF
+1	reNukanu	NNP	<fs af='reNuka,n,any,sg,3,,ni,ni'>|<fs af='reNuka,n,any,sg,3,,ni_agr,ni_agr'>
+2	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

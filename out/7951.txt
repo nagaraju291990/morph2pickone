@@ -1,0 +1,7 @@
+<Sentence id="7951">
+0	((	SSF
+1	paruvu	NN	<fs af='paruvu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='paruvu,n,any,sg,3,,0,0'>|<fs af='paruvu,n,any,sg,3,,obl,obl'>
+2	poyiMxi	VM	<fs af='po,v,fn,sg,3,,A,A'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

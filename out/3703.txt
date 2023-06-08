@@ -1,0 +1,15 @@
+<Sentence id="3703">
+0	((	SSF
+1	oxAruswU	VM	<fs af='oxAruvu,v,any,any,any,,wU,wU'>
+2	_	SYM
+3	"	SYM	<fs af='",punc,,,,,, '>
+4	cUdu	VM	<fs af='cUdu,v,any,sg,2,,AjFArWa,AjFArWa'>
+5	mAmA	NN	<fs af='mAma,n,any,sg,3,,0,0_A'>|<fs af='mAma,n,any,sg,3,,0,0_V'>
+6	!	SYM	<fs af='!,punc,,,,,, '>
+7	cAlA	INTF	<fs af='cAlu,v,any,any,any,,i,i_A'>
+8	peVxxavayasu	VM	<fs af='peVxxavayasu,n,any,sg,3,,0,0'>|<fs af='peVxxavayasu,n,any,sg,3,,obl,obl'>
+8	vAdavE	VM	<fs af='vAdavE,unk,,,,,,'>
+9	poyAvu	VAUX	<fs af='po,v,any,sg,2,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

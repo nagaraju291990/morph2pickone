@@ -1,0 +1,9 @@
+<Sentence id="465">			
+0	((	SSF	
+1	pagalu	NN	<fs af='paga,n,any,pl,3,,0,0'>|<fs af='paga,n,any,pl,3,,vu_agr,vu_agr'>
+2	cukkalu	NN	<fs af='cukka,n,any,pl,3,,0,0'>|<fs af='cukka,n,any,pl,3,,vu_agr,vu_agr'>
+3	eVMxuku	WQ	<fs af='eVMxuku,avy,,,,,,'>
+4	kanapadavu	VM	<fs af='kanapadu,v,any,sg,2,,a,a'>
+5	?	SYM	<fs af='?,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

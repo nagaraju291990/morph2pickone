@@ -1,0 +1,10 @@
+<Sentence id="3302">
+0	((	SSF
+1	tElar	NN	<fs af='tElar,n,any,sg,3,,0,0'>|<fs af='tElar,n,any,sg,3,,obl,obl'>|<fs af='ki,avy,,,,,, '>
+2	BArya	NN	<fs af='BArya,n,any,sg,3,,0,0'>|<fs af='BArya,n,any,sg,3,,obl,obl'>
+3	keVvvumani	VM	<fs af='keVvvumanu,v,any,any,any,,i,i'>
+4	keka	NN	<fs af='keka,n,any,sg,3,,0,0'>|<fs af='keka,n,any,sg,3,,obl,obl'>
+5	peVttiMxi	VM	<fs af='peVttu,v,fn,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

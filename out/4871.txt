@@ -1,0 +1,35 @@
+<Sentence id="4871">
+0	((	SSF
+1	cepa	NN	<fs af='cepu,v,any,any,any,,an,an'>|<fs af='cepa,n,any,sg,3,,0,0'>|<fs af='cepa,n,any,sg,3,,obl,obl'>
+2	viwwanAlu	NN	<fs af='viwwanaM,n,any,pl,3,,0,0'>|<fs af='viwwanaM,n,any,pl,3,,vu_agr,vu_agr'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	pillalu	NN	<fs af='pilla,n,any,pl,3,,0,0'>|<fs af='pilla,n,any,pl,3,,vu_agr,vu_agr'>
+5	_	SYM
+6	_	SYM
+7	_	SYM
+8	_	SYM
+9	_	SYM
+10	_	SYM
+11	_	SYM
+12	_	SYM
+13	_	SYM
+14	_	SYM
+15	_	SYM
+16	_	SYM
+17	_	SYM
+18	_	SYM
+19	_	SYM
+20	_	SYM
+21	_	SYM
+22	_	SYM
+23	_	SYM
+24	_	SYM
+25	muMxugA	NN	<fs af='muMxu,n,,sg,,,gA,gA'>
+26	narsarI	NN	<fs af='narsari,n,any,sg,3,,0,0_V'>
+27	ceVruvulalo	NN	<fs af='ceVruvu,n,any,pl,3,,lo,lo'>
+28	cepa	NN	<fs af='cepu,v,any,any,any,,an,an'>|<fs af='cepa,n,any,sg,3,,0,0'>|<fs af='cepa,n,any,sg,3,,obl,obl'>
+29	viwwanAlu	NN	<fs af='viwwanaM,n,any,pl,3,,0,0'>|<fs af='viwwanaM,n,any,pl,3,,vu_agr,vu_agr'>
+30	vesukovAli	VM	<fs af='veVyyi,v,any,any,any,,koVn_Ali,koVn_Ali'>
+31	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

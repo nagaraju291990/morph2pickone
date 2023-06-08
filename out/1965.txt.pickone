@@ -1,0 +1,26 @@
+<Sentence id="1965">			
+0	((	SSF	
+1	eVwwuku	NN	<fs af='eVwwu,n,any,sg,3,,ki,ki'>
+2	pE	NST	<fs af='pE,adj,any,any,any,,0_adj,0_adj'>
+3	eVwwu	NN	<fs af='eVwwu,n,any,sg,3,,0,0'>
+4	_	SYM	<fs af='<'>
+5	_	SYM	<fs af='<'>
+6	_	SYM	<fs af='<'>
+7	_	SYM	<fs af='<'>
+8	_	SYM	<fs af='<'>
+9	_	SYM	<fs af='<'>
+10	_	SYM	<fs af='<'>
+11	_	SYM	<fs af='<'>
+12	_	SYM	<fs af='<'>
+13	_	SYM	<fs af='<'>
+14	_	SYM	<fs af='<'>
+15	_	SYM	<fs af='<'>
+16	_	SYM	<fs af='<'>
+17	_	SYM	<fs af='<'>
+18	ciMwapAlYeVMlo	NNP	<fs af='ciMwapAlYeVM,n,any,sg,3,,lo,lo'>
+19	SInayya	NNP	<fs af='SInayya,n,any,sg,3,,0,0'>
+20	peVxxa	JJ	<fs af='peVxxa,adj,any,any,any,,0_adj,0_adj'>
+21	XanavaMwudu	NN	<fs af='XanavaMwudu,n,any,sg,3,,0,0'>
+22	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

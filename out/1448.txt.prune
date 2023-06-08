@@ -1,0 +1,20 @@
+<Sentence id="1448">
+0	((	SSF	
+1	bidda	NN	<fs af='bidda,n,any,sg,3,,0,0'>|<fs af='bidda,n,any,sg,3,,obl,obl'>
+2	ker_maMtU	VM	<fs af='ker_maMtU,unk,,,,,,' poslcat="NM">
+3	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+4	kAlYlU	NN	<fs af='kAlu,n,any,pl,3,,0,0_V'>|<fs af='kAlu,n,any,pl,3,,I,I'>|<fs af='kAdu,n,any,pl,3,,0,0_V'>|<fs af='kAdu,n,any,pl,3,,I,I'>|<fs af='kAdi,n,any,pl,3,,0,0_V'>|<fs af='kAdi,n,any,pl,3,,I,I'>
+5	cewulA	NN	<fs af='ceyi,n,any,pl,3,,0,0_A'>|<fs af='cewu,n,any,sg,3,,lA,lA'>|<fs af='cewu,n,any,pl,3,,0,0_A'>
+6	jAdiMcukoVMtU	VM	<fs af='jAdiMcu,v,any,any,any,,koVn_wU,koVn_wU'>
+7	BUmi	NN	<fs af='BUmi,n,any,sg,3,,0,0'>|<fs af='BUmi,n,any,sg,3,,obl,obl'>
+7	mIxa	NN	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+8	paduwuMxi	VM	<fs af='padu,v,fn,sg,3,,wA,wA'>|<fs af='pattu,v,fn,sg,3,,wA,wA'>|<fs af='paduwuMdu,v,fn,sg,3,,A,A'>
+9	!	SYM	<fs af='!,punc,,,,,,'>
+10	BUmi	NN	<fs af='BUmi,n,any,sg,3,,0,0'>|<fs af='BUmi,n,any,sg,3,,obl,obl'>
+10	mIxa	NN	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+11	biddaku	NN	<fs af='bidda,n,any,sg,3,,ki,ki'>
+12	AhAraM	NN	<fs af='AhAraM,n,any,sg,3,,0,0'>
+13	kAvAligA	VM	<fs af='kAvAligA,avy,,,,,,' poslcat="NM">
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

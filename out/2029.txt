@@ -1,0 +1,10 @@
+<Sentence id="2029">
+0	((	SSF
+1	polIsulaku	NN	<fs af='polIs,n,any,pl,3,,ki,ki'>|<fs af='polIsu,n,any,pl,3,,ki,ki'>
+2	awadu	PRP	<fs af='awadu,pn,,sg,,,0,0'>
+3	xoVMga	NN	<fs af='xoVMga,n,any,sg,3,,0,0'>|<fs af='xoVMga,n,any,sg,3,,obl,obl'>
+4	ani	UT	<fs af='ani,avy,,,,,, '>|<fs af='anu,v,any,any,any,,i,i'>
+5	weVlusu	VM	<fs af='weVlusu,avy,,,,,, '>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

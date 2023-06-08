@@ -1,0 +1,15 @@
+<Sentence id="6830">
+0	((	SSF
+1	sUtigA	RB	<fs af='sUti,adj,any,any,any,,gA_adj,gA_adj'>|<fs af='sUti,n,any,sg,3,,gA,gA'>
+2	vese	VM	<fs af='veVyyi,v,any,any,any,,e,e'>|<fs af='veVyyi,v,any,any,any,,i,i_e'>
+3	eVruvulu	NN	<fs af='eVruvu,n,any,pl,3,,0,0'>|<fs af='eVruvu,n,any,pl,3,,vu_agr,vu_agr'>
+4	vItilo	PRP	<fs af='ixi,pn,fn,pl,3,,lo,lo'>|<fs af='vIdu,n,any,sg,3,,lo,lo'>
+5	oVke	JJ	<fs af='oVke,avy,,,,,, '>
+6	rakAniki	NN	<fs af='rakaM,n,any,sg,3,,ki,ki'>
+7	ceVMxina	VM	<fs af='ceVMxu,v,any,any,any,,ina,ina'>
+8	poRaka	NN	<fs af='poRaka,adj,any,any,any,,0_adj,0_adj'>|<fs af='poRakaM,n,any,sg,3,,obl,obl'>|<fs af='poRakudu,n,any,sg,3,,obl,obl'>
+9	paxArWaM	NN	<fs af='paxi,n,any,sg,3,,kosaM,kosaM'>|<fs af='paxaM,n,any,sg,3,,kosaM,kosaM'>|<fs af='paxArWaM,n,any,sg,3,,0,0'>
+10	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,22 @@
+<Sentence id="2239">
+0	((	SSF
+1	iMwakaMte	PRP	<fs af='iMwa,pn,any,sg,3,,kaMteV,kaMteV'>|<fs af='iMwa,n,any,sg,3,,kaMteV,kaMteV'>|<fs af='iMwaki,n,any,sg,3,,aMte,aMte'>
+2	sulaBamEna	JJ	<fs af='sulaBaM,n,any,sg,3,,Ena,Ena'>
+3	saMpAxana	NN	<fs af='saMpAxana,n,any,sg,3,,0,0'>|<fs af='saMpAxana,n,any,sg,3,,obl,obl'>|<fs af='saMpAxanaM,n,any,sg,3,,obl,obl'>
+4	uMtuMxA	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA_A'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A_A'>
+5	!	SYM	<fs af='!,punc,,,,,, '>
+6	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+7	koVbbari	NN	<fs af='koVbbari,n,any,sg,3,,0,0'>|<fs af='koVbbari,n,any,sg,3,,obl,obl'>
+8	moVlakalu	NN	<fs af='moVlaka,n,any,pl,3,,0,0'>|<fs af='moVlaka,n,any,pl,3,,vu_agr,vu_agr'>
+9	nAtaMdi	VM	<fs af='nAtu,v,any,pl,2,,AjFArWa,AjFArWa'>
+10	cAlu	VAUX	<fs af='cAlu,avy,,,,,, '>|<fs af='cAlu,v,any,sg,2,,AjFArWa,AjFArWa'>
+11	!	SYM	<fs af='!,punc,,,,,, '>
+12	*	SYM	<fs af='*,punc,,,,,, '>
+13	*	SYM	<fs af='*,punc,,,,,, '>
+14	*	SYM	<fs af='*,punc,,,,,, '>
+15	*	SYM	<fs af='*,punc,,,,,, '>
+16	*	SYM	<fs af='*,punc,,,,,, '>
+17	*	SYM	<fs af='*,punc,,,,,, '>
+18	*	SYM	<fs af='*,punc,,,,,, '>
+))
+</Sentence>

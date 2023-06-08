@@ -1,0 +1,22 @@
+<Sentence id="2481">			
+0	((	SSF	
+1	I	DEM	<fs af='I,avy,,,,,,'>
+2	paMtanu	NN	<fs af='paMta,n,any,sg,3,,ni,ni'>
+3	I	DEM	<fs af='I,avy,,,,,,'>
+4	maXyane	NST	<fs af='maXya,n,any,sg,3,,ni,ni_e'>
+5	mana	PRP	<fs af='manaM,pn,any,pl,1,,obl,obl'>
+6	rARtraMlo	NN	<fs af='rARtraM,n,any,sg,3,,lo,lo'>
+7	kqRNA	NNP	<fs af='kqRNa,n,any,sg,3,,0,0_A'>
+8	,	SYM	<fs af=',,punc,,,,,,'>
+9	guMtUru	NNP	<fs af='guMtUru,n,any,sg,3,,0,0'>
+10	,	SYM	<fs af=',,punc,,,,,,'>
+11	karnUlu	NNP	<fs af='karnUl,n,any,sg,3,,0,0'>
+12	,	SYM	<fs af=',,punc,,,,,,'>
+13	axilAbAxu	NNP	<fs af='axilAbAxu,n,any,sg,3,,0,0'>
+14	,	SYM	<fs af=',,punc,,,,,,'>
+15	nijAmAbAxu	NNP	<fs af='nijAmAbAx,n,any,sg,3,,0,0'>
+16	jillAlalo	NN	<fs af='jillA,n,any,pl,3,,lo,lo'>
+17	paMdiswunnAru	VM	<fs af='paMdiMcu,v,any,pl,2,,wunn,wunn'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

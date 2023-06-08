@@ -1,0 +1,11 @@
+<Sentence id="2478">			
+0	((	SSF	
+1	koVduku	NN	<fs af='koVduku,n,,sg,,,0,0'>|<fs af='koVduku,n,,sg,,,obl,obl'>
+1	EnA	NN	<fs af='EnA,avy,,,,,,' poslcat="NM">
+2	kUwuri	NN	<fs af='kUwuru,n,,sg,,,obl,obl'>
+2	EnA	NN	<fs af='EnA,avy,,,,,,' poslcat="NM">
+3	oVkate	RP	<fs af='oVkati,n,any,sg,3,,0,0_e' poslcat="NM">
+4	annAdu	VM	<fs af='anu,v,m,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

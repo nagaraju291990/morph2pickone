@@ -1,0 +1,8 @@
+<Sentence id="8310">
+0	((	SSF
+1	mArkeVt_yArdulo	NN	<fs af='mArkeVt_yArdulo,unk,,,,,,'>
+2	ammadaM	VM	<fs af='ammu,v,any,any,any,,adaM,adaM'>|<fs af='ammadaM,n,any,sg,3,,0,0'>
+3	melu	NN	<fs af='me,n,any,pl,3,,0,0'>|<fs af='me,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='melu,n,any,sg,3,,0,0'>|<fs af='menu,n,any,pl,3,,0,0'>|<fs af='menu,n,any,pl,3,,vu_agr,vu_agr'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

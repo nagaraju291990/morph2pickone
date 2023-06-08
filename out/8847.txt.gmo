@@ -1,0 +1,10 @@
+<Sentence id="8847">			
+0	((	SSF	
+1	nijame	VM	<fs af='nijaM,n,any,sg,3,,0,0_e' poslcat="NM">
+1	aMte	VM	<fs af='anu,v,any,any,any,,we,we'>|<fs af='aMtu,v,any,any,any,,e,e'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	nijame	VM	<fs af='nijaM,n,any,sg,3,,0,0_e' poslcat="NM">
+3	annAru	VM	<fs af='anu,v,any,pl,2,,A,A'>|<fs af='anu,v,mf,pl,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

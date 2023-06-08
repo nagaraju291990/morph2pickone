@@ -1,0 +1,46 @@
+<Sentence id="8472">
+0	((	SSF	
+1	lalo	RP	<fs af='lali,n,any,sg,3,,0,0_o' poslcat="NM">
+2	)	SYM	<fs af='),punc,,,,,,'>
+3	gUdUru	NNP	<fs af='gUdUru,n,any,sg,3,,0,0'>
+4	-	SYM	<'>|<poslcat="NM"'>
+5	38	QC	<fs af='38,num,,,,,,'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	nAyudupeta	NNP	<fs af='nAyudupeta,n,any,sg,3,,0,0'>|<fs af='nAyudupeta,n,any,sg,3,,obl,obl'>
+8	-	SYM	<'>|<poslcat="NM"'>
+9	68	QC	<fs af='68,num,,,,,,'>
+10	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+11	sUlYlYUrupeta	NNP	<fs af='sUlYlYUrupeta,n,any,sg,3,,0,0'>|<fs af='sUlYlYUrupeta,n,any,sg,3,,obl,obl'>
+12	-	SYM	<'>|<poslcat="NM"'>
+13	100	QC	<fs af='100,num,,,,,,'>
+14	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+15	wada	NNP	<fs af='wada,n,any,sg,3,,0,0'>|<fs af='wada,n,any,sg,3,,obl,obl'>
+16	-	SYM	<'>|<poslcat="NM"'>
+17	113	QC	<fs af='113,num,,,,,,'>
+18	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+19	kAvali	NNP	<fs af='kAvali,n,any,sg,3,,0,0'>|<fs af='kAvali,n,any,sg,3,,obl,obl'>
+20	-	SYM	<'>|<poslcat="NM"'>
+21	53	QC	<fs af='53,num,,,,,,'>
+22	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+23	AwmakUru	NNP	<fs af='AwmakUru,n,any,sg,3,,0,0'>|<fs af='AwmakUru,n,any,sg,3,,obl,obl'>
+24	-	SYM	<'>|<poslcat="NM"'>
+25	52	QC	<fs af='52,num,,,,,,'>
+26	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+27	poVxalakUru	NNP	<fs af='poVxalakUru,n,any,sg,3,,0,0'>
+28	-	SYM	<'>|<poslcat="NM"'>
+29	35	QC	<fs af='35,num,,,,,,'>
+30	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+31	rAvUru	NNP	<fs af='rAvUru,n,any,sg,3,,0,0'>
+32	-	SYM	<'>|<poslcat="NM"'>
+33	59	QC	<fs af='59,num,,,,,,'>
+34	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+35	veVMkatagiri	NNP	<fs af='veVMkatagiri,n,any,sg,3,,0,0'>|<fs af='veVMkatagiri,n,any,sg,3,,obl,obl'>
+36	-	SYM	<'>|<poslcat="NM"'>
+37	89	QC	<fs af='89,num,,,,,,'>
+38	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+39	SrIharikota	NNP	<fs af='SrIharikota,n,any,sg,3,,0,0'>|<fs af='SrIharikota,n,any,sg,3,,obl,obl'>
+40	-	SYM	<'>|<poslcat="NM"'>
+41	121	QC	<fs af='121,num,,,,,,'>
+42	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

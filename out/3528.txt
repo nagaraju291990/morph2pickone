@@ -1,0 +1,22 @@
+<Sentence id="3528">
+0	((	SSF
+1	oVka	NN	<fs af='oVka,adj,,,,,0,0_adj'>
+1	velYa	NN	<fs af='velYa,n,,sg,,,0,0'>|<fs af='velYa,n,,sg,,,obl,obl'>
+2	awadu	PRP	<fs af='awadu,pn,,sg,,,0,0'>
+3	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+4	30rU	QC	<fs af='30rU,unk,,,,,,'>
+5	nagaxu	NN	<fs af='nagaxu,n,any,sg,3,,0,0'>|<fs af='nagaxu,n,any,sg,3,,obl,obl'>
+6	oVkesArigA	NN	<fs af='oVkesArigA,avy,,,,,0,0_avy'>
+7	saMpAxiMcagaligi	NN	<fs af='saMpAxiMcagaligi,unk,,,,,,'>
+8	uMte	VAUX	<fs af='uMdu,v,any,any,any,,we,we'>
+9	awadu	PRP	<fs af='awadu,pn,,sg,,,0,0'>
+10	A	DEM	<fs af='A,avy,,,,,, '>
+11	jElu	NN	<fs af='jElu,n,any,sg,3,,0,0'>
+12	xarixApulaki	NN	<fs af='xarixApu,n,any,pl,3,,ki,ki'>
+13	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+14	vacci	VM	<fs af='vaccu,v,any,any,any,,i,i'>
+15	uMdevAdu	VM	<fs af='uMdu,v,any,any,any,,e_vAdu,e_vAdu'>|<fs af='uMdevAdu,pn,m,sg,3,,0,0'>
+16	kAxu	VAUX	<fs af='avvu,v,fn,sg,3,,a,a'>
+17	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

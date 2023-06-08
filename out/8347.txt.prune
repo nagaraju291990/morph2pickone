@@ -1,0 +1,20 @@
+<Sentence id="8347">
+0	((	SSF	
+1	eVMwomaMxi	QF	<fs af='eVMwomaMxi,n,any,sg,3,,0,0'>|<fs af='eVMwomaMxi,n,any,sg,3,,obl,obl'>|<fs af='eVMwomaMxi,n,any,sg,3,,vu_agr,vu_agr'>
+2	Bakwulu	NN	<fs af='Bakwi,n,any,pl,3,,0,0'>|<fs af='Bakwudu,n,any,pl,3,,0,0'>|<fs af='Bakwudu,n,any,pl,3,,vu_agr,vu_agr'>
+3	beVllaM	NN	<fs af='beVl,n,any,pl,3,,ni_agr,ni_agr'>|<fs af='beVllaM,n,any,sg,3,,0,0'>
+4	pAnakaM	NN	<fs af='pAnakaM,n,any,sg,3,,0,0'>
+5	svAmiki	NN	<fs af='svAmi,n,any,sg,3,,ki,ki'>
+6	svAmi	NN	<fs af='svAmi,n,any,sg,3,,0,0'>|<fs af='svAmi,n,any,sg,3,,obl,obl'>
+7	nEvexyaM	NN	<fs af='nEvexyaM,n,any,sg,3,,0,0'>
+8	peVduwunnA	VM	<fs af='peVttu,v,any,any,any,,wunnA,wunnA'>|<fs af='peVduwuMdu,v,any,any,any,,inA,inA'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+11	cIma	NN	<fs af='cImu,n,any,sg,3,,obl,obl'>|<fs af='cIma,n,any,sg,3,,0,0'>|<fs af='cIma,n,any,sg,3,,obl,obl'>
+12	kUdA	PSP	<fs af='kUdA,avy,,,,,,' poslcat="NM">|<fs af='kUdu,v,any,any,any,,i,i_A' poslcat="NM">|<fs af='kUdu,n,any,sg,3,,0,0_A' poslcat="NM">
+13	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+14	prAMwaMlo	NN	<fs af='prAMwaM,n,any,sg,3,,lo,lo'>
+15	kanipiMcaxu	VM	<fs af='kanipiMcu,v,fn,sg,3,,a,a'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

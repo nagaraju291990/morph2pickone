@@ -1,0 +1,11 @@
+<Sentence id="7551">
+0	((	SSF	
+1	vAdu	PRP	<fs af='vAdu,pn,m,sg,3,,0,0'>
+2	cese	VM	<fs af='ceVyyi,v,any,any,any,,e,e'>|<fs af='ceVyyi,v,any,any,any,,i,i_e'>
+3	panulu	NN	<fs af='pani,n,any,pl,3,,0,0'>|<fs af='pani,n,any,pl,3,,vu_agr,vu_agr'>
+4	kUdA	PSP	<fs af='kUdA,avy,,,,,,' poslcat="NM">|<fs af='kUdu,v,any,any,any,,i,i_A' poslcat="NM">|<fs af='kUdu,n,any,sg,3,,0,0_A' poslcat="NM">
+5	alAge	RB	<fs af='alAge,avy,,,,,,' poslcat="NM">
+6	uMdevi	VM	<fs af='uMdexi,pn,any,pl,3,,0,0' poslcat="NM">
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

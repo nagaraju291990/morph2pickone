@@ -1,0 +1,15 @@
+<Sentence id="9643">			
+0	((	SSF	
+1	Ayanaku	PRP	<fs af='Ayana,pn,m,sg,3,,ki,ki'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	odalu	NN	<fs af='oda,n,any,pl,3,,0,0'>|<fs af='oda,n,any,pl,3,,vu_agr,vu_agr'>
+4	xAkA	PSP	<fs af='xAka,n,any,sg,3,,0,0_A' poslcat="NM">'>|<fs af='xAka,n,any,sg,3,,0,0_V' poslcat="NM">'>
+5	motAru	NN	<fs af='motAru,n,any,sg,3,,0,0'>|<fs af='motAru,n,any,sg,3,,obl,obl'>
+6	pogA	VM	<fs af='po,v,any,any,any,,a_gA,a_gA'>|<fs af='pogu,v,any,any,any,,i,i_A'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	Wemsu	NNP	<fs af='Wemsu,n,any,sg,3,,0,0'>|<fs af='Wemsu,n,any,sg,3,,obl,obl'>
+9	naxi	NN	<fs af='naxi,n,any,sg,3,,0,0'>|<fs af='naxi,n,any,sg,3,,obl,obl'>
+10	kanipiMciMxi	VM	<fs af='kanipiMcu,v,fn,sg,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

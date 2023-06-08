@@ -1,0 +1,24 @@
+<Sentence id="8550">
+0	((	SSF
+1	polIsuvAlYlanu	NN	<fs af='polIsu,n,,pl,,,vAlYlu_ni,vAlYlu_ni' deri_cat='pn'>
+2	RUt	NN	<fs af='RUt,n,any,sg,3,,0,0'>|<fs af='RUt,n,any,sg,3,,obl,obl'>
+3	ceseMxuku	VM	<fs af='ceVyyi,v,any,any,any,,e_eMxuku,e_eMxuku'>
+4	wayArugA	RB	<fs af='wayAru,n,any,sg,3,,gA,gA'>
+5	wupAkulawo	NN	<fs af='wupAki,n,any,pl,3,,wo,wo'>
+6	jaMwuvu	NN	<fs af='jaMwuvu,n,any,sg,3,,0,0'>|<fs af='jaMwuvu,n,any,sg,3,,obl,obl'>
+7	cuttU	PSP	<fs af='cuttu,n,any,sg,3,,0,0_V'>
+8	iruvaxi	QC	<fs af='iruvaxi,n,any,sg,3,,0,0'>|<fs af='iruvaxi,n,any,sg,3,,obl,obl'>
+9	gajAla	NN	<fs af='gajaM,n,any,pl,3,,obl,obl'>
+10	xUraMlo	NN	<fs af='xUraM,n,any,sg,3,,lo,lo'>
+11	nilcuMdabeVtti	VM	<fs af='nilcu,v,any,any,any,,i_uMdu_a_beVttu_i,i_uMdu_a_beVttu_i'>
+12	,	SYM	<fs af=',,punc,,,,,, '>
+13	meyarU	NN	<fs af='meyar,n,any,sg,3,,0,0_V'>|<fs af='meyar,n,any,pl,3,,0,0_V'>|<fs af='meyaru,n,any,sg,3,,0,0_V'>
+14	marikoVMxaru	PRP	<fs af='marikoVMxaru,pn,mf,pl,3,,0,0'>
+15	goVppavArU	NN	<fs af='goVppavAru,pn,mf,pl,3,,0,0_V'>
+16	,	SYM	<fs af=',,punc,,,,,, '>
+17	jaMwuvu	NN	<fs af='jaMwuvu,n,any,sg,3,,0,0'>|<fs af='jaMwuvu,n,any,sg,3,,obl,obl'>
+18	xaggaraku	NN	<fs af='xaggara,adv,any,any,any,,0,0_adv_ku'>
+19	nadicAru	VM	<fs af='naduvu,v,any,pl,2,,A,A'>|<fs af='naduvu,v,mf,pl,3,,A,A'>
+20	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,12 @@
+<Sentence id="6565">
+0	((	SSF
+1	puritilo	NN	<fs af='puriti,n,any,sg,3,,lo,lo'>
+2	biddanu	NN	<fs af='bidda,n,any,sg,3,,ni,ni'>|<fs af='bidda,n,any,sg,3,,ni_agr,ni_agr'>
+3	aswavyaswaMgA	RB	<fs af='aswavyaswaM,n,any,sg,3,,gA,gA'>
+4	lAgataM	VM	<fs af='lAgu,v,any,any,any,,adaM,adaM'>|<fs af='lAgataM,n,any,sg,3,,0,0'>
+5	vaMti	JJ	<fs af='vaMti,adj,any,any,any,,0_adj,0_adj'>
+6	caryalu	NN	<fs af='carya,n,any,pl,3,,0,0'>|<fs af='carya,n,any,pl,3,,vu_agr,vu_agr'>
+7	ceyataM	VM	<fs af='ceVyyi,v,any,any,any,,adaM,adaM'>|<fs af='ceyataM,n,any,sg,3,,0,0'>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

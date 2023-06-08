@@ -1,0 +1,24 @@
+<Sentence id="8542">
+0	((	SSF	
+1	maroVkadu	PRP	<fs af='maroVkadu,pn,,sg,,,0,0'>
+2	"	SYM	<fs af='",punc,,,,,,'>
+3	Ewe	RP	<fs af='avvu,v,any,any,any,,we,we' poslcat="NM">
+4	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+5	mqgaM	NN	<fs af='mqgaM,n,any,sg,3,,0,0'>
+6	oVMti	NN	<fs af='oVllu,n,,sg,,,obl,obl'>
+6	niMdA	VM	<fs af='niMdu,v,any,any,any,,i_A,i_A'>
+7	inni	QF	<fs af='inni,pn,any,pl,3,,0,0' poslcat="NM">
+8	nagalu	NN	<fs af='naga,n,any,pl,3,,0,0'>|<fs af='naga,n,any,pl,3,,vu_agr,vu_agr'>
+9	eVkkadanuMci	NN	<fs af='eVkkada,n,,sg,,,niMci,niMci'>
+10	vaswAyi	VM	<fs af='vaccu,v,n,pl,3,,wA,wA'>
+11	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+12	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+13	nagalu	NN	<fs af='naga,n,any,pl,3,,0,0'>|<fs af='naga,n,any,pl,3,,vu_agr,vu_agr'>
+14	cAlA	INTF	<fs af='cAlu,v,any,any,any,,i,i_A' poslcat="NM">
+15	KarIxu	NN	<fs af='KarIxu,n,any,sg,3,,0,0'>|<fs af='KarIxu,n,any,sg,3,,obl,obl'>
+16	kalave	VM	<fs af='uMdu,v,any,sg,2,,A,A_e'>|<fs af='uMdu,v,n,pl,3,,A,A_e'>
+17	"	SYM	<fs af='",punc,,,,,,'>
+18	annAdu	VM	<fs af='anu,v,m,sg,3,,A,A'>
+19	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

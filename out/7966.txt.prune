@@ -1,0 +1,11 @@
+<Sentence id="7966">
+0	((	SSF	
+1	vArini	PRP	<fs af='vAru,pn,mf,pl,3,,ni,ni'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	sAmAnulanU	NN	<fs af='sAmAnu,n,any,pl,3,,ni,ni_V'>
+4	wIsukuni	VM	<fs af='wIsuko,v,any,any,any,,i,i'>|<fs af='wIsuko,v,any,any,any,,i,i'>
+5	liMgAla	NNP	<fs af='liMgaM,n,any,pl,3,,obl,obl'>
+6	cerAnu	VM	<fs af='ceru,v,any,sg,1,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

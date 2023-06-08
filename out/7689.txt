@@ -1,0 +1,8 @@
+<Sentence id="7689">
+0	((	SSF
+1	manasulone	NN	<fs af='manasu,n,any,sg,3,,lo,lo_e'>
+2	ammanu	NN	<fs af='ammu,v,any,sg,1,,a,a'>|<fs af='amma,n,any,sg,3,,ni,ni'>|<fs af='amma,n,any,sg,3,,ni_agr,ni_agr'>
+3	wittukunnAnu	NN	<fs af='wittu,n,,sg,1,,koVn_A,koVn_A' deri_cat='v'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

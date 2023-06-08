@@ -1,0 +1,21 @@
+<Sentence id="2877">
+0	((	SSF	
+1	maMxa	JJ	<fs af='maMxa,adj,any,any,any,,0_adj,0_adj'>
+1	buxXulEna	JJ	<fs af='buxXa,adj,any,any,any,,vArEna_adj,vArEna_adj'>
+2	vixyArXulu	NN	<fs af='vixyArXi,n,any,pl,3,,0,0'>
+3	bAgA	RB	<fs af='bAgA,avy,,,,,,' poslcat="NM">
+4	pariSrama	NN	<fs af='pariSrama,n,any,sg,3,,0,0'>|<fs af='pariSrama,n,any,sg,3,,obl,obl'>
+5	cesi	VM	<fs af='ceVyyi,v,any,any,any,,i,i'>
+6	vacce	VM	<fs af='vaccu,v,any,any,any,,e,e'>|<fs af='vaccu,v,any,any,any,,i,i_e'>
+7	parIkRalo	NN	<fs af='parIkRa,n,any,sg,3,,lo,lo'>|<fs af='parIkRa,n,any,pl,3,,0,0_o'>
+8	koVMceVmu	QF	<fs af='koVMceVM,n,any,sg,3,,0,0'>
+9	mArkulu	NN	<fs af='mArk,n,any,pl,3,,0,0'>|<fs af='mArk,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='mArku,n,any,pl,3,,0,0'>|<fs af='mArku,n,any,pl,3,,vu_agr,vu_agr'>
+10	eVkkuvagA	RB	<fs af='eVkkuva,adj,any,any,any,,gA_adj,gA_adj' poslcat="NM">
+11	saMpAxiswe	VM	<fs af='saMpAxiMcu,v,any,any,any,,we,we'>
+12	vAlYlaMxarinI	PRP	<fs af='vAlYlaMxaru,pn,mf,pl,3,,ni,ni_V'>
+13	bApU	NNP	<fs af='bApu,n,any,sg,3,,0,0_V'>
+14	bAgA	RB	<fs af='bAgA,avy,,,,,,' poslcat="NM">
+15	meVccukoVnevAru	VM	<fs af='meVccuko,v,,pl,,,e_vAru_vu,e_vAru_vu' deri_cat=pn>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

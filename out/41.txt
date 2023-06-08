@@ -1,0 +1,8 @@
+<Sentence id="41">
+0	((	SSF
+1	gukka	VM	<fs af='gukka,n,any,sg,3,,0,0'>|<fs af='gukka,n,any,sg,3,,obl,obl'>
+1	wippukokuMdA	VM	<fs af='wippukokuMdA,unk,,,,,,'>
+2	edavasAgAdu	VM	<fs af='edavasAgu,v,m,sg,3,,A,A'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

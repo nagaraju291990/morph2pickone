@@ -1,0 +1,15 @@
+<Sentence id="161">
+0	((	SSF
+1	eVMwa	WQ	<fs af='eVMwa,pn,any,sg,3,,0,0'>
+2	maMci	NN	<fs af='maMci,adj,any,any,any,,0_adj,0_adj'>
+2	mAta	NN	<fs af='mAta,n,any,sg,3,,0,0'>|<fs af='mAta,n,any,sg,3,,obl,obl'>
+3	!	SYM	<fs af='!,punc,,,,,, '>
+4	mA	PRP	<fs af='memu,pn,any,pl,1,,obl,obl'>
+5	amma	NN	<fs af='ammu,v,any,any,any,,an,an'>|<fs af='amma,n,any,sg,3,,0,0'>|<fs af='amma,n,any,sg,3,,obl,obl'>
+6	caxuvukoVni	VM	<fs af='caxuvu,v,any,any,any,,koVn_i,koVn_i'>
+7	uMte	VAUX	<fs af='uMdu,v,any,any,any,,we,we'>
+8	eVMwa	WQ	<fs af='eVMwa,pn,any,sg,3,,0,0'>
+9	bAguMdexi	VM	<fs af='bAguMdu,v,any,any,any,,e_axi,e_axi'>|<fs af='bAguMdexi,pn,any,sg,3,,0,0'>
+10	?	SYM	<fs af='?,punc,,,,,, '>
+))
+</Sentence>

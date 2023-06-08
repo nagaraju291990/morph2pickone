@@ -1,0 +1,21 @@
+<Sentence id="2878">
+0	((	SSF	
+1	nAlugu	QC	<fs af='nAlugu,n,any,sg,3,,0,0'>|<fs af='nAlugu,n,any,sg,3,,obl,obl'>|<fs af='nAlugu,num,any,any,any,,0,0'>
+2	_	SYM	<'>|<poslcat="NM"'>
+3	_	SYM	<'>|<poslcat="NM"'>
+4	_	SYM	<'>|<poslcat="NM"'>
+5	_	SYM	<'>|<poslcat="NM"'>
+6	_	SYM	<'>|<poslcat="NM"'>
+7	_	SYM	<'>|<poslcat="NM"'>
+8	_	SYM	<'>|<poslcat="NM"'>
+9	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+10	saMGatana	NN	<fs af='saMGatana,n,any,sg,3,,0,0'>|<fs af='saMGatana,n,any,sg,3,,obl,obl'>|<fs af='saMGatanaM,n,any,sg,3,,obl,obl'>
+11	enAtixaMte	NN	<fs af='enAdu,n,,sg,,,xi_aMte,xi_aMte' deri_cat=pn>
+12	bApU	NNP	<fs af='bApu,n,any,sg,3,,0,0_V'>
+13	xakRiNAPrikAlo	NNP	<fs af='xakRiNAPrikA,n,any,sg,3,,lo,lo'>|<fs af='xakRiNAPrikA,n,any,pl,3,,0,0_o'>
+14	vakIlugA	RB	<fs af='vakIlu,n,any,sg,3,,gA,gA' poslcat="NM">
+15	unnappudu	VM	<fs af='uMdu,v,any,any,any,,ina_appudu,ina_appudu'>
+16	jarigiMxi	VM	<fs af='jarugu,v,fn,sg,3,,A,A'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

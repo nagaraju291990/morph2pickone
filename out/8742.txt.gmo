@@ -1,0 +1,15 @@
+<Sentence id="8742">			
+0	((	SSF	
+1	wupAki	NN	<fs af='wupAki,n,any,sg,3,,0,0'>|<fs af='wupAki,n,any,sg,3,,obl,obl'>
+2	aMxipuccukunevANNi	VM	<fs af='aMxipuccuko,v,,sg,,,e_vAdu_nu,e_vAdu_nu' deri_cat=pn>
+3	wupAki	NN	<fs af='wupAki,n,any,sg,3,,0,0'>|<fs af='wupAki,n,any,sg,3,,obl,obl'>
+4	madamawo	NN	<fs af='madama,n,any,sg,3,,wo,wo'>
+5	wosiMxi	VM	<fs af='woVyyi,v,fn,sg,3,,A,A'>
+6	kAbolu	RP	<fs af='kAbolu,avy,,,,,,'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	vAdu	PRP	<fs af='vAdu,pn,m,sg,3,,0,0'>
+9	veVllakila	NN	<fs af='veVllakila,avy,,,,,0,0_avy' poslcat="NM">
+10	paddAdu	VM	<fs af='padu,v,m,sg,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

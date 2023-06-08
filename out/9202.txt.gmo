@@ -1,0 +1,10 @@
+<Sentence id="9202">			
+0	((	SSF	
+1	kAlYlu	NN	<fs af='kAlu,n,any,pl,3,,0,0'>|<fs af='kAlu,n,any,pl,3,,vu_agr,vu_agr'>
+2	reVMdU	QC	<fs af='reVMdu,n,any,sg,3,,0,0_V'>|<fs af='reVMdu,num,any,any,any,,V,V'>
+3	xaggaragA	RB	<fs af='xaggaragA,avy,,,,,,' poslcat="NM">
+4	peVtti	VM	<fs af='peVttu,v,any,any,any,,i,i'>
+5	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

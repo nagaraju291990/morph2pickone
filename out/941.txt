@@ -1,0 +1,7 @@
+<Sentence id="941">
+0	((	SSF
+1	poVMdi	VM	<fs af='po,v,any,pl,2,,AjFArWa,AjFArWa'>
+2	poVMdi	RDP	<fs af='po,v,any,pl,2,,AjFArWa,AjFArWa'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

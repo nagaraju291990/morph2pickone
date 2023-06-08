@@ -1,0 +1,15 @@
+<Sentence id="762">
+0	((	SSF	
+1	cukkakUra	NN	<fs af='cukkakUra,n,any,sg,3,,0,0'>|<fs af='cukkakUra,n,any,sg,3,,obl,obl'>
+2	Exu	QC	<fs af='Exu,n,any,sg,3,,0,0'>|<fs af='Exu,n,any,sg,3,,obl,obl'>|<fs af='Exu,num,any,any,any,,0,0'>
+3	seVMtla	NN	<fs af='seVMt,n,any,pl,3,,obl,obl'>
+4	nelalo	NN	<fs af='nela,n,any,sg,3,,lo,lo'>|<fs af='nela,n,any,pl,3,,0,0_o'>|<fs af='neVyyi,n,any,pl,3,,lo,lo'>
+5	Exu	QC	<fs af='Exu,n,any,sg,3,,0,0'>|<fs af='Exu,n,any,sg,3,,obl,obl'>|<fs af='Exu,num,any,any,any,,0,0'>
+6	kilola	NN	<fs af='kilo,n,,pl,,,obl,obl'>
+7	giMjalu	NN	<fs af='giMja,n,any,pl,3,,0,0'>|<fs af='giMja,n,any,pl,3,,vu_agr,vu_agr'>
+8	vesi	VM	<fs af='veVyyi,v,any,any,any,,i,i'>
+9	cukkakUra	NN	<fs af='cukkakUra,n,any,sg,3,,0,0'>|<fs af='cukkakUra,n,any,sg,3,,obl,obl'>
+10	peVMcuwAru	VM	<fs af='peVMcu,v,any,pl,2,,wA,wA'>|<fs af='peVMcu,v,mf,pl,3,,wA,wA'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

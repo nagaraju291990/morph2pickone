@@ -1,0 +1,25 @@
+<Sentence id="6150">			
+0	((	SSF	
+1	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+2	prAMwamu	NN	<fs af='prAMwaM,n,any,sg,3,,0,0'>
+3	nuMdi	PSP	<fs af='nuMdi,avy,,,,,,'>
+4	maroVka	JJ	<fs af='maroVka,avy,,,,,,'>
+5	prAMwAniki	NN	<fs af='prAMwaM,n,any,sg,3,,ki,ki'>
+6	povadAniki	VM	<fs af='povadaM,n,any,sg,3,,ki,ki'>
+7	sarEna	JJ	<fs af='sarEna,n,any,sg,3,,0,0'>'>
+8	xArulu	NN	<fs af='xAru,n,any,pl,3,,0,0'>
+9	leka	CC	<fs af='gala,v,any,any,any,,aka,aka'>
+10	,	SYM	<fs af=',,punc,,,,,,'>
+11	naxulu	NN	<fs af='naxi,n,any,pl,3,,0,0'>
+12	,	SYM	<fs af=',,punc,,,,,,'>
+13	kAluvalu	NN	<fs af='kAluva,n,any,pl,3,,0,0'>
+14	xAtuwU	VM	<fs af='xAtu,v,any,any,any,,wU,wU'>
+15	,	SYM	<fs af=',,punc,,,,,,'>
+16	adavula	NN	<fs af='adavi,n,any,pl,3,,obl,obl'>
+17	maXyalo	NST	<fs af='maXya,n,any,sg,3,,lo,lo'>
+18	prayANiMcadaM	VM	<fs af='prayANiMcu,v,any,any,any,,adaM,adaM'>
+19	nijaMgA	RB	<fs af='nijaM,n,any,sg,3,,gA,gA'>
+20	gaMdame	NN	<fs af='gaMdaM,n,any,sg,3,,0,0_e'>
+21	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

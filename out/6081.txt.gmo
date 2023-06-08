@@ -1,0 +1,79 @@
+<Sentence id="6081">			
+0	((	SSF	
+1	avi	PRP	<fs af='axi,pn,fn,pl,3,,0,0'>
+2	SrIkAkulYaM	NNP	<fs af='SrIkAkulYaM,n,any,sg,3,,0,0'>
+3	jillAlo	NN	<fs af='jillA,n,any,sg,3,,lo,lo'>|<fs af='jillA,n,any,pl,3,,0,0_o'>
+4	bahuxA	NNP	<fs af='bahuxA,n,any,sg,3,,0,0'>|<fs af='bahuxA,n,any,sg,3,,obl,obl'>
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	varahAlugadda	NNP	<fs af='varahAlugadda,n,any,sg,3,,0,0'>|<fs af='varahAlugadda,n,any,sg,3,,obl,obl'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	uwwara	NN	<fs af='uwwaraM,n,any,sg,3,,obl,obl'>
+9	maheMxra	NNP	<fs af='maheMxra,n,any,sg,3,,0,0'>|<fs af='maheMxra,n,any,sg,3,,obl,obl'>
+10	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+11	viSAKalo	NNP	<fs af='viSAKa,n,any,sg,3,,lo,lo'>|<fs af='viSAKa,n,any,pl,3,,0,0_o'>
+12	caMpAvawi	NNP	<fs af='caMpAvawi,n,any,sg,3,,0,0'>|<fs af='caMpAvawi,n,any,sg,3,,obl,obl'>
+13	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+14	goswani	NNP	<fs af='goswani,n,any,sg,3,,0,0'>|<fs af='goswani,n,any,sg,3,,obl,obl'>
+15	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+16	SAraxa	NNP	<fs af='SAraxa,n,any,sg,3,,0,0'>|<fs af='SAraxa,n,any,sg,3,,obl,obl'>
+17	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+18	wAMdava	NNP	<fs af='wAMdavaM,n,any,sg,3,,obl,obl'>
+19	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+20	wUrpu	NN	<fs af='wUrpu,n,any,sg,3,,0,0'>|<fs af='wUrpu,n,any,sg,3,,obl,obl'>
+21	goxAvarlalo	NNP	<fs af='goxAvari,n,any,pl,3,,wo,wo'>
+22	eleru	NNP	<fs af='eleru,n,any,sg,3,,0,0'>
+23	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+24	paScimagoxAvarilo	NNP	<fs af='paScimagoxAvari,n,any,sg,3,,lo,lo'>
+25	eVrra	JJ	<fs af='eVrra,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='eVrra,n,any,sg,3,,obl,obl' poslcat="NM">'>
+26	kAluva	NN	<fs af='kAluva,n,any,sg,3,,0,0'>|<fs af='kAluva,n,any,sg,3,,obl,obl'>
+27	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+28	wammileru	NNP	<fs af='wammileru,n,any,sg,3,,0,0'>|<fs af='wammileru,n,any,sg,3,,obl,obl'>
+29	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+30	jilleru	NNP	<fs af='jilleru,n,any,sg,3,,0,0'>|<fs af='jilleru,n,any,sg,3,,obl,obl'>
+31	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+32	kqRNAlo	NNP	<fs af='kqRNaM,n,any,pl,3,,0,0_o'>
+33	budameru	NNP	<fs af='budameru,n,any,sg,3,,0,0'>|<fs af='budameru,n,any,sg,3,,obl,obl'>
+34	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+35	guMtUrulo	NNP	<fs af='guMtUru,n,any,sg,3,,lo,lo'>|<fs af='guMtUru,n,any,pl,3,,0,0_o'>
+36	nAguleru	NNP	<fs af='nAguleru,n,any,sg,3,,0,0'>|<fs af='nAguleru,n,any,sg,3,,obl,obl'>
+37	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+38	prakASaMlo	NNP	<fs af='prakASaM,n,any,sg,3,,lo,lo'>
+39	guMdlakamma	NNP	<fs af='guMdlakamma,n,any,sg,3,,0,0'>|<fs af='guMdlakamma,n,any,sg,3,,obl,obl'>
+40	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+41	mUsi	NNP	<fs af='muyyi,v,any,any,any,,i,i' poslcat="NM">
+42	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+43	pAleru	NNP	<fs af='pAleru,n,any,sg,3,,0,0'>|<fs af='pAleru,n,any,sg,3,,obl,obl'>
+44	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+45	neVllUrulo	NNP	<fs af='neVllUru,n,any,sg,3,,lo,lo'>|<fs af='neVllUru,n,any,pl,3,,0,0_o'>
+46	munneru	NNP	<fs af='munneru,n,any,sg,3,,0,0'>|<fs af='munneru,n,any,sg,3,,obl,obl'>
+47	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+48	upputeru	NNP	<fs af='upputeru,n,any,sg,3,,0,0'>|<fs af='upputeru,n,any,sg,3,,obl,obl'>
+49	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+50	ciwwUrulo	NN	<fs af='ciwwUrulo,unk,,,,,,' poslcat="NM">
+51	svarNamuKi	NNP	<fs af='svarNamuKi,n,any,sg,3,,0,0'>|<fs af='svarNamuKi,n,any,sg,3,,obl,obl'>
+52	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+53	karnUlulo	NNP	<fs af='karnUl,n,any,sg,3,,lo,lo'>|<fs af='karnUlu,n,any,sg,3,,lo,lo'>
+54	haMxri	NNP	<fs af='haMxri,n,any,sg,3,,0,0'>|<fs af='haMxri,n,any,sg,3,,obl,obl'>
+55	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+56	koVMxaru	NNP	<fs af='koVMxaru,pn,mf,pl,3,,0,0' poslcat="NM">
+57	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+58	sagileru	NNP	<fs af='sagileru,n,any,sg,3,,0,0'>|<fs af='sagileru,n,any,sg,3,,obl,obl'>
+59	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+60	kadapa	NNP	<fs af='kadapa,n,any,sg,3,,0,0'>|<fs af='kadapa,n,any,sg,3,,obl,obl'>
+61	jillAlo	NN	<fs af='jillA,n,any,sg,3,,lo,lo'>|<fs af='jillA,n,any,pl,3,,0,0_o'>
+62	pAlegni	NNP	<fs af='pAlegni,n,any,sg,3,,0,0'>|<fs af='pAlegni,n,any,sg,3,,obl,obl'>
+63	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+64	ciwrAvawi	NNP	<fs af='ciwrAvawi,n,any,sg,3,,0,0'>|<fs af='ciwrAvawi,n,any,sg,3,,obl,obl'>
+65	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+66	ceVyyeru	NNP	<fs af='ceVyyeru,n,any,sg,3,,0,0'>
+67	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+68	AxilAbAxlo	NNP	<fs af='AxilAbAx,n,any,sg,3,,lo,lo'>
+69	vadiM	NNP	<fs af='vadiM,n,any,sg,3,,0,0'>|<fs af='vadiM,n,any,sg,3,,obl,obl'>
+70	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+71	peVnugoVMda	NNP	<fs af='peVnugoVMda,n,any,sg,3,,0,0'>|<fs af='peVnugoVMda,n,any,sg,3,,obl,obl'>
+72	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+73	KammaMlo	NNP	<fs af='KammaM,n,any,sg,3,,lo,lo'>
+74	vErA	NNP	<fs af='vEri,n,any,sg,3,,0,0_A'>
+75	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,19 @@
+<Sentence id="6048">
+0	((	SSF	
+1	ciwwUru	NNP	<fs af='ciwwUru,n,any,sg,3,,0,0'>
+2	nuMdi	PSP	<fs af='nuMdi,avy,,,,,,' poslcat="NM">
+3	SrIkAkulYaM	NNP	<fs af='SrIkAkulYaM,n,any,sg,3,,0,0'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	AxilAbAx	NNP	<fs af='AxilAbAx,n,any,sg,3,,0,0'>|<fs af='AxilAbAx,n,any,sg,3,,obl,obl'>
+6	nuMdi	PSP	<fs af='nuMdi,avy,,,,,,' poslcat="NM">
+7	anaMwapuraM	NNP	<fs af='anaMwapuraM,n,any,sg,3,,0,0'>
+8	varaku	PSP	<fs af='varaku,avy,,,,,,' poslcat="NM">|<fs af='varaku,adv,any,any,any,,0_adv,0_adv' poslcat="NM">
+9	2	QC	<fs af='2,num,,,,,,'>
+10	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+11	76	QC	<fs af='76,num,,,,,,'>
+12	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+13	754	QC	<fs af='754,num,,,,,,'>
+14	ca||kI	NN	<fs af='ca||kI|,unk,,,,,,' poslcat="NM">
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,18 @@
+<Sentence id="9927">			
+0	((	SSF	
+1	anavasaraMgA	RB	<fs af='anavasaraM,n,any,sg,3,,gA,gA'>
+2	annI	QF	<fs af='anni,pn,any,pl,3,,0,0_V'>
+3	neVwwi	NN	<fs af='neVwwi,n,any,sg,3,,0,0'>
+4	mIxiki	NST	<fs af='mIxi,n,any,sg,3,,ki,ki'>
+5	weVccukoVMtAdu	VM	<fs af='weVccuko,v,m,sg,3,,wA,wA'>
+6	"	SYM	<fs af='",punc,,,,,,'>
+7	ani	UT	<fs af='ani,avy,,,,,,'>
+8	hari	NNP	<fs af='hari,n,any,sg,3,,0,0'>
+9	,	SYM	<fs af=',,punc,,,,,,'>
+10	veNu	NNP	<fs af='veNu,n,any,sg,3,,0,0'>
+11	,	SYM	<fs af=',,punc,,,,,,'>
+12	kumAr	NNP	<fs af='kumAr,n,any,sg,3,,0,0'>
+13	bAXapaddAru	VM	<fs af='bAXapadu,v,any,pl,2,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

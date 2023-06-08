@@ -1,0 +1,10 @@
+<Sentence id="5371">			
+0	((	SSF	
+1	rubbina	VM	<fs af='rubbu,v,any,any,any,,ina,ina'>
+2	piMdini	NN	<fs af='piMdi,n,any,sg,3,,ni,ni'>|<fs af='piMdi,n,any,sg,3,,ni_agr,ni_agr'>
+3	rAswe	VM	<fs af='rAyi,v,any,any,any,,we,we'>
+4	pagulYlu	NN	<fs af='pagulu,n,any,pl,3,,0,0'>|<fs af='pagulu,n,any,pl,3,,vu_agr,vu_agr'>
+5	nayamavuwAyi	VM	<fs af='nayamavvu,v,n,pl,3,,wA,wA'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

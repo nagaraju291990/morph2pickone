@@ -1,0 +1,24 @@
+<Sentence id="2519">			
+0	((	SSF	
+1	paMta	NN	<fs af='paMta,n,any,sg,3,,0,0'>
+2	rakRaNa	NN	<fs af='rakRaNa,n,any,sg,3,,0,0'>
+3	:	SYM	<fs af=':,punc,,,,,,'>
+4	weVllati	JJ	<fs af='weVlla,adj,any,any,any,,ti_adj,ti_adj'>
+5	wuppu	NN	<fs af='wuppu,n,any,sg,3,,0,0'>
+6	,	SYM	<fs af=',,punc,,,,,,'>
+7	weVlupu	NN	<fs af='weVlupu,n,any,sg,3,,0,0'>
+8	rogaM	NN	<fs af='rogaM,n,any,sg,3,,0,0'>
+9	,	SYM	<fs af=',,punc,,,,,,'>
+10	bUdixa	NN	<fs af='bUdixa,n,any,sg,3,,0,0'>
+11	weVgulu	NN	<fs af='weVgulu,n,,sg,,,0,0'>
+12	,	SYM	<fs af=',,punc,,,,,,'>
+13	nallamacca	NN	<fs af='nallamacca,n,any,sg,3,,0,0'>
+14	weVgulu	NN	<fs af='weVgulu,n,,sg,,,0,0'>
+15	Ava	NN	<fs af='AvaM,n,any,sg,3,,obl,obl'>
+16	paMtaku	NN	<fs af='paMta,n,any,sg,3,,ki,ki'>
+17	vacce	VM	<fs af='vaccu,v,any,any,any,,e,e'>
+18	muKyamEna	JJ	<fs af='muKya,adj,any,any,any,,xEna_na_adj,xEna_na_adj'>
+19	rogAlu	NN	<fs af='rogaM,n,any,pl,3,,0,0'>
+20	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

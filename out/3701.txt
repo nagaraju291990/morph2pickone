@@ -1,0 +1,12 @@
+<Sentence id="3701">
+0	((	SSF
+1	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+2	cUsi	VM	<fs af='cUdu,v,any,any,any,,i,i'>
+3	awadi	PRP	<fs af='awadu,pn,,sg,,,obl,obl'>
+4	kalYla	NN	<fs af='kannu,n,any,pl,3,,obl,obl'>|<fs af='kalYlaM,n,any,sg,3,,obl,obl'>
+5	nuMdi	PSP	<fs af='nuMdi,avy,,,,,, '>
+6	nIru	NN	<fs af='nIru,n,any,sg,3,,0,0'>|<fs af='nIru,n,any,sg,3,,obl,obl'>
+7	kArasAgiMxi	VM	<fs af='kArasAgu,v,fn,sg,3,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

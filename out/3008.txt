@@ -1,0 +1,16 @@
+<Sentence id="3008">
+0	((	SSF
+1	bApU	NNP	<fs af='bApu,n,any,sg,3,,0,0_V'>
+2	wAnu	PRP	<fs af='wAnu,pn,mf,sg,3,,0,0'>
+3	ceVbuwunna	VM	<fs af='ceVppu,v,any,any,any,,wunna,wunna'>|<fs af='ceVbuwuMdu,v,any,any,any,,ina,ina'>
+4	kaXanu	NN	<fs af='kaXa,n,any,sg,3,,ni,ni'>|<fs af='kaXa,n,any,sg,3,,ni_agr,ni_agr'>
+5	mugiMcagAne	VM	<fs af='mugiMcu,v,any,any,any,,a_gAne,a_gAne'>
+6	 vAlYla	NNP	<fs af=' vAlYla,unk,,,,,,'>
+6	abbAyi	NNP	<fs af='abbAyi,n,any,sg,3,,0,0'>|<fs af='abbAyi,n,any,sg,3,,obl,obl'>
+7	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+8	iMko	QF	<fs af='iMku,v,any,any,any,,i,i_o'>
+9	kaXa	NN	<fs af='kaXa,n,any,sg,3,,0,0'>|<fs af='kaXa,n,any,sg,3,,obl,obl'>
+10	ceVppAdu	VM	<fs af='ceVppu,v,m,sg,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,14 @@
+<Sentence id="5061">
+0	((	SSF
+1	kAya	VM	<fs af='kAya,n,,sg,,,0,0'>|<fs af='kAya,n,,sg,,,obl,obl'>|<fs af='kAyaM,n,,sg,,,obl,obl'>|<fs af='kAyi,v,any,any,any,,an,an'>
+1	kulYlu	VM	<fs af='kulYlu,n,,sg,,,0,0'>|<fs af='kulYlu,n,,sg,,,obl,obl'>|<fs af='kulYlu,v,,sg,2,,AjFArWa,AjFArWa'>|<fs af='kudi,n,,pl,,,0,0'>|<fs af='kudi,n,,pl,,,vu,vu'>
+2	weVgulu	NN	<fs af='weVgulu,n,,sg,,,0,0'>|<fs af='weVgulu,n,,sg,,,obl,obl'>|<fs af='weVgulu,n,,sg,,,0,0'>|<fs af='weVgulu,n,,sg,,,obl,obl'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	kAMdaM	NN	<fs af='kAMdaM,n,any,sg,3,,0,0'>
+5	kulYlu	NN	<fs af='kudi,n,any,pl,3,,0,0'>|<fs af='kudi,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='kulYlu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='kulYlu,n,any,sg,3,,0,0'>|<fs af='kulYlu,n,any,sg,3,,obl,obl'>
+6	weVgulunu	NN	<fs af='weVgulu,n,,sg,,,nu,nu'>|<fs af='weVgulu,n,,sg,,,ni,ni'>
+7	sokakuMdA	VM	<fs af='soku,v,any,any,any,,akuMdA,akuMdA'>|<fs af='sokakuMdu,v,any,any,any,,i,i_A'>
+8	cUdavaccunu	VM	<fs af='cUdavaccu,v,any,sg,3,,uxu,uxu'>|<fs af='cUdavaccu,v,n,pl,3,,uxu,uxu'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

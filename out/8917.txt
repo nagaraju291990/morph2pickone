@@ -1,0 +1,14 @@
+<Sentence id="8917">
+0	((	SSF
+1	prawi	QF	<fs af='prawi,adj,any,any,any,,0_adj,0_adj'>|<fs af='prawi,n,any,sg,3,,0,0'>|<fs af='prawi,n,any,sg,3,,obl,obl'>
+2	pawrikalo	NN	<fs af='pawrika,n,any,sg,3,,lo,lo'>|<fs af='pawrika,n,any,pl,3,,0,0_o'>
+3	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+4	I	DEM	<fs af='I,avy,,,,,, '>
+5	rojulalo	NN	<fs af='roju,n,any,pl,3,,lo,lo'>
+6	I	DEM	<fs af='I,avy,,,,,, '>
+7	prasaMgAlu	NN	<fs af='prasaMgaM,n,any,pl,3,,0,0'>|<fs af='prasaMgaM,n,any,pl,3,,vu_agr,vu_agr'>
+8	lekuMdA	VM	<fs af='gala,v,any,any,any,,akuMdA,akuMdA'>|<fs af='lekuMdu,v,any,any,any,,i,i_A'>
+9	uMdavu	VAUX	<fs af='uMdu,v,any,sg,2,,a,a'>|<fs af='uMda,n,any,sg,3,,vu_agr,vu_agr'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

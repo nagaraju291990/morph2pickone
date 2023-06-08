@@ -1,0 +1,11 @@
+<Sentence id="3456">
+0	((	SSF
+1	colYarAju	NNP	<fs af='colYarAju,n,any,sg,3,,0,0'>|<fs af='colYarAju,n,any,sg,3,,obl,obl'>
+2	kUwuriki	NN	<fs af='kUwuru,n,any,sg,3,,ki,ki'>
+3	A	DEM	<fs af='A,avy,,,,,, '>
+4	pere	NN	<fs af='peru,n,any,sg,3,,0,0_e'>
+5	KAyaM	NN	<fs af='KAyaM,n,any,sg,3,,0,0'>
+6	ceSAdu	VM	<fs af='ceVyyi,v,m,sg,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

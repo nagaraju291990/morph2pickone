@@ -1,0 +1,13 @@
+<Sentence id="4588">			
+0	((	SSF	
+1	purANAla	NN	<fs af='purANaM,n,,pl,,,obl,obl'>
+1	lonu	NN	<fs af='lon,n,,sg,,,0,0'>|<fs af='lon,n,,sg,,,obl,obl'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	cariwra	NN	<fs af='cariwra,n,,sg,,,0,0'>|<fs af='cariwra,n,,sg,,,obl,obl'>
+3	lonu	NN	<fs af='lon,n,,sg,,,0,0'>|<fs af='lon,n,,sg,,,obl,obl'>
+4	vIti	PRP	<fs af='ixi,pn,fn,pl,3,,obl,obl'>
+5	guriMci	PSP	<fs af='guriMci,avy,,,,,,' poslcat="NM">
+6	viMtAM	VM	<fs af='vinu,v,any,pl,1,,wA,wA'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

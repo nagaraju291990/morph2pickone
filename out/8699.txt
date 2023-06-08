@@ -1,0 +1,25 @@
+<Sentence id="8699">
+0	((	SSF
+1	A	DEM	<fs af='A,avy,,,,,, '>
+2	BARa	NN	<fs af='BARa,n,any,sg,3,,0,0'>|<fs af='BARa,n,any,sg,3,,obl,obl'>
+3	A	DEM	<fs af='A,avy,,,,,, '>
+4	jaMwuvuki	NN	<fs af='jaMwuvu,n,any,sg,3,,ki,ki'>
+5	weVliya	VM	<fs af='weVliyu,v,any,any,any,,an,an'>
+5	lexani	VM	<fs af='lexanu,v,any,any,any,,i,i'>
+6	weVlusukoVni	VM	<fs af='weVlusuko,v,any,any,any,,i,i'>
+7	PreVMci	NNP	<fs af='PreVMci,n,any,sg,3,,0,0'>|<fs af='PreVMci,n,any,sg,3,,obl,obl'>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	jarmanI	NNP	<fs af='jarman,n,any,sg,3,,ni,ni_V'>
+10	itAliyanu	NNP	<fs af='itAliyan,n,any,sg,3,,0,0'>|<fs af='itAliyan,n,any,sg,3,,obl,obl'>
+11	,	SYM	<fs af=',,punc,,,,,, '>
+12	raRyanu	NNP	<fs af='raRyan,n,any,sg,3,,0,0'>|<fs af='raRyan,n,any,sg,3,,obl,obl'>|<fs af='raRyanu,n,any,sg,3,,0,0'>|<fs af='raRyanu,n,any,sg,3,,obl,obl'>
+13	BARalu	NN	<fs af='BARa,n,,pl,,,0,0'>|<fs af='BARa,n,,pl,,,vu,vu'>
+13	annI	PRP	<fs af='anni,pn,,pl,,,0_V,0_V'>
+14	oVkaxAni	NN	<fs af='oVka,adj,,sg,,,xi,xi_obl' deri_cat='pn'>
+15	waruvAwa	PSP	<fs af='waruvAwa,avy,,,,,, '>
+16	oVkatigA	RB	<fs af='oVkati,n,any,sg,3,,gA,gA'>
+17	mAtlAdi	VM	<fs af='mAtlAdu,v,any,any,any,,i,i'>
+18	vinipiMcAru	VM	<fs af='vinipiMcu,v,any,pl,2,,A,A'>|<fs af='vinipiMcu,v,mf,pl,3,,A,A'>
+19	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

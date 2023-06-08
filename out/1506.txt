@@ -1,0 +1,11 @@
+<Sentence id="1506">
+0	((	SSF
+1	upayogiMcAka	VM	<fs af='upayogiMcu,v,any,any,any,,ina_Aka,ina_Aka'>
+2	xAnni	PRP	<fs af='axi,pn,fn,sg,3,,nu,nu'>|<fs af='axi,pn,fn,sg,3,,ni,ni'>
+3	leVtrin	NN	<fs af='leVtrin,n,any,sg,3,,0,0'>|<fs af='leVtrin,n,any,sg,3,,obl,obl'>
+4	_	SYM
+5	lo	PSP	<fs af='lo,avy,,,,,, '>
+6	veswAru	VM	<fs af='veVyyi,v,any,pl,2,,wA,wA'>|<fs af='veVyyi,v,mf,pl,3,,wA,wA'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

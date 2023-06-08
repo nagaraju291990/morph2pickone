@@ -1,0 +1,9 @@
+<Sentence id="2280">
+0	((	SSF	
+1	wirigi	VM	<fs af='wirugu,v,any,any,any,,i,i'>
+2	wiMdi	NN	<fs af='wiMdi,n,any,sg,3,,0,0'>|<fs af='wiMdi,n,any,sg,3,,obl,obl'>
+3	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+4	vAlawAyi	VM	<fs af='vAlu,v,n,pl,3,,wA,wA'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

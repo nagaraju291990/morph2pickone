@@ -1,0 +1,22 @@
+<Sentence id="8679">			
+0	((	SSF	
+1	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+2	glAsu	NN	<fs af='glAs,n,any,sg,3,,0,0'>|<fs af='glAs,n,any,sg,3,,obl,obl'>
+3	wIsukoVni	VM	<fs af='wIsuko,v,any,any,any,,i,i'>|<fs af='wIsuko,v,any,any,any,,i,i'>
+4	mqgaM	NN	<fs af='mqgaM,n,any,sg,3,,0,0'>
+5	paMdlamIxa	NN	<fs af='paMdu,n,any,pl,3,,mIxa,mIxa'>|<fs af='pannu,n,any,pl,3,,mIxa,mIxa'>
+6	nIlYlu	NN	<fs af='nIru,n,any,pl,3,,0,0'>|<fs af='nIru,n,any,pl,3,,vu_agr,vu_agr'>
+7	calli	VM	<fs af='callu,v,any,any,any,,i,i'>
+8	exo	WQ	<fs af='exi,pn,fn,sg,3,,0,0_o'>
+9	goVNukkuMtU	VM	<fs af='goVNukko,v,any,any,any,,wU,wU'>
+10	cewulu	NN	<fs af='ceyi,n,any,pl,3,,0,0'>|<fs af='ceyi,n,any,pl,3,,vu_agr,vu_agr'>
+11	paMdlamIxa	NN	<fs af='paMdu,n,any,pl,3,,mIxa,mIxa'>|<fs af='pannu,n,any,pl,3,,mIxa,mIxa'>
+12	wippi	VM	<fs af='wippu,v,any,any,any,,i,i'>
+13	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+14	watta	VM	<fs af='wattu,v,any,any,any,,an,an'>|<fs af='wattu,v,any,any,any,,an,an'>
+14	eVdu	NN	<fs af='eVdu,n,,sg,,,0,0'>|<fs af='eVdu,n,,sg,,,0,0'>
+15	paMdlU	NN	<fs af='paMdu,n,any,pl,3,,0,0_V'>|<fs af='pannu,n,any,pl,3,,0,0_V'>
+16	wiMxi	VM	<fs af='winu,v,fn,sg,3,,A,A'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,9 @@
+<Sentence id="7992">
+0	((	SSF	
+1	kannappa	NNP	<fs af='kannappa,n,any,sg,3,,0,0'>|<fs af='kannappa,n,any,sg,3,,obl,obl'>
+2	iMti	NN	<fs af='illu,n,any,sg,3,,obl,obl'>
+3	pakkane	NST	<fs af='pakka,adv,any,any,any,,0_e_adv,0_e_adv'>
+4	uMtAru	VM	<fs af='uMdu,v,any,pl,2,,wA,wA'>|<fs af='uMdu,v,mf,pl,3,,wA,wA'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,15 @@
+<Sentence id="700">
+0	((	SSF
+1	wotakUra	NN	<fs af='wotakUra,n,any,sg,3,,0,0'>|<fs af='wotakUra,n,any,sg,3,,obl,obl'>
+2	sAguku	NN	<fs af='sAgu,n,any,sg,3,,ki,ki'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	pAla	NN	<fs af='pAlu,n,,pl,,,obl,obl'>|<fs af='paM,n,,pl,,,obl,obl'>
+4	kUra	VM	<fs af='kUra,n,,sg,,,0,0'>|<fs af='kUra,n,,sg,,,obl,obl'>|<fs af='kUru,v,any,any,any,,an,an'>
+5	sAguku	NN	<fs af='sAgu,n,any,sg,3,,ki,ki'>
+6	Karculo	NN	<fs af='Karcu,n,any,sg,3,,lo,lo'>|<fs af='Karcu,n,any,pl,3,,0,0_o'>
+7	peVxxa	JJ	<fs af='peVxxa,adj,any,any,any,,0_adj,0_adj'>
+8	wedA	NN	<fs af='we,v,m,sg,3,,a,a_A'>|<fs af='weda,n,any,sg,3,,0,0_A'>|<fs af='weda,n,any,sg,3,,0,0_V'>|<fs af='wedA,n,any,sg,3,,0,0'>|<fs af='wedA,n,any,sg,3,,obl,obl'>
+9	uMdaxu	VM	<fs af='uMdu,v,fn,sg,3,,a,a'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

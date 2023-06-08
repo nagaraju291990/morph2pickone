@@ -1,0 +1,20 @@
+<Sentence id="8629">
+0	((	SSF
+1	A	DEM	<fs af='A,avy,,,,,, '>
+2	arapu	NN	<fs af='arapu,n,any,sg,3,,0,0'>|<fs af='arapu,n,any,sg,3,,obl,obl'>
+3	xUrAna	NN	<fs af='xUraM,n,any,sg,3,,na,na'>
+4	unnavAlYlaki	VM	<fs af='unnavAdu,n,any,pl,3,,ki,ki'>|<fs af='unnavAlYlu,pn,mf,pl,3,,ki,ki'>
+5	*	SYM	<fs af='*,punc,,,,,, '>
+6	`	SYM
+7	aho	INTJ	<fs af='ahi,n,any,sg,3,,0,0_o'>
+8	me	UNK	<fs af='me,n,any,sg,3,,0,0'>|<fs af='me,n,any,sg,3,,obl,obl'>
+9	aXaNNawwaiM	NN	<fs af='aXaNNawwaiM,unk,,,,,,'>
+10	kimaxxi	UNK	<fs af='kimaxxi,n,any,sg,3,,0,0'>|<fs af='kimaxxi,n,any,sg,3,,obl,obl'>
+11	kim	UNK	<fs af='kim,n,any,sg,3,,0,0'>|<fs af='kim,n,any,sg,3,,obl,obl'>
+12	samAxikto	UNK	<fs af='samAxikto,n,any,sg,3,,0,0'>|<fs af='samAxikto,n,any,sg,3,,obl,obl'>
+13	'	SYM	<fs af='',punc,,,,,, '>
+14	annatlugA	RB	<fs af='anu,v,any,any,any,,ina_atlugA,ina_atlugA'>
+15	vinipiMciMxi	VM	<fs af='vinipiMcu,v,fn,sg,3,,A,A'>
+16	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

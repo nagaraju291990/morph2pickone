@@ -1,0 +1,14 @@
+<Sentence id="9794">			
+0	((	SSF	
+1	AyanA	PRP	<fs af='Ayana,pn,m,sg,3,,0,0_A'>|<fs af='Ayana,pn,m,sg,3,,0,0_V'>
+2	veVlYlAdu	VM	<fs af='veVlYlu,v,m,sg,3,,A,A'>
+3	;	SYM	<fs af=';,punc,,,,,,'>
+4	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+5	cuttU	NST	<fs af='cuttu,n,any,sg,3,,0,0_V'>
+6	paMdiwulU	NN	<fs af='paMdiw,n,any,pl,3,,I,I'>|<fs af='paMdiwudu,n,any,pl,3,,0,0_V'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	AyanA	PRP	<fs af='Ayana,pn,m,sg,3,,0,0_A'>|<fs af='Ayana,pn,m,sg,3,,0,0_V'>
+9	kUrcunnAru	VM	<fs af='kUrco,v,any,pl,2,,A,A'>|<fs af='kUrco,v,mf,pl,3,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

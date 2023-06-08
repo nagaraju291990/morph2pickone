@@ -1,0 +1,14 @@
+<Sentence id="6742">
+0	((	SSF
+1	plAstar	NN	<fs af='plAstar,n,any,sg,3,,0,0'>|<fs af='plAstar,n,any,sg,3,,obl,obl'>
+2	lopaliki	NST	<fs af='lopala,adv,any,any,any,,ku_adv,ku_adv'>
+3	peVnsillu	NN	<fs af='peVnsil,n,any,pl,3,,0,0'>|<fs af='peVnsil,n,any,pl,3,,vu_agr,vu_agr'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	wIgeVlu	NN	<fs af='wIgeV,n,any,pl,3,,0,0'>|<fs af='wIgeV,n,any,pl,3,,vu_agr,vu_agr'>
+6	,	SYM	<fs af=',,punc,,,,,, '>
+7	sUxulU	NN	<fs af='sUxi,n,any,pl,3,,0,0_V'>|<fs af='sUxi,n,any,pl,3,,I,I'>|<fs af='sUxudu,n,any,pl,3,,0,0_V'>|<fs af='sUxudu,n,any,pl,3,,I,I'>
+8	vaMtivi	NN	<fs af='vaMti,adj,,pl,,,xi,xi_0' deri_cat='pn'>
+9	guccakUdaxu	VM	<fs af='guccu,v,any,any,any,,a_kUdaxu,a_kUdaxu'>|<fs af='guccakUdu,v,fn,sg,3,,a,a'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

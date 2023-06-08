@@ -1,0 +1,15 @@
+<Sentence id="1236">
+0	((	SSF
+1	poliyo	NN	<fs af='poliyo,n,,sg,,,0,0'>|<fs af='poliyo,n,,sg,,,obl,obl'>
+2	aMte	UT	<fs af='aMte,avy,,,,,, '>|<fs af='anu,v,any,any,any,,we,we'>|<fs af='aMtu,v,any,any,any,,e,e'>|<fs af='aMtu,v,any,any,any,,i,i_e'>|<fs af='aMtu,n,any,sg,3,,0,0_e'>
+3	weVlusu	VM	<fs af='weVlusu,avy,,,,,, '>
+4	kaxA	RP	<fs af='kaxA,avy,,,,,, '>
+5	!	SYM	<fs af='!,punc,,,,,, '>
+6	kAlYlu	NN	<fs af='kAlu,n,any,pl,3,,0,0'>|<fs af='kAlu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='kAdu,n,any,pl,3,,0,0'>|<fs af='kAdu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='kAdi,n,any,pl,3,,0,0'>|<fs af='kAdi,n,any,pl,3,,vu_agr,vu_agr'>
+7	cewulu	NN	<fs af='ceyi,n,any,pl,3,,0,0'>|<fs af='ceyi,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='cewu,n,any,pl,3,,0,0'>|<fs af='cewu,n,any,pl,3,,vu_agr,vu_agr'>
+8	caccu	VM	<fs af='caccu,n,any,sg,3,,0,0'>|<fs af='caccu,n,any,sg,3,,obl,obl'>
+8	badi	VM	<fs af='badu,v,any,any,any,,i,i'>|<fs af='badi,n,any,sg,3,,0,0'>|<fs af='badi,n,any,sg,3,,obl,obl'>
+9	powAyi	VAUX	<fs af='po,v,n,pl,3,,wA,wA'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

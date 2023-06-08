@@ -1,0 +1,12 @@
+<Sentence id="767">			
+0	((	SSF	
+1	600	QC	<fs af='600,num,,,,,,'>
+2	rUpAyalu	NN	<fs af='rUpAya,n,any,pl,3,,0,0'>
+3	peVttubadiwo	NN	<fs af='peVttubadi,n,any,sg,3,,wo,wo'>
+4	1000	QC	<fs af='1000,num,,,,,,'>
+5	rUpAyala	NN	<fs af='rUpAya,n,any,pl,3,,obl,obl'>
+6	AxAyaM	NN	<fs af='AxAyaM,n,any,sg,3,,0,0'>
+7	poVMxavaccu	VM	<fs af='poVMxu,v,any,any,any,,a_vaccu,a_vaccu'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

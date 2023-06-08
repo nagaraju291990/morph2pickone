@@ -1,0 +1,13 @@
+<Sentence id="2546">
+0	((	SSF	
+1	ayiwe	CC	<fs af='avvu,v,any,any,any,,we,we' poslcat="NM">
+2	nalla	JJ	<fs af='nalla,adj,any,any,any,,0_adj,0_adj'>
+3	regadi	NN	<fs af='regadi,n,any,sg,3,,0,0'>|<fs af='regadi,n,any,sg,3,,obl,obl'>
+4	nelalu	NN	<fs af='nela,n,any,pl,3,,0,0'>|<fs af='nela,n,any,pl,3,,vu_agr,vu_agr'>
+5	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+6	paMtaku	NN	<fs af='paMta,n,any,sg,3,,ki,ki'>
+7	cAlA	INTF	<fs af='cAlu,v,any,any,any,,i,i_A' poslcat="NM">
+8	anukUlaM	NN	<fs af='anukUlaM,n,any,sg,3,,0,0'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,17 @@
+<Sentence id="6245">			
+0	((	SSF	
+1	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl' poslcat="NM">
+2	xUraMlo	NN	<fs af='xUraM,n,any,sg,3,,lo,lo'>
+3	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+4	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+5	grAmaMlo	NN	<fs af='grAmaM,n,any,sg,3,,lo,lo'>
+6	gala	RP	<fs af='gala,v,any,any,any,,ina,ina' poslcat="NM">'>|<fs af='gala,adj,any,any,any,,0_adj,0_adj' poslcat="NM">'>
+7	bOxXa	NNP	<fs af='bOxXaM,n,any,sg,3,,obl,obl'>|<fs af='bOxXudu,n,any,sg,3,,obl,obl'>
+8	ArAmAlu	NN	<fs af='ArAmaM,n,any,pl,3,,0,0'>|<fs af='ArAmaM,n,any,pl,3,,vu_agr,vu_agr'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	sWUpAlu	NN	<fs af='sWUpaM,n,any,pl,3,,0,0'>|<fs af='sWUpaM,n,any,pl,3,,vu_agr,vu_agr'>
+11	prawyeka	NN	<fs af='prawyekaM,n,any,sg,3,,obl,obl'>
+12	AkarRaNa	NN	<fs af='AkarRaNa,n,any,sg,3,,0,0'>|<fs af='AkarRaNa,n,any,sg,3,,obl,obl'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

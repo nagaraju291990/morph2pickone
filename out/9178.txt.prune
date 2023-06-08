@@ -1,0 +1,25 @@
+<Sentence id="9178">
+0	((	SSF	
+1	marI	INTF	<fs af='marI,avy,,,,,,'>
+2	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+3	mqgAnni	NN	<fs af='mqgaM,n,any,sg,3,,ni,ni'>|<fs af='mqgaM,n,any,sg,3,,ni_agr,ni_agr'>
+4	guriMci	PSP	<fs af='guriMci,avy,,,,,,' poslcat="NM">
+5	paMdiwudiki	NN	<fs af='paMdiwudu,n,any,sg,3,,ki,ki'>
+6	goVppa	JJ	<fs af='goVppa,adj,any,any,any,,0_adj,0_adj'>
+7	aBiprAyaM	NN	<fs af='aBiprAyaM,n,any,sg,3,,0,0'>
+8	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+9	ganuka	CC	<fs af='ganuka,avy,,,,,,'>
+10	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+11	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+12	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+13	viXamEna	JJ	<fs af='viXaM,n,any,sg,3,,Ena,Ena' poslcat="NM">
+14	maryAxa	NN	<fs af='maryAxa,n,any,sg,3,,0,0'>|<fs af='maryAxa,n,any,sg,3,,obl,obl'>
+15	BaMgaMgA	RB	<fs af='BaMgaM,n,any,sg,3,,gA,gA' poslcat="NM">
+16	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A'>
+17	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+18	ceVppadaM	VM	<fs af='ceVppu,v,any,any,any,,adaM,adaM'>
+19	kUdA	CC	<fs af='kUdA,avy,,,,,,'>
+20	AlociMcAru	VM	<fs af='AlociMcu,v,any,pl,2,,A,A'>|<fs af='AlociMcu,v,mf,pl,3,,A,A'>
+21	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

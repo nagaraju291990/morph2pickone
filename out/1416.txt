@@ -1,0 +1,17 @@
+<Sentence id="1416">
+0	((	SSF
+1	ilAge	NN	<fs af='ilAgu,avy,,,,,e,e_avy'>
+2	moVkkala	NN	<fs af='moVkka,n,any,pl,3,,obl,obl'>
+3	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+4	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+5	goVMgalYi	NN	<fs af='goVMgalYi,n,any,sg,3,,0,0'>|<fs af='goVMgalYi,n,any,sg,3,,obl,obl'>
+6	purugunu	NN	<fs af='purugu,n,any,sg,3,,ni,ni'>|<fs af='purugu,n,any,sg,3,,ni_agr,ni_agr'>
+7	eri	VM	<fs af='eru,v,any,any,any,,i,i'>
+8	caMpadaM	VM	<fs af='caMpu,v,any,any,any,,adaM,adaM'>|<fs af='caMpadaM,n,any,sg,3,,0,0'>
+9	vaMtivi	NN	<fs af='vaMti,adj,,pl,,,xi,xi_0' deri_cat='pn'>
+10	suluvu	NN	<fs af='suluvu,adj,,,,,0,0_adj'>|<fs af='suluvu,n,,sg,,,0,0'>|<fs af='suluvu,n,,sg,,,obl,obl'>
+10	ayina	VM	<fs af='avvu,v,any,any,any,,ina,ina'>
+11	paxXawulu	NN	<fs af='paxXawi,n,any,pl,3,,0,0'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,13 @@
+<Sentence id="9292">
+0	((	SSF	
+1	kUrcuMdi	VM	<fs af='kUrcuMdu,v,any,any,any,,i,i'>
+2	kUrcuMdi	RDP	<fs af='kUrcuMdu,v,any,any,any,,i,i' poslcat="NM">
+3	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+4	SAswravewwalU	NN	<fs af='SAswravewwa,n,any,pl,3,,I,I'>
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	dAktarlU	NN	<fs af='dAktar,n,any,pl,3,,I,I'>|<fs af='dAktaru,n,any,pl,3,,0,0_V'>|<fs af='dAktaru,n,any,pl,3,,I,I'>
+7	visigi	VM	<fs af='visugu,v,any,any,any,,i,i'>
+8	veVlYlipoyinAru	VM	<fs af='veVlYlipo,v,any,pl,2,,A,A'>|<fs af='veVlYlipo,v,mf,pl,3,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

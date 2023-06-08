@@ -1,0 +1,22 @@
+<Sentence id="8913">			
+0	((	SSF	
+1	oVkkoVkkappudu	NST	<fs af='oVkkoVkkappudu,avy,,,,,,' poslcat="NM">
+2	eVdamakAli	NN	<fs af='eVdamakAlu,n,any,sg,3,,obl,obl'>
+3	madama	NN	<fs af='madama,n,any,sg,3,,0,0'>|<fs af='madama,n,any,sg,3,,obl,obl'>
+4	AsanaM	NN	<fs af='AsanaM,n,any,sg,3,,0,0'>
+5	kriMxinuMci	NST	<fs af='kriMxi,n,any,sg,3,,niMci,niMci'>
+6	kudi	NN	<fs af='kudi,n,any,sg,3,,0,0'>|<fs af='kudi,n,any,sg,3,,obl,obl'>
+6	kAli	NN	<fs af='kAlu,n,any,sg,3,,obl,obl'>
+7	madama	NN	<fs af='madama,n,any,sg,3,,0,0'>|<fs af='madama,n,any,sg,3,,obl,obl'>
+8	sarigA	RB	<fs af='sariga,n,any,sg,3,,0,0_A' poslcat="NM">'>|<fs af='sariga,n,any,sg,3,,0,0_V' poslcat="NM">'>
+9	xAni	PRP	<fs af='axi,pn,fn,sg,3,,obl,obl'>
+10	pEna	NN	<fs af='pEna,n,,sg,,,0,0'>|<fs af='pEna,n,,sg,,,obl,obl'>
+11	peVtti	VM	<fs af='peVttu,v,any,any,any,,i,i'>
+12	Upiri	NN	<fs af='Upiri,n,any,sg,3,,0,0'>|<fs af='Upiri,n,any,sg,3,,obl,obl'>
+13	pIlci	VM	<fs af='pIlcu,v,any,any,any,,i,i'>|<fs af='pIluvu,v,any,any,any,,i,i'>
+14	bigabatti	VM	<fs af='bigabattu,v,any,any,any,,i,i'>
+15	atle	RB	<fs af='attu,n,any,pl,3,,0,0_e' poslcat="NM">
+16	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,23 @@
+<Sentence id="9101">			
+0	((	SSF	
+1	pEgA	RP	<fs af='pE,adj,any,any,any,,gA_adj,gA_adj'>
+2	ixi	PRP	<fs af='ixi,pn,fn,sg,3,,0,0'>
+3	SAswraM	NN	<fs af='SAswraM,n,any,sg,3,,0,0'>
+4	(	SYM	<fs af='(,punc,,,,,,'>
+5	Science	NN	<fs af='Science,n,any,sg,3,,0,0'>
+6	)	SYM	<fs af='),punc,,,,,,'>
+7	yaXArXAnveRaNaM	NN	<fs af='yaXArXAnveRaNaM,n,any,sg,3,,0,0'>
+8	(	SYM	<fs af='(,punc,,,,,,'>
+9	Search	VM	<fs af='Search,n,any,sg,3,,0,0'>'>
+10	after	PSP	<fs af='after,n,any,sg,3,,0,0'>'>
+11	truth	NN	<fs af='truth,n,any,sg,3,,0,0'>
+12	)	SYM	<fs af='),punc,,,,,,'>
+13	ani	UT	<fs af='ani,avy,,,,,,'>
+14	aMxarU	PRP	<fs af='aMxaru,pn,mf,pl,3,,0,0_V'>
+15	kalisi	VM	<fs af='kaluvu,v,any,any,any,,i,i'>
+16	hAhU	NNP	<fs af='hAhU,n,any,sg,3,,0,0'>
+17	xaggaraku	NN	<fs af='xaggara,adv,any,any,any,,0,0_adv_ku'>
+18	veVlYlAru	VM	<fs af='veVlYlu,v,any,pl,2,,A,A'>
+19	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

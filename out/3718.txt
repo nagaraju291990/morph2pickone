@@ -1,0 +1,20 @@
+<Sentence id="3718">
+0	((	SSF
+1	navvi	VM	<fs af='navvu,v,any,any,any,,i,i'>
+2	wana	PRP	<fs af='wAnu,pn,mf,sg,3,,obl,obl'>
+3	jebu	NN	<fs af='jebu,n,any,sg,3,,0,0'>|<fs af='jebu,n,any,sg,3,,obl,obl'>
+4	nuMdi	PSP	<fs af='nuMdi,avy,,,,,, '>
+5	oVka	QC	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+6	rUpAyi	NN	<fs af='rUpAyi,n,any,sg,3,,0,0'>|<fs af='rUpAyi,n,any,sg,3,,obl,obl'>
+7	wIsi	VM	<fs af='wiyyi,v,any,any,any,,i,i'>
+7	icci	VM	<fs af='ivvu,v,any,any,any,,i,i'>
+8	bayata	NST	<fs af='bayata,adv,any,any,any,,0_adv,0_adv'>
+9	eVkkadi	NN	<fs af='eVkkadi,avy,,,,,,'>|<fs af='eVkkada,nst,,,,,yoVkka,yoVkka_adv'>
+9	annA	VM	<fs af='anni,pn,,pl,,,0_A,0_A'>|<fs af='anu,v,any,any,any,,inA,inA'>
+10	miTAyi	NN	<fs af='miTAyi,n,any,sg,3,,0,0'>|<fs af='miTAyi,n,any,sg,3,,obl,obl'>
+11	koVnukkuni	VM	<fs af='koVnukko,v,any,any,any,,i,i'>
+12	winamani	VM	<fs af='winu,v,any,pl,1,,a_ani,a_ani'>|<fs af='winamanu,v,any,any,any,,i,i'>
+13	ceVppAdu	VM	<fs af='ceVppu,v,m,sg,3,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,10 @@
+<Sentence id="9528">
+0	((	SSF
+1	avi	PRP	<fs af='axi,pn,fn,pl,3,,0,0'>
+2	atU	NN	<fs af='atu,avy,,,,,V,V_avy'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	itU	NST	<fs af='itU,avy,,,,,, '>
+5	vixaliMcAdu	VM	<fs af='vixaliMcu,v,m,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

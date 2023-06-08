@@ -1,0 +1,19 @@
+<Sentence id="1861">			
+0	((	SSF	
+1	bassulo	NN	<fs af='bassu,n,any,sg,3,,lo,lo'>
+2	mA	PRP	<fs af='memu,pn,any,pl,1,,obl,obl'>
+3	eVxuti	NST	<fs af='eVxuta,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+4	sItloni	NN	<fs af='sIt,n,,sg,,,loni,loni'>
+5	vAlYlu	PRP	<fs af='vAlYlu,pn,mf,pl,3,,0,0'>
+6	eVMdalaku	NN	<fs af='eVMda,n,any,pl,3,,ki,ki'>
+7	wattukoleka	VM	<fs af='wattuko,v,any,any,any,,a_le_aka,a_le_aka'>
+8	,	SYM	<fs af=',,punc,,,,,,'>
+9	sodA	NN	<fs af='sodu,n,any,sg,3,,0,0_A'>
+10	kalarlu	VM	<fs af='kalar,n,any,pl,3,,0,0'>'>
+10	ammevANNi	VM	<fs af='ammevAdu,pn,m,sg,3,,nu,nu'>'>
+11	eVMwa	WQ	<fs af='eVMwa,pn,any,sg,3,,0,0'>
+12	ani	UT	<fs af='ani,avy,,,,,,'>
+13	adigAru	VM	<fs af='adugu,v,any,pl,2,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

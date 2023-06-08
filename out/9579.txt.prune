@@ -1,0 +1,13 @@
+<Sentence id="9579">
+0	((	SSF	
+1	akkadanuMdi	NN	<fs af='akkada,n,,sg,,,niMci,niMci'>
+2	hAhUni	NNP	<fs af='hAhU,n,any,sg,3,,ni,ni'>
+3	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+4	peVxxa	JJ	<fs af='peVxxa,adj,any,any,any,,0_adj,0_adj'>
+5	lArdu	NN	<fs af='lArd,n,any,sg,3,,0,0'>|<fs af='lArd,n,any,sg,3,,obl,obl'>
+6	iMtiki	NN	<fs af='illu,n,any,sg,3,,ki,ki'>
+7	wIsuku	NN	<fs af='wIsuko,v,,sg,2,,AjFArWa,AjFArWa' poslcat="NM">|<fs af='wIsuko,v,,sg,2,,AjFArWa,AjFArWa' poslcat="NM">|<fs af='wIsuko,v,any,any,any,,an_u,an_u' poslcat="NM">|<fs af='wIsuko,v,any,any,any,,an_u,an_u' poslcat="NM">|<fs af='wiyyi,v,any,any,any,,koVn_u,koVn_u' poslcat="NM">
+8	poyAru	VM	<fs af='po,v,any,pl,2,,A,A'>|<fs af='po,v,mf,pl,3,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

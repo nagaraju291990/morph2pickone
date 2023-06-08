@@ -1,0 +1,17 @@
+<Sentence id="9535">
+0	((	SSF
+1	veswe	VM	<fs af='veVyyi,v,any,any,any,,we,we'>
+2	kriMxi	NST	<fs af='kriMxi,n,any,sg,3,,0,0'>|<fs af='kriMxi,n,any,sg,3,,obl,obl'>
+3	rAlYlu	NN	<fs af='rAyi,n,any,pl,3,,0,0'>|<fs af='rAyi,n,any,pl,3,,vu_agr,vu_agr'>
+4	paracina	VM	<fs af='paracu,v,any,any,any,,ina,ina'>
+5	nela	NN	<fs af='nela,n,any,sg,3,,0,0'>|<fs af='nela,n,any,sg,3,,obl,obl'>|<fs af='neVyyi,n,any,pl,3,,obl,obl'>
+6	baliRtamEna	JJ	<fs af='baliRta,adj,any,any,any,,xEna_na_adj,xEna_na_adj'>|<fs af='baliRtaM,n,any,sg,3,,Ena,Ena'>
+7	gurraM	NN	<fs af='gurraM,n,any,sg,3,,0,0'>
+8	deVkkalawo	NN	<fs af='deVkka,n,any,pl,3,,wo,wo'>
+9	koVttinatlu	VM	<fs af='koVttu,v,any,any,any,,ina_atlu,ina_atlu'>
+10	KaMgu	NN	<fs af='KaMg,n,any,sg,3,,0,0'>|<fs af='KaMg,n,any,sg,3,,obl,obl'>|<fs af='KaMgu,n,any,sg,3,,0,0'>|<fs af='KaMgu,n,any,sg,3,,obl,obl'>
+11	KaMgumani	NN	<fs af='KaMgumanu,v,any,any,any,,i,i'>
+12	mrogiMxi	VM	<fs af='mrogu,v,fn,sg,3,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

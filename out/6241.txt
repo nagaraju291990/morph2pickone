@@ -1,0 +1,18 @@
+<Sentence id="6241">
+0	((	SSF
+1	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+2	xUraMlo	NN	<fs af='xUraM,n,any,sg,3,,lo,lo'>
+3	kala	RP	<fs af='kala,n,any,sg,3,,0,0'>|<fs af='kala,n,any,sg,3,,obl,obl'>|<fs af='kalaM,n,any,sg,3,,obl,obl'>
+4	I	DEM	<fs af='I,avy,,,,,, '>
+5	grAmaMlo	NN	<fs af='grAmaM,n,any,sg,3,,lo,lo'>
+6	suvarNamuKi	NNP	<fs af='suvarNamuKi,n,any,sg,3,,0,0'>|<fs af='suvarNamuKi,n,any,sg,3,,obl,obl'>
+7	,	SYM	<fs af=',,punc,,,,,, '>
+8	nAgAvalYi	NNP	<fs af='nAgAvalYi,n,any,sg,3,,0,0'>|<fs af='nAgAvalYi,n,any,sg,3,,obl,obl'>
+9	,	SYM	<fs af=',,punc,,,,,, '>
+10	vexavawi	NNP	<fs af='vexavawi,n,any,sg,3,,0,0'>|<fs af='vexavawi,n,any,sg,3,,obl,obl'>
+11	naxula	NN	<fs af='naxi,n,any,pl,3,,obl,obl'>
+12	saMgamaM	NN	<fs af='saMgamaM,n,any,sg,3,,0,0'>
+13	jaruguwuMxi	VM	<fs af='jarugu,v,fn,sg,3,,wA,wA'>
+14	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

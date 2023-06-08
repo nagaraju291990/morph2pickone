@@ -1,0 +1,11 @@
+<Sentence id="8162">
+0	((	SSF	
+1	pillala	NN	<fs af='pilla,n,any,pl,3,,obl,obl'>
+2	rakRaNa	NN	<fs af='rakRaNa,n,any,sg,3,,0,0'>|<fs af='rakRaNa,n,any,sg,3,,obl,obl'>
+3	goVrreV	NN	<fs af='goVrreV,n,any,sg,3,,0,0'>|<fs af='goVrreV,n,any,sg,3,,obl,obl'>
+4	pillalanu	NN	<fs af='pilla,n,any,pl,3,,ni,ni'>
+5	sarigA	RB	<fs af='sariga,n,any,sg,3,,0,0_A' poslcat="NM">|<fs af='sariga,n,any,sg,3,,0,0_V' poslcat="NM">
+6	kApAdAli	VM	<fs af='kApAdu,v,any,any,any,,Ali,Ali'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

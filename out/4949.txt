@@ -1,0 +1,35 @@
+<Sentence id="4949">
+0	((	SSF
+1	cepala	NN	<fs af='cepa,n,any,pl,3,,obl,obl'>
+2	pariSramalo	NN	<fs af='pariSrama,n,any,sg,3,,lo,lo'>|<fs af='pariSrama,n,any,pl,3,,0,0_o'>
+3	rakAlu	NN	<fs af='rakaM,n,any,pl,3,,0,0'>|<fs af='rakaM,n,any,pl,3,,vu_agr,vu_agr'>
+4	_	SYM
+5	_	SYM
+6	_	SYM
+7	_	SYM
+8	_	SYM
+9	_	SYM
+10	_	SYM
+11	_	SYM
+12	_	SYM
+13	_	SYM
+14	_	SYM
+15	_	SYM
+16	_	SYM
+17	_	SYM
+18	_	SYM
+19	_	SYM
+20	_	SYM
+21	_	SYM
+22	_	SYM
+23	_	SYM
+24	_	SYM
+25	_	SYM
+26	cepala	NN	<fs af='cepa,n,any,pl,3,,obl,obl'>
+27	pariSramalo	NN	<fs af='pariSrama,n,any,sg,3,,lo,lo'>|<fs af='pariSrama,n,any,pl,3,,0,0_o'>
+28	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+29	rakAlu	NN	<fs af='rakaM,n,,pl,,,0,0'>|<fs af='rakaM,n,,pl,,,vu,vu'>
+29	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+30	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

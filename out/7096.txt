@@ -1,0 +1,10 @@
+<Sentence id="7096">
+0	((	SSF
+1	11	QC	<fs af='11,num,,,,,, '>
+2	lone	PSP	<fs af='lone,avy,,,,,, '>|<fs af='lona,adv,any,any,any,,0_e_adv,0_e_adv'>
+3	yukwa	JJ	<fs af='yukwaM,n,any,sg,3,,obl,obl'>
+4	vayaskulu	NN	<fs af='vayask,n,any,pl,3,,0,0'>|<fs af='vayask,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='vayaskudu,n,any,pl,3,,0,0'>|<fs af='vayaskudu,n,any,pl,3,,vu_agr,vu_agr'>
+5	avuwunnAru	VM	<fs af='avvu,v,any,pl,2,,wunn,wunn'>|<fs af='avvu,v,mf,pl,3,,wunn,wunn'>|<fs af='avuwuMdu,v,any,pl,2,,A,A'>|<fs af='avuwuMdu,v,mf,pl,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

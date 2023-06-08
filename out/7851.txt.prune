@@ -1,0 +1,9 @@
+<Sentence id="7851">
+0	((	SSF	
+1	palleV	NN	<fs af='palleV,n,any,sg,3,,0,0'>|<fs af='palleV,n,any,sg,3,,obl,obl'>
+2	aMte	UT	<fs af='aMte,avy,,,,,,'>|<fs af='anu,v,any,any,any,,we,we'>|<fs af='aMtu,v,any,any,any,,e,e'>|<fs af='aMtu,v,any,any,any,,i,i_e'>
+3	culakanagA	RB	<fs af='culakana,n,any,sg,3,,gA,gA' poslcat="NM">
+4	cUcexi	VM	<fs af='cUdu,v,any,any,any,,e_axi,e_axi'>|<fs af='cUcu,v,any,any,any,,e_axi,e_axi'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

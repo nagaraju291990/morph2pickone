@@ -1,0 +1,11 @@
+<Sentence id="2331">
+0	((	SSF
+1	aMwegAni	CC	<fs af='aMwegAni,avy,,,,,, '>
+2	kaMti	NN	<fs af='kannu,n,any,sg,3,,obl,obl'>
+3	lopali	NST	<fs af='lopala,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+4	BAgaM	NN	<fs af='BAgaM,n,any,sg,3,,0,0'>
+5	cewiwo	NN	<fs af='ceyi,n,any,sg,3,,wo,wo'>
+6	wAkagUdaxu	VM	<fs af='wAku,v,any,any,any,,a_kUdaxu,a_kUdaxu'>|<fs af='wAkagUdu,v,fn,sg,3,,a,a'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

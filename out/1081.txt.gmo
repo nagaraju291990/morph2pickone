@@ -1,0 +1,9 @@
+<Sentence id="1081">			
+0	((	SSF	
+1	kodini	NN	<fs af='kodi,n,any,sg,3,,ni,ni'>|<fs af='kodi,n,any,sg,3,,ni_agr,ni_agr'>
+2	eVvaru	PRP	<fs af='eVvaru,pn,,pl,,,0,0'>|<fs af='eVvaru,pn,,pl,,,vu,vu'>
+2	ayinA	VM	<fs af='avvu,v,any,any,any,,inA,inA'>
+3	koVMtAru	VM	<fs af='koVnu,v,any,pl,2,,wA,wA'>|<fs af='koVnu,v,mf,pl,3,,wA,wA'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

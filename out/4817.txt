@@ -1,0 +1,8 @@
+<Sentence id="4817">
+0	((	SSF
+1	ayixunnara	NN	<fs af='ayixu,num,,,,,unnara,unnara'>
+2	reVMdo	QO	<fs af='reVMdu,n,any,sg,3,,0,0_o'>|<fs af='reVMdu,num,any,any,any,,ava,ava'>|<fs af='reVMdo,adj,any,any,any,,0_adj,0_adj'>
+3	roju	NN	<fs af='roju,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='roju,n,any,sg,3,,0,0'>|<fs af='roju,n,any,sg,3,,obl,obl'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

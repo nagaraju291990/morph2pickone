@@ -1,0 +1,9 @@
+<Sentence id="877">
+0	((	SSF
+1	rAmarAju	NNP	<fs af='rAmarAju,n,any,sg,3,,0,0'>|<fs af='rAmarAju,n,any,sg,3,,obl,obl'>
+2	pinawaMdri	NN	<fs af='pinawaMdri,n,any,sg,3,,0,0'>|<fs af='pinawaMdri,n,any,sg,3,,obl,obl'>
+3	iMtilo	NN	<fs af='illu,n,any,sg,3,,lo,lo'>
+4	cerAdu	VM	<fs af='ceru,v,m,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

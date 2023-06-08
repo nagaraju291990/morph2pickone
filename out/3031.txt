@@ -1,0 +1,7 @@
+<Sentence id="3031">
+0	((	SSF
+1	maXyalone	NST	<fs af='maXya,n,any,sg,3,,lo,lo_e'>
+2	ApeSAru	VM	<fs af='ApeVyyi,v,any,pl,2,,A,A'>|<fs af='ApeVyyi,v,mf,pl,3,,A,A'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

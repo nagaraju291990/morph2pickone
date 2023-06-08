@@ -1,0 +1,12 @@
+<Sentence id="2216">			
+0	((	SSF	
+1	manaM	PRP	<fs af='manaM,pn,any,pl,1,,0,0'>
+2	vAdina	VM	<fs af='vAdu,v,any,any,any,,ina,ina'>
+3	nIlYlu	NN	<fs af='nIru,n,any,pl,3,,0,0'>
+4	ceVttuku	NN	<fs af='ceVttu,n,any,sg,3,,ki,ki'>
+5	pAretattu	VM	<fs af='pAru,v,any,any,any,,e_atlu,e_atlu'>
+6	cesukuMte	VM	<fs af='ceVyyi,v,any,any,any,,koVn_we,koVn_we'>
+7	cAlu	VAUX	<fs af='cAlu,avy,,,,,,'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

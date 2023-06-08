@@ -1,0 +1,27 @@
+<Sentence id="6267">			
+0	((	SSF	
+1	lalo	RP	<fs af='lali,n,any,sg,3,,0,0_o' poslcat="NM">
+2	)	SYM	<fs af='),punc,,,,,,'>
+3	narasannapeta	NNP	<fs af='narasannapeta,n,any,sg,3,,0,0'>|<fs af='narasannapeta,n,any,sg,3,,obl,obl'>
+4	24	QC	<fs af='24,num,,,,,,'>
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	teVkkali	NNP	<fs af='teVkkali,n,any,sg,3,,0,0'>|<fs af='teVkkali,n,any,sg,3,,obl,obl'>
+7	54	QC	<fs af='54,num,,,,,,'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	palAsa	NNP	<fs af='palAsa,n,any,sg,3,,0,0'>|<fs af='palAsa,n,any,sg,3,,obl,obl'>
+10	84	QC	<fs af='84,num,,,,,,'>
+11	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+12	soMpeta	NNP	<fs af='soMpeta,n,any,sg,3,,0,0'>|<fs af='soMpeta,n,any,sg,3,,obl,obl'>
+13	124	QC	<fs af='124,num,,,,,,'>
+14	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+15	icCApuraM	NNP	<fs af='icCApuraM,n,any,sg,3,,0,0'>
+16	149	QC	<fs af='149,num,,,,,,'>
+17	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+18	pAlakoVMda	NNP	<fs af='pAlakoVMda,n,any,sg,3,,0,0'>|<fs af='pAlakoVMda,n,any,sg,3,,obl,obl'>
+19	45	QC	<fs af='45,num,,,,,,'>
+20	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+21	rAjAM	NN	<fs af='rAjAM,unk,,,,,,' poslcat="NM">
+22	40	QC	<fs af='40,num,,,,,,'>
+23	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

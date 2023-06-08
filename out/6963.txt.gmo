@@ -1,0 +1,12 @@
+<Sentence id="6963">			
+0	((	SSF	
+1	kaMxi	NNP	<fs af='kaMxi,n,any,sg,3,,0,0'>|<fs af='kaMxi,n,any,sg,3,,obl,obl'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	peVsara	NNP	<fs af='peVsara,n,any,sg,3,,0,0'>|<fs af='peVsara,n,any,sg,3,,obl,obl'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	minumulu	NNP	<fs af='minumu,n,any,pl,3,,0,0'>|<fs af='minumu,n,any,pl,3,,vu_agr,vu_agr'>
+6	apara	NN	<fs af='aparaM,n,any,sg,3,,obl,obl'>
+7	paMtalu	NN	<fs af='paMta,n,any,pl,3,,0,0'>|<fs af='paMta,n,any,pl,3,,vu_agr,vu_agr'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

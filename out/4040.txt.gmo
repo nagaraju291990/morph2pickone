@@ -1,0 +1,9 @@
+<Sentence id="4040">			
+0	((	SSF	
+1	vidici	VM	<fs af='viduvu,v,any,any,any,,i,i'>|<fs af='vidiyu,v,any,any,any,,i,i'>
+2	peVttinappudu	VM	<fs af='peVttu,v,any,any,any,,ina_appudu,ina_appudu'>
+3	bayata	NST	<fs af='bayata,adv,any,any,any,,0_adv,0_adv'>
+4	wiruguwAnu	VM	<fs af='wirugu,v,any,sg,1,,wA,wA'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

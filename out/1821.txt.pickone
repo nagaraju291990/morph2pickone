@@ -1,0 +1,22 @@
+<Sentence id="1821">			
+0	((	SSF	
+1	PyAMtulu	NN	<fs af='PyAMtu,n,any,pl,3,,0,0'>
+2	,	SYM	<fs af=',,punc,,,,,,'>
+3	Rartulu	NN	<fs af='Rart,n,any,pl,3,,0,0'>
+4	koVnnavAlYlu	VM	<fs af='koVnu,v,any,any,any,,ina_vAlYlu,ina_vAlYlu'>
+5	parisWiwi	NN	<fs af='parisWiwi,n,any,sg,3,,0,0'>
+6	kUdA	PSP	<fs af='kUdA,avy,,,,,,'>'>
+7	axe	PRP	<fs af='axi,pn,fn,sg,3,,0,0_e'>
+8	!	SYM	<fs af='!,punc,,,,,,'>
+9	eVMwo	INTF	<fs af='eVMwa,pn,any,pl,3,,0,0_o'>
+10	wakkuvaku	NN	<fs af='wakkuva,n,,sg,,,ki,ki'>
+11	koVnnAmu	VM	<fs af='koVnu,v,any,pl,1,,A,A'>
+12	anna	UT	<fs af='anna,avy,,,,,,'>
+13	vAlYla	PRP	<fs af='vAlYlu,pn,mf,pl,3,,obl,obl'>
+14	AnaMxaM	NN	<fs af='AnaMxaM,n,any,sg,3,,0,0'>
+15	eVkkuva	NN	<fs af='eVkkuva,adj,,,,,0,0_adj'>
+15	sepu	NN	<fs af='sepu,n,,sg,,,0,0'>
+16	nilavalexu	VM	<fs af='niluvu,v,any,any,any,,a_lexu,a_lexu'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

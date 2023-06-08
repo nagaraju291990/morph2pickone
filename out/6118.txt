@@ -1,0 +1,9 @@
+<Sentence id="6118">
+0	((	SSF
+1	weVlaMgANA	NNP	<fs af='weVlaMgANa,n,any,sg,3,,0,0_A'>|<fs af='weVlaMgANa,n,any,sg,3,,0,0_V'>|<fs af='weVlaMgANA,n,any,sg,3,,0,0'>|<fs af='weVlaMgANA,n,any,sg,3,,obl,obl'>
+2	nEjAM	NN	<fs af='nEjAM,n,,sg,,,0,0'>
+3	paripAlanalo	NN	<fs af='paripAlana,n,any,sg,3,,lo,lo'>|<fs af='paripAlana,n,any,pl,3,,0,0_o'>
+4	uMdexi	VM	<fs af='uMdu,v,any,any,any,,e_axi,e_axi'>|<fs af='uMdexi,pn,any,sg,3,,0,0'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

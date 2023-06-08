@@ -1,0 +1,9 @@
+<Sentence id="6773">
+0	((	SSF	
+1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+2	cewwo	NN	<fs af='ceyi,n,any,sg,3,,wo,wo'>
+3	panlu	NN	<fs af='pani,n,any,pl,3,,0,0'>|<fs af='pani,n,any,pl,3,,vu_agr,vu_agr'>
+4	cesukogaluguwAnA	NN	<fs af='ceVyyi,v,any,any,any,,koVn_a_galugu,koVn_a_galugu_wA_A' poslcat="NM">
+5	?	SYM	<fs af='?,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

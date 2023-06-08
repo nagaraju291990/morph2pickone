@@ -1,0 +1,8 @@
+<Sentence id="7950">
+0	((	SSF
+1	appula	VM	<fs af='appu,n,any,pl,3,,obl,obl'>
+1	pAlu	VM	<fs af='paM,n,any,pl,3,,0,0'>|<fs af='paM,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAlu,n,any,sg,3,,0,0'>|<fs af='pAlu,n,any,sg,3,,0,0_A'>|<fs af='pAlu,n,any,sg,3,,obl,obl'>|<fs af='pAlu,n,any,sg,3,,vu_agr,vu_agr'>
+1	EnAmu	VM	<fs af='avvu,v,any,pl,1,,A,A'>
+2	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

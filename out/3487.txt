@@ -1,0 +1,11 @@
+<Sentence id="3487">
+0	((	SSF
+1	bawakammalanu	NNP	<fs af='bawakamma,n,any,pl,3,,ni,ni'>
+2	Uri	NN	<fs af='Uru,v,any,any,any,,i,i'>|<fs af='Uru,n,any,sg,3,,obl,obl'>
+3	naduma	NST	<fs af='naduma,n,any,sg,3,,0,0'>|<fs af='naduma,n,any,sg,3,,obl,obl'>
+4	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+5	cotaku	NN	<fs af='cota,nst,,,,,ku,ku_adv'>
+6	ceruswAru	VM	<fs af='ceruvu,v,any,pl,2,,wA,wA'>|<fs af='ceruvu,v,mf,pl,3,,wA,wA'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

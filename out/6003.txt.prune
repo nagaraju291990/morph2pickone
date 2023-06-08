@@ -1,0 +1,11 @@
+<Sentence id="6003">
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	"	SYM	<fs af='",punc,,,,,,'>
+3	goda	NN	<fs af='goda,n,any,sg,3,,0,0'>|<fs af='goda,n,any,sg,3,,obl,obl'>
+4	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+5	boVmma	NN	<fs af='boVmma,n,any,sg,3,,0,0'>|<fs af='boVmma,n,any,sg,3,,obl,obl'>
+6	gISArA	VM	<fs af='giyyi,v,any,pl,2,,A,A_A'>|<fs af='giyyi,v,mf,pl,3,,A,A_A'>
+7	?	SYM	<fs af='?,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

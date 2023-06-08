@@ -1,0 +1,6 @@
+<Sentence id="7272">
+0	((	SSF
+1	maMcivAdu	NN	<fs af='maMci,adj,any,any,any,,vAdu_adj,vAdu_adj'>
+2	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

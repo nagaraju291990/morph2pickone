@@ -1,0 +1,22 @@
+<Sentence id="1371">
+0	((	SSF	
+1	melu	NN	<fs af='me,n,any,pl,3,,0,0'>|<fs af='me,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='melu,n,any,sg,3,,0,0'>|<fs af='menu,n,any,pl,3,,0,0'>|<fs af='menu,n,any,pl,3,,vu_agr,vu_agr'>
+2	rakAlu	NN	<fs af='rakaM,n,any,pl,3,,0,0'>|<fs af='rakaM,n,any,pl,3,,vu_agr,vu_agr'>
+3	AmuxAlalo	NN	<fs af='AmuxaM,n,any,pl,3,,lo,lo'>
+4	"	SYM	<fs af='",punc,,,,,,'>
+5	aruNa	NN	<fs af='aruNaM,n,any,sg,3,,obl,obl'>
+6	"	SYM	<fs af='",punc,,,,,,'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	"	SYM	<fs af='",punc,,,,,,'>
+9	BAgya	NN	<fs af='BAgyaM,n,any,sg,3,,obl,obl'>
+10	"	SYM	<fs af='",punc,,,,,,'>
+11	mariyu	WQ	<fs af='mariyu,avy,,,,,,'>
+12	"	SYM	<fs af='",punc,,,,,,'>
+13	sOBAgya	NN	<fs af='sOBAgyaM,n,any,sg,3,,obl,obl'>
+14	"	SYM	<fs af='",punc,,,,,,'>
+15	rakAlu	NN	<fs af='rakaM,n,any,pl,3,,0,0'>|<fs af='rakaM,n,any,pl,3,,vu_agr,vu_agr'>
+16	vAdukalo	NN	<fs af='vAduka,n,any,sg,3,,lo,lo'>|<fs af='vAduka,n,any,pl,3,,0,0_o'>
+17	unnavi	VM	<fs af='unnaxi,pn,any,pl,3,,0,0' poslcat="NM">
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

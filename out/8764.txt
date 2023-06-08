@@ -1,0 +1,7 @@
+<Sentence id="8764">
+0	((	SSF
+1	inspeVktarlu	NN	<fs af='inspeVktar,n,any,pl,3,,0,0'>|<fs af='inspeVktar,n,any,pl,3,,vu_agr,vu_agr'>
+2	lecAru	VM	<fs af='le,v,any,pl,2,,A,A'>|<fs af='le,v,mf,pl,3,,A,A'>|<fs af='lecu,v,any,pl,2,,A,A'>|<fs af='lecu,v,mf,pl,3,,A,A'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

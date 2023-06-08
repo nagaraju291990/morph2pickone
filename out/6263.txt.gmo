@@ -1,0 +1,21 @@
+<Sentence id="6263">			
+0	((	SSF	
+1	poVMxUru	NNP	<fs af='poVMxUru,n,any,sg,3,,0,0'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	SrIkAkulYAniki	NNP	<fs af='SrIkAkulYaM,n,any,sg,3,,ki,ki'>
+4	21	QC	<fs af='21,num,,,,,,'>
+5	ki	NN	<fs af='ki,avy,,,,,,' poslcat="NM">'>|<fs af='mIru,pn,any,pl,2,,obl,obl' poslcat="NM">'>
+6	|	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+7	|	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+8	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl' poslcat="NM">
+9	xUraMlo	NN	<fs af='xUraM,n,any,sg,3,,lo,lo'>
+10	gala	RP	<fs af='gala,v,any,any,any,,ina,ina' poslcat="NM">'>|<fs af='gala,adj,any,any,any,,0_adj,0_adj' poslcat="NM">'>
+11	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+12	grAmaM	NN	<fs af='grAmaM,n,any,sg,3,,0,0'>
+13	sannati	JJ	<fs af='sanna,adj,any,any,any,,ti_adj,ti_adj'>
+14	KAxI	NN	<fs af='KAxI,n,,sg,,,0,0'>|<fs af='KAxI,n,,sg,,,obl,obl'>
+15	vaswrAniki	NN	<fs af='vaswraM,n,any,sg,3,,ki,ki'>
+16	prasixXi	NN	<fs af='prasixXi,n,any,sg,3,,0,0'>|<fs af='prasixXi,n,any,sg,3,,obl,obl'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,31 @@
+<Sentence id="8414">
+0	((	SSF	
+1	mAlakoVMda	NNP	<fs af='mAlakoVMda,n,any,sg,3,,0,0'>|<fs af='mAlakoVMda,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	kaMxukUrunu	NN	<fs af='kaMxukUru,n,,sg,,,nu,nu'>
+3	uMdi	VM	<fs af='uMdu,v,any,any,any,,i,i'>
+4	30	QC	<fs af='30,num,,,,,,'>
+5	ki	NN	<fs af='ki,avy,,,,,,' poslcat="NM">|<fs af='mIru,pn,any,pl,2,,obl,obl' poslcat="NM">
+6	|	SYM	<'>|<poslcat="NM"'>
+7	|	SYM	<'>|<poslcat="NM"'>
+8	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl' poslcat="NM">
+9	xUraMlo	NN	<fs af='xUraM,n,any,sg,3,,lo,lo'>
+10	gala	RP	<fs af='gala,v,any,any,any,,ina,ina' poslcat="NM">|<fs af='gala,adj,any,any,any,,0_adj,0_adj' poslcat="NM">
+11	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+12	grAmamaMxu	NN	<fs af='grAmaM,n,any,sg,3,,aMxu,aMxu'>
+13	mAli	VM	<fs af='mAlu,v,any,any,any,,i,i'>
+13	Axi	NN	<fs af='Axi,n,,sg,,,0,0'>|<fs af='Axi,n,,sg,,,obl,obl'>
+14	SrI	NNP	<fs af='SrI,n,any,sg,3,,0,0'>|<fs af='SrI,n,any,sg,3,,obl,obl'>
+15	lakRmi	NNP	<fs af='lakRmi,n,any,sg,3,,0,0'>|<fs af='lakRmi,n,any,sg,3,,obl,obl'>
+16	narasiMhasvAmi	NNP	<fs af='narasiMhasvAmi,n,any,sg,3,,0,0'>|<fs af='narasiMhasvAmi,n,any,sg,3,,obl,obl'>
+17	AlayaM	NN	<fs af='AlayaM,n,any,sg,3,,0,0'>
+18	xattaM	JJ	<fs af='xattaM,n,any,sg,3,,0,0' poslcat="NM">
+18	ayina	JJ	<fs af='avvu,v,any,any,any,,ina,ina' poslcat="NM">|<fs af='avvu,v,any,any,any,,ina_axi,ina_axi' poslcat="NM">
+19	adavula	NN	<fs af='adavi,n,any,pl,3,,obl,obl'>
+20	maXya	NST	<fs af='maXya,n,any,sg,3,,0,0'>|<fs af='maXya,n,any,sg,3,,obl,obl'>|<fs af='maXyaM,n,any,sg,3,,obl,obl'>
+21	gala	RP	<fs af='gala,v,any,any,any,,ina,ina' poslcat="NM">|<fs af='gala,adj,any,any,any,,0_adj,0_adj' poslcat="NM">
+22	guttapE	NN	<fs af='gutta,n,any,sg,3,,pE,pE'>
+23	unnaxi	VM	<fs af='uMdu,v,any,any,any,,ina_axi,ina_axi'>|<fs af='uMdu,v,fn,sg,3,,A,A'>
+24	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

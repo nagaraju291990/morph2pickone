@@ -1,0 +1,14 @@
+<Sentence id="6793">
+0	((	SSF
+1	ApareRan_lo	NN	<fs af='ApareRan_lo,unk,,,,,,'>
+2	eVmukalo	NN	<fs af='eVmuka,n,any,sg,3,,lo,lo'>|<fs af='eVmuka,n,any,pl,3,,0,0_o'>
+3	virigina	VM	<fs af='virugu,v,any,any,any,,ina,ina'>|<fs af='virigina,n,any,sg,3,,0,0'>|<fs af='virigina,n,any,sg,3,,obl,obl'>
+4	BAgAnni	NN	<fs af='BAgaM,n,any,sg,3,,ni,ni'>|<fs af='BAgaM,n,any,sg,3,,ni_agr,ni_agr'>
+5	lohapu	NN	<fs af='lohaM,n,any,sg,3,,obl,obl'>
+6	kaddI	NN	<fs af='kaddi,n,any,pl,3,,gA,gA'>
+7	leka	CC	<fs af='gala,v,any,any,any,,aka,aka'>
+8	rekuwo	NN	<fs af='reku,n,any,sg,3,,wo,wo'>
+9	awikiswAru	VM	<fs af='awikiMcu,v,any,pl,2,,wA,wA'>|<fs af='awikiMcu,v,mf,pl,3,,wA,wA'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

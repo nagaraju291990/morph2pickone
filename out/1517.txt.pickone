@@ -1,0 +1,11 @@
+<Sentence id="1517">			
+0	((	SSF	
+1	kamala	NNP	<fs af='kamala,n,any,sg,3,,0,0'>
+2	'	SYM	<fs af=',punc,,,,,,'>
+3	mAlA_di	NNP	<fs af='mAlA_di,unk,,,,,,'>
+4	'	SYM	<fs af=',punc,,,,,,'>
+5	mAwralu	NN	<fs af='mAwra,n,any,pl,3,,0,0'>
+6	vAduwoMxi	VM	<fs af='vAdu,v,fn,sg,3,,wunn,wunn'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

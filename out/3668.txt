@@ -1,0 +1,18 @@
+<Sentence id="3668">
+0	((	SSF
+1	I	DEM	<fs af='I,avy,,,,,, '>
+2	mAmidi	NN	<fs af='mAmidi,n,any,sg,3,,0,0'>|<fs af='mAmidi,n,any,sg,3,,obl,obl'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	jAma	NN	<fs af='jAma,n,any,sg,3,,0,0'>|<fs af='jAma,n,any,sg,3,,obl,obl'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	nimma	NN	<fs af='nimma,n,any,sg,3,,0,0'>|<fs af='nimma,n,any,sg,3,,obl,obl'>
+7	,	SYM	<fs af=',,punc,,,,,, '>
+8	neredu	NN	<fs af='neredu,n,any,sg,3,,0,0'>
+9	I	DEM	<fs af='I,avy,,,,,, '>
+10	ceVtlu	NN	<fs af='ceVttu,n,,pl,,,0,0'>|<fs af='ceVttu,n,,pl,,,vu,vu'>
+10	annI	PRP	<fs af='anni,pn,,pl,,,0_V,0_V'>
+11	nenu	PRP	<fs af='nenu,pn,any,sg,1,,0,0'>
+12	nAtinave	VM	<fs af='nAtu,v,,pl,,,ina_axi_0,ina_axi_0_e' deri_cat='pn'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,11 @@
+<Sentence id="2689">
+0	((	SSF
+1	nadicina	VM	<fs af='naduvu,v,any,any,any,,ina,ina'>
+2	xUraMlo	NN	<fs af='xUraM,n,any,sg,3,,lo,lo'>
+3	kudivEpu	NN	<fs af='kudi,n,any,sg,3,,vEpu,vEpu'>
+4	ara	QF	<fs af='ara,n,any,sg,3,,0,0'>|<fs af='ara,n,any,sg,3,,obl,obl'>|<fs af='arudu,n,any,sg,3,,obl,obl'>
+5	kilomItar	NN	<fs af='kilomItar,n,any,sg,3,,0,0'>|<fs af='kilomItar,n,any,sg,3,,obl,obl'>
+6	wIsuko	VM	<fs af='wiyyi,v,any,any,any,,koVn,koVn'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

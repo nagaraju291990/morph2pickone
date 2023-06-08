@@ -1,0 +1,13 @@
+<Sentence id="6689">
+0	((	SSF
+1	ververu	JJ	<fs af='ververu,n,any,sg,3,,0,0'>|<fs af='ververu,n,any,sg,3,,obl,obl'>
+2	eVmukalaku	NN	<fs af='eVmuka,n,any,pl,3,,ki,ki'>
+3	awwukuneMxuku	VM	<fs af='awwuko,v,any,any,any,,e_eMxuku,e_eMxuku'>
+4	patte	VM	<fs af='pattu,v,any,any,any,,e,e'>|<fs af='pattu,v,any,any,any,,i,i_e'>|<fs af='pattu,n,any,sg,3,,0,0_e'>|<fs af='patta,n,any,sg,3,,0,0_e'>|<fs af='patteV,n,any,sg,3,,0,0_e'>|<fs af='patteV,n,any,sg,3,,0,0_V'>
+5	samayaMlo	NN	<fs af='samayaM,n,any,sg,3,,lo,lo'>
+6	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+7	wedAla	NN	<fs af='wedA,n,,pl,,,obl,obl'>
+7	uMtAyi	VM	<fs af='uMdu,v,n,pl,3,,wA,wA'>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

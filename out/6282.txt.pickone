@@ -1,0 +1,17 @@
+<Sentence id="6282">			
+0	((	SSF	
+1	7	QC	<fs af='7,num,,,,,,'>
+2	%	SYM	<fs af='<'>
+3	janABA	NN	<fs af='janABA,n,any,sg,3,,0,0'>
+4	:	SYM	<fs af=':,punc,,,,,,'>
+5	21	QC	<fs af='21,num,,,,,,'>
+6	,	SYM	<fs af=',,punc,,,,,,'>
+7	10	QC	<fs af='10,num,,,,,,'>
+8	,	SYM	<fs af=',,punc,,,,,,'>
+9	000	QC	<fs af='000,num,,,,,,'>
+10	akRarAsyawa	NN	<fs af='akRarAsyawa,n,any,sg,3,,0,0'>
+11	:	SYM	<fs af=':,punc,,,,,,'>
+12	34	QC	<fs af='34,num,,,,,,'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

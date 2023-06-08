@@ -1,0 +1,13 @@
+<Sentence id="3085">
+0	((	SSF	
+1	AmeV	PRP	<fs af='AmeV,pn,f,sg,3,,0,0'>|<fs af='AmeV,pn,f,sg,3,,obl,obl'>
+2	aMwavarakU	NN	<fs af='aMwavaraku,avy,,,,,V,V_avy' poslcat="NM">
+3	wAmu	PRP	<fs af='wAmu,pn,mf,sg,3,,0,0'>
+4	vaccina	VM	<fs af='vaccu,v,any,any,any,,ina,ina'>
+5	wovane	NN	<fs af='wova,n,any,sg,3,,ni,ni_e'>
+6	anusariMci	VM	<fs af='anusariMcu,v,any,any,any,,i,i'>
+7	veVnakku	NST	<fs af='veVnakku,avy,,,,,,' poslcat="NM">
+8	veVlYliMxi	VM	<fs af='veVlYlu,v,fn,sg,3,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

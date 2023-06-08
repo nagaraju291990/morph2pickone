@@ -1,0 +1,12 @@
+<Sentence id="9877">			
+0	((	SSF	
+1	reVMdo	QO	<fs af='reVMdu,n,any,sg,3,,0,0_o'>|<fs af='reVMdu,num,any,any,any,,ava,ava'>
+2	yuvakudu	NN	<fs af='yuvakudu,n,any,sg,3,,0,0'>
+3	"	SYM	<fs af='",punc,,,,,,'>
+4	mA	PRP	<fs af='memu,pn,any,pl,1,,obl,obl'>
+5	Uriki	NN	<fs af='Uru,n,any,sg,3,,ki,ki'>
+6	roddu	NN	<fs af='roddu,n,any,sg,3,,0,0'>|<fs af='roddu,n,any,sg,3,,obl,obl'>
+7	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

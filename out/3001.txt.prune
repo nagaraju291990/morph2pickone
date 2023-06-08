@@ -1,0 +1,14 @@
+<Sentence id="3001">
+0	((	SSF	
+1	AkASaMlo	NN	<fs af='AkASaM,n,any,sg,3,,lo,lo'>
+2	eVguruwunna	VM	<fs af='eVguru,v,any,any,any,,wunna,wunna'>|<fs af='eVguru,v,any,any,any,,wunna_vAdu,wunna_vAdu'>|<fs af='eVguru,v,any,any,any,,wunna_axi,wunna_axi'>|<fs af='eVguru,v,any,any,any,,wunna_vAru,wunna_vAru'>|<fs af='eVguru,v,any,any,any,,wunna_vAlYlu,wunna_vAlYlu'>
+3	gaxxa	NN	<fs af='gaxxa,n,any,sg,3,,0,0'>|<fs af='gaxxa,n,any,sg,3,,obl,obl'>
+4	oVkati	QC	<fs af='oVkati,n,any,sg,3,,0,0'>|<fs af='oVkati,n,any,sg,3,,obl,obl'>|<fs af='oVkati,num,any,any,any,,0,0'>
+5	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+6	caccina	VM	<fs af='cAvu,v,any,any,any,,ina,ina'>
+7	pAmu	NN	<fs af='pAmu,n,any,sg,3,,0,0'>|<fs af='pAmu,n,any,sg,3,,obl,obl'>
+8	SavAnni	NN	<fs af='SavaM,n,any,sg,3,,ni,ni'>|<fs af='SavaM,n,any,sg,3,,ni_agr,ni_agr'>
+9	cUciMxi	VM	<fs af='cUcu,v,fn,sg,3,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

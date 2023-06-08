@@ -1,0 +1,7 @@
+<Sentence id="191">
+0	((	SSF	
+1	kArlu	NN	<fs af='kAri,n,any,pl,3,,0,0'>|<fs af='kAri,n,any,pl,3,,ni_agr,ni_agr'>|<fs af='kArl,n,any,sg,3,,0,0'>|<fs af='kArl,n,any,sg,3,,obl,obl'>|<fs af='kAru,n,any,pl,3,,0,0'>|<fs af='kAru,n,any,pl,3,,vu_agr,vu_agr'>
+2	nadupuwunnAru	VM	<fs af='nadupu,v,any,pl,2,,wunn,wunn'>|<fs af='nadupu,v,mf,pl,3,,wunn,wunn'>
+3	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

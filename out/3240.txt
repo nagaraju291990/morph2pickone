@@ -1,0 +1,13 @@
+<Sentence id="3240">
+0	((	SSF
+1	dipolo	NN	<fs af='dipo,n,,sg,,,lo,lo'>
+2	ceVbiwe	VM	<fs af='ceVppu,v,any,any,any,,we,we'>
+3	wama	PRP	<fs af='wAmu,pn,mf,sg,3,,obl,obl'>
+4	kosaM	PSP	<fs af='kosaM,avy,,,,,, '>
+5	dIlaksu	NN	<fs af='dIlaks,n,any,sg,3,,0,0'>|<fs af='dIlaks,n,any,sg,3,,obl,obl'>|<fs af='dIlaksu,n,any,sg,3,,0,0'>|<fs af='dIlaksu,n,any,sg,3,,obl,obl'>
+6	bassu	NN	<fs af='bassu,n,any,sg,3,,0,0'>|<fs af='bassu,n,any,sg,3,,obl,obl'>
+7	paMpuwAru	VM	<fs af='paMpu,v,any,pl,2,,wA,wA'>|<fs af='paMpu,v,mf,pl,3,,wA,wA'>
+8	"	SYM	<fs af='",punc,,,,,, '>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

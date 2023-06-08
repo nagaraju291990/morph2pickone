@@ -1,0 +1,11 @@
+<Sentence id="5838">
+0	((	SSF	
+1	vAtiki	PRP	<fs af='axi,pn,fn,pl,3,,ki,ki'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	nI	PRP	<fs af='nIvu,pn,any,sg,2,,obl,obl'>
+4	prANAniki	NN	<fs af='prANaM,n,any,sg,3,,ki,ki'>
+5	emiti	WQ	<fs af='emiti,avy,,,,,,'>
+6	laMkeV	NN	<fs af='laMkeV,n,any,sg,3,,0,0'>|<fs af='laMkeV,n,any,sg,3,,obl,obl'>
+7	?	SYM	<fs af='?,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

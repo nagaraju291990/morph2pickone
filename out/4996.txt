@@ -1,0 +1,17 @@
+<Sentence id="4996">
+0	((	SSF
+1	veVMtane	NST	<fs af='veVMtane,avy,,,,,, '>
+2	AliMdiyA	NN	<fs af='AliMdiyA,n,any,sg,3,,0,0'>|<fs af='AliMdiyA,n,any,sg,3,,obl,obl'>
+3	seVlPa	NN	<fs af='seVlP,n,,sg,,o,ti,ti'>
+4	eVMplAy_meVMt	NN	<fs af='eVMplAy_meVMt,unk,,,,,,'>
+5	asosiyeRan	NN	<fs af='asosiyeRan,n,any,sg,3,,0,0'>|<fs af='asosiyeRan,n,any,sg,3,,obl,obl'>
+6	,	SYM	<fs af=',,punc,,,,,, '>
+7	rAmannapeta	NNP	<fs af='rAmannapeta,n,any,sg,3,,0,0'>|<fs af='rAmannapeta,n,any,sg,3,,obl,obl'>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	nalgoVMda	NNP	<fs af='nalgoVMda,n,any,sg,3,,0,0'>|<fs af='nalgoVMda,n,any,sg,3,,obl,obl'>
+10	,	SYM	<fs af=',,punc,,,,,, '>
+11	vArini	PRP	<fs af='vAru,pn,mf,pl,3,,ni,ni'>
+12	saMpraxiMcaMdi	VM	<fs af='saMpraxiMcu,v,any,pl,2,,AjFArWa,AjFArWa'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

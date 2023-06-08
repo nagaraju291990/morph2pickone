@@ -1,0 +1,11 @@
+<Sentence id="7790">
+0	((	SSF	
+1	balla	NN	<fs af='balla,n,any,sg,3,,0,0'>|<fs af='balla,n,any,sg,3,,obl,obl'>
+2	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+3	o	JJ	<fs af='o,avy,,,,,,'>
+4	virigina	VM	<fs af='virugu,v,any,any,any,,ina,ina'>
+5	kurcIni	NN	<fs af='kurcI,n,,sg,,,ni,ni'>
+6	veSAdu	VM	<fs af='veVyyi,v,m,sg,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

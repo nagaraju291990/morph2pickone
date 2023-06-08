@@ -1,0 +1,12 @@
+<Sentence id="8457">
+0	((	SSF
+1	aneka	JJ	<fs af='aneka,adj,any,any,any,,0_adj,0_adj'>|<fs af='anekaM,n,any,sg,3,,obl,obl'>
+2	bAXalu	NN	<fs af='bAXa,n,any,pl,3,,0,0'>|<fs af='bAXa,n,any,pl,3,,vu_agr,vu_agr'>
+3	nivAriMca	VM	<fs af='nivAriMcu,v,any,any,any,,an,an'>
+4	galigina	VAUX	<fs af='galugu,v,any,any,any,,ina,ina'>
+5	SakwigA	RB	<fs af='Sakwi,n,any,sg,3,,gA,gA'>
+6	perugAMcina	VM	<fs af='perugAMcu,v,any,any,any,,ina,ina'>
+7	praxeSaM	NN	<fs af='praxeSaM,n,any,sg,3,,0,0'>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

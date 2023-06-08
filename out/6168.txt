@@ -1,0 +1,6 @@
+<Sentence id="6168">
+0	((	SSF
+1	e	NN	<fs af='e,avy,,,,,, '>|<fs af='e,adj,any,any,any,,0_adj,0_adj'>
+2	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,22 @@
+<Sentence id="1941">			
+0	((	SSF	
+1	I	DEM	<fs af='I,avy,,,,,,'>
+2	rakaMgA	RB	<fs af='rakaM,n,any,sg,3,,gA,gA'>
+3	rojuku	NN	<fs af='roju,n,any,sg,3,,ki,ki'>
+4	paxi	QC	<fs af='paxi,n,any,sg,3,,0,0'>
+5	maMxina	NN	<fs af='maMxi,n,,pl,,,na,na'>
+5	ayinA	VM	<fs af='avvu,v,any,any,any,,inA,inA'>
+6	mosagiMci	VM	<fs af='mosagiMcu,v,any,any,any,,i,i'>
+7	5	QC	<fs af='5,num,,,,,,'>
+8	rUpAyalu	NN	<fs af='rUpAya,n,any,pl,3,,0,0'>
+9	leVkkana	NN	<fs af='leVkka,n,any,sg,3,,na,na'>
+10	wIsuku	NN	<fs af='wIsuko,v,,sg,2,,AjFArWa,AjFArWa'>'>
+11	veVlYladame	VAUX	<fs af='veVlYladaM,n,any,sg,3,,0,0_e'>
+12	awani	PRP	<fs af='awanu,pn,m,sg,3,,obl,obl'>
+13	vqwwi	NN	<fs af='vqwwi,n,any,sg,3,,0,0'>
+14	"	SYM	<fs af='",punc,,,,,,'>
+15	annAdu	VM	<fs af='anu,v,m,sg,3,,A,A'>
+16	kaMdaktar	NN	<fs af='kaMdaktar,n,any,sg,3,,0,0'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

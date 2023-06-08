@@ -1,0 +1,9 @@
+<Sentence id="1649">
+0	((	SSF
+1	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+2	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+3	cAlA	INTF	<fs af='cAlu,v,any,any,any,,i,i_A'>
+4	cavaka	NN	<fs af='cavaka,adj,any,any,any,,0_adj,0_adj'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

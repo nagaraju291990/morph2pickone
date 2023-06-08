@@ -1,0 +1,21 @@
+<Sentence id="9278">
+0	((	SSF
+1	paMdiwudu	NN	<fs af='paMdiwudu,n,any,sg,3,,0,0'>
+2	:	SYM	<fs af=':,punc,,,,,, '>
+3	kAnI	CC	<fs af='kAnI,avy,,,,,, '>
+4	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+5	oVMtimIxa	NN	<fs af='oVllu,n,any,sg,3,,mIxa,mIxa'>
+6	gAyaM	NN	<fs af='gAyi,v,any,pl,1,,a,a'>|<fs af='gAyaM,n,any,sg,3,,0,0'>
+7	mana	PRP	<fs af='manaM,pn,any,pl,1,,obl,obl'>
+8	maMxulawo	NN	<fs af='maMxu,n,any,pl,3,,wo,wo'>
+9	nimmaxiMcaxu	VM	<fs af='nimmaxiMcu,v,fn,sg,3,,a,a'>
+10	kaxA	RP	<fs af='kaxA,avy,,,,,, '>
+11	!	SYM	<fs af='!,punc,,,,,, '>
+12	manaM	PRP	<fs af='manaM,pn,any,pl,1,,0,0'>
+13	gAyaM	NN	<fs af='gAyi,v,any,pl,1,,a,a'>|<fs af='gAyaM,n,any,sg,3,,0,0'>
+14	cesinavAlYlaM	VM	<fs af='cesinavAlYlu,pn,mf,pl,3,,nu,nu'>
+15	mAwrame	PSP	<fs af='mAwrame,avy,,,,,, '>
+16	avuwAM	VM	<fs af='avvu,v,any,pl,1,,wA,wA'>
+17	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

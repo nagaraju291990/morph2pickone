@@ -1,0 +1,24 @@
+<Sentence id="6553">			
+0	((	SSF	
+1	koVnni	QF	<fs af='koVnni,pn,any,pl,3,,0,0'>
+2	eVmukalu	NN	<fs af='eVmuka,n,any,pl,3,,0,0'>
+3	SarIraMloni	NN	<fs af='SarIraM,n,any,sg,3,,loni,loni'>
+4	nAjUkEna	JJ	<fs af='nAjUku,adj,any,any,any,,nEna_adj,nEna_adj'>
+5	aMgAlanu	NN	<fs af='aMgaM,n,any,pl,3,,ni,ni'>
+6	kavacaMlA	NN	<fs af='kavacaM,n,any,sg,3,,lA,lA'>
+7	kApAdatAniki	VM	<fs af='kApAdataM,n,any,sg,3,,ki,ki'>
+8	,	SYM	<fs af=',,punc,,,,,,'>
+9	aMte	UT	<fs af='aMte,avy,,,,,,'>
+10	meVxadu	NN	<fs af='meVxadu,n,any,sg,3,,0,0'>
+11	kosaM	PSP	<fs af='kosaM,avy,,,,,,'>
+12	purreV	NN	<fs af='purreV,n,any,sg,3,,0,0'>
+13	,	SYM	<fs af=',,punc,,,,,,'>
+14	guMdeV	NN	<fs af='guMdeV,n,any,sg,3,,0,0'>
+15	,	SYM	<fs af=',,punc,,,,,,'>
+16	Upiriwiwwula	NN	<fs af='Upiriwiwwi,n,any,pl,3,,obl,obl'>
+16	kosamE	NN	<fs af='kosamE,unk,,,,,,'>
+17	prakkateVmukala	NN	<fs af='prakkateVmuka,n,any,pl,3,,obl,obl'>
+18	paMjaraM	NN	<fs af='paMjaraM,n,any,sg,3,,0,0'>
+19	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

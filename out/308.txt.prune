@@ -1,0 +1,20 @@
+<Sentence id="308">
+0	((	SSF	
+1	mari	RP	<fs af='mari,avy,,,,,,'>
+2	vAlYla	PRP	<fs af='vAlYlu,pn,mf,pl,3,,obl,obl'>
+3	ArogyaM	NN	<fs af='ArogyaM,n,any,sg,3,,0,0'>
+4	mAta	NN	<fs af='mAta,n,any,sg,3,,0,0'>|<fs af='mAta,n,any,sg,3,,obl,obl'>
+4	emiti	NN	<fs af='emiti,avy,,,,,,' poslcat="NM">
+5	axa	VM	<fs af='axxu,v,,sg,,,obl,obl'>
+5	aMwA	PRP	<fs af='aMwa,pn,,pl,,,0_A,0_A'>|<fs af='aMwa,pn,,pl,,,0_V,0_V'>
+6	sare	INJ	<fs af='sare,avy,,,,,,'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	vAlYlu	PRP	<fs af='vAlYlu,pn,mf,pl,3,,0,0'>|<fs af='vAlYlu,pn,mf,pl,3,,vu,vu'>
+9	garBavawula	NN	<fs af='garBavawi,n,,pl,,,obl,obl'>
+9	Ewe	VM	<fs af='avvu,v,any,any,any,,we,we'>
+10	exo	WQ	<fs af='exi,pn,fn,sg,3,,0,0_o'>
+11	sAyaM	NN	<fs af='sAyaM,n,any,sg,3,,0,0'>
+12	ceVyyaMdi	VM	<fs af='ceVyyi,v,any,pl,2,,AjFArWa,AjFArWa'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,19 @@
+<Sentence id="3791">			
+0	((	SSF	
+1	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+1	emaMte	PRP	<fs af='emaMte,avy,,,,,,' poslcat="NM">
+2	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+3	"	SYM	<fs af='",punc,,,,,,'>
+4	sAr	NN	<fs af='sAr,n,,sg,,,0,0'>|<fs af='sAr,n,,sg,,,obl,obl'>
+5	25	QC	<fs af='25,num,,,,,,'>
+6	saMvawsarAlu	NN	<fs af='saMvawsaraM,n,any,pl,3,,0,0'>|<fs af='saMvawsaraM,n,any,pl,3,,vu_agr,vu_agr'>
+7	pani	NN	<fs af='pani,n,any,sg,3,,0,0'>|<fs af='pani,n,any,sg,3,,obl,obl'>
+8	ceswe	VM	<fs af='ceVyyi,v,any,any,any,,we,we'>
+9	praBuwvaM	NN	<fs af='praBuwvaM,n,any,sg,3,,0,0'>
+10	uxyogaswulaku	NN	<fs af='uxyogaswudu,n,any,pl,3,,ki,ki'>
+11	piMCanu	NN	<fs af='piMCanu,n,any,sg,3,,0,0'>|<fs af='piMCanu,n,any,sg,3,,obl,obl'>
+12	iswArani	VM	<fs af='ivvu,v,any,pl,2,,wA_ani,wA_ani'>|<fs af='ivvu,v,mf,pl,3,,wA_ani,wA_ani'>
+13	vinnAnu	VM	<fs af='vinu,v,any,sg,1,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

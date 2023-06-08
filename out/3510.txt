@@ -1,0 +1,23 @@
+<Sentence id="3510">
+0	((	SSF
+1	1930	QC	<fs af='1930,num,,,,,, '>
+2	,	SYM	<fs af=',,punc,,,,,, '>
+3	32	QC	<fs af='32,num,,,,,, '>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	37	QC	<fs af='37,num,,,,,, '>
+6	,	SYM	<fs af=',,punc,,,,,, '>
+7	38	QC	<fs af='38,num,,,,,, '>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	40	QC	<fs af='40,num,,,,,, '>
+10	saMvawsarAlalo	NN	<fs af='saMvawsaraM,n,any,pl,3,,lo,lo'>
+11	nenu	PRP	<fs af='nenu,pn,any,sg,1,,0,0'>
+12	eVppudu	WQ	<fs af='eVppudu,adv,any,any,any,,0_adv,0_adv'>
+13	pAtnA	NNP	<fs af='pAtnA,n,any,sg,3,,0,0'>|<fs af='pAtnA,n,any,sg,3,,obl,obl'>
+14	veVlYlinA	VM	<fs af='veVlYlu,v,any,any,any,,inA,inA'>
+15	awadini	PRP	<fs af='awadu,pn,,sg,,,nu,nu'>|<fs af='awadu,pn,,sg,,,ni,ni'>
+16	cUsevAdini	VM	<fs af='cUsevAdu,pn,m,sg,3,,nu,nu'>|<fs af='cUsevAdu,pn,m,sg,3,,ni,ni'>
+17	,	SYM	<fs af=',,punc,,,,,, '>
+18	mAtlAdevAdini	VM	<fs af='mAtlAdevAdu,pn,m,sg,3,,nu,nu'>|<fs af='mAtlAdevAdu,pn,m,sg,3,,ni,ni'>
+19	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

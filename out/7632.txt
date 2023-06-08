@@ -1,0 +1,14 @@
+<Sentence id="7632">
+0	((	SSF
+1	iMti	NN	<fs af='illu,n,any,sg,3,,obl,obl'>
+2	bayata	NST	<fs af='bayata,adv,any,any,any,,0_adv,0_adv'>
+3	boleVdu	NN	<fs af='boleVdu,n,,sg,,,0,0'>|<fs af='boleVdu,n,,sg,,,obl,obl'>
+3	aMwa	NN	<fs af='aMwa,pn,,sg,,,0,0'>|<fs af='aMwa,adj,,,,,0,0_adj'>|<fs af='aMwaM,n,,sg,,,obl,obl'>
+4	KAlYI	NN	<fs af='KAlYi,n,any,sg,3,,0,0_V'>
+5	sWalaM	NN	<fs af='sWalaM,n,any,sg,3,,0,0'>
+6	,	SYM	<fs af=',,punc,,,,,, '>
+7	ceVttU	NN	<fs af='ceVttu,n,any,sg,3,,0,0_V'>
+8	cemalu	NN	<fs af='cema,n,any,pl,3,,0,0'>|<fs af='cema,n,any,pl,3,,vu_agr,vu_agr'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

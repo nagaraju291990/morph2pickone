@@ -1,0 +1,18 @@
+<Sentence id="3079">
+0	((	SSF
+1	asalu	NN	<fs af='asalu,n,any,sg,3,,0,0'>|<fs af='asalu,n,any,sg,3,,0,0_A'>|<fs af='asalu,n,any,sg,3,,obl,obl'>
+2	saMgawi	NN	<fs af='saMgawi,n,any,sg,3,,0,0'>|<fs af='saMgawi,n,any,sg,3,,obl,obl'>
+3	emaMte	WQ	<fs af='emaMte,avy,,,,,, '>
+4	navaKAlYI	NN	<fs af='navaKAlYI,unk,,,,,,'>
+5	aMwatA	NST	<fs af='aMwata,adv,any,any,any,,0_A_adv,0_A_adv'>
+6	koVbbari	NN	<fs af='koVbbari,n,any,sg,3,,0,0'>|<fs af='koVbbari,n,any,sg,3,,obl,obl'>
+7	ceVtlu	NN	<fs af='ceVttu,n,any,pl,3,,0,0'>|<fs af='ceVttu,n,any,pl,3,,vu_agr,vu_agr'>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	pokaceVtlu	NN	<fs af='pokaceVttu,n,any,pl,3,,0,0'>|<fs af='pokaceVttu,n,any,pl,3,,vu_agr,vu_agr'>
+10	xattaMgA	RB	<fs af='xattaM,n,any,sg,3,,gA,gA'>|<fs af='xattaMgA,n,any,sg,3,,0,0'>|<fs af='xattaMgA,n,any,sg,3,,obl,obl'>
+11	adavilA	NN	<fs af='adavi,n,any,sg,3,,lA,lA'>
+12	peVrigi	VM	<fs af='peVrugu,v,any,any,any,,i,i'>
+12	povadAniki	VM	<fs af='povadaM,n,any,sg,3,,ki,ki'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

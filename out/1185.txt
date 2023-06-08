@@ -1,0 +1,11 @@
+<Sentence id="1185">
+0	((	SSF
+1	xArilo	NN	<fs af='xAri,n,any,sg,3,,lo,lo'>
+2	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+3	Asupawri	NN	<fs af='Asupawri,n,any,sg,3,,0,0'>|<fs af='Asupawri,n,any,sg,3,,obl,obl'>
+4	xaggara	NST	<fs af='xaggara,adv,any,any,any,,0_adv,0_adv'>
+5	bassu	NN	<fs af='bassu,n,any,sg,3,,0,0'>|<fs af='bassu,n,any,sg,3,,obl,obl'>
+6	AgiMxi	VM	<fs af='Agu,v,fn,sg,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

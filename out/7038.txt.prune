@@ -1,0 +1,8 @@
+<Sentence id="7038">
+0	((	SSF	
+1	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+2	kAluva	NN	<fs af='kAluva,n,any,sg,3,,0,0'>|<fs af='kAluva,n,any,sg,3,,obl,obl'>
+3	cerAru	VM	<fs af='ceru,v,any,pl,2,,A,A'>|<fs af='ceru,v,mf,pl,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

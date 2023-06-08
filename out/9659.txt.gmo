@@ -1,0 +1,21 @@
+<Sentence id="9659">			
+0	((	SSF	
+1	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+2	oVkkasAri	NN	<fs af='oVkkasAri,n,any,sg,3,,0,0'>|<fs af='oVkkasAri,n,any,sg,3,,obl,obl'>
+3	munigi	VM	<fs af='munugu,v,any,any,any,,i,i'>
+4	leci	VM	<fs af='le,v,any,any,any,,i,i'>|<fs af='lecu,v,any,any,any,,i,i'>
+5	reVkkalu	NN	<fs af='reVkka,n,any,pl,3,,0,0'>|<fs af='reVkka,n,any,pl,3,,vu_agr,vu_agr'>
+6	aricetappatiki	NN	<fs af='aruvu,nst,,,,,_e_appudu_ku,_e_appudu_ku_adv' poslcat="NM">
+7	wupAnu	NN	<fs af='wupAnu,n,any,sg,3,,0,0'>|<fs af='wupAnu,n,any,sg,3,,obl,obl'>
+8	valeV	PSP	<fs af='valeV,avy,,,,,,' poslcat="NM">
+9	samuxraMlo	VM	<fs af='samuxraM,n,any,sg,3,,lo,lo' poslcat="NM">
+10	valeV	PSP	<fs af='valeV,avy,,,,,,' poslcat="NM">
+11	naxI	NN	<fs af='naxi,n,any,sg,3,,0,0_V'>
+12	waraMgAlu	NN	<fs af='waraMgaM,n,any,pl,3,,0,0'>|<fs af='waraMgaM,n,any,pl,3,,vu_agr,vu_agr'>
+13	leci	VM	<fs af='le,v,any,any,any,,i,i'>|<fs af='lecu,v,any,any,any,,i,i'>
+14	oVdduna	NN	<fs af='oVddu,n,any,sg,3,,na,na'>
+15	xaBeluna	NN	<fs af='xaBeluna,avy,,,,,0,0_avy' poslcat="NM">
+16	koVttukoVMtunnAyi	VM	<fs af='koVttuko,v,n,pl,3,,wunn,wunn'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

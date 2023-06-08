@@ -1,0 +1,8 @@
+<Sentence id="5841">
+0	((	SSF
+1	jAnaki	NNP	<fs af='jAna,n,any,sg,3,,ki,ki'>|<fs af='jAnaki,n,any,sg,3,,0,0'>|<fs af='jAnaki,n,any,sg,3,,obl,obl'>
+2	neVmmaxiMca	VM	<fs af='neVmmaxiMcu,v,any,any,any,,an,an'>
+3	lexu	VAUX	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

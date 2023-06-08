@@ -1,0 +1,10 @@
+<Sentence id="4894">
+0	((	SSF
+1	xInivalla	PRP	<fs af='ixi,pn,fn,sg,3,,valana,valana'>
+2	cepalu	NN	<fs af='cepa,n,any,pl,3,,0,0'>|<fs af='cepa,n,any,pl,3,,vu_agr,vu_agr'>
+3	bAgA	INTF	<fs af='bAgA,avy,,,,,, '>
+4	woVMxaragA	RB	<fs af='woVMxara,n,any,sg,3,,gA,gA'>
+5	eVxuguwAyi	VM	<fs af='eVxugu,v,n,pl,3,,wA,wA'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

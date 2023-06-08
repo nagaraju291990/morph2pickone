@@ -1,0 +1,13 @@
+<Sentence id="7066">
+0	((	SSF	
+1	prawibiddA	NN	<fs af='prawibidda,n,any,sg,3,,0,0_A'>|<fs af='prawibidda,n,any,sg,3,,0,0_V'>
+2	bawiki	VM	<fs af='bawuku,v,any,any,any,,i,i'>
+3	batta	NN	<fs af='batta,n,any,sg,3,,0,0'>|<fs af='batta,n,any,sg,3,,obl,obl'>
+4	kaduwuMxi	VM	<fs af='kattu,v,fn,sg,3,,wA,wA'>
+4	ane	VM	<fs af='anu,v,any,any,any,,e,e'>|<fs af='anu,v,any,any,any,,i_e,i_e'>
+5	nammakaM	NN	<fs af='nammakaM,n,any,sg,3,,0,0'>
+6	uMdexi	VM	<fs af='uMdu,v,any,any,any,,e_axi,e_axi'>
+7	kAxu	VAUX	<fs af='avvu,v,fn,sg,3,,a,a' poslcat="NM">
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,10 @@
+<Sentence id="6305">			
+0	((	SSF	
+1	puNyagiri	NN	<fs af='puNyagiri,puNyagiri,,sg,,,0,0' poslcat="NM">'>|<fs af='puNyagiri,puNyagiri,,sg,,,obl,obl' poslcat="NM">'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	SqMgavarapukotaku	NNP	<fs af='SqMgavarapukota,n,any,sg,3,,ki,ki'>
+4	3	QC	<fs af='3,num,,,,,,'>
+5	ki	NN	<fs af='ki,avy,,,,,,' poslcat="NM">'>|<fs af='mIru,pn,any,pl,2,,obl,obl' poslcat="NM">'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

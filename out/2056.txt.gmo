@@ -1,0 +1,17 @@
+<Sentence id="2056">			
+0	((	SSF	
+1	avi	PRP	<fs af='axi,pn,fn,pl,3,,0,0'>
+2	velYla	NN	<fs af='velu,n,any,pl,3,,obl,obl'>|<fs af='veru,n,any,pl,3,,obl,obl'>
+3	maXya	NST	<fs af='maXya,n,any,sg,3,,0,0'>|<fs af='maXya,n,any,sg,3,,obl,obl'>
+4	unnaMwa	VM	<fs af='uMdu,v,any,any,any,,ina_aMwa,ina_aMwa'>
+5	sepU	NN	<fs af='sepU,unk,,,,,,' poslcat="NM">
+6	velYlanu	NN	<fs af='velu,n,any,pl,3,,ni,ni'>|<fs af='veru,n,any,pl,3,,ni,ni'>
+7	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+8	xAniki	PRP	<fs af='axi,pn,fn,sg,3,,ki,ki'>
+8	oVkati	PRP	<fs af='oVkati,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='oVkati,n,any,sg,3,,obl,obl' poslcat="NM">'>
+9	anukoVni	VM	<fs af='anuko,v,any,any,any,,i,i'>
+10	uMdelA	VAUX	<fs af='uMdu,v,any,any,any,,e_lA,e_lA' poslcat="NM">'>|<fs af='uMdelu,n,any,sg,3,,0,0_e' poslcat="NM">'>
+11	cUsukovAli	VM	<fs af='cUsuko,v,any,any,any,,Ali,Ali'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

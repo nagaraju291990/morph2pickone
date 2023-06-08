@@ -1,0 +1,37 @@
+<Sentence id="2183">
+0	((	SSF	
+1	pAla	NN	<fs af='paM,n,any,pl,3,,obl,obl'>|<fs af='pAlu,n,any,sg,3,,obl,obl'>
+2	xigubadi	NN	<fs af='xigubadi,n,any,sg,3,,0,0'>|<fs af='xigubadi,n,any,sg,3,,obl,obl'>
+3	peVragAlaMte	VM	<fs af='peVrugu,v,any,any,any,,Ali_aMte,Ali_aMte'>
+4	-	SYM	<'>|<poslcat="NM"'>
+5	-	SYM	<'>|<poslcat="NM"'>
+6	-	SYM	<'>|<poslcat="NM"'>
+7	-	SYM	<'>|<poslcat="NM"'>
+8	-	SYM	<'>|<poslcat="NM"'>
+9	-	SYM	<'>|<poslcat="NM"'>
+10	-	SYM	<'>|<poslcat="NM"'>
+11	-	SYM	<'>|<poslcat="NM"'>
+12	-	SYM	<'>|<poslcat="NM"'>
+13	-	SYM	<'>|<poslcat="NM"'>
+14	-	SYM	<'>|<poslcat="NM"'>
+15	-	SYM	<'>|<poslcat="NM"'>
+16	-	SYM	<'>|<poslcat="NM"'>
+17	-	SYM	<'>|<poslcat="NM"'>
+18	-	SYM	<'>|<poslcat="NM"'>
+19	-	SYM	<'>|<poslcat="NM"'>
+20	-	SYM	<'>|<poslcat="NM"'>
+21	-	SYM	<'>|<poslcat="NM"'>
+22	-	SYM	<'>|<poslcat="NM"'>
+23	-	SYM	<'>|<poslcat="NM"'>
+24	-	SYM	<'>|<poslcat="NM"'>
+25	-	SYM	<'>|<poslcat="NM"'>
+26	-	SYM	<'>|<poslcat="NM"'>
+27	manaM	PRP	<fs af='manaM,pn,any,pl,1,,0,0'>
+28	cAlA	QF	<fs af='cAlu,v,any,any,any,,i,i_A' poslcat="NM">
+29	maMximi	CL	<fs af='maMxi,n,any,sg,3,,ni_agr,ni_agr' poslcat="NM">
+30	pAdi	NN	<fs af='pAdi,n,any,sg,3,,0,0'>|<fs af='pAdi,n,any,sg,3,,obl,obl'>
+31	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+32	bawikevAlYlaM	VM	<fs af='bawikevAlYlu,pn,mf,pl,3,,nu,nu' poslcat="NM">
+33	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,18 @@
+<Sentence id="8393">
+0	((	SSF	
+1	Kanijamulu	NN	<fs af='KanijaM,n,any,pl,3,,0,0'>|<fs af='KanijaM,n,any,pl,3,,vu_agr,vu_agr'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	palaka	NN	<fs af='palaka,n,any,sg,3,,0,0'>|<fs af='palaka,n,any,sg,3,,obl,obl'>
+4	rAyi	NN	<fs af='rAyi,n,any,sg,3,,0,0'>
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	mAgnatEtu	NN	<fs af='mAgnatEtu,n,,sg,,,0,0'>|<fs af='mAgnatEtu,n,,sg,,,obl,obl'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	silikA	NN	<fs af='silikA,n,any,sg,3,,0,0'>|<fs af='silikA,n,any,sg,3,,obl,obl'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	kvArtj	NN	<fs af='kvArtj,n,any,sg,3,,0,0'>|<fs af='kvArtj,n,any,sg,3,,obl,obl'>
+11	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+12	beriyaM	NN	<fs af='beriyaM,n,any,sg,3,,0,0'>
+13	salPetu	NN	<fs af='salPet,n,any,sg,3,,0,0'>|<fs af='salPet,n,any,sg,3,,obl,obl'>|<fs af='salPetu,n,any,sg,3,,0,0'>|<fs af='salPetu,n,any,sg,3,,obl,obl'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

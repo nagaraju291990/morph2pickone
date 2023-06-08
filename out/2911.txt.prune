@@ -1,0 +1,19 @@
+<Sentence id="2911">
+0	((	SSF	
+1	maNilAl	NNP	<fs af='maNilAl,n,any,sg,3,,0,0'>|<fs af='maNilAl,n,any,sg,3,,obl,obl'>
+2	kalyAN	NNP	<fs af='kalyAN,n,any,sg,3,,0,0'>|<fs af='kalyAN,n,any,sg,3,,obl,obl'>
+3	_	SYM	<'>|<poslcat="NM"'>
+4	jIwo	NN	<fs af='jI,n,any,sg,3,,wo,wo'>
+5	kalisi	VM	<fs af='kaluvu,v,any,any,any,,i,i'>|<fs af='kaliyu,v,any,any,any,,i,i'>
+6	APIsuku	NN	<fs af='APIs,n,any,sg,3,,ki,ki'>|<fs af='APIsu,n,any,sg,3,,ki,ki'>
+7	veVlYli	VM	<fs af='veVlYlu,v,any,any,any,,i,i'>
+8	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+9	puswakaM	NN	<fs af='puswakaM,n,any,sg,3,,0,0'>
+10	weVcci	VM	<fs af='we,v,any,any,any,,i,i'>
+11	SrIpolak	NNP	<fs af='SrIpolak,n,any,sg,3,,0,0'>|<fs af='SrIpolak,n,any,sg,3,,obl,obl'>
+12	_	SYM	<'>|<poslcat="NM"'>
+13	ku	NN	<fs af='k,n,,sg,,,0,0'>|<fs af='k,n,,sg,,,obl,obl'>
+14	iccAdu	VM	<fs af='ivvu,v,m,sg,3,,A,A'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

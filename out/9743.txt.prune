@@ -1,0 +1,31 @@
+<Sentence id="9743">
+0	((	SSF	
+1	xAni	PRP	<fs af='axi,pn,fn,sg,3,,obl,obl'>
+2	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+3	prayANaM	NN	<fs af='prayANaM,n,any,sg,3,,0,0'>
+4	ceswAdu	VM	<fs af='ceVyyi,v,m,sg,3,,wA,wA'>
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	mari	RP	<fs af='mari,avy,,,,,,'>
+7	koVMwa	QF	<fs af='koVMwa,pn,any,sg,3,,0,0' poslcat="NM">
+8	BexaM	NN	<fs af='BexaM,n,any,sg,3,,0,0'>
+9	oVkadu	NN	<fs af='oVkadu,n,any,sg,3,,0,0'>
+10	xAnilo	PRP	<fs af='axi,pn,fn,sg,3,,lo,lo'>
+11	munigi	VM	<fs af='munugu,v,any,any,any,,i,i'>
+12	rawnAlu	NN	<fs af='rawnaM,n,any,pl,3,,0,0'>|<fs af='rawnaM,n,any,pl,3,,vu_agr,vu_agr'>
+13	weVswAdu	VM	<fs af='we,v,m,sg,3,,wA,wA'>
+14	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+15	mari	RP	<fs af='mari,avy,,,,,,'>
+16	koVMwa	QF	<fs af='koVMwa,pn,any,sg,3,,0,0' poslcat="NM">
+17	BexaM	NN	<fs af='BexaM,n,any,sg,3,,0,0'>
+18	oVkadu	NN	<fs af='oVkadu,n,any,sg,3,,0,0'>
+19	xAnilo	PRP	<fs af='axi,pn,fn,sg,3,,lo,lo'>
+20	munigi	VM	<fs af='munugu,v,any,any,any,,i,i'>
+21	rawnAlu	NN	<fs af='rawnaM,n,any,pl,3,,0,0'>|<fs af='rawnaM,n,any,pl,3,,vu_agr,vu_agr'>
+22	wIswAdu	VM	<fs af='wiyyi,v,m,sg,3,,wA,wA'>
+23	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+24	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+25	vere	JJ	<fs af='vere,adj,any,any,any,,0_adj,0_adj'>
+26	anuBavaM	NN	<fs af='anuBavaM,n,any,sg,3,,0,0'>
+27	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

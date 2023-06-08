@@ -1,0 +1,17 @@
+<Sentence id="6285">
+0	((	SSF
+1	cUdaxagina	VM	<fs af='cUdu,v,any,any,any,,a_xagu_ina,a_xagu_ina'>
+2	praxeSamulu	NN	<fs af='praxeSaM,n,any,pl,3,,0,0'>|<fs af='praxeSaM,n,any,pl,3,,vu_agr,vu_agr'>
+3	puNyakRewramulu	NN	<fs af='puNyakRewraM,n,any,pl,3,,0,0'>|<fs af='puNyakRewraM,n,any,pl,3,,vu_agr,vu_agr'>
+4	:	SYM	<fs af=':,punc,,,,,, '>
+5	rAmawIrWaM	NNP	<fs af='rAmawIrWaM,n,any,sg,3,,0,0'>
+6	:	SYM	<fs af=':,punc,,,,,, '>
+7	goVppa	NN	<fs af='goVppa,adj,any,any,any,,0_adj,0_adj'>
+8	puNyakRewraM	NN	<fs af='puNyakRewraM,n,any,sg,3,,0,0'>
+9	,	SYM	<fs af=',,punc,,,,,, '>
+10	vijayanagarAniki	NNP	<fs af='vijayanagaraM,n,any,sg,3,,ki,ki'>
+11	12	QC	<fs af='12,num,,,,,, '>
+12	ki	NN	<fs af='ki,avy,,,,,, '>|<fs af='mIru,pn,any,pl,2,,obl,obl'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

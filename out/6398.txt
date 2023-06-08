@@ -1,0 +1,13 @@
+<Sentence id="6398">
+0	((	SSF
+1	rAmuniki	NNP	<fs af='rAmudu,n,any,sg,3,,ki,ki'>
+2	edu	QC	<fs af='edu,n,any,sg,3,,0,0'>|<fs af='edu,n,any,sg,3,,obl,obl'>
+3	rUpAyalu	NN	<fs af='rUpAya,n,any,pl,3,,0,0'>|<fs af='rUpAya,n,any,pl,3,,vu_agr,vu_agr'>
+4	I	DEM	<fs af='I,avy,,,,,, '>
+5	paMpakAni	NN	<fs af='paMpakaM,n,any,sg,3,,obl,obl'>
+6	rAmudu	NNP	<fs af='rAmudu,n,any,sg,3,,0,0'>
+7	wala	NN	<fs af='wala,n,any,sg,3,,0,0'>|<fs af='wala,n,any,sg,3,,obl,obl'>|<fs af='walaM,n,any,sg,3,,obl,obl'>
+8	UpAdu	VM	<fs af='Upu,v,m,sg,3,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

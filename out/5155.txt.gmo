@@ -1,0 +1,12 @@
+<Sentence id="5155">			
+0	((	SSF	
+1	polIsulugA	NN	<fs af='polIs,n,any,pl,3,,gA,gA'>|<fs af='polIsu,n,any,pl,3,,gA,gA'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	narsulugA	NN	<fs af='nars,n,any,pl,3,,gA,gA'>|<fs af='narsu,n,any,pl,3,,gA,gA'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	Arogya	NN	<fs af='ArogyaM,n,any,sg,3,,obl,obl'>
+6	kAryakarwalugA	NN	<fs af='kAryakarwa,n,any,pl,3,,gA,gA'>
+7	unnAru	VM	<fs af='uMdu,v,any,pl,2,,A,A'>|<fs af='uMdu,v,mf,pl,3,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

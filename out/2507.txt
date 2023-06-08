@@ -1,0 +1,21 @@
+<Sentence id="2507">
+0	((	SSF
+1	eVruvula	NN	<fs af='eVruvu,n,any,pl,3,,obl,obl'>
+2	vAdakaM	NN	<fs af='vAdakaM,n,any,sg,3,,0,0'>
+3	:	SYM	<fs af=':,punc,,,,,, '>
+4	varRAXAraMgA	RB	<fs af='varRAXAraM,n,any,sg,3,,gA,gA'>
+5	paMdiMce	VM	<fs af='paMdiMcu,v,any,any,any,,e,e'>|<fs af='paMdiMcu,v,any,any,any,,i,i_e'>
+6	Ava	NN	<fs af='Ava,adj,any,any,any,,0_adj,0_adj'>|<fs af='AvaM,n,any,sg,3,,obl,obl'>
+7	paMtaku	NN	<fs af='paMta,n,any,sg,3,,ki,ki'>
+8	heVktAruku	NN	<fs af='heVktAr,n,any,sg,3,,ki,ki'>|<fs af='heVktAru,n,any,sg,3,,ki,ki'>
+9	30	QC	<fs af='30,num,,,,,, '>|<fs af='rU,avy,,,,,, '>
+10	kilola	NN	<fs af='kilo,n,,pl,,,obl,obl'>
+11	nawrajani	NN	<fs af='nawrajani,n,any,sg,3,,0,0'>|<fs af='nawrajani,n,any,sg,3,,obl,obl'>
+12	,	SYM	<fs af=',,punc,,,,,, '>
+13	20	QC	<fs af='20,num,,,,,, '>|<fs af='ki,avy,,,,,, '>
+14	kilola	NN	<fs af='kilo,n,,pl,,,obl,obl'>
+15	PAsparas	NN	<fs af='PAsparas,n,any,sg,3,,0,0'>|<fs af='PAsparas,n,any,sg,3,,obl,obl'>
+16	vesukovAli	VM	<fs af='veVyyi,v,any,any,any,,koVn_Ali,koVn_Ali'>
+17	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

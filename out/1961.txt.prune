@@ -1,0 +1,19 @@
+<Sentence id="1961">
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	emoy	INJ	<fs af='emoy,avy,,,,,,'>
+3	!	SYM	<fs af='!,punc,,,,,,'>
+4	dAktaru	NN	<fs af='dAktar,n,any,sg,3,,0,0'>|<fs af='dAktar,n,any,sg,3,,obl,obl'>|<fs af='dAktaru,n,any,sg,3,,0,0'>|<fs af='dAktaru,n,any,sg,3,,obl,obl'>
+5	gAriki	PRP	<fs af='gAru,pn,mf,pl,3,,ki,ki'>
+6	maMci	JJ	<fs af='maMci,adj,any,any,any,,0_adj,0_adj'>
+7	kAPI	NN	<fs af='kAPI,n,,sg,,,0,0'>|<fs af='kAPI,n,,sg,,,obl,obl'>
+8	wIsukurA	VM	<fs af='wIsukuvaccu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='wIsukuvaccu,v,any,any,any,,an,an'>
+9	!	SYM	<fs af='!,punc,,,,,,'>
+10	"	SYM	<fs af='",punc,,,,,,'>
+11	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+12	keka	NN	<fs af='keka,n,any,sg,3,,0,0'>|<fs af='keka,n,any,sg,3,,obl,obl'>
+13	peVttAdu	VM	<fs af='peVttu,v,m,sg,3,,A,A'>
+14	subbayya	NNP	<fs af='subbayya,n,any,sg,3,,0,0'>|<fs af='subbayya,n,any,sg,3,,obl,obl'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

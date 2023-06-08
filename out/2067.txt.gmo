@@ -1,0 +1,14 @@
+<Sentence id="2067">			
+0	((	SSF	
+1	karNAtaka	NNP	<fs af='karNAtaka,n,any,sg,3,,0,0'>|<fs af='karNAtaka,n,any,sg,3,,obl,obl'>
+2	rARtraM	NN	<fs af='rARtraM,n,any,sg,3,,0,0'>
+3	cik_maMgalYUr	NNP	<fs af='cik_maMgalYUr,unk,,,,,,' poslcat="NM">
+4	jillAloni	NN	<fs af='jillA,n,any,sg,3,,loni,loni'>
+5	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+6	skUllo	NN	<fs af='skUl,n,any,sg,3,,lo,lo'>|<fs af='skUlu,n,any,sg,3,,lo,lo'>
+7	pillalaku	NN	<fs af='pilla,n,any,pl,3,,ki,ki'>
+8	ilAge	NN	<fs af='ilAgu,avy,,,,,e,e_avy' poslcat="NM">
+9	vacciMxi	VM	<fs af='vaccu,v,fn,sg,3,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

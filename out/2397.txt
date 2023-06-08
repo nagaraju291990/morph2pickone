@@ -1,0 +1,9 @@
+<Sentence id="2397">
+0	((	SSF
+1	roju	VM	<fs af='roju,n,,sg,,,0,0'>|<fs af='roju,n,,sg,,,obl,obl'>|<fs af='roju,v,,sg,2,,AjFArWa,AjFArWa'>|<fs af='roj,n,,sg,,,0,0'>|<fs af='roj,n,,sg,,,obl,obl'>
+1	rojuku	NN	<fs af='roju,n,,sg,,,ki,ki'>|<fs af='roj,n,,sg,,,ki,ki'>
+2	nIlYlu	NN	<fs af='nIru,n,any,pl,3,,0,0'>|<fs af='nIru,n,any,pl,3,,vu_agr,vu_agr'>
+3	UrAyi	VM	<fs af='Uru,v,n,pl,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

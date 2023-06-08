@@ -1,0 +1,31 @@
+<Sentence id="8414">			
+0	((	SSF	
+1	mAlakoVMda	NNP	<fs af='mAlakoVMda,n,any,sg,3,,0,0'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	kaMxukUrunu	NN	<fs af='kaMxukUru,n,,sg,,,nu,nu'>
+3	uMdi	VM	<fs af='uMdu,v,any,any,any,,i,i'>
+4	30	QC	<fs af='30,num,,,,,,'>
+5	ki	NN	<fs af='ki,avy,,,,,,'>'>
+6	
+7	
+8	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+9	xUraMlo	NN	<fs af='xUraM,n,any,sg,3,,lo,lo'>
+10	gala	RP	<fs af='gala,v,any,any,any,,ina,ina'>'>
+11	I	DEM	<fs af='I,avy,,,,,,'>
+12	grAmamaMxu	NN	<fs af='grAmaM,n,any,sg,3,,aMxu,aMxu'>
+13	mAli	VM	<fs af='mAlu,v,any,any,any,,i,i'>
+13	Axi	NN	<fs af='Axi,n,,sg,,,0,0'>
+14	SrI	NNP	<fs af='SrI,n,any,sg,3,,0,0'>
+15	lakRmi	NNP	<fs af='lakRmi,n,any,sg,3,,0,0'>
+16	narasiMhasvAmi	NNP	<fs af='narasiMhasvAmi,n,any,sg,3,,0,0'>
+17	AlayaM	NN	<fs af='AlayaM,n,any,sg,3,,0,0'>
+18	xattaM	JJ	<fs af='xattaM,n,any,sg,3,,0,0'>
+18	ayina	JJ	<fs af='avvu,v,any,any,any,,ina,ina'>'>
+19	adavula	NN	<fs af='adavi,n,any,pl,3,,obl,obl'>
+20	maXya	NST	<fs af='maXya,n,any,sg,3,,0,0'>
+21	gala	RP	<fs af='gala,v,any,any,any,,ina,ina'>'>
+22	guttapE	NN	<fs af='gutta,n,any,sg,3,,pE,pE'>
+23	unnaxi	VM	<fs af='uMdu,v,any,any,any,,ina_axi,ina_axi'>
+24	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

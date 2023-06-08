@@ -1,0 +1,12 @@
+<Sentence id="225">
+0	((	SSF
+1	koVnni	QF	<fs af='koVnni,pn,any,pl,3,,0,0'>
+2	cotla	NN	<fs af='cotu,n,any,pl,3,,obl,obl'>
+3	magavAlYlaku	NN	<fs af='maga,n,,pl,,,vAlYlu_ki,vAlYlu_ki' deri_cat='pn'>
+4	samAnaMgA	RB	<fs af='samAnaM,n,any,sg,3,,gA,gA'>
+5	kUli	NN	<fs af='kUlu,v,any,any,any,,i,i'>|<fs af='kUli,n,any,sg,3,,0,0'>|<fs af='kUli,n,any,sg,3,,obl,obl'>
+6	sAXiMcukoVnnAru	VM	<fs af='sAXiMcu,v,fm,pl,3,,koVn_A,koVn_A'>
+6	ata	VM	<fs af='ata,unk,,,,,,'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,9 @@
+<Sentence id="7372">
+0	((	SSF	
+1	sIwa	NNP	<fs af='sIwa,n,any,sg,3,,0,0'>|<fs af='sIwa,n,any,sg,3,,obl,obl'>
+2	paxo	QO	<fs af='paxi,n,any,sg,3,,0,0_o'>
+3	waragawi	NN	<fs af='waragawi,n,any,sg,3,,0,0'>|<fs af='waragawi,n,any,sg,3,,obl,obl'>
+4	caxuvuwoMxi	VM	<fs af='caxuvu,v,fn,sg,3,,wunn,wunn'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

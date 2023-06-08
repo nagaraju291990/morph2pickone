@@ -1,0 +1,9 @@
+<Sentence id="1319">
+0	((	SSF
+1	nijAniki	NN	<fs af='nijaM,n,any,sg,3,,ki,ki'>
+2	pasipillalaku	NN	<fs af='pasipilla,n,any,pl,3,,ki,ki'>
+3	wallipAle	NN	<fs af='wallipAlu,n,any,pl,3,,0_e,0_e'>|<fs af='wallipAlu,n,any,pl,3,,vu_e,vu_e'>
+4	maMcivi	NN	<fs af='maMci,adj,,pl,,,xi,xi_0' deri_cat='pn'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

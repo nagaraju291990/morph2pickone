@@ -1,0 +1,16 @@
+<Sentence id="1343">
+0	((	SSF
+1	A	DEM	<fs af='A,avy,,,,,, '>
+2	samayaMlo	NN	<fs af='samayaM,n,any,sg,3,,lo,lo'>
+3	rojuku	NN	<fs af='roju,n,any,sg,3,,ki,ki'>
+4	eVnni	VM	<fs af='eVnni,pn,,pl,,,0,0'>|<fs af='eVnnu,v,any,any,any,,i,i'>|<fs af='eVn,n,,sg,,,ni,ni'>
+4	sArlu	NN	<fs af='sAr,n,,pl,,,0,0'>|<fs af='sAr,n,,pl,,,vu,vu'>|<fs af='sAri,n,,pl,,,0,0'>|<fs af='sAri,n,,pl,,,vu,vu'>
+5	pAlu	NN	<fs af='paM,n,any,pl,3,,0,0'>|<fs af='paM,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAlu,n,any,sg,3,,0,0'>|<fs af='pAlu,n,any,sg,3,,0,0_A'>|<fs af='pAlu,n,any,sg,3,,obl,obl'>|<fs af='pAlu,n,any,sg,3,,vu_agr,vu_agr'>
+6	ivvavaccu	VM	<fs af='ivvu,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='ivvavaccu,v,any,any,any,,e,e'>
+7	ani	UT	<fs af='ani,avy,,,,,, '>|<fs af='anu,v,any,any,any,,i,i'>
+8	ramaNammanu	NNP	<fs af='ramaNamma,n,any,sg,3,,ni,ni'>|<fs af='ramaNamma,n,any,sg,3,,ni_agr,ni_agr'>
+9	adigiMxi	VM	<fs af='adugu,v,fn,sg,3,,A,A'>
+10	raMgamma	NNP	<fs af='raMgamma,n,any,sg,3,,0,0'>|<fs af='raMgamma,n,any,sg,3,,obl,obl'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

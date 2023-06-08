@@ -1,0 +1,37 @@
+<Sentence id="2183">
+0	((	SSF
+1	pAla	NN	<fs af='paM,n,any,pl,3,,obl,obl'>|<fs af='pAlu,n,any,sg,3,,obl,obl'>
+2	xigubadi	NN	<fs af='xigubadi,n,any,sg,3,,0,0'>|<fs af='xigubadi,n,any,sg,3,,obl,obl'>
+3	peVragAlaMte	VM	<fs af='peVrugu,v,any,any,any,,Ali_aMte,Ali_aMte'>
+4	-	SYM
+5	-	SYM
+6	-	SYM
+7	-	SYM
+8	-	SYM
+9	-	SYM
+10	-	SYM
+11	-	SYM
+12	-	SYM
+13	-	SYM
+14	-	SYM
+15	-	SYM
+16	-	SYM
+17	-	SYM
+18	-	SYM
+19	-	SYM
+20	-	SYM
+21	-	SYM
+22	-	SYM
+23	-	SYM
+24	-	SYM
+25	-	SYM
+26	-	SYM
+27	manaM	PRP	<fs af='manaM,pn,any,pl,1,,0,0'>
+28	cAlA	QF	<fs af='cAlu,v,any,any,any,,i,i_A'>
+29	maMximi	CL	<fs af='maMxi,n,any,sg,3,,ni_agr,ni_agr'>
+30	pAdi	NN	<fs af='pAdu,v,any,any,any,,i,i'>|<fs af='pAdi,n,any,sg,3,,0,0'>|<fs af='pAdi,n,any,sg,3,,obl,obl'>
+31	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+32	bawikevAlYlaM	VM	<fs af='bawikevAlYlu,pn,mf,pl,3,,nu,nu'>
+33	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

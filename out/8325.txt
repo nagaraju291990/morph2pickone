@@ -1,0 +1,10 @@
+<Sentence id="8325">
+0	((	SSF
+1	1794	QC	<fs af='1794,num,,,,,, '>
+2	lo	PSP	<fs af='lo,avy,,,,,, '>
+3	I	DEM	<fs af='I,avy,,,,,, '>
+4	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>|<fs af='jillA,n,any,sg,3,,0,0'>|<fs af='jillA,n,any,sg,3,,obl,obl'>
+5	erpadiMxi	VM	<fs af='erpadu,v,fn,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

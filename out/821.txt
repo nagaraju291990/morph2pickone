@@ -1,0 +1,17 @@
+<Sentence id="821">
+0	((	SSF
+1	munaga	VM	<fs af='munaga,n,,sg,,,0,0'>|<fs af='munaga,n,,sg,,,obl,obl'>|<fs af='munugu,v,any,any,any,,an,an'>
+1	kAya	VM	<fs af='kAya,n,,sg,,,0,0'>|<fs af='kAya,n,,sg,,,obl,obl'>|<fs af='kAyaM,n,,sg,,,obl,obl'>|<fs af='kAyi,v,any,any,any,,an,an'>
+2	mukkalu	NN	<fs af='mukka,n,any,pl,3,,0,0'>|<fs af='mukka,n,any,pl,3,,vu_agr,vu_agr'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	Akulu	NN	<fs af='Aku,n,any,pl,3,,0,0'>|<fs af='Aku,n,any,pl,3,,vu_agr,vu_agr'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	vesi	VM	<fs af='veVyyi,v,any,any,any,,i,i'>
+7	sAMbAru	NN	<fs af='sAMbAr,n,any,sg,3,,0,0'>|<fs af='sAMbAr,n,any,sg,3,,obl,obl'>|<fs af='sAMbAru,n,any,sg,3,,0,0'>|<fs af='sAMbAru,n,any,sg,3,,obl,obl'>
+8	ceswe	VM	<fs af='ceVyyi,v,any,any,any,,we,we'>
+9	bAgA	RB	<fs af='bAgA,avy,,,,,, '>
+10	rucigA	RB	<fs af='ruci,n,any,sg,3,,gA,gA'>
+11	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,22 @@
+<Sentence id="3071">
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	nuvvu	PRP	<fs af='nIvu,pn,any,sg,2,,0,0'>
+3	svayaMgA	RB	<fs af='svayaM,n,any,sg,3,,gA,gA' poslcat="NM">
+4	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+5	Uru	NN	<fs af='Uru,n,any,sg,3,,0,0'>
+6	veVlYli	VM	<fs af='veVlYlu,v,any,any,any,,i,i'>
+7	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+8	iMtlo	NN	<fs af='illu,n,any,sg,3,,lo,lo'>
+9	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+10	rAwimukkanu	NN	<fs af='rAwimukka,n,any,sg,3,,ni,ni'>|<fs af='rAwimukka,n,any,sg,3,,ni_agr,ni_agr'>
+11	veVwiki	VM	<fs af='veVwuku,v,any,any,any,,i,i'>
+12	pattuko	VAUX	<fs af='pattu,v,any,any,any,,koVn,koVn' poslcat="NM">|<fs af='pattu,n,any,sg,3,,ki,ki_o' poslcat="NM">
+12	rA 	VAUX	</cat=unkposlcat="NM" '>
+13	!	SYM	<fs af='!,punc,,,,,,'>
+14	nuvvu	PRP	<fs af='nIvu,pn,any,sg,2,,0,0'>
+14	oVkkawive	PRP	<fs af='oVkkawive,unk,,,,,,' poslcat="NM">
+15	veVlYlu	VM	<fs af='veVlYlu,v,any,sg,2,,AjFArWa,AjFArWa'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

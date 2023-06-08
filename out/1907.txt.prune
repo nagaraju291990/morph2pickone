@@ -1,0 +1,10 @@
+<Sentence id="1907">
+0	((	SSF	
+1	Ilopala	NST	<fs af='Ilopala,adv,any,any,any,,0_adv,0_adv'>
+2	bassu	NN	<fs af='bassu,n,any,sg,3,,0,0'>|<fs af='bassu,n,any,sg,3,,obl,obl'>
+3	drEvaru	NN	<fs af='drEvar,n,any,sg,3,,0,0'>|<fs af='drEvar,n,any,sg,3,,obl,obl'>|<fs af='drEvaru,n,any,sg,3,,0,0'>|<fs af='drEvaru,n,any,sg,3,,obl,obl'>
+4	vacci	VM	<fs af='vaccu,v,any,any,any,,i,i'>
+5	kUrcunnAdu	VM	<fs af='kUrco,v,m,sg,3,,A,A'>|<fs af='kUrcuMdu,v,m,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

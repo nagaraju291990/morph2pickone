@@ -1,0 +1,11 @@
+<Sentence id="7755">
+0	((	SSF
+1	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+2	vaccinappatinuMci	VM	<fs af='vaccu,v,any,any,any,,ina_app_nuMci,ina_app_nuMci'>
+3	xAni	PRP	<fs af='axi,pn,fn,sg,3,,obl,obl'>
+4	vaMka	NN	<fs af='vaMka,n,any,sg,3,,0,0'>|<fs af='vaMka,n,any,sg,3,,obl,obl'>
+5	alAge	RB	<fs af='alAge,avy,,,,,, '>
+6	cUswunnAdu	VM	<fs af='cUdu,v,m,sg,3,,wunn,wunn'>|<fs af='cUswuMdu,v,m,sg,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

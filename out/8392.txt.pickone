@@ -1,0 +1,29 @@
+<Sentence id="8392">			
+0	((	SSF	
+1	naxulu	NN	<fs af='naxi,n,any,pl,3,,0,0'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	guMdlakamma	NNP	<fs af='guMdlakamma,n,any,sg,3,,0,0'>
+4	,	SYM	<fs af=',,punc,,,,,,'>
+5	mUsi	NNP	<fs af='muyyi,v,any,any,any,,i,i'>
+6	,	SYM	<fs af=',,punc,,,,,,'>
+7	pAleru	NNP	<fs af='pAleru,n,any,sg,3,,0,0'>
+8	paMtalu	NN	<fs af='paMta,n,any,pl,3,,0,0'>
+9	:	SYM	<fs af=':,punc,,,,,,'>
+10	vari	NN	<fs af='vari,n,any,sg,3,,0,0'>
+11	,	SYM	<fs af=',,punc,,,,,,'>
+12	joVnnalu	NN	<fs af='joVnna,n,any,pl,3,,0,0'>
+13	,	SYM	<fs af=',,punc,,,,,,'>
+14	sajjalu	NN	<fs af='sajja,n,any,pl,3,,0,0'>
+15	,	SYM	<fs af=',,punc,,,,,,'>
+16	prawwi	NN	<fs af='prawwi,n,any,sg,3,,0,0'>
+17	,	SYM	<fs af=',,punc,,,,,,'>
+18	gaMtlu	NN	<fs af='gaMtu,n,any,pl,3,,0,0'>
+19	,	SYM	<fs af=',,punc,,,,,,'>
+20	rAgulu	NN	<fs af='rAgi,n,any,pl,3,,0,0'>
+21	,	SYM	<fs af=',,punc,,,,,,'>
+22	mirapa	NN	<fs af='mirapa,n,any,sg,3,,0,0'>
+23	,	SYM	<fs af=',,punc,,,,,,'>
+24	veruSeVnaga	NN	<fs af='veruSeVnaga,n,any,sg,3,,0,0'>
+25	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

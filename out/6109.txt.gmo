@@ -1,0 +1,12 @@
+<Sentence id="6109">			
+0	((	SSF	
+1	bahumani	NNP	<fs af='bahumani,n,any,sg,3,,0,0'>|<fs af='bahumani,n,any,sg,3,,obl,obl'>
+2	sulwAnulu	NN	<fs af='sulwAn,n,any,pl,3,,0,0'>|<fs af='sulwAn,n,any,pl,3,,vu_agr,vu_agr'>
+3	1347	QC	<fs af='1347,num,,,,,,'>
+4	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+5	1538	QC	<fs af='1538,num,,,,,,'>
+6	varaku	PSP	<fs af='varaku,avy,,,,,,' poslcat="NM">'>|<fs af='varaku,adv,any,any,any,,0_adv,0_adv' poslcat="NM">'>
+7	pAliMcAru	VM	<fs af='pAliMcu,v,any,pl,2,,A,A'>|<fs af='pAliMcu,v,mf,pl,3,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

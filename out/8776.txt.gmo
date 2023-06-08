@@ -1,0 +1,19 @@
+<Sentence id="8776">			
+0	((	SSF	
+1	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+2	veVnukati	NST	<fs af='veVnuka,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+3	xinamu	NN	<fs af='xinaM,n,,sg,,,0,0'>
+3	allA	VM	<fs af='allu,v,any,any,any,,i_A,i_A'>
+4	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+5	mqgAniki	NN	<fs af='mqgaM,n,any,sg,3,,ki,ki'>
+6	xaggaragAne	NST	<fs af='xaggaragAne,avy,,,,,,' poslcat="NM">
+7	uMdataM	VM	<fs af='uMdu,v,any,any,any,,adaM,adaM'>
+8	mUlaMgA	RB	<fs af='mUlaM,n,any,sg,3,,gA,gA' poslcat="NM">
+9	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+10	mqgaM	NN	<fs af='mqgaM,n,any,sg,3,,0,0'>
+11	arupulu	NN	<fs af='arupu,n,any,pl,3,,0,0'>|<fs af='arupu,n,any,pl,3,,vu_agr,vu_agr'>
+12	arupulavaleV	NN	<fs af='arupu,n,any,pl,3,,vale,vale'>
+13	vinabaddAyi	VM	<fs af='vinabadu,v,n,pl,3,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

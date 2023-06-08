@@ -1,0 +1,22 @@
+<Sentence id="9360">
+0	((	SSF	
+1	wama	PRP	<fs af='wAmu,pn,mf,sg,3,,obl,obl'>
+2	Sirassu	NN	<fs af='Sirassu,n,any,sg,3,,0,0'>|<fs af='Sirassu,n,any,sg,3,,obl,obl'>
+3	aSva	NN	<fs af='aSvaM,n,any,sg,3,,obl,obl'>
+4	Sirassu	NN	<fs af='Sirassu,n,any,sg,3,,0,0'>|<fs af='Sirassu,n,any,sg,3,,obl,obl'>
+5	kanuka	RP	<fs af='kanuka,avy,,,,,,'>
+6	aMxulo	PRP	<fs af='aMxulo,avy,,,,,,' poslcat="NM">
+7	mAnavuni	NN	<fs af='mAnavudu,n,any,sg,3,,obl,obl'>
+8	jFAnamunaku	NN	<fs af='jFAnaM,n,any,sg,3,,ki,ki'>
+9	waginatlugA	VM	<fs af='wagu,v,any,any,any,,ina_atlugA,ina_atlugA'>
+10	ceyabadina	VM	<fs af='ceyabadu,v,any,any,any,,ina,ina'>
+11	meVxadu	NN	<fs af='meVxadu,n,any,sg,3,,0,0'>|<fs af='meVxadu,n,any,sg,3,,obl,obl'>
+12	uMduta	VM	<fs af='uMdu,v,any,any,any,,adaM,adaM'>
+13	eVtlu	WQ	<fs af='eVtlu,avy,,,,,,'>
+14	watasWiMcunu	VM	<fs af='watasWiMcu,v,any,sg,3,,uxu,uxu'>|<fs af='watasWiMcu,v,n,pl,3,,uxu,uxu'>
+15	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+16	paSuSAswrajFuni	NN	<fs af='paSuSAswrajFudu,n,any,sg,3,,obl,obl'>
+17	saMxehaM	NN	<fs af='saMxehaM,n,any,sg,3,,0,0'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

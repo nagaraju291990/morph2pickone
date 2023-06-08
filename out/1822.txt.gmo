@@ -1,0 +1,16 @@
+<Sentence id="1822">			
+0	((	SSF	
+1	battalu	NN	<fs af='batta,n,any,pl,3,,0,0'>|<fs af='batta,n,any,pl,3,,vu_agr,vu_agr'>
+2	tElaru	NN	<fs af='tElar,n,any,sg,3,,0,0'>|<fs af='tElar,n,any,sg,3,,obl,obl'>
+3	xaggariki	NST	<fs af='xaggara,adv,any,any,any,,ku_adv,ku_adv'>
+4	iswe	VM	<fs af='ivvu,v,any,any,any,,we,we'>
+5	kuttu	NN	<fs af='kuttu,n,any,sg,3,,0,0'>|<fs af='kuttu,n,any,sg,3,,obl,obl'>
+5	kUlI	NN	<fs af='kUli,n,any,sg,3,,0,0_V'>
+6	kUdA	PSP	<fs af='kUdA,avy,,,,,,' poslcat="NM">'>|<fs af='kUdu,v,any,any,any,,i,i_A' poslcat="NM">'>
+7	xaMdaga	NN	<fs af='xaMdaga,n,any,sg,3,,0,0'>|<fs af='xaMdaga,n,any,sg,3,,obl,obl'>
+8	avuwuMxi	VM	<fs af='avvu,v,fn,sg,3,,wA,wA'>|<fs af='avuwuMdu,v,fn,sg,3,,A,A'>
+9	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+10	welipoyiMxi	VM	<fs af='welipo,v,fn,sg,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,83 @@
+<Sentence id="6841">			
+0	((	SSF	
+1	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+2	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+3	28	QC	<fs af='28,num,,,,,,'>
+4	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+5	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+6	0	QC	<fs af='0,num,,,,,,'>
+7	23	QC	<fs af='23,num,,,,,,'>
+8	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+9	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+10	16	QC	<fs af='16,num,,,,,,'>
+11	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+12	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+13	15	QC	<fs af='15,num,,,,,,'>
+14	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+15	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+16	17	QC	<fs af='17,num,,,,,,'>
+17	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+18	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+19	14	QC	<fs af='14,num,,,,,,'>
+20	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+21	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+22	14	QC	<fs af='14,num,,,,,,'>
+23	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+24	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+25	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+26	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+27	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+28	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+29	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+30	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+31	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+32	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+33	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+34	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+35	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+36	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+37	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+38	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+39	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+40	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+41	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+42	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+43	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+44	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+45	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+46	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+47	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+48	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+49	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+50	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+51	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+52	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+53	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+54	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+55	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+56	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+57	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+58	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+59	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+60	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+61	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+62	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+63	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+64	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+65	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+66	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+67	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+68	pEruku	NN	<fs af='pEru,n,any,sg,3,,ki,ki'>
+69	eVruvula	NN	<fs af='eVruvu,n,any,pl,3,,obl,obl'>
+70	upayogaM	NN	<fs af='upayogaM,n,any,sg,3,,0,0'>
+71	*	SYM	<fs af='*,punc,,,,,,'>
+72	moVkkalu	NN	<fs af='moVkka,n,any,pl,3,,0,0'>|<fs af='moVkka,n,any,pl,3,,vu_agr,vu_agr'>
+73	lavaNAlanu	NN	<fs af='lavaNaM,n,any,pl,3,,ni,ni'>
+74	nela	NN	<fs af='nela,n,any,sg,3,,0,0'>|<fs af='nela,n,any,sg,3,,obl,obl'>
+75	nuMdi	PSP	<fs af='nuMdi,avy,,,,,,' poslcat="NM">
+76	verla	NN	<fs af='veru,n,any,pl,3,,obl,obl'>
+77	xvArA	PSP	<fs af='xvArA,avy,,,,,,' poslcat="NM">
+78	wIsukuMtAyi	VM	<fs af='wIsuko,v,n,pl,3,,wA,wA'>|<fs af='wIsuko,v,n,pl,3,,wA,wA'>
+79	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

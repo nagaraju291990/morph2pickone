@@ -1,0 +1,10 @@
+<Sentence id="253">
+0	((	SSF
+1	_	SYM
+2	_	SYM
+3	_	SYM
+4	_	SYM
+5	_	SYM
+6	_	SYM
+))
+</Sentence>

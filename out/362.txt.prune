@@ -1,0 +1,20 @@
+<Sentence id="362">
+0	((	SSF	
+1	ArogyaM	NN	<fs af='ArogyaM,n,any,sg,3,,0,0'>
+2	guriMci	PSP	<fs af='guriMci,avy,,,,,,' poslcat="NM">
+3	weVlusukovAli	VM	<fs af='weVlusuko,v,any,any,any,,Ali,Ali'>
+4	kAvAli	VM	<fs af='avvu,v,any,any,any,,Ali,Ali'>
+4	anukunnappudu	VM	<fs af='anuko,v,any,any,any,,wunna_appudu,wunna_appudu'>|<fs af='anuko,v,any,any,any,,ina_appudu,ina_appudu'>
+5	mAwrame	PSP	<fs af='mAwrame,avy,,,,,,' poslcat="NM">
+6	walli	NN	<fs af='walli,n,any,sg,3,,0,0'>|<fs af='walli,n,any,sg,3,,obl,obl'>
+7	eVlA	WQ	<fs af='eVlA,avy,,,,,,'>
+8	kAvacco	VM	<fs af='kAvaccu,v,any,any,any,,i,i_o'>
+9	weVlusukovAli	VM	<fs af='weVlusuko,v,any,any,any,,Ali,Ali'>
+10	walli	NN	<fs af='walli,n,any,sg,3,,0,0'>|<fs af='walli,n,any,sg,3,,obl,obl'>
+11	biddalni	NN	<fs af='bidda,n,any,pl,3,,ni,ni'>
+12	eVlA	WQ	<fs af='eVlA,avy,,,,,,'>
+13	peVMcAlo	VM	<fs af='peVMcu,v,any,any,any,,Ali,Ali_o'>
+14	weVlusukovAli	VM	<fs af='weVlusuko,v,any,any,any,,Ali,Ali'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

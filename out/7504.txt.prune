@@ -1,0 +1,12 @@
+<Sentence id="7504">
+0	((	SSF	
+1	eVvaru	PRP	<fs af='eVvaru,pn,,pl,,,0,0'>|<fs af='eVvaru,pn,,pl,,,vu,vu'>
+1	EnA	NN	<fs af='EnA,avy,,,,,,' poslcat="NM">
+2	tIcaru	NN	<fs af='tIcar,n,any,sg,3,,0,0'>|<fs af='tIcar,n,any,sg,3,,obl,obl'>|<fs af='tIcaru,n,any,sg,3,,0,0'>|<fs af='tIcaru,n,any,sg,3,,obl,obl'>
+3	koVttabowe	NN	<fs af='koVttu,n,any,any,any,,a_po_we,a_po_we' deri_cat=v>
+4	vAdu	PRP	<fs af='vAdu,pn,m,sg,3,,0,0'>
+5	gattigA	RB	<fs af='gatti,adj,any,any,any,,gA_adj,gA_adj' poslcat="NM">
+6	aricevAdu	VM	<fs af='aruvu,v,any,any,any,,e_vAdu,e_vAdu'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

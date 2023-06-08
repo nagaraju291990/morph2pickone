@@ -1,0 +1,50 @@
+<Sentence id="8440">			
+0	((	SSF	
+1	lalo	RP	<fs af='lali,n,any,sg,3,,0,0_o' poslcat="NM">
+2	)	SYM	<fs af='),punc,,,,,,'>
+3	axxaMki	NNP	<fs af='axxaM,n,any,sg,3,,ki,ki'>|<fs af='axxaMki,n,any,sg,3,,0,0'>
+4	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+5	40	QC	<fs af='40,num,,,,,,'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	mexarameVtla	NNP	<fs af='mexarameVtla,n,any,sg,3,,0,0'>|<fs af='mexarameVtla,n,any,sg,3,,obl,obl'>
+8	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+9	29	QC	<fs af='29,num,,,,,,'>
+10	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+11	cIrAla	NNP	<fs af='cIraM,n,any,pl,3,,obl,obl'>
+12	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+13	57	QC	<fs af='57,num,,,,,,'>
+14	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+15	siMgarAyakoVMda	NNP	<fs af='siMgarAyakoVMda,n,any,sg,3,,0,0'>|<fs af='siMgarAyakoVMda,n,any,sg,3,,obl,obl'>
+16	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+17	32	QC	<fs af='32,num,,,,,,'>
+18	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+19	kaMxukUru	NNP	<fs af='kaMxukUru,n,any,sg,3,,0,0'>
+20	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+21	46	QC	<fs af='46,num,,,,,,'>
+22	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+23	poVxili	NNP	<fs af='poVxili,n,any,sg,3,,0,0'>|<fs af='poVxili,n,any,sg,3,,obl,obl'>
+24	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+25	48	QC	<fs af='48,num,,,,,,'>|<fs af='1,num,,,,,,'>
+26	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+27	kanigiri	NNP	<fs af='kanigiri,n,any,sg,3,,0,0'>|<fs af='kanigiri,n,any,sg,3,,obl,obl'>
+28	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+29	80	QC	<fs af='80,num,,,,,,'>
+30	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+31	mArkApuraM	NNP	<fs af='mArkApuraM,n,any,sg,3,,0,0'>
+32	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+33	93	QC	<fs af='93,num,,,,,,'>
+34	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+35	pAmUru	NNP	<fs af='pAmUru,n,any,sg,3,,0,0'>
+36	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+37	117	QC	<fs af='117,num,,,,,,'>
+38	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+39	kaMBaM	NNP	<fs af='kaMBaM,n,any,sg,3,,0,0'>
+40	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+41	107	QC	<fs af='107,num,,,,,,'>
+42	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+43	gixxalUru	NNP	<fs af='gixxalUru,n,any,sg,3,,0,0'>
+44	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+45	150	QC	<fs af='150,num,,,,,,'>
+46	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

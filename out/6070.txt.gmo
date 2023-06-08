@@ -1,0 +1,19 @@
+<Sentence id="6070">			
+0	((	SSF	
+1	koVMda	NN	<fs af='koVMda,n,any,sg,3,,0,0'>|<fs af='koVMda,n,any,sg,3,,obl,obl'>
+2	prAMwamulu	NN	<fs af='prAMwaM,n,any,pl,3,,0,0'>|<fs af='prAMwaM,n,any,pl,3,,vu_agr,vu_agr'>
+3	:	SYM	<fs af=':,punc,,,,,,'>
+4	kqRNA	NNP	<fs af='kqRNa,n,any,sg,3,,0,0_A'>|<fs af='kqRNa,n,any,sg,3,,0,0_V'>
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	goxAvari	NNP	<fs af='goxAvari,n,any,sg,3,,0,0'>|<fs af='goxAvari,n,any,sg,3,,obl,obl'>
+7	naxula	NN	<fs af='naxi,n,any,pl,3,,obl,obl'>
+8	maXya	NST	<fs af='maXya,n,any,sg,3,,0,0'>|<fs af='maXya,n,any,sg,3,,obl,obl'>
+9	150	QC	<fs af='150,num,,,,,,'>
+10	ki||mI	NN	<fs af='ki'>|<fs af=''>
+11	xUraM	NN	<fs af='xUraM,n,any,sg,3,,0,0'>
+12	koVMdalu	NN	<fs af='koVMda,n,any,pl,3,,0,0'>|<fs af='koVMda,n,any,pl,3,,vu_agr,vu_agr'>
+13	anaxaginavi	NN	<fs af='anu,v,any,any,any,,a_xagu_ina_vi,a_xagu_ina_vi' poslcat="NM">
+14	levu	VAUX	<fs af='gala,v,any,sg,2,,a,a' poslcat="NM">
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

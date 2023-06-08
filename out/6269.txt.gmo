@@ -1,0 +1,28 @@
+<Sentence id="6269">			
+0	((	SSF	
+1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+2	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>|<fs af='jillA,n,any,sg,3,,0,0'>
+3	17	QC	<fs af='17,num,,,,,,'>
+4	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+5	50	QC	<fs af='50,num,,,,,,'>|<fs af='pE,adj,any,any,any,,0_adj,0_adj'>
+6	nuMdi	PSP	<fs af='nuMdi,avy,,,,,,' poslcat="NM">
+7	19	QC	<fs af='19,num,,,,,,'>
+8	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+9	15	QC	<fs af='15,num,,,,,,'>
+10	uwwara	NN	<fs af='uwwaraM,n,any,sg,3,,obl,obl'>
+11	akRAMSamula	NN	<fs af='akRAMSaM,n,any,pl,3,,obl,obl'>
+12	maXya	NST	<fs af='maXya,n,any,sg,3,,0,0'>|<fs af='maXya,n,any,sg,3,,obl,obl'>
+13	82	QC	<fs af='82,num,,,,,,'>
+14	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+15	0	QC	<fs af='0,num,,,,,,'>
+16	nuMdi	PSP	<fs af='nuMdi,avy,,,,,,' poslcat="NM">
+17	83	QC	<fs af='83,num,,,,,,'>
+18	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+19	45	QC	<fs af='45,num,,,,,,'>
+20	wUrpu	NN	<fs af='wUrpu,n,any,sg,3,,0,0'>|<fs af='wUrpu,n,any,sg,3,,obl,obl'>
+21	reKAMSAla	NN	<fs af='reKAMSaM,n,any,pl,3,,obl,obl'>
+22	maXya	NST	<fs af='maXya,n,any,sg,3,,0,0'>|<fs af='maXya,n,any,sg,3,,obl,obl'>
+23	kalaxu	VM	<fs af='kala,v,fn,sg,3,,wA,wA'>|<fs af='kala,v,fn,sg,3,,A,A'>
+24	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

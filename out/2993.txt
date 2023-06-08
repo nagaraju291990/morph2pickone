@@ -1,0 +1,24 @@
+<Sentence id="2993">
+0	((	SSF
+1	"	SYM	<fs af='",punc,,,,,, '>
+2	jAgrawwagA	RB	<fs af='jAgrawwa,n,any,sg,3,,gA,gA'>
+3	xAcipeVttina	VM	<fs af='xAcipeVttu,v,any,any,any,,ina,ina'>
+4	pAmu	NN	<fs af='pAmu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='pAmu,n,any,sg,3,,0,0'>|<fs af='pAmu,n,any,sg,3,,obl,obl'>
+5	SavaM	NN	<fs af='SavaM,n,any,sg,3,,0,0'>
+6	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+7	eVppudo	NST	<fs af='eVppudo,avy,,,,,, '>|<fs af='eVppudu,adv,any,any,any,,0_o_adv,0_o_adv'>
+8	oVkappudu	NST	<fs af='oVkappudu,adv,any,any,any,,0_adv,0_adv'>
+9	paniki	NN	<fs af='pani,n,any,sg,3,,ki,ki'>
+10	vaswuMxi	VM	<fs af='vaccu,v,fn,sg,3,,wA,wA'>|<fs af='vaswuMdu,v,fn,sg,3,,A,A'>
+11	"	SYM	<fs af='",punc,,,,,, '>
+12	ani	UT	<fs af='ani,avy,,,,,, '>|<fs af='anu,v,any,any,any,,i,i'>
+13	wana	PRP	<fs af='wAnu,pn,mf,sg,3,,obl,obl'>
+14	mAtanu	NN	<fs af='mAta,n,any,sg,3,,ni,ni'>|<fs af='mAta,n,any,sg,3,,ni_agr,ni_agr'>
+15	nirUpiMcukovadaM	VM	<fs af='nirUpiMcu,v,any,any,any,,koVn_adaM,koVn_adaM'>
+16	kosaM	PSP	<fs af='kosaM,avy,,,,,, '>
+17	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+18	kaWa	NN	<fs af='kaWa,n,any,sg,3,,0,0'>|<fs af='kaWa,n,any,sg,3,,obl,obl'>
+19	ceVppAru	VM	<fs af='ceVppu,v,any,pl,2,,A,A'>|<fs af='ceVppu,v,mf,pl,3,,A,A'>
+20	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

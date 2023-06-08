@@ -1,0 +1,8 @@
+<Sentence id="7998">
+0	((	SSF
+1	byAMku	NN	<fs af='byAMk,n,any,sg,3,,0,0'>|<fs af='byAMk,n,any,sg,3,,obl,obl'>|<fs af='byAMku,n,any,sg,3,,0,0'>|<fs af='byAMku,n,any,sg,3,,obl,obl'>
+2	ruNaM	NN	<fs af='ruNaM,n,any,sg,3,,0,0'>
+3	ippiMcAdu	VM	<fs af='ippiMcu,v,m,sg,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

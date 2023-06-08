@@ -1,0 +1,14 @@
+<Sentence id="6275">			
+0	((	SSF	
+1	mOryulu	NNP	<fs af='mOryu,n,any,pl,3,,0,0'>|<fs af='mOryu,n,any,pl,3,,vu_agr,vu_agr'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	SAlivAhanulu	NNP	<fs af='SAlivAhanudu,n,any,pl,3,,0,0'>|<fs af='SAlivAhanudu,n,any,pl,3,,vu_agr,vu_agr'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	golkoVMda	NNP	<fs af='golkoVMda,n,any,sg,3,,0,0'>|<fs af='golkoVMda,n,any,sg,3,,obl,obl'>
+6	navAbulu	NN	<fs af='navAb,n,any,pl,3,,0,0'>|<fs af='navAb,n,any,pl,3,,vu_agr,vu_agr'>
+7	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+8	prAMwAnni	NN	<fs af='prAMwaM,n,any,sg,3,,ni,ni'>|<fs af='prAMwaM,n,any,sg,3,,ni_agr,ni_agr'>
+9	paripAliMcAru	VM	<fs af='paripAliMcu,v,any,pl,2,,A,A'>|<fs af='paripAliMcu,v,mf,pl,3,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

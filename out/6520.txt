@@ -1,0 +1,7 @@
+<Sentence id="6520">
+0	((	SSF
+1	ilA	RB	<fs af='ilA,avy,,,,,, '>|<fs af='ila,n,any,sg,3,,0,0_A'>|<fs af='ila,n,any,sg,3,,0,0_V'>
+2	eVnno	QF	<fs af='eVnno,avy,,,,,, '>|<fs af='eVnnu,v,any,any,any,,i,i_o'>|<fs af='eVnni,pn,any,pl,3,,0,0_o'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

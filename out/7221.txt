@@ -1,0 +1,9 @@
+<Sentence id="7221">
+0	((	SSF
+1	bAgA	INTF	<fs af='bAgA,avy,,,,,, '>
+2	kadigina	VM	<fs af='kadugu,v,any,any,any,,ina,ina'>
+3	ceVMcAwo	NN	<fs af='ceVMcA,n,any,sg,3,,wo,wo'>
+4	kalapAli	VM	<fs af='kalupu,v,any,any,any,,Ali,Ali'>|<fs af='kalapu,v,any,any,any,,Ali,Ali'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

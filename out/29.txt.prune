@@ -1,0 +1,11 @@
+<Sentence id="29">
+0	((	SSF	
+1	appatinuMci	NST	<fs af='appudu,adv,any,any,any,,nuMdi_adv,nuMdi_adv'>
+2	mA	PRP	<fs af='memu,pn,any,pl,1,,obl,obl'>
+3	amma	NN	<fs af='amma,n,any,sg,3,,0,0'>|<fs af='amma,n,any,sg,3,,obl,obl'>
+4	cikki	VM	<fs af='cikku,v,any,any,any,,i,i'>
+5	sagamu	NN	<fs af='sagaM,n,,sg,,,0,0'>
+5	EMxi	VM	<fs af='avvu,v,fn,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

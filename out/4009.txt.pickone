@@ -1,0 +1,30 @@
+<Sentence id="4009">			
+0	((	SSF	
+1	*	SYM	<fs af='*,punc,,,,,,'>
+2	*	SYM	<fs af='*,punc,,,,,,'>
+3	*	SYM	<fs af='*,punc,,,,,,'>
+4	*	SYM	<fs af='*,punc,,,,,,'>
+5	*	SYM	<fs af='*,punc,,,,,,'>
+6	kukka	NN	<fs af='kukka,n,any,sg,3,,0,0'>
+7	bawuku	NN	<fs af='bawuku,n,any,sg,3,,0,0'>
+8	-	SYM	<fs af='<'>
+9	-	SYM	<fs af='<'>
+10	-	SYM	<fs af='<'>
+11	-	SYM	<fs af='<'>
+12	-	SYM	<fs af='<'>
+13	-	SYM	<fs af='<'>
+14	-	SYM	<fs af='<'>
+15	-	SYM	<fs af='<'>
+16	-	SYM	<fs af='<'>
+17	-	SYM	<fs af='<'>
+18	-	SYM	<fs af='<'>
+19	-	SYM	<fs af='<'>
+20	-	SYM	<fs af='<'>
+21	piMdi	NN	<fs af='piMdi,n,any,sg,3,,0,0'>
+22	Arabosinattu	VM	<fs af='AraboVyyi,v,any,any,any,,ina_atlu,ina_atlu'>
+23	veVnneVla	NN	<fs af='veVnneVla,n,any,sg,3,,0,0'>
+24	kAswU	VM	<fs af='kAyi,v,any,any,any,,wU,wU'>
+25	uMxi	VAUX	<fs af='uMdu,v,fn,sg,3,,A,A'>
+26	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

@@ -1,0 +1,10 @@
+<Sentence id="7156">			
+0	((	SSF	
+1	pillAdu	NN	<fs af='pillAdu,n,any,sg,3,,0,0'>
+2	bAgA	INTF	<fs af='bAgA,avy,,,,,,'>
+3	nIrasa	VM	<fs af='nIrasaM,n,any,sg,3,,obl,obl'>'>
+3	padi	VM	<fs af='padu,v,any,any,any,,i,i'>
+4	poyAdu	VAUX	<fs af='po,v,m,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

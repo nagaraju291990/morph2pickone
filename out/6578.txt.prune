@@ -1,0 +1,19 @@
+<Sentence id="6578">
+0	((	SSF	
+1	hari	NNP	<fs af='hari,n,any,sg,3,,0,0'>|<fs af='hari,n,any,sg,3,,obl,obl'>
+2	annAdu	VM	<fs af='anu,v,m,sg,3,,A,A'>
+3	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+4	"	SYM	<fs af='",punc,,,,,,'>
+5	kAnI	CC	<fs af='kAnI,avy,,,,,,'>
+6	dAktarugArU	NN	<fs af='dAktarugAru,n,any,sg,3,,0,0_V'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	xeVbba	NN	<fs af='xeVbba,n,any,sg,3,,0,0'>|<fs af='xeVbba,n,any,sg,3,,obl,obl'>
+9	wagaladaM	VM	<fs af='wagaladaM,unk,,,,,,' poslcat="NM">
+9	anexi	VM	<fs af='anu,v,any,any,any,,e_axi,e_axi'>
+10	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+11	awi	JJ	<fs af='awi,avy,,,,,,'>
+12	sAXAraNa	NN	<fs af='sAXAraNaM,n,any,sg,3,,obl,obl'>
+13	viRayaM	NN	<fs af='viRayaM,n,any,sg,3,,0,0'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

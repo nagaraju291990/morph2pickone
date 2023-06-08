@@ -1,0 +1,17 @@
+<Sentence id="1394">
+0	((	SSF
+1	varRaM	NN	<fs af='varRaM,n,any,sg,3,,0,0'>
+2	jallu	NN	<fs af='jallu,n,any,sg,3,,0,0'>|<fs af='jallu,n,any,sg,3,,obl,obl'>
+3	padina	VM	<fs af='padu,v,any,any,any,,ina,ina'>|<fs af='padi,n,any,sg,3,,na,na'>
+4	veVMtane	NST	<fs af='veVMtane,avy,,,,,, '>
+5	heVktAruku	NN	<fs af='heVktAr,n,any,sg,3,,ki,ki'>|<fs af='heVktAru,n,any,sg,3,,ki,ki'>
+6	maro	QF	<fs af='maro,avy,,,,,, '>|<fs af='maru,n,any,sg,3,,0,0_o'>|<fs af='mara,n,any,sg,3,,0,0_o'>
+7	20	QC	<fs af='20,num,,,,,, '>|<fs af='ki,avy,,,,,, '>
+8	kilogrAmula	NN	<fs af='kilogrAm,n,any,pl,3,,obl,obl'>|<fs af='kilogrAmu,n,any,pl,3,,obl,obl'>
+9	nawrajanini	NN	<fs af='nawrajani,n,any,sg,3,,ni,ni'>|<fs af='nawrajani,n,any,sg,3,,ni_agr,ni_agr'>
+10	icce	VM	<fs af='icca,n,any,sg,3,,0,0_e'>|<fs af='ivvu,v,any,any,any,,e,e'>|<fs af='ivvu,v,any,any,any,,i,i_e'>
+11	eVruvunu	NN	<fs af='eVruvu,n,any,sg,3,,ni,ni'>|<fs af='eVruvu,n,any,sg,3,,ni_agr,ni_agr'>
+12	vAdAli	VM	<fs af='vAdu,v,any,any,any,,Ali,Ali'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

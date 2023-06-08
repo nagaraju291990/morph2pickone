@@ -1,0 +1,17 @@
+<Sentence id="9730">			
+0	((	SSF	
+1	paMdi	NN	<fs af='paMdu,v,any,any,any,,i,i'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	paralokAnni	NN	<fs af='paralokaM,n,any,sg,3,,ni,ni'>
+3	guriMce	NN	<fs af='guriMci,avy,,,,,e,e_avy'>
+4	hAhU	NNP	<fs af='hAhU,n,any,sg,3,,0,0'>
+5	:	SYM	<fs af=':,punc,,,,,,'>
+6	mari	RP	<fs af='mari,avy,,,,,,'>
+7	xAnni	PRP	<fs af='axi,pn,fn,sg,3,,nu,nu'>
+8	guriMci	PSP	<fs af='guriMci,avy,,,,,,'>
+9	mIlo	PRP	<fs af='mIru,pn,any,pl,2,,lo,lo'>
+10	SAswrAlu	NN	<fs af='SAswraM,n,any,pl,3,,0,0'>
+11	levA	VM	<fs af='leva,n,any,sg,3,,0,0_A'>'>
+12	?	SYM	<fs af='?,punc,,,,,,'>
+))	<'>
+</Sentence>			

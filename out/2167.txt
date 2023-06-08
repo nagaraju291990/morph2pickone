@@ -1,0 +1,8 @@
+<Sentence id="2167">
+0	((	SSF
+1	kurupulu	NN	<fs af='kurupu,n,any,pl,3,,0,0'>|<fs af='kurupu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='kurupi,n,any,pl,3,,0,0'>
+2	mAdi	VM	<fs af='mAdu,v,any,any,any,,i,i'>|<fs af='mAdu,n,any,sg,3,,obl,obl'>
+3	powAyi	VAUX	<fs af='po,v,n,pl,3,,wA,wA'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

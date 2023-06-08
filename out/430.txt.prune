@@ -1,0 +1,10 @@
+<Sentence id="430">
+0	((	SSF	
+1	bayatiki	NST	<fs af='bayata,adv,any,any,any,,ku_adv,ku_adv'>
+2	pilucuko	VM	<fs af='piluvu,v,any,any,any,,koVn,koVn'>
+2	rA	VM	<fs af='vaccu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='vaccu,v,any,any,any,,an,an'>
+3	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+4	aricAru	VM	<fs af='aruvu,v,any,pl,2,,A,A'>|<fs af='aruvu,v,mf,pl,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

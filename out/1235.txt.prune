@@ -1,0 +1,21 @@
+<Sentence id="1235">
+0	((	SSF	
+1	oVkasAri	NN	<fs af='oVkasAri,n,any,sg,3,,0,0'>|<fs af='oVkasAri,n,any,sg,3,,obl,obl'>
+2	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+3	sUxi	NN	<fs af='sUxi,n,any,sg,3,,0,0'>|<fs af='sUxi,n,any,sg,3,,obl,obl'>
+4	iswe	VM	<fs af='ivvu,v,any,any,any,,we,we'>
+5	jIviwAMwaM	NN	<fs af='jIviwAMwaM,n,any,sg,3,,0,0'>
+6	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+7	jabbu	NN	<fs af='jabbu,n,any,sg,3,,0,0'>|<fs af='jabbu,n,any,sg,3,,obl,obl'>
+8	rAxu	VM	<fs af='vaccu,v,fn,sg,3,,a,a'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	Aru	NN	<fs af='Aru,n,any,sg,3,,0,0'>|<fs af='Aru,n,any,sg,3,,obl,obl'>
+10	vArAla	NN	<fs af='vArA,n,any,pl,3,,obl,obl'>|<fs af='vAraM,n,any,pl,3,,obl,obl'>
+11	vayasulo	NN	<fs af='vayasu,n,any,sg,3,,lo,lo'>|<fs af='vayasu,n,any,pl,3,,0,0_o'>
+12	poliyocukkalu	NN	<fs af='poliyocukka,n,any,pl,3,,0,0'>|<fs af='poliyocukka,n,any,pl,3,,vu_agr,vu_agr'>
+13	veswe	VM	<fs af='veVyyi,v,any,any,any,,we,we'>
+14	poliyo	NN	<fs af='poliyo,n,,sg,,,0,0'>|<fs af='poliyo,n,,sg,,,obl,obl'>
+15	rAxu	VM	<fs af='vaccu,v,fn,sg,3,,a,a'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

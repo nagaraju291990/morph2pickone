@@ -1,0 +1,20 @@
+<Sentence id="4264">
+0	((	SSF
+1	EnA	CC	<fs af='EnA,avy,,,,,, '>
+2	dabbunnavAdu	NN	<fs af='dab,n,,sg,,,ina_vAdu,ina_vAdu_0' deri_cat='pn'>
+3	peVlYli	NN	<fs af='peVlYli,n,any,sg,3,,0,0'>|<fs af='peVlYli,n,any,sg,3,,obl,obl'>
+4	cesukovAligA	NN	<fs af='cesukovAligA,unk,,,,,,'>
+5	!	SYM	<fs af='!,punc,,,,,, '>
+6	'	SYM	<fs af='',punc,,,,,, '>
+7	e	WQ	<fs af='e,avy,,,,,, '>|<fs af='e,adj,any,any,any,,0_adj,0_adj'>
+8	xoVrabAbo	NN	<fs af='xoVrabAbu,n,any,sg,3,,0,0_o'>
+9	kori	VM	<fs af='koru,v,any,any,any,,i,i'>
+9	kori	VM	<fs af='koru,v,any,any,any,,i,i'>
+10	nannu	PRP	<fs af='nenu,pn,any,sg,1,,ni,ni'>
+11	cesukuMtAdu	VM	<fs af='ceVyyi,v,m,sg,3,,koVn_wA,koVn_wA'>
+12	'	SYM	<fs af='',punc,,,,,, '>
+13	anukoVnexi	VM	<fs af='anuko,v,,sg,,,e_axi,e_axi_0' deri_cat='pn'>
+14	reNuka	NNP	<fs af='reNuka,n,any,sg,3,,0,0'>|<fs af='reNuka,n,any,sg,3,,obl,obl'>
+15	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

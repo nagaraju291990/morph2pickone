@@ -1,0 +1,13 @@
+<Sentence id="6143">			
+0	((	SSF	
+1	AMXrapraxeS	NNP	<fs af='AMXrapraxeS,n,any,sg,3,,0,0'>|<fs af='AMXrapraxeS,n,any,sg,3,,obl,obl'>
+2	lo	PSP	<fs af='lo,avy,,,,,,' poslcat="NM">
+3	laBiMce	VM	<fs af='laBiMcu,v,any,any,any,,e,e'>|<fs af='laBiMcu,v,any,any,any,,i,i_e'>
+4	KanijAlu	NN	<fs af='KanijaM,n,any,pl,3,,0,0'>|<fs af='KanijaM,n,any,pl,3,,vu_agr,vu_agr'>
+5	iwara	JJ	<fs af='iwara,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='iwara,n,any,sg,3,,obl,obl' poslcat="NM">'>
+6	vanarulawo	NN	<fs af='vanaru,n,any,pl,3,,wo,wo'>
+7	ixi	PRP	<fs af='ixi,pn,fn,sg,3,,0,0'>
+8	sAXyapaduwoMxi	VM	<fs af='sAXyapadu,v,fn,sg,3,,wunn,wunn'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

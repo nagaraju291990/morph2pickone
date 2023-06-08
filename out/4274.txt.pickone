@@ -1,0 +1,12 @@
+<Sentence id="4274">			
+0	((	SSF	
+1	AmeV	PRP	<fs af='AmeV,pn,f,sg,3,,0,0'>
+2	ASa	NN	<fs af='ASa,n,any,sg,3,,0,0'>
+3	padina	VM	<fs af='padu,v,any,any,any,,ina,ina'>
+4	vAtilo	PRP	<fs af='axi,pn,fn,pl,3,,lo,lo'>
+5	oVkkati	NN	<fs af='oVkkati,n,,sg,,,0,0'>
+5	EnA	NN	<fs af='EnA,avy,,,,,,'>
+6	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

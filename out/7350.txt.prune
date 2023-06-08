@@ -1,0 +1,17 @@
+<Sentence id="7350">
+0	((	SSF	
+1	xUda	NN	<fs af='xUda,n,any,sg,3,,0,0'>|<fs af='xUda,n,any,sg,3,,obl,obl'>
+2	lekuMdA	VM	<fs af='gala,v,any,any,any,,akuMdA,akuMdA'>|<fs af='lekuMdu,v,any,any,any,,i,i_A'>
+3	pAlu	NN	<fs af='paM,n,any,pl,3,,0,0'>|<fs af='paM,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAlu,n,any,sg,3,,0,0'>|<fs af='pAlu,n,any,sg,3,,0,0_A'>|<fs af='pAlu,n,any,sg,3,,obl,obl'>|<fs af='pAlu,n,any,sg,3,,vu_agr,vu_agr'>
+4	eVlA	WQ	<fs af='eVlA,avy,,,,,,'>
+5	piMdukuMtAvu	NN	<fs af='piMdu,n,,sg,2,,koVn_wA,koVn_wA' deri_cat=v>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	xUdanu	NN	<fs af='xUda,n,any,sg,3,,ni,ni'>|<fs af='xUda,n,any,sg,3,,ni_agr,ni_agr'>
+8	kUdA	PSP	<fs af='kUdA,avy,,,,,,' poslcat="NM">|<fs af='kUdu,v,any,any,any,,i,i_A' poslcat="NM">|<fs af='kUdu,n,any,sg,3,,0,0_A' poslcat="NM">
+9	wIsukoVnipo	VM	<fs af='wIsuko,v,any,any,any,,i_po,i_po'>|<fs af='wIsuko,v,any,any,any,,i_po,i_po'>
+10	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+11	rAmaliMgadu	NNP	<fs af='rAmaliMgadu,n,any,sg,3,,0,0'>
+12	ceVppAdu	VM	<fs af='ceVppu,v,m,sg,3,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,22 @@
+<Sentence id="8747">
+0	((	SSF
+1	ikkada	NST	<fs af='ikkada,adv,any,any,any,,0_adv,0_adv'>
+2	itlA	RB	<fs af='itlA,avy,,,,,, '>
+3	uMdagA	VM	<fs af='uMdu,v,any,any,any,,a_gA,a_gA'>|<fs af='uMda,n,any,sg,3,,gA,gA'>
+4	zoo	NN	<fs af='zoo,n,any,sg,3,,0,0'>|<fs af='zoo,n,any,sg,3,,obl,obl'>
+5	(	SYM	<fs af='(,punc,,,,,, '>
+6	jaMwupraxarSanaSAla	NN	<fs af='jaMwupraxarSanaSAla,n,any,sg,3,,0,0'>|<fs af='jaMwupraxarSanaSAla,n,any,sg,3,,obl,obl'>
+7	)	SYM	<fs af='),punc,,,,,, '>
+8	aXikAri	NN	<fs af='aXikAri,n,any,sg,3,,0,0'>|<fs af='aXikAri,n,any,sg,3,,obl,obl'>
+9	I	DEM	<fs af='I,avy,,,,,, '>
+10	mqgAnni	NN	<fs af='mqgaM,n,any,sg,3,,ni,ni'>|<fs af='mqgaM,n,any,sg,3,,ni_agr,ni_agr'>
+11	wana	PRP	<fs af='wAnu,pn,mf,sg,3,,obl,obl'>
+12	zoo	NN	<fs af='zoo,n,any,sg,3,,0,0'>|<fs af='zoo,n,any,sg,3,,obl,obl'>
+13	ku	NN	<fs af='k,n,,sg,,,0,0'>|<fs af='k,n,,sg,,,obl,obl'>
+14	paMpiMcAlani	VM	<fs af='paMpiMcu,v,any,any,any,,Ali_ani,Ali_ani'>
+15	meyaruku	NN	<fs af='meyar,n,any,sg,3,,ki,ki'>|<fs af='meyaru,n,any,sg,3,,ki,ki'>
+16	arjI	NN	<fs af='arjI,n,,sg,,,0,0'>|<fs af='arjI,n,,sg,,,obl,obl'>
+17	peVttAdu	VM	<fs af='peVttu,v,m,sg,3,,A,A'>
+18	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

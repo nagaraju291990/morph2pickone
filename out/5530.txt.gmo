@@ -1,0 +1,12 @@
+<Sentence id="5530">			
+0	((	SSF	
+1	iMtiki	NN	<fs af='illu,n,any,sg,3,,ki,ki'>
+2	poxAM	VM	<fs af='po,v,any,pl,2,,xA,xA'>|<fs af='po,v,any,pl,1,,xA,xA'>
+3	rA	VM	<fs af='vaccu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='vaccu,v,any,any,any,,an,an'>
+4	!	SYM	<fs af='!,punc,,,,,,'>
+5	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+6	gattigA	RB	<fs af='gatti,adj,any,any,any,,gA_adj,gA_adj' poslcat="NM">
+7	kasirAdu	VM	<fs af='kasuru,v,m,sg,3,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

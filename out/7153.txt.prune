@@ -1,0 +1,7 @@
+<Sentence id="7153">
+0	((	SSF	
+1	nadaka	NN	<fs af='nadaka,n,any,sg,3,,0,0'>|<fs af='nadaka,n,any,sg,3,,obl,obl'>
+2	vacciMxi	VM	<fs af='vaccu,v,fn,sg,3,,A,A'>
+3	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

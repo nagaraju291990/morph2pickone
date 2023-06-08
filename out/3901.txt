@@ -1,0 +1,10 @@
+<Sentence id="3901">
+0	((	SSF
+1	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+2	rojulaku	NN	<fs af='roju,n,any,pl,3,,ki,ki'>
+3	nAku	PRP	<fs af='nenu,pn,any,sg,1,,ki,ki'>|<fs af='nAku,v,any,sg,2,,AjFArWa,AjFArWa'>
+4	gokudu	NN	<fs af='gokudu,n,any,sg,3,,0,0'>
+5	leciMxi	VM	<fs af='le,v,fn,sg,3,,A,A'>|<fs af='lecu,v,fn,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

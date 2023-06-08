@@ -1,0 +1,18 @@
+<Sentence id="6721">			
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	"	SYM	<fs af='",punc,,,,,,'>
+3	plAstar	NN	<fs af='plAstar,n,any,sg,3,,0,0'>|<fs af='plAstar,n,any,sg,3,,obl,obl'>
+4	Arina	VM	<fs af='Aru,v,any,any,any,,ina,ina'>
+5	waruvAwa	NST	<fs af='waruvAwa,avy,,,,,,' poslcat="NM">
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	plAstar_lo	NN	<fs af='plAstar_lo,unk,,,,,,' poslcat="NM">
+8	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+9	kAlYlU	NN	<fs af='kAlu,n,any,pl,3,,0,0_V'>|<fs af='kAlu,n,any,pl,3,,I,I'>
+10	leka	CC	<fs af='gala,v,any,any,any,,aka,aka' poslcat="NM">
+11	cewivelYlu	NN	<fs af='cewivelu,n,any,pl,3,,0,0'>|<fs af='cewivelu,n,any,pl,3,,vu_agr,vu_agr'>
+12	kaxapa	VM	<fs af='kaxupu,v,any,any,any,,an,an'>
+12	galagAli	VM	<fs af='galugu,v,any,any,any,,Ali,Ali'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

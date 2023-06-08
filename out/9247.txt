@@ -1,0 +1,9 @@
+<Sentence id="9247">
+0	((	SSF
+1	vAti	PRP	<fs af='axi,pn,fn,pl,3,,obl,obl'>
+2	reVMtilonU	QF	<fs af='reVMti,n,any,sg,3,,lo,lo_V'>
+3	kaxalika	NN	<fs af='kaxalika,n,any,sg,3,,0,0'>|<fs af='kaxalika,n,any,sg,3,,obl,obl'>
+4	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

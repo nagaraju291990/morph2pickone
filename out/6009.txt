@@ -1,0 +1,10 @@
+<Sentence id="6009">
+0	((	SSF
+1	!	SYM	<fs af='!,punc,,,,,, '>
+2	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+3	boVmma	NN	<fs af='boVmma,n,any,sg,3,,0,0'>|<fs af='boVmma,n,any,sg,3,,obl,obl'>
+4	AkA	NN	<fs af='Aku,n,any,sg,3,,0,0_A'>|<fs af='AkeV,n,any,sg,3,,0,0_A'>
+5	!	SYM	<fs af='!,punc,,,,,, '>
+6	?	SYM	<fs af='?,punc,,,,,, '>
+))
+</Sentence>

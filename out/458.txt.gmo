@@ -1,0 +1,9 @@
+<Sentence id="458">			
+0	((	SSF	
+1	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+2	saMcilo	NN	<fs af='saMci,n,any,sg,3,,lo,lo'>
+3	poVgAku	NN	<fs af='poVgAku,n,any,sg,3,,0,0'>|<fs af='poVgAku,n,any,sg,3,,obl,obl'>
+4	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

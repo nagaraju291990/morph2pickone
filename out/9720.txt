@@ -1,0 +1,21 @@
+<Sentence id="9720">
+0	((	SSF
+1	vAlYla	PRP	<fs af='vAlYlu,pn,mf,pl,3,,obl,obl'>
+2	svaBAvaM	NN	<fs af='svaBAvaM,n,any,sg,3,,0,0'>
+3	cewa	PSP	<fs af='cewa,avy,,,,,, '>
+4	xAnini	PRP	<fs af='axi,pn,fn,sg,3,,nu,nu'>|<fs af='axi,pn,fn,sg,3,,ni,ni'>
+5	viSvasiMca	VM	<fs af='viSvasiMcu,v,any,any,any,,an,an'>
+6	kaliginaMwa	VM	<fs af='kalugu,v,any,any,any,,ina_aMwa,ina_aMwa'>
+7	Sakwi	NN	<fs af='Sakwi,n,any,sg,3,,0,0'>|<fs af='Sakwi,n,any,sg,3,,obl,obl'>
+8	mAwraM	PSP	<fs af='mAwraM,avy,,,,,, '>
+9	vAlYlaki	PRP	<fs af='vAlYlu,pn,mf,pl,3,,ki,ki'>
+10	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A'>
+11	kanuka	RP	<fs af='kanuka,avy,,,,,, '>|<fs af='kanuka,adj,any,any,any,,0_adj,0_adj'>
+12	cinna	JJ	<fs af='cinna,adj,any,any,any,,0_adj,0_adj'>
+13	cepa	NN	<fs af='cepu,v,any,any,any,,an,an'>|<fs af='cepa,n,any,sg,3,,0,0'>|<fs af='cepa,n,any,sg,3,,obl,obl'>
+14	cinna	JJ	<fs af='cinna,adj,any,any,any,,0_adj,0_adj'>
+15	ceVruvulo	NN	<fs af='ceVruvu,n,any,sg,3,,lo,lo'>|<fs af='ceVruvu,n,any,pl,3,,0,0_o'>
+16	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A'>
+17	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

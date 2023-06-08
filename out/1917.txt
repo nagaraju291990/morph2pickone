@@ -1,0 +1,10 @@
+<Sentence id="1917">
+0	((	SSF
+1	A	DEM	<fs af='A,avy,,,,,, '>
+2	lopala	NST	<fs af='lopala,adv,any,any,any,,0_adv,0_adv'>
+3	kaMdaktaru	NN	<fs af='kaMdaktar,n,any,sg,3,,0,0'>|<fs af='kaMdaktar,n,any,sg,3,,obl,obl'>|<fs af='kaMdaktaru,n,any,sg,3,,0,0'>|<fs af='kaMdaktaru,n,any,sg,3,,obl,obl'>
+4	tikeVttu	NN	<fs af='tikeVttu,n,any,sg,3,,0,0'>|<fs af='tikeVttu,n,any,sg,3,,obl,obl'>
+5	adigAdu	VM	<fs af='adugu,v,m,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

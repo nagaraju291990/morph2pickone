@@ -1,0 +1,9 @@
+<Sentence id="4354">
+0	((	SSF
+1	veVMtane	NST	<fs af='veVMtane,avy,,,,,, '>
+2	lopali	NST	<fs af='lopala,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+3	gaxiloki	NN	<fs af='gaxi,n,any,sg,3,,lopalaki,lopalaki'>
+4	veVlYliMxi	VM	<fs af='veVlYlu,v,fn,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,17 @@
+<Sentence id="2123">
+0	((	SSF
+1	aMte	UT	<fs af='aMte,avy,,,,,, '>|<fs af='anu,v,any,any,any,,we,we'>|<fs af='aMtu,v,any,any,any,,e,e'>|<fs af='aMtu,v,any,any,any,,i,i_e'>|<fs af='aMtu,n,any,sg,3,,0,0_e'>
+2	weVlivigA	RB	<fs af='weVlivi,n,any,sg,3,,gA,gA'>
+3	eVxuti	NST	<fs af='eVxuta,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+4	vyakwi	NN	<fs af='vyakwi,n,any,sg,3,,0,0'>|<fs af='vyakwi,n,any,sg,3,,obl,obl'>
+5	kannu	NN	<fs af='kannu,n,any,sg,3,,0,0'>|<fs af='kannu,n,any,sg,3,,obl,obl'>
+6	gappi	VM	<fs af='gappi,n,any,sg,3,,0,0'>|<fs af='gappi,n,any,sg,3,,obl,obl'>
+7	haswalAGavaM	NN	<fs af='haswalAGavaM,n,any,sg,3,,0,0'>
+8	cUpiMca	VM	<fs af='cUpiMcu,v,any,any,any,,an,an'>
+8	galigina	VM	<fs af='galugu,v,any,any,any,,ina,ina'>
+9	nerpu	NN	<fs af='nerpu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='nerpu,n,any,sg,3,,0,0'>|<fs af='nerpu,n,any,sg,3,,obl,obl'>
+10	vArilo	PRP	<fs af='vAru,pn,mf,pl,3,,lo,lo'>
+11	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

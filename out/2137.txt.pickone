@@ -1,0 +1,26 @@
+<Sentence id="2137">			
+0	((	SSF	
+1	munaga	NN	<fs af='munaga,n,any,sg,3,,0,0'>
+2	,	SYM	<fs af=',,punc,,,,,,'>
+3	karivepAku	NN	<fs af='karivepAku,n,any,sg,3,,0,0'>
+4	,	SYM	<fs af=',,punc,,,,,,'>
+5	sIwAPalaM	NN	<fs af='sIwAPalaM,n,any,sg,3,,0,0'>
+6	,	SYM	<fs af=',,punc,,,,,,'>
+7	jAma	NN	<fs af='jAma,n,any,sg,3,,0,0'>
+8	aMxarU	PRP	<fs af='aMxaru,pn,mf,pl,3,,0,0_V'>
+9	peVMcagalavi	PRP	<fs af='peVMcua_gala,pn,,pl,,,gala_axi,gala_axi_0'>
+10	,	SYM	<fs af=',,punc,,,,,,'>
+11	vItini	PRP	<fs af='ixi,pn,fn,pl,3,,ni,ni'>
+12	vese	VM	<fs af='veVyyi,v,any,any,any,,e,e'>
+13	muMxu	NST	<fs af='muMxu,adv,any,any,any,,0_adv,0_adv'>
+14	maMci	JJ	<fs af='maMci,adj,any,any,any,,0_adj,0_adj'>
+15	jAwi	NN	<fs af='jAwi,n,any,sg,3,,0,0'>
+16	moVkkalu	NN	<fs af='moVkka,n,any,pl,3,,0,0'>
+17	eVMcukovAli	VM	<fs af='eVMcu,v,any,any,any,,koVn_Ali,koVn_Ali'>
+18	arati	NN	<fs af='arati,n,any,sg,3,,0,0'>
+19	kUdA	PSP	<fs af='kUdA,avy,,,,,,'>'>
+20	sulaBaMgA	RB	<fs af='sulaBaM,n,any,sg,3,,gA,gA'>
+21	bawukuwuMxi	VM	<fs af='bawuku,v,fn,sg,3,,wA,wA'>
+22	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

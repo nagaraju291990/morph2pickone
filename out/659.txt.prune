@@ -1,0 +1,19 @@
+<Sentence id="659">
+0	((	SSF	
+1	ivi	PRP	<fs af='ixi,pn,fn,pl,3,,0,0'>
+2	kAka	CC	<fs af='kAka,avy,,,,,,'>
+3	AkukUrallo	NN	<fs af='AkukUra,n,any,pl,3,,lo,lo'>
+4	puxInA	NN	<fs af='puxInA,n,any,sg,3,,0,0'>|<fs af='puxInA,n,any,sg,3,,obl,obl'>
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	cema	NN	<fs af='cema,n,,sg,,,0,0'>|<fs af='cema,n,,sg,,,obl,obl'>
+6	kUra	VM	<fs af='kUru,v,any,any,any,,an,an'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	karivepAku	NN	<fs af='karivepAku,n,any,sg,3,,0,0'>|<fs af='karivepAku,n,any,sg,3,,obl,obl'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	munagAku	NN	<fs af='munagAku,n,any,sg,3,,0,0'>|<fs af='munagAku,n,any,sg,3,,obl,obl'>
+11	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+12	koVwwimIra	NN	<fs af='koVwwimIra,n,any,sg,3,,0,0'>|<fs af='koVwwimIra,n,any,sg,3,,obl,obl'>
+13	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

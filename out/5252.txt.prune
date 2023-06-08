@@ -1,0 +1,8 @@
+<Sentence id="5252">
+0	((	SSF	
+1	nAkU	PRP	<fs af='nenu,pn,any,sg,1,,ki,ki_V'>
+2	caxuvukovAlani	VM	<fs af='caxuvu,v,any,any,any,,koVn_Ali_ani,koVn_Ali_ani'>
+3	uMdexi	VAUX	<fs af='uMdu,v,any,any,any,,e_axi,e_axi' poslcat="NM">|<fs af='uMdexi,pn,any,sg,3,,0,0' poslcat="NM">
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

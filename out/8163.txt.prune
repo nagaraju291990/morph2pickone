@@ -1,0 +1,10 @@
+<Sentence id="8163">
+0	((	SSF	
+1	InagAne	VM	<fs af='Inu,v,any,any,any,,a_gAne,a_gAne'>
+2	pEni	NST	<fs af='pEni,avy,,,,,,' poslcat="NM">
+3	jiguru	NN	<fs af='jiguru,n,any,sg,3,,0,0'>|<fs af='jiguru,n,any,sg,3,,obl,obl'>
+4	paxArWaM	NN	<fs af='paxi,n,any,sg,3,,kosaM,kosaM'>|<fs af='paxaM,n,any,sg,3,,kosaM,kosaM'>|<fs af='paxArWaM,n,any,sg,3,,0,0'>
+5	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

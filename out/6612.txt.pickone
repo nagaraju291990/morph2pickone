@@ -1,0 +1,20 @@
+<Sentence id="6612">			
+0	((	SSF	
+1	SarIraM	NN	<fs af='SarIraM,n,any,sg,3,,0,0'>
+2	loni	PSP	<fs af='loni,avy,,,,,,'>'>
+3	mare	RP	<fs af='mare,avy,,,,,,'>
+4	BAgaMwo	NN	<fs af='BAgaM,n,any,sg,3,,wo,wo'>
+4	EnA	NN	<fs af='EnA,avy,,,,,,'>
+5	,	SYM	<fs af=',,punc,,,,,,'>
+6	virigina	VM	<fs af='virugu,v,any,any,any,,ina,ina'>
+7	eVmukaku	NN	<fs af='eVmuka,n,any,sg,3,,ki,ki'>
+8	kalipi	VM	<fs af='kalupu,v,any,any,any,,i,i'>
+9	kattinaMxuvalla	VM	<fs af='kattu,v,any,any,any,,ina_aMxuvalla,ina_aMxuvalla'>
+10	kUdA	PSP	<fs af='kUdA,avy,,,,,,'>'>
+11	I	DEM	<fs af='I,avy,,,,,,'>
+12	rakamEna	JJ	<fs af='rakaM,n,any,sg,3,,Ena,Ena'>
+13	AlaMbana	NN	<fs af='AlaMbanaM,n,any,sg,3,,obl,obl'>
+14	laBiswuMxi	VM	<fs af='laBiMcu,v,fn,sg,3,,wA,wA'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

@@ -1,0 +1,17 @@
+<Sentence id="330">
+0	((	SSF
+1	sarEna	JJ	<fs af='sarEna,n,any,sg,3,,0,0'>|<fs af='sarEna,n,any,sg,3,,obl,obl'>
+2	AhAraM	NN	<fs af='AhAraM,n,any,sg,3,,0,0'>
+3	lekapowe	VM	<fs af='gala,v,any,any,any,,akapowe,akapowe'>|<fs af='lekapo,v,any,any,any,,we,we'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	jAgrawwa	NN	<fs af='jAgrawwa,n,any,sg,3,,0,0'>|<fs af='jAgrawwa,n,any,sg,3,,obl,obl'>
+6	padakapowe	VM	<fs af='padu,v,any,any,any,,akapowe,akapowe'>|<fs af='padakapo,v,any,any,any,,we,we'>
+7	e	WQ	<fs af='e,avy,,,,,, '>|<fs af='e,adj,any,any,any,,0_adj,0_adj'>
+8	jabbu	NN	<fs af='jabbu,n,,sg,,,0,0'>|<fs af='jabbu,n,,sg,,,obl,obl'>
+8	EnA	NN	<fs af='EnA,avy,,,,,,'>
+9	prANaM	NN	<fs af='prANaM,n,any,sg,3,,0,0'>
+10	mIxiki	NN	<fs af='mIxi,n,any,sg,3,,ki,ki'>
+11	weVswuMxi	VM	<fs af='we,v,fn,sg,3,,wA,wA'>|<fs af='weVswuMdu,v,fn,sg,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

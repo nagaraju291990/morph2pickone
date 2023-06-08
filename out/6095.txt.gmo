@@ -1,0 +1,18 @@
+<Sentence id="6095">			
+0	((	SSF	
+1	200	QC	<fs af='200,num,,,,,,'>
+2	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+3	600	QC	<fs af='600,num,,,,,,'>
+4	saM||ramula	NN	<fs af='saM'>|<fs af=''>
+5	kAlaMlo	NN	<fs af='kAlaM,n,any,sg,3,,lo,lo'>
+6	ikRvAkulu	NNP	<fs af='ikRvAku,n,any,pl,3,,0,0'>|<fs af='ikRvAku,n,any,pl,3,,vu_agr,vu_agr'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	viRNukoVMdInulu	NNP	<fs af='viRNukoVMdInulu,n,any,sg,3,,0,0'>|<fs af='viRNukoVMdInulu,n,any,sg,3,,vu_agr,vu_agr'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	pallavulu	NNP	<fs af='pallavi,n,any,pl,3,,0,0'>|<fs af='pallavudu,n,any,pl,3,,0,0'>
+11	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+12	SAlaMkAyanulu	NNP	<fs af='SAlaMkAyanudu,n,any,pl,3,,0,0'>|<fs af='SAlaMkAyanudu,n,any,pl,3,,vu_agr,vu_agr'>
+13	pAliMcAru	VM	<fs af='pAliMcu,v,any,pl,2,,A,A'>|<fs af='pAliMcu,v,mf,pl,3,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

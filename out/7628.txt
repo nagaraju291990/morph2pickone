@@ -1,0 +1,8 @@
+<Sentence id="7628">
+0	((	SSF
+1	itukalawo	NN	<fs af='ituka,n,any,pl,3,,wo,wo'>
+2	kattina	VM	<fs af='kattu,v,any,any,any,,ina,ina'>
+3	godalu	NN	<fs af='goda,n,any,pl,3,,0,0'>|<fs af='goda,n,any,pl,3,,vu_agr,vu_agr'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

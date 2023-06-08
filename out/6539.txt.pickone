@@ -1,0 +1,19 @@
+<Sentence id="6539">			
+0	((	SSF	
+1	uxAharaNaku	NN	<fs af='uxAharaNa,n,any,sg,3,,ki,ki'>
+2	,	SYM	<fs af=',,punc,,,,,,'>
+3	moceyi	NN	<fs af='moceyi,n,any,sg,3,,0,0'>
+4	,	SYM	<fs af=',,punc,,,,,,'>
+5	mokAlU	NN	<fs af='mokAlu,n,any,sg,3,,0,0_V'>
+6	vagErA	NN	<fs af='vagErA,n,any,sg,3,,0,0'>
+7	,	SYM	<fs af=',,punc,,,,,,'>
+8	kIlYla	NN	<fs af='kIlu,n,any,pl,3,,obl,obl'>
+9	xaggari	NST	<fs af='xaggara,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+10	eVmukalanu	NN	<fs af='eVmuka,n,any,pl,3,,ni,ni'>
+11	wadimiwe	VM	<fs af='wadumu,v,any,any,any,,we,we'>
+12	vIti	PRP	<fs af='ixi,pn,fn,pl,3,,obl,obl'>
+13	unikini	NN	<fs af='uniki,n,any,sg,3,,ni,ni'>
+14	grahiMcavaccu	VM	<fs af='grahiMcu,v,any,any,any,,a_vaccu,a_vaccu'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

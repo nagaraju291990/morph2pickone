@@ -1,0 +1,15 @@
+<Sentence id="2480">			
+0	((	SSF	
+1	AvAlu	NN	<fs af='AvaM,n,any,pl,3,,0,0'>|<fs af='AvaM,n,any,pl,3,,vu_agr,vu_agr'>
+2	paMta	NN	<fs af='paMta,n,any,sg,3,,0,0'>|<fs af='paMta,n,any,sg,3,,obl,obl'>
+3	heVktAruku	NN	<fs af='heVktAr,n,any,sg,3,,ki,ki'>|<fs af='heVktAru,n,any,sg,3,,ki,ki'>
+4	15	QC	<fs af='15,num,,,,,,'>
+5	nuMdi	PSP	<fs af='nuMdi,avy,,,,,,' poslcat="NM">
+6	20	QC	<fs af='20,num,,,,,,'>
+7	kviMtAlYla	NN	<fs af='kviMtAlu,n,any,pl,3,,obl,obl'>
+8	varaku	PSP	<fs af='varaku,avy,,,,,,' poslcat="NM">'>|<fs af='varaku,adv,any,any,any,,0_adv,0_adv' poslcat="NM">'>
+9	xigubadi	NN	<fs af='xigubadi,n,any,sg,3,,0,0'>|<fs af='xigubadi,n,any,sg,3,,obl,obl'>
+10	iswunnaxi	VM	<fs af='ivvu,v,any,any,any,,wunna_axi,wunna_axi'>|<fs af='iswuMdu,v,any,any,any,,ina_axi,ina_axi'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

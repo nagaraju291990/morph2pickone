@@ -1,0 +1,12 @@
+<Sentence id="6105">			
+0	((	SSF	
+1	1000	QC	<fs af='1000,num,,,,,,'>
+2	nuMdi	PSP	<fs af='nuMdi,avy,,,,,,'>
+3	1300	QC	<fs af='1300,num,,,,,,'>
+4	saM
+5	kAlaMlo	NN	<fs af='kAlaM,n,any,sg,3,,lo,lo'>
+6	kAkawIyulu	NNP	<fs af='kAkawIyudu,n,any,pl,3,,0,0'>
+7	pAliMcAru	VM	<fs af='pAliMcu,v,any,pl,2,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

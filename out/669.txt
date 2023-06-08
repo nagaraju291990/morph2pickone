@@ -1,0 +1,9 @@
+<Sentence id="669">
+0	((	SSF
+1	baMkamatti	NN	<fs af='baMkamatti,n,any,sg,3,,0,0'>|<fs af='baMkamatti,n,any,sg,3,,obl,obl'>|<fs af='baMkamatti,n,any,sg,3,,vu_agr,vu_agr'>
+2	nela	NN	<fs af='nela,n,any,sg,3,,0,0'>|<fs af='nela,n,any,sg,3,,obl,obl'>|<fs af='neVyyi,n,any,pl,3,,obl,obl'>
+3	xIniki	PRP	<fs af='ixi,pn,fn,sg,3,,ki,ki'>
+4	anukUlamu	NN	<fs af='anukUlaM,n,any,sg,3,,0,0'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,14 @@
+<Sentence id="9345">
+0	((	SSF
+1	paMdi	VM	<fs af='paMdu,v,any,any,any,,i,i'>
+2	:	SYM	<fs af=':,punc,,,,,, '>
+3	moVttamoVxata	NST	<fs af='moVttamoVxata,adv,any,any,any,,0_adv,0_adv'>
+4	iMdo	NNP	<fs af='iMdo,n,any,sg,3,,0,0'>|<fs af='iMdo,n,any,sg,3,,obl,obl'>
+5	yUropiyan	NNP	<fs af='yUropiyan,n,any,sg,3,,0,0'>|<fs af='yUropiyan,n,any,sg,3,,obl,obl'>
+6	BARa	NN	<fs af='BARa,n,any,sg,3,,0,0'>|<fs af='BARa,n,any,sg,3,,obl,obl'>
+7	ani	UT	<fs af='ani,avy,,,,,, '>|<fs af='anu,v,any,any,any,,i,i'>
+8	oVkati	QC	<fs af='oVkati,n,any,sg,3,,0,0'>|<fs af='oVkati,n,any,sg,3,,obl,obl'>|<fs af='oVkati,num,any,any,any,,0,0'>
+9	unnaxi	VM	<fs af='uMdu,v,any,any,any,,ina_axi,ina_axi'>|<fs af='uMdu,v,fn,sg,3,,A,A'>|<fs af='unnaxi,pn,any,sg,3,,0,0'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

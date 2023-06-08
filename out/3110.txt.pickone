@@ -1,0 +1,17 @@
+<Sentence id="3110">			
+0	((	SSF	
+1	jElulo	NN	<fs af='jElu,n,,sg,,,lo,lo'>
+2	unnA	VM	<fs af='uMdu,v,any,any,any,,inA,inA'>
+3	,	SYM	<fs af=',,punc,,,,,,'>
+4	mahalulo	NN	<fs af='mahal,n,any,sg,3,,lo,lo'>
+5	unnA	VM	<fs af='uMdu,v,any,any,any,,inA,inA'>
+6	eVppudu	NN	<fs af='eVppudu,n,,sg,,,0,0'>
+6	EnA	NN	<fs af='EnA,avy,,,,,,'>
+7	,	SYM	<fs af=',,punc,,,,,,'>
+8	eVkkadi	NN	<fs af='eVkkadi,avy,,,,,,'>'>
+8	EnA	NN	<fs af='EnA,avy,,,,,,'>
+9	nAwone	PRP	<fs af='nenu,pn,any,sg,1,,wo,wo_e'>
+10	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

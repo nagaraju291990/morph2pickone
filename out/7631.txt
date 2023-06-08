@@ -1,0 +1,10 @@
+<Sentence id="7631">
+0	((	SSF
+1	pEkappu	NN	<fs af='pEkappu,n,any,sg,3,,0,0'>|<fs af='pEkappu,n,any,sg,3,,obl,obl'>
+2	vAlugA	RB	<fs af='vAlu,n,any,sg,3,,gA,gA'>|<fs af='vAlugu,n,any,sg,3,,0,0_A'>|<fs af='vAluga,n,any,sg,3,,0,0_A'>|<fs af='vAluga,n,any,sg,3,,0,0_V'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	eVwwugA	RB	<fs af='eVwwu,adj,any,any,any,,gA_adj,gA_adj'>|<fs af='eVwwu,n,any,sg,3,,gA,gA'>
+5	uMdexi	VM	<fs af='uMdu,v,any,any,any,,e_axi,e_axi'>|<fs af='uMdexi,pn,any,sg,3,,0,0'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

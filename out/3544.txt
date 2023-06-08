@@ -1,0 +1,13 @@
+<Sentence id="3544">
+0	((	SSF
+1	kAni	RP	<fs af='kAni,avy,,,,,, '>|<fs af='avvu,v,any,any,any,,ani,ani'>
+2	A	DEM	<fs af='A,avy,,,,,, '>
+3	vaccina	VM	<fs af='vaccu,v,any,any,any,,ina,ina'>
+4	sAti	JJ	<fs af='sAti,n,any,sg,3,,0,0'>|<fs af='sAti,n,any,sg,3,,obl,obl'>
+5	rogilo	NN	<fs af='rogi,n,any,sg,3,,lo,lo'>
+6	mAwraM	PSP	<fs af='mAwraM,avy,,,,,, '>
+7	kopaM	NN	<fs af='kopaM,n,any,sg,3,,0,0'>
+8	waggalexu	VM	<fs af='waggu,v,any,any,any,,a_lexu,a_lexu'>|<fs af='waggagala,v,fn,sg,3,,a,a'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,12 @@
+<Sentence id="7980">
+0	((	SSF	
+1	vijayagAWa	NN	<fs af='vijayagAWa,n,any,sg,3,,0,0'>|<fs af='vijayagAWa,n,any,sg,3,,obl,obl'>
+2	_	SYM	<'>|<poslcat="NM"'>
+3	kannappa	NNP	<fs af='kannappa,n,any,sg,3,,0,0'>|<fs af='kannappa,n,any,sg,3,,obl,obl'>
+4	kaWa	NN	<fs af='kaWa,n,any,sg,3,,0,0'>|<fs af='kaWa,n,any,sg,3,,obl,obl'>
+5	mana	PRP	<fs af='manaM,pn,any,pl,1,,obl,obl'>
+5	aMxarakU	PRP	<fs af='aMxarakU,unk,,,,,,' poslcat="NM">
+6	weVlusu	VM	<fs af='weVlusu,avy,,,,,,' poslcat="NM">
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

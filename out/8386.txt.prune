@@ -1,0 +1,25 @@
+<Sentence id="8386">
+0	((	SSF	
+1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+2	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>|<fs af='jillA,n,any,sg,3,,0,0'>|<fs af='jillA,n,any,sg,3,,obl,obl'>
+3	14	QC	<fs af='14,num,,,,,,'>
+4	58	QC	<fs af='58,num,,,,,,'>
+5	-	SYM	<'>|<poslcat="NM"'>
+6	16	QC	<fs af='16,num,,,,,,'>
+7	17	QC	<fs af='17,num,,,,,,'>
+8	uwwara	NN	<fs af='uwwaraM,n,any,sg,3,,obl,obl'>
+9	akRAMSa	NN	<fs af='akRAMSaM,n,any,sg,3,,obl,obl'>
+10	reKalaku	NN	<fs af='reKa,n,any,pl,3,,ki,ki'>
+11	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+12	78	QC	<fs af='78,num,,,,,,'>
+13	45	QC	<fs af='45,num,,,,,,'>
+14	-	SYM	<'>|<poslcat="NM"'>
+15	80	QC	<fs af='80,num,,,,,,'>
+16	40	QC	<fs af='40,num,,,,,,'>
+17	wUrpu	NN	<fs af='wUrpu,n,any,sg,3,,0,0'>|<fs af='wUrpu,n,any,sg,3,,obl,obl'>
+18	reKAMSAla	NN	<fs af='reKAMSaM,n,any,pl,3,,obl,obl'>
+19	maXya	NST	<fs af='maXya,n,any,sg,3,,0,0'>|<fs af='maXya,n,any,sg,3,,obl,obl'>|<fs af='maXyaM,n,any,sg,3,,obl,obl'>
+20	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+21	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

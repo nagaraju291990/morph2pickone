@@ -1,0 +1,26 @@
+<Sentence id="8988">			
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	cUdu	VM	<fs af='cUdu,v,,sg,2,,AjFArWa,AjFArWa'>
+2	aMdI	NN	<fs af='aMdI,n,,sg,,,0,0'>
+3	!	SYM	<fs af='!,punc,,,,,,'>
+4	oVkadiki	NN	<fs af='oVkadu,n,any,sg,3,,ki,ki'>
+5	peVxavulu	NN	<fs af='peVxavi,n,any,pl,3,,0,0'>
+6	lAvi	NN	<fs af='lA,adv,,pl,,,0,0'>
+6	Ewe	VM	<fs af='avvu,v,any,any,any,,we,we'>
+7	,	SYM	<fs af=',,punc,,,,,,'>
+8	nAluka	NN	<fs af='nAluka,n,any,sg,3,,0,0'>
+9	koVsa	NN	<fs af='koVsa,n,any,sg,3,,0,0'>
+10	lAvi	NN	<fs af='lA,adv,,pl,,,0,0'>
+10	Ewe	VM	<fs af='avvu,v,any,any,any,,we,we'>
+11	,	SYM	<fs af=',,punc,,,,,,'>
+12	xavadalu	NN	<fs af='xavada,n,any,pl,3,,0,0'>
+13	lAvi	NN	<fs af='lA,adv,,pl,,,0,0'>
+13	Ewe	VM	<fs af='avvu,v,any,any,any,,we,we'>
+14	vAlYlu	PRP	<fs af='vAlYlu,pn,mf,pl,3,,0,0'>
+15	uccAraNa	NN	<fs af='uccAraNa,n,any,sg,3,,0,0'>
+16	muxxugA	RB	<fs af='muxxugA,avy,,,,,,'>'>
+17	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

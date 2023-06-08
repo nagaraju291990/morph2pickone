@@ -1,0 +1,15 @@
+<Sentence id="2548">
+0	((	SSF
+1	melurakAlu	NN	<fs af='melurakaM,n,any,pl,3,,0,0'>|<fs af='melurakaM,n,any,pl,3,,vu_agr,vu_agr'>
+2	aviseV	NN	<fs af='aviyu,v,any,sg,3,,iwi,iwi'>|<fs af='aviyu,v,n,pl,3,,iwi,iwi'>|<fs af='aviseV,n,any,sg,3,,0,0'>|<fs af='aviseV,n,any,sg,3,,obl,obl'>
+3	paMta	NN	<fs af='paMta,n,any,sg,3,,0,0'>|<fs af='paMta,n,any,sg,3,,obl,obl'>
+4	paMdiMcatAniki	VM	<fs af='paMdiMcataM,n,any,sg,3,,ki,ki'>
+5	xAxApu	NN	<fs af='xAxApu,n,any,sg,3,,0,0'>|<fs af='xAxApu,n,any,sg,3,,obl,obl'>
+6	24	QC	<fs af='24,num,,,,,, '>
+7	rakAla	NN	<fs af='rakaM,n,any,pl,3,,obl,obl'>
+8	viwwanAlu	NN	<fs af='viwwanaM,n,any,pl,3,,0,0'>|<fs af='viwwanaM,n,any,pl,3,,vu_agr,vu_agr'>
+9	vAdukalo	NN	<fs af='vAduka,n,any,sg,3,,lo,lo'>|<fs af='vAduka,n,any,pl,3,,0,0_o'>
+10	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

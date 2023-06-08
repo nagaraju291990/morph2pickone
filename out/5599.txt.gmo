@@ -1,0 +1,10 @@
+<Sentence id="5599">			
+0	((	SSF	
+1	vaccina	VM	<fs af='vaccu,v,any,any,any,,ina,ina'>
+2	vedilo	NN	<fs af='vedi,n,any,sg,3,,lo,lo'>
+3	eVkkuvaBAgaM	NN	<fs af='eVkkuvaBAgaM,n,any,sg,3,,0,0'>
+4	gAlilo	NN	<fs af='gAli,n,any,sg,3,,lo,lo'>
+5	kalisipowuMxi	VM	<fs af='kalisipo,v,fn,sg,3,,wA,wA'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

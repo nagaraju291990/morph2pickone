@@ -1,0 +1,21 @@
+<Sentence id="1421">			
+0	((	SSF	
+1	veruveru	NN	<fs af='veruveru,avy,,,,,0,0_avy' poslcat="NM">
+2	raMgulawo	NN	<fs af='raMg,n,any,pl,3,,wo,wo'>|<fs af='raMgu,n,any,pl,3,,wo,wo'>
+3	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+4	cinna	JJ	<fs af='cinna,adj,any,any,any,,0_adj,0_adj'>
+5	purugulu	NN	<fs af='purugu,n,any,pl,3,,0,0'>|<fs af='purugu,n,any,pl,3,,vu_agr,vu_agr'>
+6	vaMxala	QC	<fs af='vaMxa,n,any,pl,3,,obl,obl'>
+7	saMKyalo	NN	<fs af='saMKya,n,any,sg,3,,lo,lo'>|<fs af='saMKya,n,any,pl,3,,0,0_o'>
+8	Aku	NN	<fs af='Aku,n,any,sg,3,,0,0'>|<fs af='Aku,n,any,sg,3,,obl,obl'>
+9	kiMxi	NST	<fs af='kiM,n,any,sg,3,,xi,xi'>
+10	BAgaMlo	NN	<fs af='BAgaM,n,any,sg,3,,lo,lo'>
+11	vaMxala	QC	<fs af='vaMxa,n,any,pl,3,,obl,obl'>
+12	saMKyalo	NN	<fs af='saMKya,n,any,sg,3,,lo,lo'>|<fs af='saMKya,n,any,pl,3,,0,0_o'>
+13	Aku	NN	<fs af='Aku,n,any,sg,3,,0,0'>|<fs af='Aku,n,any,sg,3,,obl,obl'>
+14	kiMxi	NST	<fs af='kiM,n,any,sg,3,,xi,xi'>
+15	BAgaMlo	NN	<fs af='BAgaM,n,any,sg,3,,lo,lo'>
+16	kanabadawAyi	VM	<fs af='kanabadu,v,n,pl,3,,wA,wA'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

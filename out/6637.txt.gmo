@@ -1,0 +1,10 @@
+<Sentence id="6637">			
+0	((	SSF	
+1	ApareRan	NN	<fs af='ApareRan,n,any,sg,3,,0,0'>|<fs af='ApareRan,n,any,sg,3,,obl,obl'>
+2	xvArA	PSP	<fs af='xvArA,avy,,,,,,' poslcat="NM">
+3	xAnni	PRP	<fs af='axi,pn,fn,sg,3,,nu,nu'>|<fs af='axi,pn,fn,sg,3,,ni,ni'>
+4	wirigi	VM	<fs af='wirugu,v,any,any,any,,i,i'>
+5	awikiMcavaccunu	VM	<fs af='awikiMcavaccu,v,any,sg,3,,uxu,uxu'>|<fs af='awikiMcavaccu,v,n,pl,3,,uxu,uxu'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

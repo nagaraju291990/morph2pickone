@@ -1,0 +1,9 @@
+<Sentence id="114">
+0	((	SSF
+1	Ewe	CC	<fs af='avvu,v,any,any,any,,we,we'>
+2	vAlYlakaMte	PRP	<fs af='vAlYlu,pn,mf,pl,3,,kaMteV,kaMteV'>
+3	nene	PRP	<fs af='nenu,pn,any,sg,1,,0,0_e'>
+4	melu	NN	<fs af='me,n,any,pl,3,,0,0'>|<fs af='me,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='melu,n,any,sg,3,,0,0'>|<fs af='menu,n,any,pl,3,,0,0'>|<fs af='menu,n,any,pl,3,,vu_agr,vu_agr'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

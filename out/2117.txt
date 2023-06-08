@@ -1,0 +1,18 @@
+<Sentence id="2117">
+0	((	SSF
+1	SAswrajFalu	NN	<fs af='SAswrajFalu,n,any,sg,3,,0,0'>|<fs af='SAswrajFalu,n,any,sg,3,,vu_agr,vu_agr'>
+2	ceVppina	VM	<fs af='ceVppu,v,any,any,any,,ina,ina'>
+3	xAnni	PRP	<fs af='axi,pn,fn,sg,3,,nu,nu'>|<fs af='axi,pn,fn,sg,3,,ni,ni'>
+4	batti	VM	<fs af='battu,v,any,any,any,,i,i'>
+5	I	DEM	<fs af='I,avy,,,,,, '>
+6	prapaMcaMlo	NN	<fs af='prapaMcaM,n,any,sg,3,,lo,lo'>
+7	eVvaru	WQ	<fs af='eVvaru,pn,mf,pl,3,,0,0'>|<fs af='eVvaru,pn,mf,pl,3,,vu,vu'>
+8	gAnI	RP	<fs af='gAnI,avy,,,,,, '>|<fs af='gaM,n,any,sg,3,,ni,ni_V'>
+9	e	WQ	<fs af='e,avy,,,,,, '>|<fs af='e,adj,any,any,any,,0_adj,0_adj'>
+10	paxArWAnni	NN	<fs af='paxArWaM,n,any,sg,3,,ni,ni'>|<fs af='paxArWaM,n,any,sg,3,,ni_agr,ni_agr'>
+11	gAnI	RP	<fs af='gAnI,avy,,,,,, '>|<fs af='gaM,n,any,sg,3,,ni,ni_V'>
+12	sqRtiMcaleru	VM	<fs af='sqRtiMcagala,v,any,pl,2,,a,a'>|<fs af='sqRtiMcagala,v,mf,pl,3,,a,a'>
+13	kaxA	RP	<fs af='kaxA,avy,,,,,, '>
+14	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

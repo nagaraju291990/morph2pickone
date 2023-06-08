@@ -1,0 +1,18 @@
+<Sentence id="3622">
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	nI	PRP	<fs af='nIvu,pn,any,sg,2,,obl,obl'>
+3	vaMSa	NN	<fs af='vaMSaM,n,any,sg,3,,obl,obl'>
+4	cariwralo	NN	<fs af='cariwra,n,any,sg,3,,lo,lo'>|<fs af='cariwra,n,any,pl,3,,0,0_o'>
+5	iMwa	QF	<fs af='iMwa,n,any,sg,3,,0,0'>|<fs af='iMwa,n,any,sg,3,,obl,obl'>
+6	kalYaMkaM	NN	<fs af='kalYaMkaM,n,any,sg,3,,0,0'>
+7	peVttukuni	VM	<fs af='peVttuko,v,any,any,any,,i,i'>
+8	e	WQ	<fs af='e,avy,,,,,,'>
+9	muKaMwo	NN	<fs af='muKaM,n,any,sg,3,,wo,wo'>
+10	nuvvu	PRP	<fs af='nIvu,pn,any,sg,2,,0,0'>
+11	wirigi	VM	<fs af='wirugu,v,any,any,any,,i,i'>
+12	grAmAniki	NN	<fs af='grAmaM,n,any,sg,3,,ki,ki'>
+13	veVlYlagalavu	VM	<fs af='veVlYlagala,v,any,sg,2,,wA,wA'>|<fs af='veVlYlagala,v,any,sg,2,,A,A'>|<fs af='veVlYlagala,v,n,pl,3,,wA,wA'>
+14	?	SYM	<fs af='?,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

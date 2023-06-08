@@ -1,0 +1,16 @@
+<Sentence id="6124">
+0	((	SSF
+1	1948	QC	<fs af='1948,num,,,,,, '>
+2	lo	PSP	<fs af='lo,avy,,,,,, '>
+3	BArawa	NNP	<fs af='BArawaM,n,any,sg,3,,obl,obl'>
+4	sEnyaM	NN	<fs af='sEnyaM,n,any,sg,3,,0,0'>
+5	nEjAMlo	NN	<fs af='nEjAM,n,,sg,,,lo,lo'>
+6	praveSiMci	VM	<fs af='praveSiMcu,v,any,any,any,,i,i'>
+7	nEjAMnu	NN	<fs af='nEjAM,n,,sg,,,nu,nu'>|<fs af='nEjAM,n,,sg,,,ni,ni'>
+8	BAraw	NNP	<fs af='BAraw,n,any,sg,3,,0,0'>|<fs af='BAraw,n,any,sg,3,,obl,obl'>
+9	lo	PSP	<fs af='lo,avy,,,,,, '>
+10	BAgaM	NN	<fs af='BAgaM,n,any,sg,3,,0,0'>
+11	cesAyi	VM	<fs af='ceVyyi,v,n,pl,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,18 @@
+<Sentence id="1555">
+0	((	SSF
+1	AmeVnu	VM	<fs af='AmeV,pn,f,sg,3,,ni,ni'>
+1	adigiwe	VM	<fs af='adugu,v,any,any,any,,we,we'>
+2	'	SYM	<fs af='',punc,,,,,, '>
+3	kadupu	NN	<fs af='kadupu,n,any,sg,3,,0,0'>|<fs af='kadupu,n,any,sg,3,,obl,obl'>
+4	wIyiMcukovaccu	VM	<fs af='wIyiMcu,v,any,any,any,,koVn_a_vaccu,koVn_a_vaccu'>|<fs af='wIyiMcu,v,any,any,any,,koVn_a_vaccu,koVn_a_vaccu'>|<fs af='wIyiMcu,v,any,any,any,,koVn_a_vaccu,koVn_a_vaccu'>
+4	gaxA	VM	<fs af='gaxi,n,any,sg,3,,0,0_A'>|<fs af='gaxA,n,any,sg,3,,0,0'>|<fs af='gaxA,n,any,sg,3,,obl,obl'>|<fs af='gaxeV,n,any,sg,3,,0,0_A'>
+5	'	SYM	<fs af='',punc,,,,,, '>
+6	aMxi	VM	<fs af='anu,v,fn,sg,3,,A,A'>
+7	wIyiMcukovaccu	VM	<fs af='wIyiMcu,v,any,any,any,,koVn_a_vaccu,koVn_a_vaccu'>|<fs af='wIyiMcu,v,any,any,any,,koVn_a_vaccu,koVn_a_vaccu'>|<fs af='wIyiMcu,v,any,any,any,,koVn_a_vaccu,koVn_a_vaccu'>
+8	gAnI	CC	<fs af='gAnI,avy,,,,,, '>|<fs af='gaM,n,any,sg,3,,ni,ni_V'>
+9	mUdu	QC	<fs af='mUdu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='mUdu,n,any,sg,3,,0,0'>|<fs af='mUdu,n,any,sg,3,,obl,obl'>|<fs af='mUdu,num,any,any,any,,0,0'>
+10	saMgawulu	NN	<fs af='saMgawi,n,any,pl,3,,0,0'>
+11	maricipokUdaxu	VM	<fs af='maricipo,v,any,any,any,,a_kUdaxu,a_kUdaxu'>|<fs af='maricipokUdu,v,fn,sg,3,,a,a'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

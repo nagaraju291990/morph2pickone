@@ -1,0 +1,26 @@
+<Sentence id="4647">
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	wrimUrwulu	NNP	<fs af='wrimUrwi,n,any,pl,3,,0,0'>
+3	"	SYM	<fs af='",punc,,,,,,'>
+4	_	SYM	<'>|<poslcat="NM"'>
+5	_	SYM	<'>|<poslcat="NM"'>
+6	_	SYM	<'>|<poslcat="NM"'>
+7	_	SYM	<'>|<poslcat="NM"'>
+8	_	SYM	<'>|<poslcat="NM"'>
+9	_	SYM	<'>|<poslcat="NM"'>
+10	_	SYM	<'>|<poslcat="NM"'>
+11	_	SYM	<'>|<poslcat="NM"'>
+12	_	SYM	<'>|<poslcat="NM"'>
+13	_	SYM	<'>|<poslcat="NM"'>
+14	_	SYM	<'>|<poslcat="NM"'>
+15	_	SYM	<'>|<poslcat="NM"'>
+16	manaxeSaMlo	NN	<fs af='manaxeSaM,n,any,sg,3,,lo,lo'>
+17	mUdu	QC	<fs af='mUdu,n,any,sg,3,,0,0'>|<fs af='mUdu,n,any,sg,3,,obl,obl'>|<fs af='mUdu,num,any,any,any,,0,0'>
+18	muKyamEna	JJ	<fs af='muKya,adj,any,any,any,,xEna_na_adj,xEna_na_adj'>
+19	cepa	NN	<fs af='cepa,n,any,sg,3,,0,0'>|<fs af='cepa,n,any,sg,3,,obl,obl'>
+19	jAwulu	NN	<fs af='jAwi,n,any,pl,3,,0,0'>
+20	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+21	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

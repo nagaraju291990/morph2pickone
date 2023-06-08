@@ -1,0 +1,28 @@
+<Sentence id="5676">
+0	((	SSF
+1	AMXrapraxeS	NNP	<fs af='AMXrapraxeS,n,any,sg,3,,0,0'>|<fs af='AMXrapraxeS,n,any,sg,3,,obl,obl'>
+2	saMpraxAya	NN	<fs af='saMpraxAyaM,n,,sg,,,obl,obl'>
+2	iwara	NN	<fs af='iwaraM,n,,sg,,,obl,obl'>
+3	iMXana	NN	<fs af='iMXanaM,n,any,sg,3,,obl,obl'>
+4	vanarula	NN	<fs af='vanaru,n,any,pl,3,,obl,obl'>
+5	aBivqxXi	NN	<fs af='aBivqxXi,n,any,sg,3,,0,0'>|<fs af='aBivqxXi,n,any,sg,3,,obl,obl'>
+6	saMsWa	NN	<fs af='saMsWa,n,any,sg,3,,0,0'>|<fs af='saMsWa,n,any,sg,3,,obl,obl'>
+7	,	SYM	<fs af=',,punc,,,,,, '>
+8	10	QC	<fs af='10,num,,,,,, '>
+9	_	SYM
+10	2	QC	<fs af='2,num,,,,,, '>
+11	_	SYM
+12	318	QC	<fs af='318,num,,,,,, '>
+13	eV	NN	<fs af='eV,n,,sg,,,0,0'>|<fs af='eV,n,,sg,,,obl,obl'>
+14	5	QC	<fs af='5,num,,,,,, '>|<fs af='va,avy,,,,,, '>
+15	1	QC	<fs af='1,num,,,,,, '>|<fs af='va,avy,,,,,, '>
+16	,	SYM	<fs af=',,punc,,,,,, '>
+17	iMxirAnagar	NN	<fs af='iMxirAnagar,n,any,sg,3,,0,0'>|<fs af='iMxirAnagar,n,any,sg,3,,obl,obl'>
+18	kAlanI	NN	<fs af='kAlanI,n,,sg,,,0,0'>|<fs af='kAlanI,n,,sg,,,obl,obl'>
+19	,	SYM	<fs af=',,punc,,,,,, '>
+20	hExarAbAx	NNP	<fs af='hExarAbAx,n,any,sg,3,,0,0'>|<fs af='hExarAbAx,n,any,sg,3,,obl,obl'>
+21	_	SYM
+22	500002	QC	<fs af='500002,num,,,,,, '>
+23	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

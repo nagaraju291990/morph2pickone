@@ -1,0 +1,8 @@
+<Sentence id="935">
+0	((	SSF
+1	kopaMgA	RB	<fs af='kopaM,n,any,sg,3,,gA,gA'>
+2	adigAru	VM	<fs af='adugu,v,any,pl,2,,A,A'>|<fs af='adugu,v,mf,pl,3,,A,A'>
+3	polIsulu	NN	<fs af='polIs,n,any,pl,3,,0,0'>|<fs af='polIs,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='polIsu,n,any,pl,3,,0,0'>|<fs af='polIsu,n,any,pl,3,,vu_agr,vu_agr'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

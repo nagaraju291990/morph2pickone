@@ -1,0 +1,11 @@
+<Sentence id="5070">
+0	((	SSF
+1	Ewe	CC	<fs af='avvu,v,any,any,any,,we,we'>
+2	akkada	NST	<fs af='akkada,adv,any,any,any,,0_adv,0_adv'>
+3	nerAlu	NN	<fs af='neraM,n,any,pl,3,,0,0'>|<fs af='neraM,n,any,pl,3,,vu_agr,vu_agr'>
+4	cese	VM	<fs af='ceVyyi,v,any,any,any,,e,e'>|<fs af='ceVyyi,v,any,any,any,,i,i_e'>
+5	peVxxalu	NN	<fs af='peVxxalu,n,any,sg,3,,0,0'>|<fs af='peVxxalu,n,any,sg,3,,vu_agr,vu_agr'>
+6	unnAru	VM	<fs af='uMdu,v,any,pl,2,,A,A'>|<fs af='uMdu,v,mf,pl,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

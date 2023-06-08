@@ -1,0 +1,21 @@
+<Sentence id="2514">			
+0	((	SSF	
+1	kalupu	NN	<fs af='kalupu,n,any,sg,3,,0,0'>
+2	wIyadaM	VM	<fs af='wiyyi,v,any,any,any,,adaM,adaM'>
+3	_	SYM	<fs af='<'>
+4	nivAraNa	NN	<fs af='nivAraNa,n,any,sg,3,,0,0'>
+5	:	SYM	<fs af=':,punc,,,,,,'>
+6	AvAlu	NN	<fs af='AvaM,n,any,pl,3,,0,0'>
+7	moVlakeVwwina	VM	<fs af='moVlakeVwwu,v,any,any,any,,ina,ina'>
+8	15	QC	<fs af='15,num,,,,,,'>
+9	rojula	NN	<fs af='roju,n,any,pl,3,,obl,obl'>
+10	waruvAwa	NST	<fs af='waruvAwa,avy,,,,,,'>
+11	cAlYlalo	NN	<fs af='cAdi,n,any,pl,3,,lo,lo'>
+12	eVkkuvagA	RB	<fs af='eVkkuva,adj,any,any,any,,gA_adj,gA_adj'>
+13	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+14	moVkkalanu	NN	<fs af='moVkka,n,any,pl,3,,ni,ni'>
+15	pIki	VM	<fs af='pIku,v,any,any,any,,i,i'>
+16	veVyyAli	VAUX	<fs af='veVyyi,v,any,any,any,,Ali,Ali'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

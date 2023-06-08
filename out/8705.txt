@@ -1,0 +1,19 @@
+<Sentence id="8705">
+0	((	SSF
+1	koVMwasepatiki	NST	<fs af='koVMwasepu,adv,any,any,any,,ku_adv,ku_adv'>
+2	*	SYM	<fs af='*,punc,,,,,, '>
+3	'	SYM	<fs af='',punc,,,,,, '>
+4	kim	UNK	<fs af='kim,n,any,sg,3,,0,0'>|<fs af='kim,n,any,sg,3,,obl,obl'>
+5	maesuxam	UNK	<fs af='maesuxam,n,any,sg,3,,0,0'>|<fs af='maesuxam,n,any,sg,3,,obl,obl'>
+6	kim	UNK	<fs af='kim,n,any,sg,3,,0,0'>|<fs af='kim,n,any,sg,3,,obl,obl'>
+7	ixam	NN	<fs af='ixam,avy,,,,,0,0_avy'>
+8	'	SYM	<fs af='',punc,,,,,, '>
+9	anna	UT	<fs af='anna,avy,,,,,, '>|<fs af='anu,v,any,any,any,,ina,ina'>|<fs af='anna,n,any,sg,3,,0,0'>|<fs af='anna,n,any,sg,3,,obl,obl'>|<fs af='annaM,n,any,sg,3,,obl,obl'>
+10	mAtalu	NN	<fs af='mAta,n,any,pl,3,,0,0'>|<fs af='mAta,n,any,pl,3,,vu_agr,vu_agr'>
+11	xUrAniki	NN	<fs af='xUraM,n,any,sg,3,,ki,ki'>
+12	vinapadettu	VM	<fs af='vinapadu,v,any,any,any,,e_atlu,e_atlu'>
+13	malYlI	RB	<fs af='malYlu,v,any,any,any,,i,i_V'>
+14	sakiliMciMxi	VM	<fs af='sakiliMcu,v,fn,sg,3,,A,A'>
+15	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

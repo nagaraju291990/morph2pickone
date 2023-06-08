@@ -1,0 +1,16 @@
+<Sentence id="2105">
+0	((	SSF
+1	prawixI	NN	<fs af='prawi,n,,sg,,,xi_0,xi_0_V' deri_cat='pn'>
+2	mana	PRP	<fs af='manaM,pn,any,pl,1,,obl,obl'>
+3	weVliviwo	NN	<fs af='weVlivi,n,any,sg,3,,wo,wo'>
+4	AlociMci	VM	<fs af='AlociMcu,v,any,any,any,,i,i'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	pariSoXiMci	VM	<fs af='pariSoXiMcu,v,any,any,any,,i,i'>
+7	nammAlA	VM	<fs af='nammu,v,any,any,any,,Ali,Ali_A'>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	vaxxA	NN	<fs af='vaxxu,avy,,,,,A,A_avy'>
+10	ani	UT	<fs af='ani,avy,,,,,, '>|<fs af='anu,v,any,any,any,,i,i'>
+11	welcukoVMtunnAmu	VM	<fs af='welcu,v,,pl,1,,koVn_wU_uMdu_A,koVn_wU_uMdu_A'>|<fs af='welcu,v,,pl,1,,koVn_wunn,koVn_wunn'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

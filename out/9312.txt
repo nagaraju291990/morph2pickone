@@ -1,0 +1,22 @@
+<Sentence id="9312">
+0	((	SSF
+1	nenu	PRP	<fs af='nenu,pn,any,sg,1,,0,0'>
+2	snAnaM	NN	<fs af='snAnaM,n,any,sg,3,,0,0'>
+3	cesinaMwasepu	VM	<fs af='ceVyyi,v,any,any,any,,ina_aMwasepu,ina_aMwasepu'>
+4	I	DEM	<fs af='I,avy,,,,,, '>
+5	cuttu	VM	<fs af='cuttu,n,,sg,,,0,0'>|<fs af='cuttu,n,,sg,,,obl,obl'>|<fs af='cuttu,v,,sg,2,,AjFArWa,AjFArWa'>
+5	patla	NN	<fs af='pattu,n,,pl,,,obl,obl'>
+6	eVvvarU	WQ	<fs af='eVvvaru,pn,mf,pl,3,,0,0_V'>
+7	uMdakUdaxu	VM	<fs af='uMdu,v,any,any,any,,a_kUdaxu,a_kUdaxu'>|<fs af='uMdakUdu,v,fn,sg,3,,a,a'>
+8	lekapowe	CC	<fs af='gala,v,any,any,any,,akapowe,akapowe'>|<fs af='lekapo,v,any,any,any,,we,we'>
+9	A	DEM	<fs af='A,avy,,,,,, '>
+10	snAnaM	NN	<fs af='snAnaM,n,any,sg,3,,0,0'>
+11	cese	VM	<fs af='ceVyyi,v,any,any,any,,e,e'>|<fs af='ceVyyi,v,any,any,any,,i,i_e'>
+12	cota	NST	<fs af='cota,adv,any,any,any,,0_adv,0_adv'>
+13	addaMki	NN	<fs af='addaM,n,any,sg,3,,ki,ki'>|<fs af='addaMki,n,any,sg,3,,0,0'>|<fs af='addaMki,n,any,sg,3,,obl,obl'>
+14	kattiMcAli	VM	<fs af='kattiMcu,v,any,any,any,,Ali,Ali'>
+15	"	SYM	<fs af='",punc,,,,,, '>
+16	ani	UT	<fs af='ani,avy,,,,,, '>|<fs af='anu,v,any,any,any,,i,i'>
+17	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

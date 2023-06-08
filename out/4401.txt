@@ -1,0 +1,9 @@
+<Sentence id="4401">
+0	((	SSF
+1	mugise	VM	<fs af='mugiyu,v,any,any,any,,e,e'>|<fs af='mugiyu,v,any,any,any,,i,i_e'>
+1	sariki	VM	<fs af='sariki,avy,,,,,, '>
+2	arXarAwri	NN	<fs af='arXarAwri,n,any,sg,3,,0,0'>|<fs af='arXarAwri,n,any,sg,3,,obl,obl'>
+3	ayyiMxi	VM	<fs af='avvu,v,fn,sg,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

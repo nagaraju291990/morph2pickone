@@ -1,0 +1,11 @@
+<Sentence id="6912">
+0	((	SSF	
+1	moVkkalaku	NN	<fs af='moVkka,n,any,pl,3,,ki,ki'>
+2	5	QC	<fs af='5,num,,,,,,'>
+3	SAwaM	NN	<fs af='SAwaM,n,any,sg,3,,0,0'>
+4	yUriyA	NN	<fs af='yUriyA,n,any,sg,3,,0,0'>|<fs af='yUriyA,n,any,sg,3,,obl,obl'>
+5	avasaraM	NN	<fs af='avasaraM,n,any,sg,3,,0,0'>
+6	anukuMte	VM	<fs af='anuko,v,any,any,any,,we,we'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

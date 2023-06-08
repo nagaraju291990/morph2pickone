@@ -1,0 +1,10 @@
+<Sentence id="1524">
+0	((	SSF	
+1	maricipokuMdA	VM	<fs af='maricipo,v,any,any,any,,akuMdA,akuMdA'>|<fs af='maricipokuMdu,v,any,any,any,,i,i_A'>
+2	prawiroju	NN	<fs af='prawiroju,n,any,sg,3,,0,0'>|<fs af='prawiroju,n,any,sg,3,,obl,obl'>
+3	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+4	mAwra	NN	<fs af='mAwra,n,any,sg,3,,0,0'>|<fs af='mAwra,n,any,sg,3,,obl,obl'>|<fs af='mAwrudu,n,any,sg,3,,obl,obl'>
+5	miMgAli	VM	<fs af='miMgu,v,any,any,any,,Ali,Ali'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

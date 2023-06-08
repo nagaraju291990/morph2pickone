@@ -1,0 +1,16 @@
+<Sentence id="6656">
+0	((	SSF	
+1	oVwwidi	NN	<fs af='oVwwidi,n,any,sg,3,,0,0'>|<fs af='oVwwidi,n,any,sg,3,,obl,obl'>
+2	wagginatlu	VM	<fs af='waggu,v,any,any,any,,ina_atlu,ina_atlu'>
+2	anipiMcaka	VM	<fs af='anipiMcu,v,any,any,any,,aka,aka'>
+3	powe	VAUX	<fs af='po,v,any,any,any,,we,we' poslcat="NM">|<fs af='powu,n,any,sg,3,,0,0_e' poslcat="NM">|<fs af='powa,n,any,sg,3,,0,0_e' poslcat="NM">
+4	veVMtane	NST	<fs af='veVMtane,avy,,,,,,' poslcat="NM">
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	xaggariloni	NN	<fs af='xaggara,adv,any,any,any,,0,0_adv_lo_ni' poslcat="NM">
+7	peVxxa	NN	<fs af='peVxxa,adj,any,any,any,,0_adj,0_adj' poslcat="NM">
+7	Asupawriki	NN	<fs af='Asupawri,n,any,sg,3,,ki,ki'>
+8	rogini	NN	<fs af='rogi,n,any,sg,3,,ni,ni'>|<fs af='rogi,n,any,sg,3,,ni_agr,ni_agr'>
+9	waraliMcAli	VM	<fs af='waraliMcu,v,any,any,any,,Ali,Ali'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

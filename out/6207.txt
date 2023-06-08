@@ -1,0 +1,55 @@
+<Sentence id="6207">
+0	((	SSF
+1	I	DEM	<fs af='I,avy,,,,,, '>
+2	jillAku	NN	<fs af='jillA,n,any,sg,3,,ki,ki'>
+3	saMbaMXiMcina	VM	<fs af='saMbaMXiMcina,avy,,,,,, '>|<fs af='saMbaMXiMcu,v,any,any,any,,ina,ina'>
+4	iwara	JJ	<fs af='iwara,n,any,sg,3,,0,0'>|<fs af='iwara,n,any,sg,3,,obl,obl'>|<fs af='iwaraM,n,any,sg,3,,obl,obl'>
+5	vivaramulu	NN	<fs af='vivaraM,n,any,pl,3,,0,0'>|<fs af='vivaraM,n,any,pl,3,,vu_agr,vu_agr'>
+6	:	SYM	<fs af=':,punc,,,,,, '>
+7	vESAlyaM	NN	<fs af='vESAlyaM,n,any,sg,3,,0,0'>
+8	:	SYM	<fs af=':,punc,,,,,, '>
+9	5837	QC	<fs af='5837,num,,,,,, '>
+10	ki	NN	<fs af='ki,avy,,,,,, '>|<fs af='mIru,pn,any,pl,2,,obl,obl'>
+11	|	SYM
+12	|	SYM
+13	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+14	adavulu	NN	<fs af='adavi,n,any,pl,3,,0,0'>
+15	:	SYM	<fs af=':,punc,,,,,, '>
+16	12	QC	<fs af='12,num,,,,,, '>
+17	SAwaM	NN	<fs af='SAwaM,n,any,sg,3,,0,0'>
+18	janABA	NN	<fs af='janABA,n,any,sg,3,,0,0'>|<fs af='janABA,n,any,sg,3,,obl,obl'>
+19	:	SYM	<fs af=':,punc,,,,,, '>
+20	23	QC	<fs af='23,num,,,,,, '>
+21	,	SYM	<fs af=',,punc,,,,,, '>
+22	21	QC	<fs af='21,num,,,,,, '>
+23	,	SYM	<fs af=',,punc,,,,,, '>
+24	000	QC	<fs af='000,num,,,,,, '>
+25	akRarAsyawa	NN	<fs af='akRarAsya,adj,any,any,any,,wanaM_adj,wanaM_adj'>|<fs af='akRarAsyawa,n,any,sg,3,,0,0'>|<fs af='akRarAsyawa,n,any,sg,3,,obl,obl'>
+26	:	SYM	<fs af=':,punc,,,,,, '>
+27	36	QC	<fs af='36,num,,,,,, '>
+28	SAwaM	NN	<fs af='SAwaM,n,any,sg,3,,0,0'>
+29	munsipal	NN	<fs af='munsipal,n,any,sg,3,,0,0'>|<fs af='munsipal,n,any,sg,3,,obl,obl'>
+30	pattaNAlu	NN	<fs af='pattaNaM,n,any,pl,3,,0,0'>|<fs af='pattaNaM,n,any,pl,3,,vu_agr,vu_agr'>
+31	:	SYM	<fs af=':,punc,,,,,, '>
+32	3	QC	<fs af='3,num,,,,,, '>
+33	iwara	JJ	<fs af='iwara,n,any,sg,3,,0,0'>|<fs af='iwara,n,any,sg,3,,obl,obl'>|<fs af='iwaraM,n,any,sg,3,,obl,obl'>
+34	pattaNAlu	NN	<fs af='pattaNaM,n,any,pl,3,,0,0'>|<fs af='pattaNaM,n,any,pl,3,,vu_agr,vu_agr'>
+35	:	SYM	<fs af=':,punc,,,,,, '>
+36	lokasaBA	NN	<fs af='lokasaBa,n,any,sg,3,,0,0_A'>|<fs af='lokasaBa,n,any,sg,3,,0,0_V'>
+37	niyojakavargAlu	NN	<fs af='niyojakavargaM,n,any,pl,3,,0,0'>|<fs af='niyojakavargaM,n,any,pl,3,,vu_agr,vu_agr'>
+38	:	SYM	<fs af=':,punc,,,,,, '>
+39	1	QC	<fs af='1,num,,,,,, '>|<fs af='va,avy,,,,,, '>
+40	SAsanasaBA	NN	<fs af='SAsanasaBa,n,any,sg,3,,0,0_A'>|<fs af='SAsanasaBa,n,any,sg,3,,0,0_V'>
+41	niyojakavargAlu	NN	<fs af='niyojakavargaM,n,any,pl,3,,0,0'>|<fs af='niyojakavargaM,n,any,pl,3,,vu_agr,vu_agr'>
+42	:	SYM	<fs af=':,punc,,,,,, '>
+43	13	QC	<fs af='13,num,,,,,, '>
+44	maMdalAlu	NN	<fs af='maMdalaM,n,any,pl,3,,0,0'>|<fs af='maMdalaM,n,any,pl,3,,vu_agr,vu_agr'>
+45	:	SYM	<fs af=':,punc,,,,,, '>
+46	37	QC	<fs af='37,num,,,,,, '>
+47	(	SYM	<fs af='(,punc,,,,,, '>
+48	paMcAyiwIlu	NN	<fs af='paMcAyiwI,n,,pl,,,0,0'>|<fs af='paMcAyiwI,n,,pl,,,vu,vu'>
+49	850	QC	<fs af='850,num,,,,,, '>
+50	)	SYM	<fs af='),punc,,,,,, '>
+51	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

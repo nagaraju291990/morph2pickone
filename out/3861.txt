@@ -1,0 +1,8 @@
+<Sentence id="3861">
+0	((	SSF
+1	nAgulu	NNP	<fs af='nAgu,n,any,pl,3,,0,0'>|<fs af='nAgu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='nAgulu,n,any,sg,3,,0,0'>|<fs af='nAgulu,n,any,sg,3,,obl,obl'>
+2	Alocanalu	NN	<fs af='Alocana,n,any,pl,3,,0,0'>|<fs af='Alocana,n,any,pl,3,,vu_agr,vu_agr'>
+3	mArAyi	VM	<fs af='mAru,v,n,pl,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

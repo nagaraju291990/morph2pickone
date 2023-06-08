@@ -1,0 +1,16 @@
+<Sentence id="6548">
+0	((	SSF
+1	kAnI	CC	<fs af='kAnI,avy,,,,,, '>
+2	SarIraM	NN	<fs af='SarIraM,n,any,sg,3,,0,0'>
+3	lopAlu	VM	<fs af='lopaM,n,any,pl,3,,0,0'>|<fs af='lopaM,n,any,pl,3,,vu_agr,vu_agr'>
+3	unnappudu	VM	<fs af='uMdu,v,any,any,any,,ina_appudu,ina_appudu'>|<fs af='unnappudu,adv,any,any,any,,0_adv,0_adv'>
+4	ivi	PRP	<fs af='ivi,n,any,sg,3,,0,0'>|<fs af='ivi,n,any,sg,3,,obl,obl'>|<fs af='ixi,pn,fn,pl,3,,0,0'>
+5	ilA	RB	<fs af='ilA,avy,,,,,, '>|<fs af='ila,n,any,sg,3,,0,0_A'>|<fs af='ila,n,any,sg,3,,0,0_V'>
+6	prANaM	NN	<fs af='prANaM,n,,sg,,,0,0'>
+6	leni	VM	<fs af='leni,adj,,,,,0,0_adj'>|<fs af='gala,v,any,any,any,,ani,ani'>
+7	katteV	NN	<fs af='kattu,v,any,sg,3,,iwi,iwi'>|<fs af='kattu,v,n,pl,3,,iwi,iwi'>|<fs af='katteV,n,any,sg,3,,0,0'>|<fs af='katteV,n,any,sg,3,,obl,obl'>
+7	pullalA	NN	<fs af='pulla,n,any,sg,3,,lA,lA'>|<fs af='pulla,n,any,pl,3,,0,0_A'>
+8	uMdavu	VM	<fs af='uMdu,v,any,sg,2,,a,a'>|<fs af='uMda,n,any,sg,3,,vu_agr,vu_agr'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

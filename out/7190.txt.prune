@@ -1,0 +1,13 @@
+<Sentence id="7190">
+0	((	SSF	
+1	palacani	JJ	<fs af='palaca,adj,any,any,any,,ti_adj,ti_adj'>
+2	gaMji	NN	<fs af='gaMji,n,any,sg,3,,0,0'>|<fs af='gaMji,n,any,sg,3,,obl,obl'>
+3	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+4	majjiga	NN	<fs af='majjiga,n,any,sg,3,,0,0'>|<fs af='majjiga,n,any,sg,3,,obl,obl'>
+5	wAgiMcAli	VM	<fs af='wAgiMcu,v,any,any,any,,Ali,Ali'>
+6	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+7	paMwulamma	NN	<fs af='paMwulamma,n,any,sg,3,,0,0'>|<fs af='paMwulamma,n,any,sg,3,,obl,obl'>
+8	ceVppiMxi	VM	<fs af='ceVppu,v,fn,sg,3,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

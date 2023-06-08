@@ -1,0 +1,10 @@
+<Sentence id="3283">
+0	((	SSF	
+1	kalikAlaM	RDP	<fs af='kalikaM,n,any,pl,3,,ni_agr,ni_agr' poslcat="NM">
+2	"	SYM	<fs af='",punc,,,,,,'>
+3	anukuMtU	VM	<fs af='anuko,v,any,any,any,,wU,wU'>
+4	wala	NN	<fs af='wala,n,any,sg,3,,0,0'>|<fs af='wala,n,any,sg,3,,obl,obl'>|<fs af='walaM,n,any,sg,3,,obl,obl'>
+5	bAxukunnAru	VM	<fs af='bAxuko,v,fm,pl,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,12 @@
+<Sentence id="9661">
+0	((	SSF
+1	cinna	JJ	<fs af='cinna,adj,any,any,any,,0_adj,0_adj'>
+2	cinna	RDP	<fs af='cinna,adj,any,any,any,,0_adj,0_adj'>
+3	padavalu	NN	<fs af='padava,n,any,pl,3,,0,0'>|<fs af='padava,n,any,pl,3,,vu_agr,vu_agr'>
+4	wallakriMxula	NN	<fs af='wallakriMxu,n,,pl,,,obl,obl'>|<fs af='wallakriMxi,n,,pl,,,obl,obl'>
+4	E	VM	<fs af='E,avy,,,,,,'>|<fs af='avvu,v,any,any,any,,i,i'>
+5	poyina	VM	<fs af='poyina,n,,sg,,,0,0'>|<fs af='poyina,n,,sg,,,obl,obl'>|<fs af='po,v,any,any,any,,ina,ina'>
+5	E	VM	<fs af='E,avy,,,,,,'>|<fs af='avvu,v,any,any,any,,i,i'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

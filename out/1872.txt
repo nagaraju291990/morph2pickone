@@ -1,0 +1,10 @@
+<Sentence id="1872">
+0	((	SSF
+1	oVkati	QC	<fs af='oVkati,n,any,sg,3,,0,0'>|<fs af='oVkati,n,any,sg,3,,obl,obl'>|<fs af='oVkati,num,any,any,any,,0,0'>
+2	50	QC	<fs af='50,num,,,,,, '>|<fs af='pE,adj,any,any,any,,0_adj,0_adj'>
+3	pEsalu	VM	<fs af='pEsa,n,any,pl,3,,0,0'>|<fs af='pEsa,n,any,pl,3,,vu_agr,vu_agr'>
+3	lexani	VM	<fs af='lexanu,v,any,any,any,,i,i'>
+4	vAdu	PRP	<fs af='vAdu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='vAdu,pn,m,sg,3,,0,0'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

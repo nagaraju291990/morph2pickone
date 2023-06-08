@@ -1,0 +1,17 @@
+<Sentence id="9752">
+0	((	SSF
+1	awani	PRP	<fs af='awanu,pn,m,sg,3,,obl,obl'>
+2	I	DEM	<fs af='I,avy,,,,,, '>
+3	upanyAsaM	NN	<fs af='upanyAsaM,n,any,sg,3,,0,0'>
+4	yUrapunu	NNP	<fs af='yUrap,n,any,sg,3,,ni,ni'>|<fs af='yUrap,n,any,sg,3,,ni_agr,ni_agr'>|<fs af='yUrapu,n,any,sg,3,,ni,ni'>|<fs af='yUrapu,n,any,sg,3,,ni_agr,ni_agr'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	ameVrikAlalo	NNP	<fs af='ameVrikA,n,any,pl,3,,lo,lo'>
+7	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+8	paMdiwulu	NN	<fs af='paMdiw,n,any,pl,3,,0,0'>|<fs af='paMdiw,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='paMdiwudu,n,any,pl,3,,0,0'>|<fs af='paMdiwudu,n,any,pl,3,,vu_agr,vu_agr'>
+9	aMxarU	PRP	<fs af='aMxaru,pn,mf,pl,3,,0,0_V'>
+10	Ayanni	PRP	<fs af='Ayana,pn,m,sg,3,,ni,ni'>
+11	wAwvikudu	NN	<fs af='wAwvika,adj,any,any,any,,vAdu_adj,vAdu_adj'>|<fs af='wAwvikudu,n,any,sg,3,,0,0'>
+12	annAru	VM	<fs af='anu,v,any,pl,2,,A,A'>|<fs af='anu,v,mf,pl,3,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,21 @@
+<Sentence id="9911">
+0	((	SSF
+1	A	DEM	<fs af='A,avy,,,,,, '>
+2	UlYlo	NN	<fs af='Uru,n,any,sg,3,,lo,lo'>|<fs af='Uru,n,any,pl,3,,0,0_o'>
+3	vAlYla	PRP	<fs af='vAlYlu,pn,mf,pl,3,,obl,obl'>
+4	pani	NN	<fs af='pani,n,any,sg,3,,0,0'>|<fs af='pani,n,any,sg,3,,obl,obl'>
+5	oVka	QC	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+6	gaMta	NN	<fs af='gaMtu,v,any,any,any,,an,an'>|<fs af='gaMta,n,any,sg,3,,0,0'>|<fs af='gaMta,n,any,sg,3,,obl,obl'>|<fs af='gaMtaM,n,any,sg,3,,obl,obl'>
+7	mAwrame	PSP	<fs af='mAwrame,avy,,,,,, '>
+8	!	SYM	<fs af='!,punc,,,,,, '>
+9	woVMxaragA	RB	<fs af='woVMxara,n,any,sg,3,,gA,gA'>
+10	pani	NN	<fs af='pani,n,any,sg,3,,0,0'>|<fs af='pani,n,any,sg,3,,obl,obl'>
+11	cUsukoVni	VM	<fs af='cUsuko,v,any,any,any,,i,i'>
+12	civari	NST	<fs af='civara,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+13	bassuku	NN	<fs af='bassu,n,any,sg,3,,ki,ki'>
+14	wirigi	VM	<fs af='wirigi,avy,,,,,, '>|<fs af='wirugu,v,any,any,any,,i,i'>
+15	vaxxAmu	VM	<fs af='vaccu,v,,pl,2,,xA,xA'>
+15	anukoVnnAru	VM	<fs af='anuko,v,fm,pl,3,,A,A'>
+16	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,7 @@
+<Sentence id="69">
+0	((	SSF
+1	ubalAtaM	NN	<fs af='ubalAtaM,n,any,sg,3,,0,0'>
+2	puttexi	VM	<fs af='puttu,v,any,any,any,,e_axi,e_axi'>|<fs af='puttexi,pn,any,sg,3,,0,0'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,12 @@
+<Sentence id="1592">
+0	((	SSF	
+1	ayiwe	CC	<fs af='avvu,v,any,any,any,,we,we' poslcat="NM">
+2	mana	PRP	<fs af='manaM,pn,any,pl,1,,obl,obl'>
+3	AdavAlYlu	NN	<fs af='AdavAlYlu,n,any,sg,3,,0,0'>|<fs af='AdavAlYlu,n,any,sg,3,,obl,obl'>
+3	eVMwo	NN	<fs af='eVMwa,pn,any,pl,3,,0,0_o' poslcat="NM">
+4	maMxiki	CL	<fs af='maMxi,n,any,sg,3,,ki,ki' poslcat="NM">
+5	caxuvu	NN	<fs af='caxuvu,n,any,sg,3,,0,0'>|<fs af='caxuvu,n,any,sg,3,,obl,obl'>
+6	rAxu	VM	<fs af='vaccu,v,fn,sg,3,,a,a'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

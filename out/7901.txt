@@ -1,0 +1,10 @@
+<Sentence id="7901">
+0	((	SSF
+1	jAnaki	NNP	<fs af='jAna,n,any,sg,3,,ki,ki'>|<fs af='jAnaki,n,any,sg,3,,0,0'>|<fs af='jAnaki,n,any,sg,3,,obl,obl'>
+2	gAlAniki	NN	<fs af='gAlaM,n,any,sg,3,,ki,ki'>
+3	kamala	NNP	<fs af='kamulu,v,any,any,any,,an,an'>|<fs af='kamala,n,any,sg,3,,0,0'>|<fs af='kamala,n,any,sg,3,,obl,obl'>
+4	cepalA	NN	<fs af='cepa,n,any,sg,3,,lA,lA'>|<fs af='cepa,n,any,pl,3,,0,0_A'>
+5	cikkiMxi	VM	<fs af='cikku,v,fn,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

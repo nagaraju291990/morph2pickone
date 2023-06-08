@@ -1,0 +1,20 @@
+<Sentence id="8985">			
+0	((	SSF	
+1	xaMwyamulaku	NN	<fs af='xaMwyaM,n,any,pl,3,,ki,ki'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	wAlYavyamulaku	NN	<fs af='wAlYavyamu,n,any,pl,3,,ki,ki'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+6	avayavAla	NN	<fs af='avayavaM,n,any,pl,3,,obl,obl'>
+7	parimANaM	NN	<fs af='parimANaM,n,any,sg,3,,0,0'>
+8	manuRyulaku	NN	<fs af='manuRyudu,n,any,pl,3,,ki,ki'>
+9	unnatle	NN	<fs af='unnatlu,avy,,,,,e,e_avy' poslcat="NM">
+10	uMdAli	VM	<fs af='uMdu,v,any,any,any,,Ali,Ali'>
+11	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+12	lekapowe	CC	<fs af='gala,v,any,any,any,,akapowe,akapowe' poslcat="NM">'>|<fs af='lekapo,v,any,any,any,,we,we' poslcat="NM">'>
+13	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+14	Xvani	NN	<fs af='Xvani,n,any,sg,3,,0,0'>|<fs af='Xvani,n,any,sg,3,,obl,obl'>
+15	uccariMcabadaxu	VM	<fs af='uccariMcabadu,v,fn,sg,3,,a,a'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

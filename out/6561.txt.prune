@@ -1,0 +1,13 @@
+<Sentence id="6561">
+0	((	SSF	
+1	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+2	cUsi	VM	<fs af='cUdu,v,any,any,any,,i,i'>
+3	hari	NNP	<fs af='hari,n,any,sg,3,,0,0'>|<fs af='hari,n,any,sg,3,,obl,obl'>
+4	adigAdu	VM	<fs af='adugu,v,m,sg,3,,A,A'>
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	"	SYM	<fs af='",punc,,,,,,'>
+7	are	INJ	<fs af='are,avy,,,,,,'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

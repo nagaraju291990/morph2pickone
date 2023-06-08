@@ -1,0 +1,18 @@
+<Sentence id="5197">
+0	((	SSF
+1	wama	PRP	<fs af='wAmu,pn,mf,sg,3,,obl,obl'>
+2	kAlYla	NN	<fs af='kAlu,n,any,pl,3,,obl,obl'>|<fs af='kAdi,n,any,pl,3,,obl,obl'>
+3	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+4	wAmu	PRP	<fs af='wAmu,pn,mf,sg,3,,0,0'>
+5	nilabadadAniki	VM	<fs af='nilabadadaM,n,any,sg,3,,ki,ki'>
+6	avasaramEnaMwa	VM	<fs af='avasaramavvu,v,any,any,any,,ina_aMwa,ina_aMwa'>
+7	caxuvu	NN	<fs af='caxuvu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='caxuvu,n,any,sg,3,,0,0'>|<fs af='caxuvu,n,any,sg,3,,obl,obl'>
+8	ceVppiMcakuMdA	VM	<fs af='ceVppiMcu,v,any,any,any,,akuMdA,akuMdA'>|<fs af='ceVppiMcakuMdu,v,any,any,any,,i,i_A'>
+9	Adapillala	NN	<fs af='Adapilla,n,any,pl,3,,obl,obl'>
+10	peVlYlilYlu	NN	<fs af='peVlYli,n,any,pl,3,,0,0'>|<fs af='peVlYli,n,any,pl,3,,vu_agr,vu_agr'>
+11	cese	VM	<fs af='ceVyyi,v,any,any,any,,e,e'>|<fs af='ceVyyi,v,any,any,any,,i,i_e'>
+12	vAlYlaMxarikI	NN	<fs af='vAlYlaMxaru,pn,mf,pl,3,,ki,ki_V'>
+13	ceVbuxAM	VM	<fs af='ceVppu,v,any,pl,2,,xA,xA'>|<fs af='ceVppu,v,any,pl,1,,xA,xA'>
+14	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

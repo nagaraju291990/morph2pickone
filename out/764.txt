@@ -1,0 +1,15 @@
+<Sentence id="764">
+0	((	SSF
+1	wotakUra	NN	<fs af='wotakUra,n,any,sg,3,,0,0'>|<fs af='wotakUra,n,any,sg,3,,obl,obl'>
+2	,	SYM	<fs af=',,punc,,,,,, '>
+3	pAla	NN	<fs af='pAlu,n,,pl,,,obl,obl'>|<fs af='paM,n,,pl,,,obl,obl'>
+3	kUra	VM	<fs af='kUra,n,,sg,,,0,0'>|<fs af='kUra,n,,sg,,,obl,obl'>|<fs af='kUru,v,any,any,any,,an,an'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	goMgUra	NN	<fs af='goMgUra,n,any,sg,3,,0,0'>|<fs af='goMgUra,n,any,sg,3,,obl,obl'>
+6	valane	PSP	<fs af='vala,n,any,sg,3,,ni,ni_e'>|<fs af='valanu,n,any,sg,3,,0,0_e'>
+7	rakarakAlugA	RB	<fs af='rakarakAlu,n,any,sg,3,,gA,gA'>
+8	vaMdi	VM	<fs af='vaMdu,v,any,any,any,,i,i'>
+9	wiMtAru	VM	<fs af='winu,v,any,pl,2,,wA,wA'>|<fs af='winu,v,mf,pl,3,,wA,wA'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

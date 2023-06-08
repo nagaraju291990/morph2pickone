@@ -1,0 +1,22 @@
+<Sentence id="9013">			
+0	((	SSF	
+1	xAni	PRP	<fs af='axi,pn,fn,sg,3,,obl,obl'>
+2	walalo	NN	<fs af='wala,n,any,sg,3,,lo,lo'>
+3	meVxadu	NN	<fs af='meVxadu,n,any,sg,3,,0,0'>
+4	uMde	VM	<fs af='uMdu,v,any,any,any,,e,e'>
+5	sWalaM	NN	<fs af='sWalaM,n,any,sg,3,,0,0'>
+6	yoVkka	PSP	<fs af='yoVkka,avy,,,,,,'>
+7	parimANAnikI	NN	<fs af='parimANaM,n,any,sg,3,,ki,ki_V'>
+8	,	SYM	<fs af=',,punc,,,,,,'>
+9	manuRyuni	NN	<fs af='manuRyudu,n,any,sg,3,,obl,obl'>
+10	walalo	NN	<fs af='wala,n,any,sg,3,,lo,lo'>
+11	meVxadu	NN	<fs af='meVxadu,n,any,sg,3,,0,0'>
+12	uMde	VM	<fs af='uMdu,v,any,any,any,,e,e'>
+13	praxeSa	NN	<fs af='praxeSaM,n,any,sg,3,,obl,obl'>
+14	parimANAnikI	NN	<fs af='parimANaM,n,any,sg,3,,ki,ki_V'>
+15	kUdA	PSP	<fs af='kUdA,avy,,,,,,'>'>
+16	saMbaMXaM	NN	<fs af='saMbaMXaM,n,any,sg,3,,0,0'>
+17	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

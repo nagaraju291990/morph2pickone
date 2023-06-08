@@ -1,0 +1,17 @@
+<Sentence id="6619">
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	"	SYM	<fs af='",punc,,,,,,'>
+3	oVka	NN	<fs af='oVka,adj,,,,,0,0_adj' poslcat="NM">
+3	velYa	NN	<fs af='velYa,n,,sg,,,0,0'>|<fs af='velYa,n,,sg,,,obl,obl'>
+4	eVmukapEna	NN	<fs af='eVmuka,n,any,sg,3,,pE,pE'>
+5	gAyaM	NN	<fs af='gAyaM,n,any,sg,3,,0,0'>
+6	wagiliwe	VM	<fs af='wagulu,v,any,any,any,,we,we'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	xAniki	PRP	<fs af='axi,pn,fn,sg,3,,ki,ki'>
+9	sarEna	JJ	<fs af='sarEna,n,any,sg,3,,0,0' poslcat="NM">|<fs af='sarEna,n,any,sg,3,,obl,obl' poslcat="NM">
+10	saMrakRaNa	NN	<fs af='saMrakRaNa,n,any,sg,3,,0,0'>|<fs af='saMrakRaNa,n,any,sg,3,,obl,obl'>|<fs af='saMrakRaNaM,n,any,sg,3,,obl,obl'>
+11	avasaraM	NN	<fs af='avasaraM,n,any,sg,3,,0,0'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

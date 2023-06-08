@@ -1,0 +1,16 @@
+<Sentence id="6887">
+0	((	SSF
+1	*	SYM	<fs af='*,punc,,,,,, '>
+2	aMxulo	PRP	<fs af='aMxulo,avy,,,,,, '>
+3	moVxati	NST	<fs af='moVxata,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+4	xaPA	NN	<fs af='xaPA,n,any,sg,3,,0,0'>|<fs af='xaPA,n,any,sg,3,,obl,obl'>
+5	nawrajanini	NN	<fs af='nawrajani,n,any,sg,3,,ni,ni'>|<fs af='nawrajani,n,any,sg,3,,ni_agr,ni_agr'>
+6	vari	NN	<fs af='vari,n,any,sg,3,,0,0'>|<fs af='vari,n,any,sg,3,,obl,obl'>
+7	pilakalu	NN	<fs af='pilaka,n,any,pl,3,,0,0'>|<fs af='pilaka,n,any,pl,3,,vu_agr,vu_agr'>
+8	peVtte	VM	<fs af='peVttu,v,any,any,any,,e,e'>|<fs af='peVttu,v,any,any,any,,i,i_e'>|<fs af='peVtta,n,any,sg,3,,0,0_e'>|<fs af='peVtteV,n,any,sg,3,,0,0_e'>|<fs af='peVtteV,n,any,sg,3,,0,0_V'>
+9	samayaMlo	NN	<fs af='samayaM,n,any,sg,3,,lo,lo'>
+10	*	SYM	<fs af='*,punc,,,,,, '>
+11	veVyyAli	VM	<fs af='veVyyi,v,any,any,any,,Ali,Ali'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

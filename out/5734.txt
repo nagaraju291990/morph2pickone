@@ -1,0 +1,7 @@
+<Sentence id="5734">
+0	((	SSF
+1	poVdavAti	NN	<fs af='poVda,n,,pl,,,xi,xi_obl' deri_cat='pn'>
+2	geVddaM	NN	<fs af='geV,n,,sg,,,vAlYlu,vAlYlu_0'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

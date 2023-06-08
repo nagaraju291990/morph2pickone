@@ -1,0 +1,21 @@
+<Sentence id="2878">			
+0	((	SSF	
+1	nAlugu	QC	<fs af='nAlugu,n,any,sg,3,,0,0'>
+2	_	SYM	<fs af='<'>
+3	_	SYM	<fs af='<'>
+4	_	SYM	<fs af='<'>
+5	_	SYM	<fs af='<'>
+6	_	SYM	<fs af='<'>
+7	_	SYM	<fs af='<'>
+8	_	SYM	<fs af='<'>
+9	I	DEM	<fs af='I,avy,,,,,,'>
+10	saMGatana	NN	<fs af='saMGatana,n,any,sg,3,,0,0'>
+11	enAtixaMte	NN	<fs af='enAdu,n,,sg,,,xi_aMte,xi_aMte' deri_cat=pn>
+12	bApU	NNP	<fs af='bApu,n,any,sg,3,,0,0_V'>
+13	xakRiNAPrikAlo	NNP	<fs af='xakRiNAPrikA,n,any,sg,3,,lo,lo'>
+14	vakIlugA	RB	<fs af='vakIlu,n,any,sg,3,,gA,gA'>
+15	unnappudu	VM	<fs af='uMdu,v,any,any,any,,ina_appudu,ina_appudu'>
+16	jarigiMxi	VM	<fs af='jarugu,v,fn,sg,3,,A,A'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

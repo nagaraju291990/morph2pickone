@@ -1,0 +1,11 @@
+<Sentence id="9095">
+0	((	SSF	
+1	kloroPAraM	NN	<fs af='kloroPAraM,n,any,sg,3,,0,0'>
+2	eVkkiMcadAniki	VM	<fs af='eVkkiMcu,v,,sg,,,ki,ki'>
+2	EnA	NN	<fs af='EnA,avy,,,,,,' poslcat="NM">
+3	vIlu	NN	<fs af='vIlu,n,any,sg,3,,0,0'>|<fs af='vIlu,n,any,sg,3,,0,0_A'>|<fs af='vIlu,n,any,sg,3,,obl,obl'>
+4	eVlA	WQ	<fs af='eVlA,avy,,,,,,'>
+5	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+6	?	SYM	<fs af='?,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

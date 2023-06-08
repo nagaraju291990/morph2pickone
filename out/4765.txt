@@ -1,0 +1,11 @@
+<Sentence id="4765">
+0	((	SSF
+1	Ewe	VM	<fs af='avvu,v,any,any,any,,we,we'>
+2	nIru	NN	<fs af='nIru,n,any,sg,3,,0,0'>|<fs af='nIru,n,any,sg,3,,obl,obl'>
+3	Aviri	NN	<fs af='Aviri,n,,sg,,,0,0'>|<fs af='Aviri,n,,sg,,,obl,obl'>
+3	ayi	VM	<fs af='avvu,v,any,any,any,,i,i'>
+4	igiripowU	VM	<fs af='igiripo,v,any,any,any,,wU,wU'>
+4	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

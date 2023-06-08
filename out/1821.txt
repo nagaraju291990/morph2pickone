@@ -1,0 +1,22 @@
+<Sentence id="1821">
+0	((	SSF
+1	PyAMtulu	NN	<fs af='PyAMtu,n,any,pl,3,,0,0'>|<fs af='PyAMtu,n,any,pl,3,,vu_agr,vu_agr'>
+2	,	SYM	<fs af=',,punc,,,,,, '>
+3	Rartulu	NN	<fs af='Rart,n,any,pl,3,,0,0'>|<fs af='Rart,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='Rartu,n,any,pl,3,,0,0'>|<fs af='Rartu,n,any,pl,3,,vu_agr,vu_agr'>
+4	koVnnavAlYlu	VM	<fs af='koVnu,v,any,any,any,,ina_vAlYlu,ina_vAlYlu'>|<fs af='koVnnavAlYlu,pn,mf,pl,3,,0,0'>|<fs af='koVnnavAlYlu,pn,mf,pl,3,,vu,vu'>
+5	parisWiwi	NN	<fs af='parisWiwi,n,any,sg,3,,0,0'>|<fs af='parisWiwi,n,any,sg,3,,obl,obl'>
+6	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+7	axe	PRP	<fs af='axi,pn,fn,sg,3,,0,0_e'>
+8	!	SYM	<fs af='!,punc,,,,,, '>
+9	eVMwo	INTF	<fs af='eVMwa,pn,any,pl,3,,0,0_o'>
+10	wakkuvaku	NN	<fs af='wakkuva,n,,sg,,,ki,ki'>
+11	koVnnAmu	VM	<fs af='koVnu,v,any,pl,1,,A,A'>
+12	anna	UT	<fs af='anna,avy,,,,,, '>|<fs af='anu,v,any,any,any,,ina,ina'>|<fs af='anna,n,any,sg,3,,0,0'>|<fs af='anna,n,any,sg,3,,obl,obl'>|<fs af='annaM,n,any,sg,3,,obl,obl'>
+13	vAlYla	PRP	<fs af='vAlYlu,pn,mf,pl,3,,obl,obl'>
+14	AnaMxaM	NN	<fs af='AnaMxaM,n,any,sg,3,,0,0'>
+15	eVkkuva	NN	<fs af='eVkkuva,adj,,,,,0,0_adj'>
+15	sepu	NN	<fs af='sepu,n,,sg,,,0,0'>|<fs af='sepu,n,,sg,,,obl,obl'>|<fs af='sepu,adv,,,,,0,0_adv'>
+16	nilavalexu	VM	<fs af='niluvu,v,any,any,any,,a_lexu,a_lexu'>|<fs af='nilavagala,v,fn,sg,3,,a,a'>
+17	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,8 @@
+<Sentence id="3171">
+0	((	SSF
+1	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+2	rElu	NN	<fs af='rElu,n,any,sg,3,,0,0'>
+3	uMdexA	VM	<fs af='uMdu,v,,sg,,,e_axi_0,e_axi_0_A' deri_cat='pn'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,9 @@
+<Sentence id="6279">
+0	((	SSF
+1	vESAlyaM	NN	<fs af='vESAlyaM,n,any,sg,3,,0,0'>
+2	:	SYM	<fs af=':,punc,,,,,, '>
+3	6539	QC	<fs af='6539,num,,,,,, '>
+4	ca	NN	<fs af='ca,avy,,,,,, '>|<fs af='kI,avy,,,,,, '>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

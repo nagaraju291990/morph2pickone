@@ -1,0 +1,14 @@
+<Sentence id="9216">
+0	((	SSF
+1	mIru	PRP	<fs af='mIru,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='mIru,pn,any,pl,2,,0,0'>
+2	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+3	gaMta	NN	<fs af='gaMtu,v,any,any,any,,an,an'>|<fs af='gaMta,n,any,sg,3,,0,0'>|<fs af='gaMta,n,any,sg,3,,obl,obl'>|<fs af='gaMtaM,n,any,sg,3,,obl,obl'>
+4	leka	CC	<fs af='gala,v,any,any,any,,aka,aka'>
+5	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+6	gaMtala	NN	<fs af='gaMta,n,any,pl,3,,obl,obl'>
+7	sepu	NST	<fs af='sepu,adv,any,any,any,,0_adv,0_adv'>
+8	mawwulo	NN	<fs af='mawwu,n,any,sg,3,,lo,lo'>|<fs af='mawwu,n,any,pl,3,,0,0_o'>|<fs af='mawwudu,n,any,pl,3,,0,0_o'>
+9	uMtAru	VM	<fs af='uMdu,v,any,pl,2,,wA,wA'>|<fs af='uMdu,v,mf,pl,3,,wA,wA'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,15 @@
+<Sentence id="7467">
+0	((	SSF	
+1	virulu	NN	<fs af='viri,n,any,pl,3,,0,0'>|<fs af='viri,n,any,pl,3,,ni_agr,ni_agr'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	warulu	NN	<fs af='wari,n,any,pl,3,,0,0'>|<fs af='wari,n,any,pl,3,,ni_agr,ni_agr'>
+4	girulu	NN	<fs af='giri,n,any,pl,3,,0,0'>|<fs af='giri,n,any,pl,3,,ni_agr,ni_agr'>
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	gAlulu	NN	<fs af='gAli,n,any,pl,3,,0,0'>
+7	mawaM	NN	<fs af='mawaM,n,any,sg,3,,0,0'>
+8	lenivi	VM	<fs af='gala,v,,pl,,,ani_axi,ani_axi_0' deri_cat=pn>
+9	kulaM	NN	<fs af='kulaM,n,any,sg,3,,0,0'>
+10	lenivi	VM	<fs af='gala,v,,pl,,,ani_axi,ani_axi_0' deri_cat=pn>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

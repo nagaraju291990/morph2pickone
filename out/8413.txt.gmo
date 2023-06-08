@@ -1,0 +1,10 @@
+<Sentence id="8413">			
+0	((	SSF	
+1	60	QC	<fs af='60,num,,,,,,'>
+2	mItarla	NN	<fs af='mItar,n,any,pl,3,,obl,obl'>
+3	eVwwuna	NN	<fs af='eVwwu,n,any,sg,3,,na,na'>
+4	jalapAwaM	NN	<fs af='jalapAwaM,n,any,sg,3,,0,0'>
+5	kalaxu	VM	<fs af='kala,v,fn,sg,3,,wA,wA'>|<fs af='kala,v,fn,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

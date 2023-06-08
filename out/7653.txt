@@ -1,0 +1,9 @@
+<Sentence id="7653">
+0	((	SSF
+1	EnAsare	RP	<fs af='EnAsare,avy,,,,,, '>
+2	nannu	PRP	<fs af='nenu,pn,any,sg,1,,ni,ni'>
+3	vAdiwo	PRP	<fs af='vAdu,pn,m,sg,3,,wo,wo'>|<fs af='vAdi,n,any,sg,3,,wo,wo'>
+4	poniccexi	VM	<fs af='ponivvu,v,any,any,any,,e_axi,e_axi'>|<fs af='poniccexi,pn,any,sg,3,,0,0'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

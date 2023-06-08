@@ -1,0 +1,23 @@
+<Sentence id="7104">
+0	((	SSF
+1	gAdixa	NNP	<fs af='gAdixa,n,any,sg,3,,0,0'>|<fs af='gAdixa,n,any,sg,3,,obl,obl'>
+2	weVlivi	NN	<fs af='weVlivi,n,any,sg,3,,0,0'>|<fs af='weVlivi,n,any,sg,3,,obl,obl'>
+3	_	SYM
+4	_	SYM
+5	_	SYM
+6	_	SYM
+7	_	SYM
+8	_	SYM
+9	_	SYM
+10	_	SYM
+11	_	SYM
+12	_	SYM
+13	_	SYM
+14	_	SYM
+15	anagA	RP	<fs af='anagA,avy,,,,,, '>|<fs af='anu,v,any,any,any,,a_gA,a_gA'>
+16	anagA	RDP	<fs af='anagA,avy,,,,,, '>|<fs af='anu,v,any,any,any,,a_gA,a_gA'>
+17	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+18	rAju	NN	<fs af='rAju,n,any,sg,3,,0,0'>|<fs af='rAju,n,any,sg,3,,obl,obl'>
+19	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,14 @@
+<Sentence id="1169">			
+0	((	SSF	
+1	bAbuni	NN	<fs af='bAbu,n,any,sg,3,,ni,ni'>
+2	pariSIliMci	VM	<fs af='pariSIliMcu,v,any,any,any,,i,i'>
+3	cUsiMxi	VM	<fs af='cUdu,v,fn,sg,3,,A,A'>
+4	ayyo	INJ	<fs af='ayya,n,any,sg,3,,0,0_o'>'>
+5	!	SYM	<fs af='!,punc,,,,,,'>
+6	bAbuki	NN	<fs af='bAbu,n,any,sg,3,,ki,ki'>
+7	poVMgu	NN	<fs af='poVMgu,n,any,sg,3,,0,0'>
+8	eVkkuvagA	RB	<fs af='eVkkuva,adj,any,any,any,,gA_adj,gA_adj'>
+9	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

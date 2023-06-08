@@ -1,0 +1,18 @@
+<Sentence id="6837">
+0	((	SSF	
+1	saMkIrNa	JJ	<fs af='saMkIrNa,adj,any,any,any,,0_adj,0_adj'>
+2	eVruvulu	NN	<fs af='eVruvu,n,any,pl,3,,0,0'>|<fs af='eVruvu,n,any,pl,3,,vu_agr,vu_agr'>
+3	*	SYM	<fs af='*,punc,,,,,,'>
+4	vItilo	PRP	<fs af='ixi,pn,fn,pl,3,,lo,lo'>
+5	sUti	JJ	<fs af='sUti,adj,any,any,any,,0_adj,0_adj'>
+6	eVruvulu	NN	<fs af='eVruvu,n,any,pl,3,,0,0'>|<fs af='eVruvu,n,any,pl,3,,vu_agr,vu_agr'>
+7	2	QC	<fs af='2,num,,,,,,'>
+8	leka	CC	<fs af='gala,v,any,any,any,,aka,aka' poslcat="NM">
+9	mUdu	QC	<fs af='mUdu,n,any,sg,3,,0,0'>|<fs af='mUdu,n,any,sg,3,,obl,obl'>|<fs af='mUdu,num,any,any,any,,0,0'>
+10	oVke	JJ	<fs af='oVke,avy,,,,,,'>
+11	eVruvulo	NN	<fs af='eVruvu,n,any,sg,3,,lo,lo'>|<fs af='eVruvu,n,any,pl,3,,0,0_o'>
+12	kalisi	VM	<fs af='kaluvu,v,any,any,any,,i,i'>|<fs af='kaliyu,v,any,any,any,,i,i'>
+13	uMtAyi	VAUX	<fs af='uMdu,v,n,pl,3,,wA,wA' poslcat="NM">
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

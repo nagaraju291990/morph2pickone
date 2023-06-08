@@ -1,0 +1,23 @@
+<Sentence id="9698">			
+0	((	SSF	
+1	e	WQ	<fs af='e,avy,,,,,,'>
+2	mawaM	NN	<fs af='mawaM,n,any,sg,3,,0,0'>
+3	vAlYlu	PRP	<fs af='vAlYlu,pn,mf,pl,3,,0,0'>|<fs af='vAlYlu,pn,mf,pl,3,,vu,vu'>
+4	padiwe	VM	<fs af='padu,v,any,any,any,,we,we'>|<fs af='pattu,v,any,any,any,,we,we'>
+5	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+6	mawaM	NN	<fs af='mawaM,n,any,sg,3,,0,0'>
+7	vAlYlu	PRP	<fs af='vAlYlu,pn,mf,pl,3,,0,0'>|<fs af='vAlYlu,pn,mf,pl,3,,vu,vu'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	wama	PRP	<fs af='wAmu,pn,mf,sg,3,,obl,obl'>
+10	purANAlalo	NN	<fs af='purANaM,n,any,pl,3,,lo,lo'>
+11	vuMde	VM	<fs af='vuMdu,v,any,any,any,,e,e'>|<fs af='vuMdu,v,any,any,any,,i,i_e'>
+12	e	WQ	<fs af='e,avy,,,,,,'>
+13	xevawako	NN	<fs af='xevawa,n,any,sg,3,,ki,ki_o'>
+14	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+15	xevawaki	NN	<fs af='xevawa,n,any,sg,3,,ki,ki'>
+16	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+17	hAhUkI	NN	<fs af='hAhUkI,unk,,,,,,' poslcat="NM">
+18	mudipeVttukoVnnAru	VM	<fs af='mudipeVttu,v,fm,pl,3,,koVn_A,koVn_A'>
+19	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,9 @@
+<Sentence id="4316">
+0	((	SSF
+1	veta	NN	<fs af='veta,n,any,sg,3,,0,0'>|<fs af='veta,n,any,sg,3,,obl,obl'>
+2	wupAkI	NN	<fs af='wupAki,n,any,sg,3,,0,0_V'>
+3	koVnukkovAlani	VM	<fs af='koVnukko,v,any,any,any,,Ali_ani,Ali_ani'>
+4	korika	NN	<fs af='korika,n,any,sg,3,,0,0'>|<fs af='korika,n,any,sg,3,,obl,obl'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

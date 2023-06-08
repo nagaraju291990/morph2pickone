@@ -1,0 +1,14 @@
+<Sentence id="3379">
+0	((	SSF	
+1	eVkkadayinA	NN	<fs af='eVkkadayinA,adv,,,,,0,0_adv' poslcat="NM">
+2	koVMwa	QF	<fs af='koVMwa,pn,any,sg,3,,0,0' poslcat="NM">
+3	dabbu	NN	<fs af='dabbu,n,any,sg,3,,0,0'>|<fs af='dabbu,n,any,sg,3,,obl,obl'>
+4	appu	NN	<fs af='appu,n,any,sg,3,,0,0'>|<fs af='appu,n,any,sg,3,,obl,obl'>
+5	cesi	VM	<fs af='ceVyyi,v,any,any,any,,i,i'>
+6	gexeVnu	NN	<fs af='gexeV,n,any,sg,3,,ni,ni'>|<fs af='gexeV,n,any,sg,3,,ni_agr,ni_agr'>
+7	koVMxAM	VM	<fs af='koVnu,v,any,pl,2,,xA,xA'>|<fs af='koVnu,v,any,pl,1,,xA,xA'>
+8	annAdu	VM	<fs af='anu,v,m,sg,3,,A,A'>
+9	somulu	NNP	<fs af='somu,n,any,pl,3,,0,0'>|<fs af='somu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='somulu,n,any,sg,3,,0,0'>|<fs af='somulu,n,any,sg,3,,obl,obl'>|<fs af='somulu,n,any,sg,3,,vu_agr,vu_agr'>|<fs af='somudu,n,any,pl,3,,0,0'>|<fs af='somudu,n,any,pl,3,,vu_agr,vu_agr'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

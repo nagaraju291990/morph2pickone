@@ -1,0 +1,17 @@
+<Sentence id="2881">
+0	((	SSF
+1	gAMXIjI	NN	<fs af='gAMXIjI,n,,sg,,,0,0'>|<fs af='gAMXIjI,n,,sg,,,obl,obl'>
+2	snehiwudu	NN	<fs af='snehiwa,adj,any,any,any,,vAdu_adj,vAdu_adj'>|<fs af='snehiwudu,n,any,sg,3,,0,0'>
+3	SrIpolak	NNP	<fs af='SrIpolak,n,any,sg,3,,0,0'>|<fs af='SrIpolak,n,any,sg,3,,obl,obl'>
+4	awanni	PRP	<fs af='awanu,pn,m,sg,3,,ni,ni'>
+5	pilici	VM	<fs af='piluvu,v,any,any,any,,i,i'>
+6	APIsu	NN	<fs af='APIs,n,any,sg,3,,0,0'>|<fs af='APIs,n,any,sg,3,,obl,obl'>|<fs af='APIsu,n,any,sg,3,,0,0'>|<fs af='APIsu,n,any,sg,3,,obl,obl'>
+7	nuMci	PSP	<fs af='nuMci,avy,,,,,, '>
+8	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+9	puswakamu	NN	<fs af='puswakaM,n,any,sg,3,,0,0'>
+10	wIsukoVni	VM	<fs af='wIsuko,v,any,any,any,,i,i'>|<fs af='wIsuko,v,any,any,any,,i,i'>
+11	rammani	VM	<fs af='rammanu,v,any,any,any,,i,i'>
+12	ceVppAdu	VM	<fs af='ceVppu,v,m,sg,3,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

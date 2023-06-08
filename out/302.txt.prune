@@ -1,0 +1,21 @@
+<Sentence id="302">
+0	((	SSF	
+1	wirupawilo	NNP	<fs af='wirupawi,n,any,sg,3,,lo,lo'>
+2	murugu	NN	<fs af='murugu,n,any,sg,3,,0,0'>|<fs af='murugu,n,any,sg,3,,obl,obl'>
+3	kAlvalo	NN	<fs af='kAlva,n,any,sg,3,,lo,lo'>|<fs af='kAlva,n,any,pl,3,,0,0_o'>
+4	xoVrikina	VM	<fs af='xoVruku,v,any,any,any,,ina,ina'>
+5	Adapilla	NN	<fs af='Adapilla,n,any,sg,3,,0,0'>|<fs af='Adapilla,n,any,sg,3,,obl,obl'>
+6	SavaM	NN	<fs af='SavaM,n,any,sg,3,,0,0'>
+7	gudi	NN	<fs af='gudi,n,any,sg,3,,0,0'>|<fs af='gudi,n,any,sg,3,,obl,obl'>
+8	meVtla	NN	<fs af='meVttu,n,any,pl,3,,obl,obl'>
+9	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+10	anAXa	NN	<fs af='anAXa,n,any,sg,3,,0,0'>|<fs af='anAXa,n,any,sg,3,,obl,obl'>
+11	Ada	VM	<fs af='Adu,v,any,any,any,,an,an'>
+11	SiSuvu	NN	<fs af='SiSuvu,n,,sg,,,0,0'>|<fs af='SiSuvu,n,,sg,,,obl,obl'>
+12	ceVwwa	NN	<fs af='ceVwwa,n,any,sg,3,,0,0'>|<fs af='ceVwwa,n,any,sg,3,,obl,obl'>
+13	kuppallo	NN	<fs af='kuppa,n,any,pl,3,,lo,lo'>
+14	pasi	JJ	<fs af='pasi,adj,any,any,any,,0_adj,0_adj'>
+15	pApa	NN	<fs af='pApa,n,any,sg,3,,0,0'>|<fs af='pApa,n,any,sg,3,,obl,obl'>|<fs af='pApaM,n,any,sg,3,,obl,obl'>|<fs af='pApudu,n,any,sg,3,,obl,obl'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

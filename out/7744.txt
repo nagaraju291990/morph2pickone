@@ -1,0 +1,10 @@
+<Sentence id="7744">
+0	((	SSF
+1	neVmmaxigA	RB	<fs af='neVmmaxi,n,any,sg,3,,gA,gA'>
+2	eVgiri	VM	<fs af='eVguru,v,any,any,any,,i,i'>
+3	xUlaM	NN	<fs af='xUlaM,n,any,sg,3,,0,0'>
+4	mIxaku	NST	<fs af='mIxa,n,any,sg,3,,ki,ki'>
+5	xigiMxi	VM	<fs af='xigu,v,fn,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,11 @@
+<Sentence id="2157">			
+0	((	SSF	
+1	kaMti	NN	<fs af='kannu,n,any,sg,3,,obl,obl'>
+2	jabbulaku	NN	<fs af='jabbu,n,any,pl,3,,ki,ki'>
+3	boVppAyi	NN	<fs af='boVppAyi,n,any,sg,3,,0,0'>|<fs af='boVppAyi,n,any,sg,3,,obl,obl'>
+4	paMdu	NN	<fs af='paMdu,n,any,sg,3,,0,0'>|<fs af='paMdu,n,any,sg,3,,obl,obl'>
+5	maMci	JJ	<fs af='maMci,adj,any,any,any,,0_adj,0_adj'>
+6	maMxu	NN	<fs af='maMxu,n,any,sg,3,,0,0'>|<fs af='maMxu,n,any,sg,3,,obl,obl'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

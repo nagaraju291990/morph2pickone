@@ -1,0 +1,12 @@
+<Sentence id="5173">
+0	((	SSF
+1	ayinA	CC	<fs af='avvu,v,any,any,any,,inA,inA'>
+2	I	DEM	<fs af='I,avy,,,,,, '>
+3	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+4	UlYla	NN	<fs af='Uru,n,any,pl,3,,obl,obl'>
+5	maXya	NST	<fs af='maXya,n,any,sg,3,,0,0'>|<fs af='maXya,n,any,sg,3,,obl,obl'>|<fs af='maXyaM,n,any,sg,3,,obl,obl'>
+6	eVMwa	WQ	<fs af='eVMwa,pn,any,sg,3,,0,0'>
+7	wedA	NN	<fs af='we,v,m,sg,3,,a,a_A'>|<fs af='weda,n,any,sg,3,,0,0_A'>|<fs af='weda,n,any,sg,3,,0,0_V'>|<fs af='wedA,n,any,sg,3,,0,0'>|<fs af='wedA,n,any,sg,3,,obl,obl'>
+8	?	SYM	<fs af='?,punc,,,,,, '>
+))
+</Sentence>

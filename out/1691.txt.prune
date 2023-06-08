@@ -1,0 +1,14 @@
+<Sentence id="1691">
+0	((	SSF	
+1	ApareRanu	NN	<fs af='ApareRan,n,any,sg,3,,0,0'>|<fs af='ApareRan,n,any,sg,3,,obl,obl'>|<fs af='ApareRanu,n,any,sg,3,,0,0'>|<fs af='ApareRanu,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	ika	RP	<fs af='ika,avy,,,,,,'>
+4	biddanu	NN	<fs af='bidda,n,any,sg,3,,ni,ni'>|<fs af='bidda,n,any,sg,3,,ni_agr,ni_agr'>
+5	vaxxani	VM	<fs af='vaxxa,adv,any,any,any,,nu_adv,nu_adv' poslcat="NM">
+6	wIrmAniMcukunna	VM	<fs af='wIrmAniMcu,v,any,any,any,,koVn_ina,koVn_ina'>
+7	vAlYlaku	PRP	<fs af='vAlYlu,pn,mf,pl,3,,ki,ki'>
+8	ApareRan	NN	<fs af='ApareRan,n,any,sg,3,,0,0'>|<fs af='ApareRan,n,any,sg,3,,obl,obl'>
+9	ceyiMcukovaccu	VM	<fs af='ceyiMcu,v,any,any,any,,koVn_a_vaccu,koVn_a_vaccu'>|<fs af='ceyiMcu,v,any,any,any,,koVn_a_vaccu,koVn_a_vaccu'>|<fs af='ceyiMcu,v,any,any,any,,koVn_a_vaccu,koVn_a_vaccu'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

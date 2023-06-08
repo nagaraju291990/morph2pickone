@@ -1,0 +1,30 @@
+<Sentence id="8997">			
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	A	DEM	<fs af='A,avy,,,,,,'>
+3	gurraM	NN	<fs af='gurraM,n,any,sg,3,,0,0'>
+4	Xvani	NN	<fs af='Xvani,n,any,sg,3,,0,0'>
+5	xUrAniki	NN	<fs af='xUraM,n,any,sg,3,,ki,ki'>
+6	mAtala	NN	<fs af='mAta,n,,pl,,,obl,obl'>
+6	alle	VM	<fs af='allu,v,any,any,any,,e,e'>
+7	vinabaduwuMxi	VM	<fs af='vinabadu,v,fn,sg,3,,wA,wA'>
+8	anI	UT	<fs af='anI,avy,,,,,,'>
+9	,	SYM	<fs af=',,punc,,,,,,'>
+10	xaggaraku	NN	<fs af='xaggara,adv,any,any,any,,0,0_adv_ku'>
+11	peVxxa	JJ	<fs af='peVxxa,adj,any,any,any,,0_adj,0_adj'>
+12	mowagA	RB	<fs af='mowa,n,any,sg,3,,gA,gA'>
+13	vinabaduwuMxi	VM	<fs af='vinabadu,v,fn,sg,3,,wA,wA'>
+14	ani	UT	<fs af='ani,avy,,,,,,'>
+15	pawrikalalo	NN	<fs af='pawrika,n,any,pl,3,,lo,lo'>
+16	caxivAmu	VM	<fs af='caxuvu,v,any,pl,1,,A,A'>
+17	kaxA	RP	<fs af='kaxA,avy,,,,,,'>
+18	xaggaraku	NN	<fs af='xaggara,adv,any,any,any,,0,0_adv_ku'>
+19	mowagA	RB	<fs af='mowa,n,any,sg,3,,gA,gA'>
+20	vinabadataM	VM	<fs af='vinabadu,v,any,any,any,,adaM,adaM'>
+21	mAwrame	PSP	<fs af='mAwrame,avy,,,,,,'>
+22	nijamu	NN	<fs af='nijaM,n,,sg,,,0,0'>
+22	E	VM	<fs af='avvu,v,any,any,any,,i,i'>
+23	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>
+24	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

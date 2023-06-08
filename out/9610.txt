@@ -1,0 +1,10 @@
+<Sentence id="9610">
+0	((	SSF
+1	biRappu	NN	<fs af='biRappu,n,any,sg,3,,0,0'>|<fs af='biRappu,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,, '>
+3	mI	PRP	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+4	mawaM	NN	<fs af='mawaM,n,any,sg,3,,0,0'>
+5	emiti	WQ	<fs af='emiti,avy,,,,,, '>
+6	?	SYM	<fs af='?,punc,,,,,, '>
+))
+</Sentence>

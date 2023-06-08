@@ -1,0 +1,16 @@
+<Sentence id="9750">
+0	((	SSF
+1	paxi	QC	<fs af='paxi,n,any,sg,3,,0,0'>|<fs af='paxi,n,any,sg,3,,obl,obl'>
+2	paxakoVMdu	QC	<fs af='paxakoVMdu,n,any,sg,3,,0,0'>|<fs af='paxakoVMdu,n,any,sg,3,,obl,obl'>
+3	neVlalu	NN	<fs af='neVla,n,any,pl,3,,0,0'>|<fs af='neVla,n,any,pl,3,,vu_agr,vu_agr'>
+4	gadacina	VM	<fs af='gadacina,n,any,sg,3,,0,0'>|<fs af='gadacina,n,any,sg,3,,obl,obl'>
+5	waruvAwa	PSP	<fs af='waruvAwa,avy,,,,,, '>
+6	hAhU	NNP	<fs af='hAhU,n,any,sg,3,,0,0'>|<fs af='hAhU,n,any,sg,3,,obl,obl'>
+7	rUpAnni	NN	<fs af='rUpaM,n,any,sg,3,,ni,ni'>|<fs af='rUpaM,n,any,sg,3,,ni_agr,ni_agr'>
+8	guriMcina	NN	<fs af='guriMcina,avy,,,,,0,0_avy'>
+9	viMwa	NN	<fs af='viMwa,n,any,sg,3,,0,0'>|<fs af='viMwa,n,any,sg,3,,obl,obl'>
+10	cAlA	INTF	<fs af='cAlu,v,any,any,any,,i,i_A'>
+11	waggiMxi	VM	<fs af='waggu,v,fn,sg,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

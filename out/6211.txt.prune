@@ -1,0 +1,14 @@
+<Sentence id="6211">
+0	((	SSF	
+1	pariSramalu	NN	<fs af='pariSrama,n,any,pl,3,,0,0'>|<fs af='pariSrama,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pariSramalu,n,any,sg,3,,0,0'>|<fs af='pariSramalu,n,any,sg,3,,vu_agr,vu_agr'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	janapanAra	NN	<fs af='janapanAra,n,any,sg,3,,0,0'>|<fs af='janapanAra,n,any,sg,3,,obl,obl'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	peparu	NN	<fs af='pepar,n,any,sg,3,,0,0'>|<fs af='pepar,n,any,sg,3,,obl,obl'>|<fs af='peparu,n,any,sg,3,,0,0'>|<fs af='peparu,n,any,sg,3,,obl,obl'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	cakkeVra	NN	<fs af='cakkeVra,n,any,sg,3,,0,0'>|<fs af='cakkeVra,n,any,sg,3,,obl,obl'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	jIdipappu	NN	<fs af='jIdipappu,n,any,sg,3,,0,0'>|<fs af='jIdipappu,n,any,sg,3,,obl,obl'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

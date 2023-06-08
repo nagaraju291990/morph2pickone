@@ -1,0 +1,26 @@
+<Sentence id="8803">			
+0	((	SSF	
+1	*	SYM	<fs af='*,punc,,,,,,'>
+2	`	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+3	kImAwWa	NN	<fs af='kImAwWa,avy,,,,,0,0_avy' poslcat="NM">
+4	'	SYM	<fs af=',punc,,,,,,'>
+5	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+8	jaMwuvu	NN	<fs af='jaMwuvu,n,any,sg,3,,0,0'>|<fs af='jaMwuvu,n,any,sg,3,,obl,obl'>
+9	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+10	mAtalu	NN	<fs af='mAta,n,any,pl,3,,0,0'>|<fs af='mAta,n,any,pl,3,,vu_agr,vu_agr'>
+11	viMtUne	VM	<fs af='vinu,v,any,any,any,,wU,wU_e'>
+12	ceVvulu	NN	<fs af='ceVvi,n,any,pl,3,,0,0'>
+13	rikkiMci	VM	<fs af='rikkiMcu,v,any,any,any,,i,i'>
+14	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+15	kanulu	VM	<fs af='kanulu,v,any,sg,2,,AjFArWa,AjFArWa'>
+16	peVxxavi	NN	<fs af='peVxxa,adj,,pl,,,ni_xi,ni_xi_0' poslcat="NM" deri_cat=pn>
+17	cesi	VM	<fs af='ceVyyi,v,any,any,any,,i,i'>
+18	cewulu	NN	<fs af='ceyi,n,any,pl,3,,0,0'>|<fs af='ceyi,n,any,pl,3,,vu_agr,vu_agr'>
+19	cAci	VM	<fs af='cAcu,v,any,any,any,,i,i'>
+20	peVxxagA	RB	<fs af='peVxxa,adj,any,any,any,,gA_adj,gA_adj' poslcat="NM">
+21	sakiliMciMxi	VM	<fs af='sakiliMcu,v,fn,sg,3,,A,A'>
+22	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

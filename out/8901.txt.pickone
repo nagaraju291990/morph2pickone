@@ -1,0 +1,12 @@
+<Sentence id="8901">			
+0	((	SSF	
+1	`	SYM	<fs af='<'>
+2	nArAyaNa	NNP	<fs af='nArAyaNa,n,any,sg,3,,0,0'>
+3	anutaku	NN	<fs af='anu,adj,,sg,,,adaM_ki,adaM_ki' deri_cat=n>
+4	`	SYM	<fs af='<'>
+5	nArAyaNa	NNP	<fs af='nArAyaNa,n,any,sg,3,,0,0'>
+6	'	SYM	<fs af=',punc,,,,,,'>
+7	aMtAru	VM	<fs af='anu,v,any,pl,2,,wA,wA'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

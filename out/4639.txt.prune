@@ -1,0 +1,10 @@
+<Sentence id="4639">
+0	((	SSF	
+1	Ewe	CC	<fs af='avvu,v,any,any,any,,we,we' poslcat="NM">
+2	poVlasa	NNP	<fs af='poVlasa,n,any,sg,3,,0,0'>|<fs af='poVlasa,n,any,sg,3,,obl,obl'>
+3	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+4	valasa	NN	<fs af='valasa,n,any,sg,3,,0,0'>|<fs af='valasa,n,any,sg,3,,obl,obl'>
+5	cepa	NN	<fs af='cepa,n,any,sg,3,,0,0'>|<fs af='cepa,n,any,sg,3,,obl,obl'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

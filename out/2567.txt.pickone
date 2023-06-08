@@ -1,0 +1,16 @@
+<Sentence id="2567">			
+0	((	SSF	
+1	xInivalla	PRP	<fs af='ixi,pn,fn,sg,3,,valana,valana'>
+2	Sanaga	NN	<fs af='Sanaga,n,any,sg,3,,0,0'>
+3	paMtaku	NN	<fs af='paMta,n,any,sg,3,,ki,ki'>
+4	patte	VM	<fs af='pattu,v,any,any,any,,e,e'>
+5	veru	NN	<fs af='veru,n,any,sg,3,,0,0'>
+5	kulYlu	NN	<fs af='kudi,n,any,pl,3,,0,0'>
+6	weVgulu	NN	<fs af='weVgulu,n,,sg,,,0,0'>
+7	mariyu	CC	<fs af='mariyu,avy,,,,,,'>
+8	eVMdu	NN	<fs af='eVMd,n,any,sg,3,,0,0'>
+8	weVgulunu	NN	<fs af='weVgulu,n,,sg,,,nu,nu'>
+9	arikattavaccu	VM	<fs af='arikattu,v,any,any,any,,a_vaccu,a_vaccu'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

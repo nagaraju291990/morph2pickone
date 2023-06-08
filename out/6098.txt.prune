@@ -1,0 +1,20 @@
+<Sentence id="6098">
+0	((	SSF	
+1	600	QC	<fs af='600,num,,,,,,'>
+2	-	SYM	<'>|<poslcat="NM"'>
+3	1000	QC	<fs af='1000,num,,,,,,'>
+4	saM||	NN	<fs af='saM|||,unk,,,,,,' poslcat="NM">
+5	varaku	PSP	<fs af='varaku,avy,,,,,,' poslcat="NM">|<fs af='varaku,adv,any,any,any,,0_adv,0_adv' poslcat="NM">
+6	pAliMcina	VM	<fs af='pAliMcu,v,any,any,any,,ina,ina'>
+7	rAjavaMSAlalo	NN	<fs af='rAjavaMSaM,n,any,pl,3,,lo,lo'>
+8	cAlYukyulu	NNP	<fs af='cAlYukyudu,n,any,pl,3,,0,0'>|<fs af='cAlYukyudu,n,any,pl,3,,vu_agr,vu_agr'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	kAlYiMgulu	NNP	<fs af='kAlYiMgulu,n,any,sg,3,,0,0'>|<fs af='kAlYiMgulu,n,any,sg,3,,vu_agr,vu_agr'>
+11	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+12	colYulu	NNP	<fs af='colYudu,n,any,pl,3,,0,0'>|<fs af='colYudu,n,any,pl,3,,vu_agr,vu_agr'>
+13	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+14	rARtrakUtulu	NNP	<fs af='rARtrakUtudu,n,any,pl,3,,0,0'>|<fs af='rARtrakUtudu,n,any,pl,3,,vu_agr,vu_agr'>
+15	pAliMcAru	VM	<fs af='pAliMcu,v,any,pl,2,,A,A'>|<fs af='pAliMcu,v,mf,pl,3,,A,A'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

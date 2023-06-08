@@ -1,0 +1,9 @@
+<Sentence id="7234">
+0	((	SSF	
+1	kAci	VM	<fs af='kAcu,v,any,any,any,,i,i'>
+2	callArcina	VM	<fs af='callArcu,v,any,any,any,,ina,ina'>|<fs af='callAruvu,v,any,any,any,,ina,ina'>
+3	nIlYlalo	NN	<fs af='nIru,n,any,pl,3,,lo,lo'>
+4	kalipiMxi	VM	<fs af='kalupu,v,fn,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

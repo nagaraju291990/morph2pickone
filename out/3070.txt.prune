@@ -1,0 +1,12 @@
+<Sentence id="3070">
+0	((	SSF	
+1	vini	VM	<fs af='vinu,v,any,any,any,,i,i'>
+2	koVMceVM	QF	<fs af='koVMceVM,n,any,sg,3,,0,0'>|<fs af='koVMceVM,n,any,sg,3,,obl,obl'>
+3	sepu	NST	<fs af='sepu,adv,any,any,any,,0_adv,0_adv'>
+4	AlociMci	VM	<fs af='AlociMcu,v,any,any,any,,i,i'>
+5	bApUjI	NN	<fs af='bApUjI,n,,sg,,,0,0'>|<fs af='bApUjI,n,,sg,,,obl,obl'>
+6	ilA	RB	<fs af='ilA,avy,,,,,,' poslcat="NM">|<fs af='ila,n,any,sg,3,,0,0_A' poslcat="NM">|<fs af='ila,n,any,sg,3,,0,0_V' poslcat="NM">
+7	javAbiccAru	VM	<fs af='javAbivvu,v,any,pl,2,,A,A'>|<fs af='javAbivvu,v,mf,pl,3,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

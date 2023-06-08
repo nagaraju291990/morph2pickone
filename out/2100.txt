@@ -1,0 +1,15 @@
+<Sentence id="2100">
+0	((	SSF
+1	kAni	RP	<fs af='kAni,avy,,,,,, '>|<fs af='avvu,v,any,any,any,,ani,ani'>
+2	,	SYM	<fs af=',,punc,,,,,, '>
+3	oVkappudu	NST	<fs af='oVkappudu,adv,any,any,any,,0_adv,0_adv'>
+4	ilAge	NN	<fs af='ilAgu,avy,,,,,e,e_avy'>
+5	eVvaru	PRP	<fs af='eVvaru,pn,,pl,,,0,0'>|<fs af='eVvaru,pn,,pl,,,vu,vu'>
+5	EnA	NN	<fs af='EnA,avy,,,,,,'>
+6	ceVppi	VM	<fs af='ceVppu,v,any,any,any,,i,i'>
+7	uMte	VAUX	<fs af='uMdu,v,any,any,any,,we,we'>
+8	namme	VM	<fs af='nammu,v,any,any,any,,e,e'>|<fs af='nammu,v,any,any,any,,i,i_e'>
+8	vAlYlamA	VM	<fs af='vAlYlamA,unk,,,,,,'>
+9	?	SYM	<fs af='?,punc,,,,,, '>
+))
+</Sentence>

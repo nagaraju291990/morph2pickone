@@ -1,0 +1,18 @@
+<Sentence id="2024">
+0	((	SSF	
+1	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+2	mAru	NN	<fs af='mAru,n,any,sg,3,,0,0'>|<fs af='mAru,n,any,sg,3,,obl,obl'>
+3	kAkapowe	CC	<fs af='avvu,v,any,any,any,,akapowe,akapowe' poslcat="NM">|<fs af='kAkapo,v,any,any,any,,we,we' poslcat="NM">
+4	ayinA	CC	<fs af='avvu,v,any,any,any,,inA,inA' poslcat="NM">
+5	AmeVku	PRP	<fs af='AmeV,pn,f,sg,3,,ki,ki'>
+6	wagile	VM	<fs af='wagu,v,any,any,any,,i_le,i_le'>|<fs af='wagulu,v,any,any,any,,e,e'>|<fs af='wagulu,v,any,any,any,,i,i_e'>
+7	avakASaM	NN	<fs af='avakASaM,n,any,sg,3,,0,0'>
+8	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+9	kaxA	RP	<fs af='kaxA,avy,,,,,,'>
+10	!	SYM	<fs af='!,punc,,,,,,'>
+11	eVMwa	WQ	<fs af='eVMwa,pn,any,sg,3,,0,0'>
+12	mAwramU	PSP	<fs af='mAwramU,avy,,,,,,' poslcat="NM">
+13	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

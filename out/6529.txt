@@ -1,0 +1,12 @@
+<Sentence id="6529">
+0	((	SSF
+1	xInivalla	PRP	<fs af='ixi,pn,fn,sg,3,,valana,valana'>
+2	eVmuka	NN	<fs af='eVmuka,n,any,sg,3,,0,0'>|<fs af='eVmuka,n,any,sg,3,,obl,obl'>
+3	wirigi	VM	<fs af='wirigi,avy,,,,,, '>|<fs af='wirugu,v,any,any,any,,i,i'>
+4	mAmUlu	JJ	<fs af='mAmUlu,n,any,sg,3,,0,0'>
+5	sWiwiki	NN	<fs af='sWiwi,n,any,sg,3,,ki,ki'>
+6	rA	VM	<fs af='rA,n,,sg,,,0,0'>|<fs af='rAd,n,,sg,,,obl,obl'>|<fs af='vaccu,v,m,sg,3,,a,a'>
+6	galuguwuMxi	VM	<fs af='galugu,v,fn,sg,3,,wA,wA'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

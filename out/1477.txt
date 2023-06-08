@@ -1,0 +1,10 @@
+<Sentence id="1477">
+0	((	SSF
+1	Ewe	CC	<fs af='avvu,v,any,any,any,,we,we'>
+2	iMkA	RP	<fs af='iMkA,avy,,,,,, '>|<fs af='iMku,v,any,any,any,,i,i_A'>
+3	reVMdelYlu	NN	<fs af='reVMdelYlu,n,any,sg,3,,0,0'>|<fs af='reVMdelYlu,n,any,sg,3,,vu_agr,vu_agr'>
+4	jaragani	VM	<fs af='jarugu,v,any,any,any,,ani,ani'>|<fs af='jaragu,v,any,any,any,,ani,ani'>
+5	svAmI	NN	<fs af='svAmi,n,any,sg,3,,0,0_V'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

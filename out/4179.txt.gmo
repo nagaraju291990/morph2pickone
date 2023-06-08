@@ -1,0 +1,10 @@
+<Sentence id="4179">			
+0	((	SSF	
+1	rAnu	VM	<fs af='vaccu,v,any,sg,1,,a,a'>
+2	rAnu	RDP	<fs af='vaccu,v,any,sg,1,,a,a' poslcat="NM">
+3	BImuni	NNP	<fs af='BImu,n,any,sg,3,,ni,ni'>|<fs af='BImudu,n,any,sg,3,,obl,obl'>
+4	beVxiriMpulu	NN	<fs af='beVxiriMpu,n,any,pl,3,,0,0'>|<fs af='beVxiriMpu,n,any,pl,3,,vu_agr,vu_agr'>
+5	peVrigAyi	VM	<fs af='peVrugu,v,n,pl,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

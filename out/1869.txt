@@ -1,0 +1,13 @@
+<Sentence id="1869">
+0	((	SSF
+1	memu	PRP	<fs af='memu,pn,any,pl,1,,0,0'>
+2	3	QC	<fs af='3,num,,,,,, '>
+3	wAgAmu	VM	<fs af='wAgu,v,any,pl,1,,A,A'>
+4	1	QC	<fs af='1,num,,,,,, '>|<fs af='va,avy,,,,,, '>
+5	_	SYM
+6	50	QC	<fs af='50,num,,,,,, '>|<fs af='pE,adj,any,any,any,,0_adj,0_adj'>
+7	ayyiMxani	VM	<fs af='avvu,v,fn,sg,3,,A_ani,A_ani'>
+8	wAginavAlYlu	VM	<fs af='wAgu,v,any,any,any,,ina_vAlYlu,ina_vAlYlu'>|<fs af='wAginavAlYlu,pn,mf,pl,3,,0,0'>|<fs af='wAginavAlYlu,pn,mf,pl,3,,vu,vu'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

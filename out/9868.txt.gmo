@@ -1,0 +1,10 @@
+<Sentence id="9868">			
+0	((	SSF	
+1	mIru	PRP	<fs af='mIru,pn,any,pl,2,,0,0'>
+2	korina	VM	<fs af='koru,v,any,any,any,,ina,ina'>
+3	prawi	JJ	<fs af='prawi,adj,any,any,any,,0_adj,0_adj'>
+4	korikA	NN	<fs af='korika,n,any,sg,3,,0,0_A'>|<fs af='korika,n,any,sg,3,,0,0_V'>
+5	wIruswAnu	VM	<fs af='wIruvu,v,any,sg,1,,wA,wA'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

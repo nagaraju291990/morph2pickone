@@ -1,0 +1,26 @@
+<Sentence id="4977">			
+0	((	SSF	
+1	kArp	NNP	<fs af='kArp,n,any,sg,3,,0,0'>
+2	cepalu	NN	<fs af='cepa,n,any,pl,3,,0,0'>
+3	_	SYM	<fs af='<'>
+4	_	SYM	<fs af='<'>
+5	_	SYM	<fs af='<'>
+6	_	SYM	<fs af='<'>
+7	_	SYM	<fs af='<'>
+8	_	SYM	<fs af='<'>
+9	_	SYM	<fs af='<'>
+10	_	SYM	<fs af='<'>
+11	_	SYM	<fs af='<'>
+12	_	SYM	<fs af='<'>
+13	_	SYM	<fs af='<'>
+14	_	SYM	<fs af='<'>
+15	wrimUrwulu	NNP	<fs af='wrimUrwi,n,any,pl,3,,0,0'>
+16	ane	UT	<fs af='ane,avy,,,,,,'>
+17	mUdu	QC	<fs af='mUdu,n,any,sg,3,,0,0'>
+18	muKyamEna	JJ	<fs af='muKya,adj,any,any,any,,xEna_na_adj,xEna_na_adj'>
+19	cepalu	NN	<fs af='cepa,n,any,pl,3,,0,0'>
+20	kArp	NNP	<fs af='kArp,n,any,sg,3,,0,0'>
+21	cepalu	NN	<fs af='cepa,n,any,pl,3,,0,0'>
+22	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

@@ -1,0 +1,9 @@
+<Sentence id="228">
+0	((	SSF
+1	maMci	JJ	<fs af='maMci,adj,any,any,any,,0_adj,0_adj'>
+2	maMci	RDP	<fs af='maMci,adj,any,any,any,,0_adj,0_adj'>
+3	puswakAlu	NN	<fs af='puswakaM,n,any,pl,3,,0,0'>|<fs af='puswakaM,n,any,pl,3,,vu_agr,vu_agr'>
+4	iswunnAru	VM	<fs af='ivvu,v,any,pl,2,,wunn,wunn'>|<fs af='ivvu,v,mf,pl,3,,wunn,wunn'>|<fs af='iswuMdu,v,any,pl,2,,A,A'>|<fs af='iswuMdu,v,mf,pl,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

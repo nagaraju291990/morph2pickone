@@ -1,0 +1,13 @@
+<Sentence id="1880">
+0	((	SSF	
+1	moVxata	NST	<fs af='moVxata,adv,any,any,any,,0_adv,0_adv'>
+2	alAge	RB	<fs af='alAge,avy,,,,,,' poslcat="NM">
+3	ceVppi	VM	<fs af='ceVppu,v,any,any,any,,i,i'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	vAlYlanu	PRP	<fs af='vAlYlu,pn,mf,pl,3,,ni,ni'>
+6	bAgA	INTF	<fs af='bAgA,avy,,,,,,'>
+7	mosaM	NN	<fs af='mosaM,n,any,sg,3,,0,0'>
+8	ceSAdu	VM	<fs af='ceVyyi,v,m,sg,3,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

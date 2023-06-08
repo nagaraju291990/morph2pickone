@@ -1,0 +1,14 @@
+<Sentence id="6146">
+0	((	SSF
+1	sumAru	NN	<fs af='sumAru,n,any,sg,3,,0,0'>|<fs af='sumAru,n,any,sg,3,,obl,obl'>
+2	6	QC	<fs af='6,num,,,,,, '>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	00	QC	<fs af='00,num,,,,,, '>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	000	QC	<fs af='000,num,,,,,, '>
+7	kArmikulaku	NN	<fs af='kArmikudu,n,any,pl,3,,ki,ki'>
+8	upAXini	NN	<fs af='upAXi,n,,sg,,,nu,nu'>|<fs af='upAXi,n,,sg,,,ni,ni'>
+8	iswunnAyi	VM	<fs af='ivvu,v,n,pl,3,,wunn,wunn'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

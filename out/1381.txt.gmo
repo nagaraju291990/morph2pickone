@@ -1,0 +1,18 @@
+<Sentence id="1381">			
+0	((	SSF	
+1	oVka	QC	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+2	kilogrAmu	NN	<fs af='kilogrAm,n,any,sg,3,,0,0'>|<fs af='kilogrAm,n,any,sg,3,,obl,obl'>
+3	viwwanAniki	NN	<fs af='viwwanaM,n,any,sg,3,,ki,ki'>
+4	3	QC	<fs af='3,num,,,,,,'>
+5	grAmula	NN	<fs af='grAm,n,any,pl,3,,obl,obl'>
+6	WErAn	NN	<fs af='WErAn,n,any,sg,3,,0,0'>|<fs af='WErAn,n,any,sg,3,,obl,obl'>
+7	lexA	CC	<fs af='lexA,avy,,,,,,'>
+8	keptAn	NN	<fs af='keptAn,n,any,sg,3,,0,0'>|<fs af='keptAn,n,any,sg,3,,obl,obl'>
+9	maMxunu	NN	<fs af='maMxu,n,any,sg,3,,ni,ni'>|<fs af='maMxu,n,any,sg,3,,ni_agr,ni_agr'>
+10	vAdi	VM	<fs af='vAdu,v,any,any,any,,i,i'>
+11	viwwana	NN	<fs af='viwwanaM,n,any,sg,3,,obl,obl'>
+12	SuxXi	NN	<fs af='SuxXi,n,any,sg,3,,0,0'>|<fs af='SuxXi,n,any,sg,3,,obl,obl'>
+13	ceyAli	VM	<fs af='ceVyyi,v,any,any,any,,Ali,Ali'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

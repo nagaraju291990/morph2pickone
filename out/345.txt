@@ -1,0 +1,12 @@
+<Sentence id="345">
+0	((	SSF
+1	ippatike	NST	<fs af='ippudu,adv,any,any,any,,ki_e_adv,ki_e_adv'>
+2	sarEna	JJ	<fs af='sarEna,n,any,sg,3,,0,0'>|<fs af='sarEna,n,any,sg,3,,obl,obl'>
+3	AhAraM	NN	<fs af='AhAraM,n,any,sg,3,,0,0'>
+4	leka	VM	<fs af='gala,v,any,any,any,,aka,aka'>
+5	AmeV	PRP	<fs af='AmeV,pn,f,sg,3,,0,0'>|<fs af='AmeV,pn,f,sg,3,,obl,obl'>
+6	cikkipoyiMxi	VM	<fs af='cikkipo,v,fn,sg,3,,A,A'>
+6	anukoMdi	VM	<fs af='anuko,v,,pl,2,,AjFArWa,AjFArWa'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

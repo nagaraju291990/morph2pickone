@@ -1,0 +1,12 @@
+<Sentence id="6636">
+0	((	SSF
+1	ilA	RB	<fs af='ilA,avy,,,,,, '>|<fs af='ila,n,any,sg,3,,0,0_A'>|<fs af='ila,n,any,sg,3,,0,0_V'>
+2	cesinaMxuvalla	VM	<fs af='ceVyyi,v,any,any,any,,ina_aMxuvalla,ina_aMxuvalla'>
+3	weVgina	VM	<fs af='weVgu,v,any,any,any,,ina,ina'>
+4	BAgaM	NN	<fs af='BAgaM,n,any,sg,3,,0,0'>
+5	wvaragA	RB	<fs af='wvaraga,n,any,sg,3,,0,0_A'>|<fs af='wvaraga,n,any,sg,3,,0,0_V'>|<fs af='wvaragA,n,any,sg,3,,0,0'>|<fs af='wvaragA,n,any,sg,3,,obl,obl'>
+6	pAdu	VM	<fs af='pAdu,v,,sg,2,,AjFArWa,AjFArWa'>|<fs af='pAdu,adj,,,,,0,0_adj'>|<fs af='pAdu,n,,sg,,,0,0'>|<fs af='pAdu,n,,sg,,,obl,obl'>|<fs af='pAd,n,,sg,,,0,0'>|<fs af='pAd,n,,sg,,,obl,obl'>
+6	kAxu	VM	<fs af='avvu,v,fn,sg,3,,a,a'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

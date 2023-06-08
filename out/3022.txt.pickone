@@ -1,0 +1,33 @@
+<Sentence id="3022">			
+0	((	SSF	
+1	eVnimixi	QC	<fs af='eVnimixi,n,any,sg,3,,0,0'>
+2	_	SYM	<fs af='<'>
+3	_	SYM	<fs af='<'>
+4	_	SYM	<fs af='<'>
+5	_	SYM	<fs af='<'>
+6	_	SYM	<fs af='<'>
+7	_	SYM	<fs af='<'>
+8	caraKA	NN	<fs af='caraKA,n,any,sg,3,,0,0'>
+9	saMGaM	NN	<fs af='saMGaM,n,any,sg,3,,0,0'>
+10	kosaM	PSP	<fs af='kosaM,avy,,,,,,'>
+11	dabbu	NN	<fs af='dabbu,n,any,sg,3,,0,0'>
+12	progu	NN	<fs af='progu,n,any,sg,3,,0,0'>
+13	ceyadaM	VM	<fs af='ceVyyi,v,any,any,any,,adaM,adaM'>
+14	kosaM	PSP	<fs af='kosaM,avy,,,,,,'>
+15	gAMXIjI	NN	<fs af='gAMXIjI,n,,sg,,,0,0'>
+16	pattaNaM	NN	<fs af='pattaNaM,n,any,sg,3,,0,0'>
+17	_	SYM	<fs af='<'>
+18	pattaNa	NN	<fs af='pattaNaM,n,any,sg,3,,obl,obl'>
+19	,	SYM	<fs af=',,punc,,,,,,'>
+20	vAda	NN	<fs af='vAda,n,any,sg,3,,0,0'>
+21	_	SYM	<fs af='<'>
+22	vAdA	NN	<fs af='vAdi,n,any,sg,3,,0,0_A'>
+23	,	SYM	<fs af=',,punc,,,,,,'>
+24	grAmaM	NN	<fs af='grAmaM,n,any,sg,3,,0,0'>
+25	_	SYM	<fs af='<'>
+26	grAmaM	NN	<fs af='grAmaM,n,any,sg,3,,0,0'>
+27	saMcAraM	NN	<fs af='saMcAraM,n,any,sg,3,,0,0'>
+28	ceswunnAru	VM	<fs af='ceVyyi,v,any,pl,2,,wunn,wunn'>
+29	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

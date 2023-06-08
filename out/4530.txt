@@ -1,0 +1,11 @@
+<Sentence id="4530">
+0	((	SSF
+1	reNuka	NNP	<fs af='reNuka,n,any,sg,3,,0,0'>|<fs af='reNuka,n,any,sg,3,,obl,obl'>
+2	Barwa	NN	<fs af='Barwa,n,any,sg,3,,0,0'>|<fs af='Barwa,n,any,sg,3,,obl,obl'>
+3	APIsu	NN	<fs af='APIs,n,any,sg,3,,0,0'>|<fs af='APIs,n,any,sg,3,,obl,obl'>|<fs af='APIsu,n,any,sg,3,,0,0'>|<fs af='APIsu,n,any,sg,3,,obl,obl'>
+4	nuMci	PRP	<fs af='nuMci,avy,,,,,, '>
+5	iMtiki	NN	<fs af='illu,n,any,sg,3,,ki,ki'>
+6	vaswAdu	VM	<fs af='vaccu,v,m,sg,3,,wA,wA'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

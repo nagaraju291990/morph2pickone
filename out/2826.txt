@@ -1,0 +1,12 @@
+<Sentence id="2826">
+0	((	SSF
+1	koVMwamaMxi	NN	<fs af='koVMwamaMxi,n,any,sg,3,,0,0'>|<fs af='koVMwamaMxi,n,any,sg,3,,obl,obl'>|<fs af='koVMwamaMxi,n,any,sg,3,,vu_agr,vu_agr'>
+2	exo	WQ	<fs af='exi,pn,fn,sg,3,,0,0_o'>
+3	winadAniko	VM	<fs af='winadaM,n,any,sg,3,,ki,ki_o'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	wAgadAniko	VM	<fs af='wAgadaM,n,any,sg,3,,ki,ki_o'>
+6	nilici	VM	<fs af='niluvu,v,any,any,any,,i,i'>
+7	poyevAru	VAUX	<fs af='po,v,any,any,any,,e_vAru,e_vAru'>|<fs af='poyevAru,pn,mf,pl,3,,0,0'>|<fs af='poyevAru,pn,mf,pl,3,,vu,vu'>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

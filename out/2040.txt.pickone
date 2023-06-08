@@ -1,0 +1,13 @@
+<Sentence id="2040">			
+0	((	SSF	
+1	awanu	PRP	<fs af='awanu,pn,m,sg,3,,0,0'>
+2	xoVMgawanaM	NN	<fs af='xoVMgawanaM,n,any,sg,3,,0,0'>
+3	vaxxu	NN	<fs af='vaxxu,avy,,,,,0,0_avy'>
+4	anukoVne	VM	<fs af='anuko,v,any,any,any,,e,e'>
+5	vayasu	NN	<fs af='vayasu,n,any,sg,3,,0,0'>
+6	varakU	PSP	<fs af='varakU,avy,,,,,,'>
+7	ilAge	NN	<fs af='ilAgu,avy,,,,,e,e_avy'>
+8	jarigiMxi	VM	<fs af='jarugu,v,fn,sg,3,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

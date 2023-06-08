@@ -1,0 +1,33 @@
+<Sentence id="5205">
+0	((	SSF	
+1	cilakana	NN	<fs af='cilaka,n,,sg,,,na,na'>
+1	ayinA	VM	<fs af='avvu,v,any,any,any,,inA,inA'>
+2	kAkapowini	VM	<fs af='kAkapo,v,any,sg,1,,iwi,iwi'>
+3	!	SYM	<fs af='!,punc,,,,,,'>
+4	-	SYM	<'>|<poslcat="NM"'>
+5	-	SYM	<'>|<poslcat="NM"'>
+6	-	SYM	<'>|<poslcat="NM"'>
+7	-	SYM	<'>|<poslcat="NM"'>
+8	-	SYM	<'>|<poslcat="NM"'>
+9	-	SYM	<'>|<poslcat="NM"'>
+10	-	SYM	<'>|<poslcat="NM"'>
+11	-	SYM	<'>|<poslcat="NM"'>
+12	-	SYM	<'>|<poslcat="NM"'>
+13	-	SYM	<'>|<poslcat="NM"'>
+14	-	SYM	<'>|<poslcat="NM"'>
+15	-	SYM	<'>|<poslcat="NM"'>
+16	-	SYM	<'>|<poslcat="NM"'>
+17	-	SYM	<'>|<poslcat="NM"'>
+18	-	SYM	<'>|<poslcat="NM"'>
+19	-	SYM	<'>|<poslcat="NM"'>
+20	-	SYM	<'>|<poslcat="NM"'>
+21	-	SYM	<'>|<poslcat="NM"'>
+22	-	SYM	<'>|<poslcat="NM"'>
+23	-	SYM	<'>|<poslcat="NM"'>
+24	-	SYM	<'>|<poslcat="NM"'>
+25	nA	PRP	<fs af='nenu,pn,any,sg,1,,obl,obl'>
+26	peru	NN	<fs af='peru,n,any,sg,3,,0,0'>|<fs af='peru,n,any,sg,3,,obl,obl'>
+27	alivelu	NNP	<fs af='alivelu,n,any,sg,3,,0,0'>
+28	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

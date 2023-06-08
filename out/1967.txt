@@ -1,0 +1,6 @@
+<Sentence id="1967">
+0	((	SSF
+1	amAyakulu	NN	<fs af='amAyaka,adj,any,any,any,,vAru_adj,vAru_adj'>|<fs af='amAyakudu,n,any,pl,3,,0,0'>|<fs af='amAyakudu,n,any,pl,3,,vu_agr,vu_agr'>
+2	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,21 @@
+<Sentence id="7062">			
+0	((	SSF	
+1	xeSaMlo	NN	<fs af='xeSaM,n,any,sg,3,,lo,lo'>
+2	saMvawsarAniki	NN	<fs af='saMvawsaraM,n,any,sg,3,,ki,ki'>
+3	@	SYM	<fs af='@,unk,,,,,,' poslcat="NM">
+4	@	SYM	<fs af='@,unk,,,,,,' poslcat="NM">
+5	@	SYM	<fs af='@,unk,,,,,,' poslcat="NM">
+6	@	SYM	<fs af='@,unk,,,,,,' poslcat="NM">
+7	1	QC	<fs af='1,num,,,,,,'>
+8	koti	QC	<fs af='koti,n,any,sg,3,,0,0'>|<fs af='koti,n,any,sg,3,,obl,obl'>
+9	@	SYM	<fs af='@,unk,,,,,,' poslcat="NM">
+10	@	SYM	<fs af='@,unk,,,,,,' poslcat="NM">
+11	@	SYM	<fs af='@,unk,,,,,,' poslcat="NM">
+12	@	SYM	<fs af='@,unk,,,,,,' poslcat="NM">
+13	25	QC	<fs af='25,num,,,,,,'>
+14	lakRala	QC	<fs af='lakRa,n,any,pl,3,,obl,obl'>
+15	maMxi	CL	<fs af='maMxi,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='maMxi,n,any,sg,3,,obl,obl' poslcat="NM">'>
+16	peVruguwunnAru	VM	<fs af='peVrugu,v,any,pl,2,,wunn,wunn'>|<fs af='peVrugu,v,mf,pl,3,,wunn,wunn'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

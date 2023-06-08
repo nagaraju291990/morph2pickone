@@ -1,0 +1,18 @@
+<Sentence id="4243">			
+0	((	SSF	
+1	caxuvu	NN	<fs af='caxuvu,n,any,sg,3,,0,0'>|<fs af='caxuvu,n,any,sg,3,,obl,obl'>
+2	balaM	NN	<fs af='balaM,n,any,sg,3,,0,0'>
+3	saMgawi	NN	<fs af='saMgawi,n,any,sg,3,,0,0'>|<fs af='saMgawi,n,any,sg,3,,obl,obl'>
+4	weVlisiMxA	VM	<fs af='weVliyu,v,fn,sg,3,,A,A_A'>
+5	!	SYM	<fs af='!,punc,,,,,,'>
+6	aMtU	UT	<fs af='aMtU,avy,,,,,,'>|<fs af='anu,v,any,any,any,,wU,wU'>
+7	jAligA	RB	<fs af='jAli,n,any,sg,3,,gA,gA' poslcat="NM">
+8	cUsAdu	VM	<fs af='cUdu,v,m,sg,3,,A,A'>
+9	BImudini	NNP	<fs af='BImudu,n,any,sg,3,,ni,ni'>|<fs af='BImudu,n,any,sg,3,,ni_agr,ni_agr'>
+10	BImudini	NNP	<fs af='BImudu,n,any,sg,3,,ni,ni'>|<fs af='BImudu,n,any,sg,3,,ni_agr,ni_agr'>
+11	polIsulu	NN	<fs af='polIs,n,any,pl,3,,0,0'>|<fs af='polIs,n,any,pl,3,,vu_agr,vu_agr'>
+12	wIsuko	VM	<fs af='wiyyi,v,any,any,any,,koVn,koVn'>
+12	poyAru	VM	<fs af='po,v,any,pl,2,,A,A'>|<fs af='po,v,mf,pl,3,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

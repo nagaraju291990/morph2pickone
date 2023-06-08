@@ -1,0 +1,19 @@
+<Sentence id="1417">
+0	((	SSF	
+1	xAsaripurugu	NN	<fs af='xAsaripurugu,n,any,sg,3,,0,0'>|<fs af='xAsaripurugu,n,any,sg,3,,obl,obl'>
+2	kanabadina	VM	<fs af='kanabadu,v,any,any,any,,ina,ina'>
+3	wakRaNaM	NN	<fs af='wakRaNaM,n,any,sg,3,,0,0'>
+4	monokrotoPAs	NN	<fs af='monokrotoPAs,n,any,sg,3,,0,0'>|<fs af='monokrotoPAs,n,any,sg,3,,obl,obl'>
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	dEmIWoyet	NN	<fs af='dEmIWoyet,n,any,sg,3,,0,0'>|<fs af='dEmIWoyet,n,any,sg,3,,obl,obl'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	eVMdosalPAnulalo	NN	<fs af='eVMdosalPAn,n,any,pl,3,,lo,lo'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	aMxubAtulo	NN	<fs af='aMxubAtu,n,any,sg,3,,lo,lo'>|<fs af='aMxubAtu,n,any,pl,3,,0,0_o'>
+11	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+12	exEnA	WQ	<fs af='exi,pn,fn,sg,3,,Ena,Ena'>
+13	maMxunu	NN	<fs af='maMxu,n,any,sg,3,,ni,ni'>|<fs af='maMxu,n,any,sg,3,,ni_agr,ni_agr'>
+14	wIsukovAli	VM	<fs af='wIsuko,v,any,any,any,,Ali,Ali'>|<fs af='wIsuko,v,any,any,any,,Ali,Ali'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

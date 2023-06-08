@@ -1,0 +1,13 @@
+<Sentence id="6084">
+0	((	SSF	
+1	cariwra	NN	<fs af='cariwra,n,any,sg,3,,0,0'>|<fs af='cariwra,n,any,sg,3,,obl,obl'>|<fs af='cariwraM,n,any,sg,3,,obl,obl'>
+2	lakRa	QC	<fs af='lakRa,n,any,sg,3,,0,0'>|<fs af='lakRa,n,any,sg,3,,obl,obl'>|<fs af='lakRa,num,any,any,any,,0,0'>|<fs af='lakRa,num,any,any,any,,iMti,iMti'>
+3	saMvawsaramulanuMdi	NN	<fs af='saMvawsaraM,n,any,pl,3,,niMci,niMci'>
+4	AMXra	NNP	<fs af='AMXra,n,any,sg,3,,0,0'>|<fs af='AMXra,n,any,sg,3,,obl,obl'>|<fs af='AMXraM,n,any,sg,3,,obl,obl'>|<fs af='AMXrudu,n,any,sg,3,,obl,obl'>
+5	prAMwaM	NN	<fs af='prAMwaM,n,any,sg,3,,0,0'>
+6	janAvAsaMgA	RB	<fs af='janAvAsaM,n,any,sg,3,,gA,gA' poslcat="NM">
+7	unnatlu	VM	<fs af='uMdu,v,any,any,any,,ina_atlu,ina_atlu'>
+8	weVluswoMxi	VM	<fs af='weVluvu,v,fn,sg,3,,wunn,wunn'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

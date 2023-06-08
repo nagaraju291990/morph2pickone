@@ -1,0 +1,27 @@
+<Sentence id="8389">
+0	((	SSF
+1	xInini	PRP	<fs af='ixi,pn,fn,sg,3,,nu,nu'>|<fs af='ixi,pn,fn,sg,3,,ni,ni'>
+2	SAwavAhanulu	NNP	<fs af='SAwavAhanudu,n,any,pl,3,,0,0'>|<fs af='SAwavAhanudu,n,any,pl,3,,vu_agr,vu_agr'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	ikRvAkulu	NNP	<fs af='ikRvAku,n,any,pl,3,,0,0'>|<fs af='ikRvAku,n,any,pl,3,,vu_agr,vu_agr'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	pallavulu	NNP	<fs af='pallavi,n,any,pl,3,,0,0'>|<fs af='pallavudu,n,any,pl,3,,0,0'>|<fs af='pallavudu,n,any,pl,3,,vu_agr,vu_agr'>
+7	,	SYM	<fs af=',,punc,,,,,, '>
+8	cAlYukyulu	NNP	<fs af='cAlYukyudu,n,any,pl,3,,0,0'>|<fs af='cAlYukyudu,n,any,pl,3,,vu_agr,vu_agr'>
+9	,	SYM	<fs af=',,punc,,,,,, '>
+10	reVddirAjulu	NNP	<fs af='reVddirAju,n,any,pl,3,,0,0'>|<fs af='reVddirAju,n,any,pl,3,,vu_agr,vu_agr'>
+11	,	SYM	<fs af=',,punc,,,,,, '>
+12	vijayanagararAjulu	NNP	<fs af='vijayanagararAju,n,any,pl,3,,0,0'>|<fs af='vijayanagararAju,n,any,pl,3,,vu_agr,vu_agr'>
+13	,	SYM	<fs af=',,punc,,,,,, '>
+14	karnAtaka	NNP	<fs af='karnAtaka,n,any,sg,3,,0,0'>|<fs af='karnAtaka,n,any,sg,3,,obl,obl'>
+15	navAbulu	NNP	<fs af='navAb,n,any,pl,3,,0,0'>|<fs af='navAb,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='navAbu,n,any,pl,3,,0,0'>|<fs af='navAbu,n,any,pl,3,,vu_agr,vu_agr'>
+16	pAliMcina	VM	<fs af='pAliMcu,v,any,any,any,,ina,ina'>
+17	praxeSaM	NN	<fs af='praxeSaM,n,any,sg,3,,0,0'>
+18	1978va	QO	<fs af='1978va,unk,,,,,,'>
+19	saM||lo	NN	<fs af='saM||lo,unk,,,,,,'>
+20	prakASaM	NNP	<fs af='prakASaM,n,any,sg,3,,0,0'>
+21	jillAgA	RB	<fs af='jillA,n,any,sg,3,,gA,gA'>
+22	mArcAru	VM	<fs af='mArcu,v,any,pl,2,,A,A'>|<fs af='mArcu,v,mf,pl,3,,A,A'>|<fs af='mAruvu,v,any,pl,2,,A,A'>|<fs af='mAruvu,v,mf,pl,3,,A,A'>
+23	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

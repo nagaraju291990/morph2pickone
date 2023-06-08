@@ -1,0 +1,22 @@
+<Sentence id="8390">			
+0	((	SSF	
+1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+2	jillAku	NN	<fs af='jillA,n,any,sg,3,,ki,ki'>
+3	ceVMxina	VM	<fs af='ceVMxu,v,any,any,any,,ina,ina'>
+4	iwara	JJ	<fs af='iwara,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='iwara,n,any,sg,3,,obl,obl' poslcat="NM">'>
+5	vivaramulu	NN	<fs af='vivaraM,n,any,pl,3,,0,0'>|<fs af='vivaraM,n,any,pl,3,,vu_agr,vu_agr'>
+6	:	SYM	<fs af=':,punc,,,,,,'>
+7	vESAlyaM	NN	<fs af='vESAlyaM,n,any,sg,3,,0,0'>
+8	:	SYM	<fs af=':,punc,,,,,,'>
+9	17626	QC	<fs af='17626,num,,,,,,'>
+10	ki	NN	<fs af='ki,avy,,,,,,' poslcat="NM">'>|<fs af='mIru,pn,any,pl,2,,obl,obl' poslcat="NM">'>
+11	|	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+12	|	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+13	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl' poslcat="NM">
+14	atavI	NN	<fs af='atavi,n,any,sg,3,,0,0_V'>
+15	prAMwaM	NN	<fs af='prAMwaM,n,any,sg,3,,0,0'>
+16	:	SYM	<fs af=':,punc,,,,,,'>
+17	25	QC	<fs af='25,num,,,,,,'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,18 @@
+<Sentence id="4372">
+0	((	SSF
+1	kalYlu	NN	<fs af='kannu,n,any,pl,3,,0,0'>|<fs af='kannu,n,any,pl,3,,vu_agr,vu_agr'>
+2	ceVxiripoyAyi	VM	<fs af='ceVxiripo,v,n,pl,3,,A,A'>
+3	!	SYM	<fs af='!,punc,,,,,, '>
+4	xAMtlo	NN	<fs af='xAMtlo,n,,sg,,,0,0'>|<fs af='xAMtlo,n,,sg,,,obl,obl'>
+5	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+6	vajrAla	NN	<fs af='vajraM,n,any,pl,3,,obl,obl'>
+7	neVkleVssu	NN	<fs af='neVkleVssu,n,any,sg,3,,0,0'>|<fs af='neVkleVssu,n,any,sg,3,,obl,obl'>
+8	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+9	!	SYM	<fs af='!,punc,,,,,, '>
+10	reNuka	NNP	<fs af='reNuka,n,any,sg,3,,0,0'>|<fs af='reNuka,n,any,sg,3,,obl,obl'>
+11	manasu	NN	<fs af='manasu,n,any,sg,3,,0,0'>|<fs af='manasu,n,any,sg,3,,obl,obl'>
+12	vaSaM	NN	<fs af='vaSaM,n,any,sg,3,,0,0'>
+13	wappiMxi	VM	<fs af='wappu,v,fn,sg,3,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

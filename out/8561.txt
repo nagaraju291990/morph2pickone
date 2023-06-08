@@ -1,0 +1,18 @@
+<Sentence id="8561">
+0	((	SSF
+1	vAlYlu	PRP	<fs af='vAlYlu,pn,mf,pl,3,,0,0'>|<fs af='vAlYlu,pn,mf,pl,3,,vu,vu'>
+2	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+3	prakkalA	NST	<fs af='prakka,n,any,sg,3,,lA,lA'>|<fs af='prakka,n,any,pl,3,,0,0_A'>
+4	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+5	gaMtalu	NN	<fs af='gaMta,n,any,pl,3,,0,0'>|<fs af='gaMta,n,any,pl,3,,vu_agr,vu_agr'>
+6	parIkRa	NN	<fs af='parIkRa,n,any,sg,3,,0,0'>|<fs af='parIkRa,n,any,sg,3,,obl,obl'>
+7	cesi	VM	<fs af='cesi,avy,,,,,, '>|<fs af='ceVyyi,v,any,any,any,,i,i'>
+8	I	DEM	<fs af='I,avy,,,,,, '>
+9	jaMwuvu	NN	<fs af='jaMwuvu,n,any,sg,3,,0,0'>|<fs af='jaMwuvu,n,any,sg,3,,obl,obl'>
+10	cAvalexu	VM	<fs af='cAvu,v,any,any,any,,a_lexu,a_lexu'>|<fs af='cAvagala,v,fn,sg,3,,a,a'>
+11	brawikivuMxani	VM	<fs af='brawuku,v,fn,sg,3,,i_uMdu_A_ani,i_uMdu_A_ani'>
+12	ceVppatAniki	VM	<fs af='ceVppataM,n,any,sg,3,,ki,ki'>
+13	vIlulexu	VM	<fs af='vIlugala,v,fn,sg,3,,a,a'>
+14	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

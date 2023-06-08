@@ -1,0 +1,12 @@
+<Sentence id="8858">
+0	((	SSF
+1	appatike	NST	<fs af='appudu,adv,any,any,any,,ki_e_adv,ki_e_adv'>
+2	proVxxeVkkadaM	VM	<fs af='proVxxeVkku,v,any,any,any,,adaM,adaM'>|<fs af='proVxxeVkkadaM,n,any,sg,3,,0,0'>
+3	mUlaMgA	RB	<fs af='mUlaM,n,any,sg,3,,gA,gA'>
+4	pEpugoVttAlawone	NN	<fs af='pEpugoVttAlawone,unk,,,,,,'>
+5	mqgaM	NN	<fs af='mqgaM,n,any,sg,3,,0,0'>
+6	snAnaM	NN	<fs af='snAnaM,n,any,sg,3,,0,0'>
+7	ceyiMcAru	VM	<fs af='ceyiMcu,v,any,pl,2,,A,A'>|<fs af='ceyiMcu,v,mf,pl,3,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

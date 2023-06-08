@@ -1,0 +1,10 @@
+<Sentence id="4788">
+0	((	SSF
+1	gatlaki	NN	<fs af='gattu,n,any,pl,3,,ki,ki'>
+2	itukalu	NN	<fs af='ituka,n,any,pl,3,,0,0'>|<fs af='ituka,n,any,pl,3,,vu_agr,vu_agr'>
+3	rAlYlu	NN	<fs af='rAyi,n,any,pl,3,,0,0'>|<fs af='rAyi,n,any,pl,3,,vu_agr,vu_agr'>
+4	wApadaM	VM	<fs af='wApu,v,any,any,any,,adaM,adaM'>|<fs af='wApadaM,n,any,sg,3,,0,0'>
+5	ceVyyavaccu	VM	<fs af='ceVyyi,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='ceVyyavaccu,v,any,any,any,,e,e'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

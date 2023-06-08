@@ -1,0 +1,9 @@
+<Sentence id="7872">
+0	((	SSF
+1	palleVlo	NN	<fs af='palleV,n,any,sg,3,,lo,lo'>|<fs af='palleV,n,any,pl,3,,0,0_o'>
+2	uMdataM	VM	<fs af='uMdu,v,any,any,any,,adaM,adaM'>|<fs af='uMdataM,n,any,sg,3,,0,0'>
+3	avamAnaMgA	RB	<fs af='avamAnaM,n,any,sg,3,,gA,gA'>
+4	anipiMciMxi	VM	<fs af='anipiMcu,v,fn,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

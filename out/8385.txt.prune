@@ -1,0 +1,17 @@
+<Sentence id="8385">
+0	((	SSF	
+1	prakASaM	NNP	<fs af='prakASaM,n,any,sg,3,,0,0'>
+2	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>|<fs af='jillA,n,any,sg,3,,0,0'>|<fs af='jillA,n,any,sg,3,,obl,obl'>
+3	AMXrapraxeS	NNP	<fs af='AMXrapraxeS,n,any,sg,3,,0,0'>|<fs af='AMXrapraxeS,n,any,sg,3,,obl,obl'>
+4	avawariMcina	VM	<fs af='avawariMcu,v,any,any,any,,ina,ina'>
+5	waruvAwa	PSP	<fs af='waruvAwa,avy,,,,,,' poslcat="NM">
+6	erpadina	VM	<fs af='erpadu,v,any,any,any,,ina,ina'>
+7	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>|<fs af='jillA,n,any,sg,3,,0,0'>|<fs af='jillA,n,any,sg,3,,obl,obl'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	pUrvaM	NN	<fs af='pUrvaM,adv,any,any,any,,0_adv,0_adv' poslcat="NM">|<fs af='pUrvaM,adv,any,any,any,,yoVkka_adv,yoVkka_adv' poslcat="NM">
+10	oVMgolu	NNP	<fs af='oVMgolu,n,any,sg,3,,0,0'>|<fs af='oVMgolu,n,any,sg,3,,obl,obl'>
+11	jillAgA	RB	<fs af='jillA,n,any,sg,3,,gA,gA' poslcat="NM">
+12	vyavahariMcevAru	VM	<fs af='vyavahariMcu,v,any,any,any,,e_vAru,e_vAru'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

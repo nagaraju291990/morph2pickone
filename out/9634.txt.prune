@@ -1,0 +1,9 @@
+<Sentence id="9634">
+0	((	SSF	
+1	paMdiwulu	NN	<fs af='paMdiw,n,any,pl,3,,0,0'>|<fs af='paMdiw,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='paMdiwudu,n,any,pl,3,,0,0'>|<fs af='paMdiwudu,n,any,pl,3,,vu_agr,vu_agr'>
+2	paximaMxI	NN	<fs af='paximaMxi,n,any,sg,3,,I,I'>
+3	cuttU	NST	<fs af='cuttu,n,any,sg,3,,0,0_V'>
+4	kUrcunnAru	VM	<fs af='kUrco,v,any,pl,2,,A,A'>|<fs af='kUrco,v,mf,pl,3,,A,A'>|<fs af='kUrcuMdu,v,any,pl,2,,A,A'>|<fs af='kUrcuMdu,v,mf,pl,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

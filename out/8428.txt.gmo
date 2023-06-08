@@ -1,0 +1,10 @@
+<Sentence id="8428">			
+0	((	SSF	
+1	cIrAla	NNP	<fs af='cIraM,n,any,pl,3,,obl,obl'>
+2	perAla	NNP	<fs af='perAla,n,any,sg,3,,0,0'>|<fs af='perAla,n,any,sg,3,,obl,obl'>
+3	uxyamaM	NN	<fs af='uxyamaM,n,any,sg,3,,0,0'>
+4	jarigina	VM	<fs af='jarugu,v,any,any,any,,ina,ina'>
+5	prAMwaM	NN	<fs af='prAMwaM,n,any,sg,3,,0,0'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

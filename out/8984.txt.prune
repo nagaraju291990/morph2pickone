@@ -1,0 +1,23 @@
+<Sentence id="8984">
+0	((	SSF	
+1	moVxati	NST	<fs af='moVxata,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+2	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+3	manuRyulu	NN	<fs af='manuRyudu,n,any,pl,3,,0,0'>|<fs af='manuRyudu,n,any,pl,3,,vu_agr,vu_agr'>
+4	uccariMce	VM	<fs af='uccariMcu,v,any,any,any,,e,e'>|<fs af='uccariMcu,v,any,any,any,,i,i_e'>
+5	SabxAlu	NN	<fs af='SabxaM,n,any,pl,3,,0,0'>|<fs af='SabxaM,n,any,pl,3,,vu_agr,vu_agr'>
+6	uccariMcadAniki	VM	<fs af='uccariMcadaM,n,any,sg,3,,ki,ki' poslcat="NM">
+7	manuRyuni	NN	<fs af='manuRyudu,n,any,sg,3,,obl,obl'>
+8	muKa	NN	<fs af='muKaM,n,any,sg,3,,obl,obl'>|<fs af='muKudu,n,any,sg,3,,obl,obl'>
+9	avayavamulu	NN	<fs af='avayavaM,n,any,pl,3,,0,0'>|<fs af='avayavaM,n,any,pl,3,,vu_agr,vu_agr'>
+10	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+11	prawyeka	NN	<fs af='prawyekaM,n,any,sg,3,,obl,obl'>
+12	lakRaNaMwo	NN	<fs af='lakRaNaM,n,any,sg,3,,wo,wo'>
+13	sqRtiMpabaddAyi	VM	<fs af='sqRtiMpabadu,v,n,pl,3,,A,A'>
+14	ganuka	CC	<fs af='ganuka,avy,,,,,,'>
+15	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+16	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+17	SabXAlaku	NN	<fs af='SabXaM,n,any,pl,3,,ki,ki'>
+18	uccariMcabadawAyi	VM	<fs af='uccariMcabadu,v,n,pl,3,,wA,wA'>
+19	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

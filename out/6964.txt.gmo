@@ -1,0 +1,20 @@
+<Sentence id="6964">			
+0	((	SSF	
+1	vItiki	PRP	<fs af='ixi,pn,fn,pl,3,,ki,ki'>
+2	nawrajani	NNP	<fs af='nawrajani,n,any,sg,3,,0,0'>|<fs af='nawrajani,n,any,sg,3,,obl,obl'>
+3	oVka	NN	<fs af='oVka,adj,,,,,0,0_adj' poslcat="NM">
+3	pAlu	NN	<fs af='pAlu,n,,sg,,,0,0'>|<fs af='pAlu,n,,sg,,,obl,obl'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	BAsvaraM	NNP	<fs af='BAsvaraM,n,any,sg,3,,0,0'>
+6	2	QC	<fs af='2,num,,,,,,'>
+7	pAlYlu	NN	<fs af='pAlu,n,any,pl,3,,0,0'>|<fs af='pAlu,n,any,pl,3,,vu_agr,vu_agr'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	poVtAR	NNP	<fs af='poVtAR,n,any,sg,3,,0,0'>|<fs af='poVtAR,n,any,sg,3,,obl,obl'>
+10	oVka	NN	<fs af='oVka,adj,,,,,0,0_adj' poslcat="NM">
+10	pAlu	NN	<fs af='pAlu,n,,sg,,,0,0'>|<fs af='pAlu,n,,sg,,,obl,obl'>
+11	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+12	eVruvulanu	NN	<fs af='eVruvu,n,any,pl,3,,ni,ni'>
+13	vAdAli	VM	<fs af='vAdu,v,any,any,any,,Ali,Ali'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

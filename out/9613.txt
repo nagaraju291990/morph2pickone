@@ -1,0 +1,9 @@
+<Sentence id="9613">
+0	((	SSF
+1	biRappu	NN	<fs af='biRappu,n,any,sg,3,,0,0'>|<fs af='biRappu,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,, '>
+3	atlA	RB	<fs af='attu,n,any,pl,3,,0,0_A'>
+4	anakUdaxu	VM	<fs af='anu,v,any,any,any,,a_kUdaxu,a_kUdaxu'>|<fs af='anakUdu,v,fn,sg,3,,a,a'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,32 @@
+<Sentence id="4993">
+0	((	SSF
+1	cepala	NN	<fs af='cepa,n,,pl,,,obl,obl'>
+1	ceVruvula	NN	<fs af='ceVruvu,n,,pl,,,obl,obl'>
+2	koVlawalu	NN	<fs af='koVlawa,n,any,pl,3,,0,0'>|<fs af='koVlawa,n,any,pl,3,,vu_agr,vu_agr'>
+3	_	SYM
+4	_	SYM
+5	_	SYM
+6	_	SYM
+7	_	SYM
+8	_	SYM
+9	_	SYM
+10	_	SYM
+11	_	SYM
+12	_	SYM
+13	_	SYM
+14	_	SYM
+15	_	SYM
+16	_	SYM
+17	_	SYM
+18	_	SYM
+19	_	SYM
+20	_	SYM
+21	_	SYM
+22	mUdu	QC	<fs af='mUdu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='mUdu,n,any,sg,3,,0,0'>|<fs af='mUdu,n,any,sg,3,,obl,obl'>|<fs af='mUdu,num,any,any,any,,0,0'>
+23	rakAla	NN	<fs af='rakaM,n,any,pl,3,,obl,obl'>
+24	cepala	NN	<fs af='cepa,n,any,pl,3,,obl,obl'>
+25	ceVruvula	NN	<fs af='ceVruvu,n,,pl,,,obl,obl'>
+25	uMtAyi	VM	<fs af='uMdu,v,n,pl,3,,wA,wA'>
+26	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

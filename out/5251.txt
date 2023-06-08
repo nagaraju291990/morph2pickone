@@ -1,0 +1,7 @@
+<Sentence id="5251">
+0	((	SSF
+1	sujAwa	NNP	<fs af='sujAwa,n,any,sg,3,,0,0'>|<fs af='sujAwa,n,any,sg,3,,obl,obl'>
+2	caxuvukunexi	NN	<fs af='caxuvu,n,,sg,,,xi,xi_0' deri_cat='pn'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

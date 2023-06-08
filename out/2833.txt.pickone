@@ -1,0 +1,14 @@
+<Sentence id="2833">			
+0	((	SSF	
+1	Ewe	CC	<fs af='avvu,v,any,any,any,,we,we'>
+2	"	SYM	<fs af='",punc,,,,,,'>
+3	ketal	UNK	<fs af='ketal,n,any,sg,3,,0,0'>'>
+4	"	SYM	<fs af='",punc,,,,,,'>
+5	ane	UT	<fs af='ane,avy,,,,,,'>
+6	mAta	NN	<fs af='mAta,n,any,sg,3,,0,0'>
+7	vrAyadaM	VM	<fs af='vrAyi,v,any,any,any,,adaM,adaM'>
+8	cewa	VM	<fs af='cewa,avy,,,,,,'>
+9	kAlexu	VAUX	<fs af='avvu,v,any,any,any,,a_lexu,a_lexu'>'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

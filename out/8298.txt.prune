@@ -1,0 +1,16 @@
+<Sentence id="8298">
+0	((	SSF	
+1	moVxatixi	NN	<fs af='moVxata,adv,any,any,any,,xi_adv,xi_adv' poslcat="NM">
+2	_	SYM	<'>|<poslcat="NM"'>
+3	veVMtrukalu	NN	<fs af='veVMtruka,n,any,pl,3,,0,0'>|<fs af='veVMtruka,n,any,pl,3,,vu_agr,vu_agr'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	reVMdavaxi	NN	<fs af='reVMdu,num,any,any,any,,avaxi,avaxi' poslcat="NM">|<fs af='reVMdava,adj,any,any,any,,xi_adj,xi_adj' poslcat="NM">
+6	_	SYM	<'>|<poslcat="NM"'>
+7	eVruvu	NN	<fs af='eVruvu,n,any,sg,3,,0,0'>|<fs af='eVruvu,n,any,sg,3,,obl,obl'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	mUdavaxi	NN	<fs af='mUdu,num,any,any,any,,avaxi,avaxi' poslcat="NM">|<fs af='mUdava,adj,any,any,any,,xi_adj,xi_adj' poslcat="NM">
+10	_	SYM	<'>|<poslcat="NM"'>
+11	mAMsaM	NN	<fs af='mAMsaM,n,any,sg,3,,0,0'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

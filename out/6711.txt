@@ -1,0 +1,16 @@
+<Sentence id="6711">
+0	((	SSF
+1	"	SYM	<fs af='",punc,,,,,, '>
+2	plAstar	NN	<fs af='plAstar,n,any,sg,3,,0,0'>|<fs af='plAstar,n,any,sg,3,,obl,obl'>
+3	vesina	VM	<fs af='veVyyi,v,any,any,any,,ina,ina'>
+4	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+5	mUdu	QC	<fs af='mUdu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='mUdu,n,any,sg,3,,0,0'>|<fs af='mUdu,n,any,sg,3,,obl,obl'>|<fs af='mUdu,num,any,any,any,,0,0'>
+6	rojula	NN	<fs af='roju,n,any,pl,3,,obl,obl'>
+7	xAkA	PSP	<fs af='xAka,n,any,sg,3,,0,0_A'>|<fs af='xAka,n,any,sg,3,,0,0_V'>
+8	jAgrawwa	NN	<fs af='jAgrawwa,n,any,sg,3,,0,0'>|<fs af='jAgrawwa,n,any,sg,3,,obl,obl'>
+9	vahiMcataM	VM	<fs af='vahiMcu,v,any,any,any,,adaM,adaM'>|<fs af='vahiMcataM,n,any,sg,3,,0,0'>
+10	cAlA	INTF	<fs af='cAlu,v,any,any,any,,i,i_A'>
+11	avasaraM	NN	<fs af='avasaraM,n,any,sg,3,,0,0'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,12 @@
+<Sentence id="4702">
+0	((	SSF	
+1	vItilo	PRP	<fs af='ixi,pn,fn,pl,3,,lo,lo'>
+2	koVnni	QF	<fs af='koVnni,pn,any,pl,3,,0,0' poslcat="NM">
+3	maMci	JJ	<fs af='maMci,adj,any,any,any,,0_adj,0_adj'>
+4	nItivi	NN	<fs af='nIru,n,any,sg,3,,vi_agr,vi_agr'>
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	koVnni	QF	<fs af='koVnni,pn,any,pl,3,,0,0' poslcat="NM">
+7	samuxranItivi	NN	<fs af='samuxraM,n,any,sg,3,,obl_vu,obl_vu'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

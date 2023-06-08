@@ -1,0 +1,9 @@
+<Sentence id="2356">			
+0	((	SSF	
+1	civariki	NST	<fs af='civara,adv,any,any,any,,ku_adv,ku_adv'>
+2	pocAlu	NNP	<fs af='pocAlu,n,any,sg,3,,0,0'>|<fs af='pocAlu,n,any,sg,3,,obl,obl'>
+3	somuluwo	NNP	<fs af='somulu,n,any,sg,3,,wo,wo'>
+4	visigipoyAdu	VM	<fs af='visigipo,v,m,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

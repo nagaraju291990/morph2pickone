@@ -1,0 +1,19 @@
+<Sentence id="8447">
+0	((	SSF	
+1	pallavulu	NNP	<fs af='pallavi,n,any,pl,3,,0,0'>|<fs af='pallavudu,n,any,pl,3,,0,0'>|<fs af='pallavudu,n,any,pl,3,,vu_agr,vu_agr'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	cAlYukyulu	NNP	<fs af='cAlYukyudu,n,any,pl,3,,0,0'>|<fs af='cAlYukyudu,n,any,pl,3,,vu_agr,vu_agr'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	codulu	NNP	<fs af='codi,n,any,pl,3,,0,0'>|<fs af='codi,n,any,pl,3,,vu_agr,vu_agr'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	kAkawIyulu	NNP	<fs af='kAkawIyudu,n,any,pl,3,,0,0'>|<fs af='kAkawIyudu,n,any,pl,3,,vu_agr,vu_agr'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	vijayanagararAjulu	NNP	<fs af='vijayanagararAju,n,any,pl,3,,0,0'>|<fs af='vijayanagararAju,n,any,pl,3,,vu_agr,vu_agr'>
+10	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+11	golkoVMda	NNP	<fs af='golkoVMda,n,any,sg,3,,0,0'>|<fs af='golkoVMda,n,any,sg,3,,obl,obl'>
+12	navAbulu	NN	<fs af='navAb,n,any,pl,3,,0,0'>|<fs af='navAb,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='navAbu,n,any,pl,3,,0,0'>|<fs af='navAbu,n,any,pl,3,,vu_agr,vu_agr'>
+13	pAliMcina	VM	<fs af='pAliMcu,v,any,any,any,,ina,ina'>
+14	prAMwaM	NN	<fs af='prAMwaM,n,any,sg,3,,0,0'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

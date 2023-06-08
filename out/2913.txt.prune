@@ -1,0 +1,8 @@
+<Sentence id="2913">
+0	((	SSF	
+1	vajraM	NN	<fs af='vajraM,n,any,sg,3,,0,0'>
+2	kaMteV	PSP	<fs af='kaMteV,avy,,,,,,' poslcat="NM">|<fs af='kaMteV,n,any,sg,3,,0,0' poslcat="NM">|<fs af='kaMteV,n,any,sg,3,,obl,obl' poslcat="NM">
+3	kaTinamEnaxi	NN	<fs af='kaTina,adj,any,any,any,,xEnaxi_na_adj,xEnaxi_na_adj' poslcat="NM">|<fs af='kaTinamavvu,v,any,any,any,,ina_axi,ina_axi' poslcat="NM">|<fs af='kaTinamEnaxi,pn,any,sg,3,,0,0' poslcat="NM">
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

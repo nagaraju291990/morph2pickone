@@ -1,0 +1,13 @@
+<Sentence id="2043">
+0	((	SSF
+1	e	WQ	<fs af='e,avy,,,,,, '>|<fs af='e,adj,any,any,any,,0_adj,0_adj'>
+2	cinna	JJ	<fs af='cinna,adj,any,any,any,,0_adj,0_adj'>
+3	vaswuvuna	NN	<fs af='vaswuvu,n,,sg,,,na,na'>
+3	ayinA	VM	<fs af='avvu,v,any,any,any,,inA,inA'>
+4	notilo	NN	<fs af='noru,n,any,sg,3,,lo,lo'>
+5	peVttukoVni	VM	<fs af='peVttuko,v,any,any,any,,i,i'>
+6	aMxuloki	NN	<fs af='aMxuloki,avy,,,,,, '>
+7	wosiveyavaccu	VM	<fs af='wosiveVyyi,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='wosiveyavaccu,v,any,any,any,,e,e'>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

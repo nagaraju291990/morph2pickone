@@ -1,0 +1,13 @@
+<Sentence id="4714">			
+0	((	SSF	
+1	boVcceV	NNP	<fs af='boVcceV,n,any,sg,3,,0,0'>
+2	,	SYM	<fs af=',,punc,,,,,,'>
+3	rohu	NNP	<fs af='rohu,n,any,sg,3,,0,0'>
+4	,	SYM	<fs af=',,punc,,,,,,'>
+5	eVrra	NNP	<fs af='eVrra,n,any,sg,3,,0,0'>
+5	mosu	NNP	<fs af='mosu,n,any,sg,3,,0,0'>
+6	peVMcAli	VM	<fs af='peVMcu,v,any,any,any,,Ali,Ali'>
+7	anukoVMxAM	VM	<fs af='anuko,v,,pl,2,,xA,xA'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

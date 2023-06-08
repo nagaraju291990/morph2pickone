@@ -1,0 +1,20 @@
+<Sentence id="9796">			
+0	((	SSF	
+1	appudu	NST	<fs af='appudu,adv,any,any,any,,0_adv,0_adv'>
+2	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+3	goVppa	JJ	<fs af='goVppa,adj,any,any,any,,0_adj,0_adj'>
+4	jarmanI	NNP	<fs af='jarman,n,any,sg,3,,ni,ni_V'>
+5	saMgIwa	NN	<fs af='saMgIwaM,n,any,sg,3,,obl,obl'>
+6	SAswravewwa	NN	<fs af='SAswravewwa,n,any,sg,3,,0,0'>|<fs af='SAswravewwa,n,any,sg,3,,obl,obl'>
+7	piyAno	NN	<fs af='piyAno,n,,sg,,,0,0'>|<fs af='piyAno,n,,sg,,,obl,obl'>
+8	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+9	wAnu	PRP	<fs af='wAnu,pn,mf,sg,3,,0,0'>
+10	vrAsina	VM	<fs af='vrAyi,v,any,any,any,,ina,ina'>
+11	kroVwwa	JJ	<fs af='kroVwwa,adj,any,any,any,,0_adj,0_adj'>
+12	saMgIwaM	NN	<fs af='saMgIwaM,n,any,sg,3,,0,0'>
+13	pAdatAniki	VM	<fs af='pAdataM,n,any,sg,3,,ki,ki' poslcat="NM">
+14	erpAtu	NN	<fs af='erpAtu,n,any,sg,3,,0,0'>|<fs af='erpAtu,n,any,sg,3,,obl,obl'>
+15	jarigiMxi	VM	<fs af='jarugu,v,fn,sg,3,,A,A'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

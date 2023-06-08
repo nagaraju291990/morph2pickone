@@ -1,0 +1,16 @@
+<Sentence id="8732">
+0	((	SSF
+1	vIlYlu	PRP	<fs af='vIlu,n,any,pl,3,,0,0'>|<fs af='vIlu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='vIdu,n,any,pl,3,,0,0'>|<fs af='vIdu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='vIlYlu,pn,mf,pl,3,,0,0'>|<fs af='vIlYlu,pn,mf,pl,3,,vu,vu'>
+2	vicAriMcetappudu	VM	<fs af='vicAriMcu,v,any,any,any,,e_appudu,e_appudu'>
+3	A	DEM	<fs af='A,avy,,,,,, '>
+4	jaMwuvu	NN	<fs af='jaMwuvu,n,any,sg,3,,0,0'>|<fs af='jaMwuvu,n,any,sg,3,,obl,obl'>
+5	wupAkini	NN	<fs af='wupAki,n,any,sg,3,,ni,ni'>|<fs af='wupAki,n,any,sg,3,,ni_agr,ni_agr'>
+6	atu	NST	<fs af='atu,avy,,,,,, '>
+7	wippi	VM	<fs af='wippu,v,any,any,any,,i,i'>
+8	itu	NST	<fs af='itu,avy,,,,,, '>
+9	wippi	VM	<fs af='wippu,v,any,any,any,,i,i'>
+10	pariSIliMcadaM	VM	<fs af='pariSIliMcu,v,any,any,any,,adaM,adaM'>|<fs af='pariSIliMcadaM,n,any,sg,3,,0,0'>
+11	moVxalupeVttiMxi	VM	<fs af='moVxalupeVttu,v,fn,sg,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

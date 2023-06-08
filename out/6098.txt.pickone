@@ -1,0 +1,20 @@
+<Sentence id="6098">			
+0	((	SSF	
+1	600	QC	<fs af='600,num,,,,,,'>
+2	-	SYM	<fs af='<'>
+3	1000	QC	<fs af='1000,num,,,,,,'>
+4	saM
+5	varaku	PSP	<fs af='varaku,avy,,,,,,'>'>
+6	pAliMcina	VM	<fs af='pAliMcu,v,any,any,any,,ina,ina'>
+7	rAjavaMSAlalo	NN	<fs af='rAjavaMSaM,n,any,pl,3,,lo,lo'>
+8	cAlYukyulu	NNP	<fs af='cAlYukyudu,n,any,pl,3,,0,0'>
+9	,	SYM	<fs af=',,punc,,,,,,'>
+10	kAlYiMgulu	NNP	<fs af='kAlYiMgulu,n,any,sg,3,,0,0'>
+11	,	SYM	<fs af=',,punc,,,,,,'>
+12	colYulu	NNP	<fs af='colYudu,n,any,pl,3,,0,0'>
+13	,	SYM	<fs af=',,punc,,,,,,'>
+14	rARtrakUtulu	NNP	<fs af='rARtrakUtudu,n,any,pl,3,,0,0'>
+15	pAliMcAru	VM	<fs af='pAliMcu,v,any,pl,2,,A,A'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

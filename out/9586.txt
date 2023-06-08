@@ -1,0 +1,18 @@
+<Sentence id="9586">
+0	((	SSF
+1	e	WQ	<fs af='e,avy,,,,,, '>|<fs af='e,adj,any,any,any,,0_adj,0_adj'>
+2	rAwri	NN	<fs af='rAwri,n,any,sg,3,,0,0'>|<fs af='rAwri,n,any,sg,3,,obl,obl'>
+3	velYo	NN	<fs af='velYa,n,any,sg,3,,0,0_o'>
+4	eVgiri	VM	<fs af='eVguru,v,any,any,any,,i,i'>
+5	powAdu	VAUX	<fs af='po,v,m,sg,3,,wA,wA'>
+6	!	SYM	<fs af='!,punc,,,,,, '>
+7	pagalu	NN	<fs af='paga,n,any,pl,3,,0,0'>|<fs af='paga,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pagalu,n,any,sg,3,,0,0'>|<fs af='pagalu,n,any,sg,3,,obl,obl'>
+8	eVgiri	VM	<fs af='eVguru,v,any,any,any,,i,i'>
+9	powe	VAUX	<fs af='po,v,any,any,any,,we,we'>|<fs af='powu,n,any,sg,3,,0,0_e'>|<fs af='powa,n,any,sg,3,,0,0_e'>
+10	vimAnAlawo	NN	<fs af='vimAnaM,n,any,pl,3,,wo,wo'>
+11	veVMbadiMcanEnA	VM	<fs af='veVMbadiMcu,v,any,any,any,,a_EnA,a_EnA'>
+12	veVMbadiMca	VM	<fs af='veVMbadiMcu,v,any,any,any,,an,an'>
+13	vaccu	VAUX	<fs af='vaccu,v,any,any,any,,e,e'>
+14	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

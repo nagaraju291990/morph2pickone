@@ -1,0 +1,9 @@
+<Sentence id="8478">			
+0	((	SSF	
+1	wala	NN	<fs af='wala,n,any,sg,3,,0,0'>|<fs af='wala,n,any,sg,3,,obl,obl'>
+2	mAwraM	PSP	<fs af='mAwraM,avy,,,,,,' poslcat="NM">
+3	gurrapu	NN	<fs af='gurraM,n,any,sg,3,,obl,obl'>
+4	wala	NN	<fs af='wala,n,any,sg,3,,0,0'>|<fs af='wala,n,any,sg,3,,obl,obl'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,17 @@
+<Sentence id="2078">
+0	((	SSF	
+1	mUdo	QO	<fs af='mUdu,n,any,sg,3,,0,0_o'>|<fs af='mUdu,num,any,any,any,,ava,ava'>|<fs af='mUdo,adj,any,any,any,,0_adj,0_adj'>
+2	rakaM	NN	<fs af='rakaM,n,any,sg,3,,0,0'>
+3	:	SYM	<fs af=':,punc,,,,,,'>
+4	koVnni	QF	<fs af='koVnni,pn,any,pl,3,,0,0' poslcat="NM">
+5	rakAla	NN	<fs af='rakaM,n,any,pl,3,,obl,obl'>
+6	pUjalawo	NN	<fs af='pUja,n,any,pl,3,,wo,wo'>
+7	canipoyinavAlYla	VM	<fs af='canipoyinavAlYlu,pn,mf,pl,3,,obl,obl' poslcat="NM">
+8	Awmalaku	NN	<fs af='Awma,n,any,pl,3,,ki,ki'>
+9	wama	PRP	<fs af='wAmu,pn,mf,sg,3,,obl,obl'>
+10	oVMti	NN	<fs af='oVllu,n,any,sg,3,,obl,obl'>
+11	mIxaki	NST	<fs af='mIxa,n,any,sg,3,,ki,ki'>
+12	weVppiMcukovadaM	VM	<fs af='weVppiMcu,v,any,any,any,,koVn_adaM,koVn_adaM'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,27 @@
+<Sentence id="3771">
+0	((	SSF	
+1	axe	PRP	<fs af='axi,pn,fn,sg,3,,0,0_e'>
+2	jarigiMxi	VM	<fs af='jarugu,v,fn,sg,3,,A,A'>
+3	kUdA	PSP	<fs af='kUdA,avy,,,,,,' poslcat="NM">|<fs af='kUdu,v,any,any,any,,i,i_A' poslcat="NM">|<fs af='kUdu,n,any,sg,3,,0,0_A' poslcat="NM">
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	kalYakalYalAde	VM	<fs af='kalYakalYalAdu,v,any,any,any,,e,e'>|<fs af='kalYakalYalAdu,v,any,any,any,,i,i_e'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	mirapawota	NN	<fs af='mirapawota,n,any,sg,3,,0,0'>|<fs af='mirapawota,n,any,sg,3,,obl,obl'>
+8	roju	NN	<fs af='roju,n,any,sg,3,,0,0'>|<fs af='roju,n,any,sg,3,,obl,obl'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	rojuki	NN	<fs af='roju,n,any,sg,3,,ki,ki'>
+11	nASanaM	VM	<fs af='nASanaM,n,any,sg,3,,0,0' poslcat="NM">
+11	avataM	VM	<fs af='avvu,v,any,any,any,,adaM,adaM'>
+12	cUsi	VM	<fs af='cUdu,v,any,any,any,,i,i'>
+13	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+14	mirapa	NN	<fs af='mirapa,n,any,sg,3,,0,0'>|<fs af='mirapa,n,any,sg,3,,obl,obl'>
+15	wota	NN	<fs af='wota,n,any,sg,3,,0,0'>|<fs af='wota,n,any,sg,3,,obl,obl'>
+16	rEwuki	NN	<fs af='rEwu,n,any,sg,3,,ki,ki'>
+17	visugu	VM	<fs af='visugu,v,any,sg,2,,AjFArWa,AjFArWa'>
+17	putti	VM	<fs af='puttu,v,any,any,any,,i,i'>
+18	rAwri	NN	<fs af='rAwri,n,any,sg,3,,0,0'>|<fs af='rAwri,n,any,sg,3,,obl,obl'>
+19	kApalA	NN	<fs af='kApalA,n,any,sg,3,,0,0'>|<fs af='kApalA,n,any,sg,3,,obl,obl'>
+20	kASAdu	VM	<fs af='kAyi,v,m,sg,3,,A,A'>
+21	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

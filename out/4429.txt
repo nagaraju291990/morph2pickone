@@ -1,0 +1,11 @@
+<Sentence id="4429">
+0	((	SSF
+1	ayinA	CC	<fs af='avvu,v,any,any,any,,inA,inA'>
+2	e	WQ	<fs af='e,avy,,,,,, '>|<fs af='e,adj,any,any,any,,0_adj,0_adj'>
+3	rikRA	NN	<fs af='rikRA,n,any,sg,3,,0,0'>|<fs af='rikRA,n,any,sg,3,,obl,obl'>
+4	eVvarixo	WQ	<fs af='eVvaru,pn,mf,pl,3,,xi,xi_o'>
+5	eVlA	WQ	<fs af='eVlA,avy,,,,,, '>
+6	gurwupattagaladu	VM	<fs af='gurwupattagala,v,m,sg,3,,wA,wA'>|<fs af='gurwupattagala,v,m,sg,3,,A,A'>
+7	?	SYM	<fs af='?,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,9 @@
+<Sentence id="5602">
+0	((	SSF
+1	axe	PRP	<fs af='axi,pn,fn,sg,3,,0,0_e'>
+2	poVga	NN	<fs af='poVga,n,any,sg,3,,0,0'>|<fs af='poVga,n,any,sg,3,,obl,obl'>
+3	rAni	VM	<fs af='raM,n,any,sg,3,,obl,obl'>|<fs af='vaccu,v,any,any,any,,ani,ani'>
+4	poVyyi	NN	<fs af='po,v,any,any,any,,i,i'>|<fs af='poVyyi,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='poVyyi,n,any,sg,3,,0,0'>|<fs af='poVyyi,n,any,sg,3,,obl,obl'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

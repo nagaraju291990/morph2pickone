@@ -1,0 +1,8 @@
+<Sentence id="5776">
+0	((	SSF
+1	lakRmini	NNP	<fs af='lakRmi,n,any,sg,3,,ni,ni'>|<fs af='lakRmi,n,any,sg,3,,ni_agr,ni_agr'>
+2	pakkaku	NST	<fs af='pakka,adv,any,any,any,,ku_adv,ku_adv'>
+3	pilicAdu	VM	<fs af='piluvu,v,m,sg,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

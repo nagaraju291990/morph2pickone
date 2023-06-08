@@ -1,0 +1,11 @@
+<Sentence id="7541">
+0	((	SSF	
+1	wotaloni	NN	<fs af='wota,n,any,sg,3,,loni,loni'>
+2	pUla	NN	<fs af='pUvu,n,any,pl,3,,obl,obl'>
+3	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+4	eVnno	QF	<fs af='eVnno,avy,,,,,,'>
+5	sIwAkokacilakalu	NN	<fs af='sIwAkokacilakalu,n,any,sg,3,,0,0'>|<fs af='sIwAkokacilakalu,n,any,sg,3,,vu_agr,vu_agr'>
+6	vAlevi	VM	<fs af='vAlexi,pn,any,pl,3,,0,0' poslcat="NM">
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,20 @@
+<Sentence id="6209">			
+0	((	SSF	
+1	paMtalu	NN	<fs af='paMta,n,any,pl,3,,0,0'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	vari	NN	<fs af='vari,n,any,sg,3,,0,0'>
+4	,	SYM	<fs af=',,punc,,,,,,'>
+5	sajjalu	NN	<fs af='sajja,n,any,pl,3,,0,0'>
+6	,	SYM	<fs af=',,punc,,,,,,'>
+7	rAgulu	NN	<fs af='rAgi,n,any,pl,3,,0,0'>
+8	,	SYM	<fs af=',,punc,,,,,,'>
+9	peVsalu	NN	<fs af='peVsalu,n,,sg,,,0,0'>
+10	,	SYM	<fs af=',,punc,,,,,,'>
+11	veruSeVnaga	NN	<fs af='veruSeVnaga,n,any,sg,3,,0,0'>
+12	,	SYM	<fs af=',,punc,,,,,,'>
+13	nuvvulu	NN	<fs af='nuvvu,n,any,pl,3,,0,0'>
+14	,	SYM	<fs af=',,punc,,,,,,'>
+15	jIdimAmidi	NN	<fs af='jIdimAmidi,n,any,sg,3,,0,0'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

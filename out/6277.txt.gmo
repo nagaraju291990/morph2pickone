@@ -1,0 +1,19 @@
+<Sentence id="6277">			
+0	((	SSF	
+1	1979	QC	<fs af='1979,num,,,,,,'>
+2	jUn	NN	<fs af='jUn,n,,sg,,,0,0'>|<fs af='jUn,n,,sg,,,obl,obl'>
+3	1va	QO	<fs af='1va,unk,,,,,,' poslcat="NM">
+4	wArIKuna	NN	<fs af='wArIKu,n,any,sg,3,,na,na'>
+5	SrIkAkulYaM	NNP	<fs af='SrIkAkulYaM,n,any,sg,3,,0,0'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	viSAKa	NNP	<fs af='viSAKa,n,any,sg,3,,0,0'>|<fs af='viSAKa,n,any,sg,3,,obl,obl'>
+8	jillAloni	NN	<fs af='jillA,n,any,sg,3,,loni,loni'>
+9	koVMwa	QF	<fs af='koVMwa,pn,any,sg,3,,0,0' poslcat="NM">
+10	prAMwAnni	NN	<fs af='prAMwaM,n,any,sg,3,,ni,ni'>|<fs af='prAMwaM,n,any,sg,3,,ni_agr,ni_agr'>
+11	vidaxIyagA	VM	<fs af='vidaxiyyi,v,any,any,any,,a_gA,a_gA'>
+12	vijayanagaraM	NNP	<fs af='vijayanagaraM,n,any,sg,3,,0,0'>
+13	jillAgA	RB	<fs af='jillA,n,any,sg,3,,gA,gA' poslcat="NM">
+14	rUpoVMxiMcabadiMxi	VM	<fs af='rUpoVMxiMcabadu,v,fn,sg,3,,A,A'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,14 @@
+<Sentence id="6745">
+0	((	SSF	
+1	xuraxa	NN	<fs af='xuraxa,n,any,sg,3,,0,0'>|<fs af='xuraxa,n,any,sg,3,,obl,obl'>
+2	xAna	NN	<fs af='xAnaM,n,,sg,,,obl,obl'>
+2	aMwataxe	PRP	<fs af='aMwa,pn,,sg,,,xi_0,xi_0_e'>
+3	waggakapowe	VM	<fs af='waggu,v,any,any,any,,akapowe,akapowe'>|<fs af='waggakapo,v,any,any,any,,we,we'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	dAktaru	NN	<fs af='dAktar,n,any,sg,3,,0,0'>|<fs af='dAktar,n,any,sg,3,,obl,obl'>|<fs af='dAktaru,n,any,sg,3,,0,0'>|<fs af='dAktaru,n,any,sg,3,,obl,obl'>
+6	salahA	NN	<fs af='salaha,n,any,sg,3,,0,0_A'>|<fs af='salaha,n,any,sg,3,,0,0_V'>|<fs af='salahA,n,any,sg,3,,0,0'>|<fs af='salahA,n,any,sg,3,,obl,obl'>
+7	poVMxadaM	VM	<fs af='poVMxu,v,any,any,any,,adaM,adaM'>
+8	maMcixi	NN	<fs af='maMci,adj,any,any,any,,xi_adj,xi_adj' poslcat="NM">
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

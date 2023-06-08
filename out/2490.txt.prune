@@ -1,0 +1,14 @@
+<Sentence id="2490">
+0	((	SSF	
+1	AlasyaMgA	RB	<fs af='AlasyaM,n,any,sg,3,,gA,gA' poslcat="NM">
+2	vAnalu	NN	<fs af='vAna,n,any,pl,3,,0,0'>|<fs af='vAna,n,any,pl,3,,vu_agr,vu_agr'>
+3	kurisina	VM	<fs af='kuriyu,v,any,any,any,,ina,ina'>|<fs af='kuruvu,v,any,any,any,,ina,ina'>
+3	apudu	NN	<fs af='apudu,avy,,,,,,' poslcat="NM">
+4	oVMdru	NN	<fs af='oVMdru,n,,sg,,,0,0'>|<fs af='oVMdru,n,,sg,,,obl,obl'>
+5	nelallo	NN	<fs af='nela,n,any,pl,3,,lo,lo'>|<fs af='neVyyi,n,any,pl,3,,lo,lo'>
+6	kUdA	PSP	<fs af='kUdA,avy,,,,,,' poslcat="NM">|<fs af='kUdu,v,any,any,any,,i,i_A' poslcat="NM">|<fs af='kUdu,n,any,sg,3,,0,0_A' poslcat="NM">
+7	AvAlu	NN	<fs af='AvaM,n,any,pl,3,,0,0'>|<fs af='AvaM,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='AvAlu,n,any,sg,3,,0,0'>|<fs af='AvAlu,n,any,sg,3,,vu_agr,vu_agr'>
+8	paMdiMcavaccu	VM	<fs af='paMdiMcu,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='paMdiMcavaccu,v,any,any,any,,e,e'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

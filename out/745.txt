@@ -1,0 +1,11 @@
+<Sentence id="745">
+0	((	SSF
+1	baccali	NN	<fs af='baccali,n,any,sg,3,,0,0'>|<fs af='baccali,n,any,sg,3,,obl,obl'>
+2	kUra	NN	<fs af='kUru,v,any,any,any,,an,an'>|<fs af='kUra,n,any,sg,3,,0,0'>|<fs af='kUra,n,any,sg,3,,obl,obl'>
+3	iMxulo	PRP	<fs af='iMxulo,avy,,,,,, '>
+4	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+5	rakAlu	NN	<fs af='rakaM,n,any,pl,3,,0,0'>|<fs af='rakaM,n,any,pl,3,,vu_agr,vu_agr'>
+6	unnavi	VM	<fs af='unnaxi,pn,any,pl,3,,0,0'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

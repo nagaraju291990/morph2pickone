@@ -1,0 +1,11 @@
+<Sentence id="1913">
+0	((	SSF	
+1	pyAkeVttu	NN	<fs af='pyAkeVttu,n,any,sg,3,,0,0'>|<fs af='pyAkeVttu,n,any,sg,3,,obl,obl'>
+2	vyakwi	NN	<fs af='vyakwi,n,any,sg,3,,0,0'>|<fs af='vyakwi,n,any,sg,3,,obl,obl'>
+3	gabagabA	NN	<fs af='gabagabA,avy,,,,,0,0_avy' poslcat="NM">|<fs af='gabagaba,avy,,,,,A,A_avy' poslcat="NM">|<fs af='gabagaba,avy,,,,,V,V_avy' poslcat="NM">
+4	bassu	NN	<fs af='bassu,n,any,sg,3,,0,0'>|<fs af='bassu,n,any,sg,3,,obl,obl'>
+5	xaggariki	NST	<fs af='xaggara,adv,any,any,any,,ku_adv,ku_adv'>
+6	vaccAdu	VM	<fs af='vaccu,v,m,sg,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

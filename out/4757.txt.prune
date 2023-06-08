@@ -1,0 +1,11 @@
+<Sentence id="4757">
+0	((	SSF	
+1	kAluvalu	NN	<fs af='kAluva,n,any,pl,3,,0,0'>|<fs af='kAluva,n,any,pl,3,,vu_agr,vu_agr'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	naxulu	NN	<fs af='naxi,n,any,pl,3,,0,0'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	Utalu	NN	<fs af='Uta,n,any,pl,3,,0,0'>|<fs af='Uta,n,any,pl,3,,vu_agr,vu_agr'>
+6	ilAMtivi	NN	<fs af='ilAMti,adj,,pl,,,xi,xi_0' deri_cat=pn poslcat="NM">
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

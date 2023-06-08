@@ -1,0 +1,10 @@
+<Sentence id="3988">
+0	((	SSF	
+1	ixi	PRP	<fs af='ixi,pn,,sg,,,0,0'>
+1	aMwA	PRP	<fs af='aMwa,pn,,pl,,,0_A,0_A'>|<fs af='aMwa,pn,,pl,,,0_V,0_V'>
+2	vIdu	PRP	<fs af='vIdu,v,any,sg,2,,AjFArWa,AjFArWa' poslcat="NM">|<fs af='vIdu,n,any,sg,3,,0,0' poslcat="NM">|<fs af='vIdu,n,any,sg,3,,obl,obl' poslcat="NM">
+2	vallane	PRP	<fs af='vall,n,any,pl,3,,ni,ni_e' poslcat="NM">
+3	jarigiMxi	VM	<fs af='jarugu,v,fn,sg,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

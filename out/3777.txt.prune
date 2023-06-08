@@ -1,0 +1,12 @@
+<Sentence id="3777">
+0	((	SSF	
+1	appude	NST	<fs af='appudu,adv,any,any,any,,0_e_adv,0_e_adv'>
+2	atunuMdi	NN	<fs af='atunuMdi,avy,,,,,0,0_avy' poslcat="NM">
+3	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+4	jIpu	NN	<fs af='jIpu,n,any,sg,3,,0,0'>|<fs af='jIpu,n,any,sg,3,,obl,obl'>
+5	lEtlawo	NN	<fs af='lEt,n,,pl,,,wo,wo'>|<fs af='lEt,n,,pl,,,wo,wo'>
+6	veVlYwU	VM	<fs af='veVlYlu,v,any,any,any,,wU,wU'>
+7	uMxi	VAUX	<fs af='uMdu,v,fn,sg,3,,A,A' poslcat="NM">
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

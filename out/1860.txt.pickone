@@ -1,0 +1,25 @@
+<Sentence id="1860">			
+0	((	SSF	
+1	kalaru	NN	<fs af='kalar,n,any,sg,3,,0,0'>
+2	oVkati	QC	<fs af='oVkati,n,any,sg,3,,0,0'>
+2	yABE	QC	<fs af='yABE,num,any,any,any,,0,0'>
+3	_	SYM	<fs af='<'>
+4	_	SYM	<fs af='<'>
+5	_	SYM	<fs af='<'>
+6	_	SYM	<fs af='<'>
+7	_	SYM	<fs af='<'>
+8	_	SYM	<fs af='<'>
+9	_	SYM	<fs af='<'>
+10	_	SYM	<fs af='<'>
+11	_	SYM	<fs af='<'>
+12	_	SYM	<fs af='<'>
+13	_	SYM	<fs af='<'>
+14	_	SYM	<fs af='<'>
+15	_	SYM	<fs af='<'>
+16	_	SYM	<fs af='<'>
+17	bassu	NN	<fs af='bassu,n,any,sg,3,,0,0'>
+18	ciwwUru	NNP	<fs af='ciwwUru,n,any,sg,3,,0,0'>
+19	ceriMxi	VM	<fs af='ceru,v,fn,sg,3,,A,A'>
+20	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

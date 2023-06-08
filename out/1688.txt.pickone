@@ -1,0 +1,17 @@
+<Sentence id="1688">			
+0	((	SSF	
+1	mari	NN	<fs af='mari,avy,,,,,,'>
+1	exiEnA	NN	<fs af='exiEnA,unk,,,,,,'>
+2	jabbu	NN	<fs af='jabbu,n,,sg,,,0,0'>
+2	unnA	VM	<fs af='uMdu,v,any,any,any,,inA,inA'>
+3	,	SYM	<fs af=',,punc,,,,,,'>
+4	noVppi	NN	<fs af='noVppi,n,any,sg,3,,0,0'>
+5	unnA	VM	<fs af='uMdu,v,any,any,any,,inA,inA'>
+6	dAktaruwo	NN	<fs af='dAktar,n,any,sg,3,,wo,wo'>
+7	mAtlAdigAnI	VM	<fs af='mAtlAdu,v,any,any,any,,i_gAni,i_gAni'>
+8	I	DEM	<fs af='I,avy,,,,,,'>
+9	mAwralu	NN	<fs af='mAwra,n,any,pl,3,,0,0'>
+10	wIsukokUdaxu	VM	<fs af='wIsuko,v,any,any,any,,a_kUdaxu,a_kUdaxu'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

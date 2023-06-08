@@ -1,0 +1,21 @@
+<Sentence id="6287">
+0	((	SSF
+1	xUraMlo	NN	<fs af='xUraM,n,any,sg,3,,lo,lo'>
+2	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+3	grAmaM	NN	<fs af='grAmaM,n,any,sg,3,,0,0'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	ikkada	NST	<fs af='ikkada,adv,any,any,any,,0_adv,0_adv'>
+6	bodikoVMda	NNP	<fs af='bodikoVMda,n,any,sg,3,,0,0'>|<fs af='bodikoVMda,n,any,sg,3,,obl,obl'>
+7	,	SYM	<fs af=',,punc,,,,,, '>
+8	guru	NNP	<fs af='guruvu,n,any,sg,3,,obl,obl'>|<fs af='guruvu,n,any,sg,3,,I,I'>
+8	Bakwa	NNP	<fs af='Bakwudu,n,any,sg,3,,obl,obl'>
+9	koVMdapE	NN	<fs af='koVMda,n,any,sg,3,,pE,pE'>
+10	jEna	NNP	<fs af='jEnaM,n,any,sg,3,,obl,obl'>|<fs af='jEnudu,n,any,sg,3,,obl,obl'>
+11	,	SYM	<fs af=',,punc,,,,,, '>
+12	bOxXa	NNP	<fs af='bOxXa,adj,any,any,any,,0_adj,0_adj'>|<fs af='bOxXaM,n,any,sg,3,,obl,obl'>|<fs af='bOxXudu,n,any,sg,3,,obl,obl'>
+13	kattadAlu	NN	<fs af='kattadaM,n,any,pl,3,,0,0'>|<fs af='kattadaM,n,any,pl,3,,vu_agr,vu_agr'>
+14	SiXilAlu	NN	<fs af='SiXilaM,n,any,pl,3,,0,0'>|<fs af='SiXilaM,n,any,pl,3,,vu_agr,vu_agr'>
+15	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+16	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

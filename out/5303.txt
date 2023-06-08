@@ -1,0 +1,7 @@
+<Sentence id="5303">
+0	((	SSF
+1	velYaku	NN	<fs af='velYa,n,any,sg,3,,ki,ki'>
+2	wiMdi	NN	<fs af='wiMdi,n,any,sg,3,,0,0'>|<fs af='wiMdi,n,any,sg,3,,obl,obl'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,9 @@
+<Sentence id="7417">
+0	((	SSF
+1	gariteV	NN	<fs af='gariteV,n,any,sg,3,,0,0'>|<fs af='gariteV,n,any,sg,3,,obl,obl'>
+2	pattina	VM	<fs af='pattu,v,any,any,any,,ina,ina'>
+3	AdavAlYlu	NN	<fs af='AdavAlYlu,n,,sg,,,0,0'>|<fs af='AdavAlYlu,n,,sg,,,obl,obl'>
+3	unnAru	VM	<fs af='uMdu,v,fm,pl,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

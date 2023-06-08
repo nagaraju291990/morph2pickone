@@ -1,0 +1,8 @@
+<Sentence id="4884">
+0	((	SSF
+1	akkade	NST	<fs af='akkada,adv,any,any,any,,0_e_adv,0_e_adv'>
+2	AhAraM	NN	<fs af='AhAraM,n,any,sg,3,,0,0'>
+3	sekariMcukoVMtuMxi	VM	<fs af='sekariMcu,v,fn,sg,3,,koVn_wU_uMdu_A,koVn_wU_uMdu_A'>|<fs af='sekariMcu,v,fn,sg,3,,koVn_wA,koVn_wA'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

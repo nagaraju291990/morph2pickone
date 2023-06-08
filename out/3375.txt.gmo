@@ -1,0 +1,9 @@
+<Sentence id="3375">			
+0	((	SSF	
+1	rAmulu	NNP	<fs af='rAmu,n,any,pl,3,,0,0'>|<fs af='rAmu,n,any,pl,3,,vu_agr,vu_agr'>
+2	uMdexi	VM	<fs af='uMdu,v,any,any,any,,e_axi,e_axi'>
+3	kUdA	PSP	<fs af='kUdA,avy,,,,,,' poslcat="NM">'>|<fs af='kUdu,v,any,any,any,,i,i_A' poslcat="NM">'>
+4	nAgApurame	NNP	<fs af='nAgApuraM,n,any,sg,3,,0,0_e'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

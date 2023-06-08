@@ -1,0 +1,12 @@
+<Sentence id="1159">
+0	((	SSF	
+1	kanumUruku	NN	<fs af='kanumUruku,unk,,,,,,' poslcat="NM">
+2	poye	VM	<fs af='po,v,any,any,any,,e,e'>|<fs af='po,v,any,any,any,,i,i_e'>
+3	bassu	NN	<fs af='bassu,n,any,sg,3,,0,0'>|<fs af='bassu,n,any,sg,3,,obl,obl'>
+4	vacciMxi	VM	<fs af='vaccu,v,fn,sg,3,,A,A'>
+5	bassulo	NN	<fs af='bassu,n,any,sg,3,,lo,lo'>|<fs af='bassu,n,any,pl,3,,0,0_o'>
+6	janaM	NN	<fs af='janaM,n,any,sg,3,,0,0'>
+7	kitakitalAduwunnAru	VM	<fs af='kitakitalAdu,v,any,pl,2,,wunn,wunn'>|<fs af='kitakitalAdu,v,mf,pl,3,,wunn,wunn'>|<fs af='kitakitalAduwuMdu,v,any,pl,2,,A,A'>|<fs af='kitakitalAduwuMdu,v,mf,pl,3,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

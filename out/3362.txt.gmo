@@ -1,0 +1,8 @@
+<Sentence id="3362">			
+0	((	SSF	
+1	manuRula	NN	<fs af='maniRi,n,,pl,,,obl,obl'>
+1	aMwA	PRP	<fs af='aMwa,pn,,pl,,,0_A,0_A'>|<fs af='aMwa,pn,,pl,,,0_V,0_V'>
+2	maMcivAlYle	NN	<fs af='maMci,adj,,pl,,,vAlYlu_0,vAlYlu_0_e' deri_cat=pn poslcat="NM">
+3	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

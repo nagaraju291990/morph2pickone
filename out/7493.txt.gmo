@@ -1,0 +1,70 @@
+<Sentence id="7493">			
+0	((	SSF	
+1	wamaku	PRP	<fs af='wAmu,pn,mf,sg,3,,ki,ki'>
+2	sevalu	NN	<fs af='seva,n,any,pl,3,,0,0'>|<fs af='seva,n,any,pl,3,,vu_agr,vu_agr'>
+3	ceyiMcukotAniki	NN	<fs af='ceyiMcu,v,any,any,any,,koVn_adaM,koVn_adaM' poslcat="NM">
+4	AjFalu	NN	<fs af='AjFa,n,any,pl,3,,0,0'>|<fs af='AjFa,n,any,pl,3,,vu_agr,vu_agr'>
+5	jArI	NN	<fs af='jAru,v,any,any,any,,i,i_V' poslcat="NM">
+6	ceyatAnike	VM	<fs af='ceyataM,n,any,sg,3,,ki,ki_e' poslcat="NM">
+7	vAru	PRP	<fs af='vAru,pn,mf,pl,3,,0,0'>|<fs af='vAru,pn,mf,pl,3,,vu,vu'>
+8	noru	NN	<fs af='noru,n,any,sg,3,,0,0'>|<fs af='noru,n,any,sg,3,,obl,obl'>
+9	vippuwAru	VM	<fs af='vippu,v,any,pl,2,,wA,wA'>|<fs af='vippu,v,mf,pl,3,,wA,wA'>
+10	kAni	RP	<fs af='kAni,avy,,,,,,'>
+11	mana	PRP	<fs af='manaM,pn,any,pl,1,,obl,obl'>
+12	kaRtasuKAlu	NN	<fs af='kaRtasuKaM,n,any,pl,3,,0,0'>|<fs af='kaRtasuKaM,n,any,pl,3,,vu_agr,vu_agr'>
+13	vAkabu	NN	<fs af='vAkabu,n,any,sg,3,,0,0'>|<fs af='vAkabu,n,any,sg,3,,obl,obl'>
+14	ceyatAniki	VM	<fs af='ceyataM,n,any,sg,3,,ki,ki' poslcat="NM">
+15	kAxani	VAUX	<fs af='avvu,v,fn,sg,3,,a_ani,a_ani' poslcat="NM">'>|<fs af='kAxanu,v,any,any,any,,i,i' poslcat="NM">'>
+16	iMwa	QF	<fs af='iMwa,n,any,sg,3,,0,0'>|<fs af='iMwa,n,any,sg,3,,obl,obl'>
+17	kAlAniki	NN	<fs af='kAlaM,n,,sg,,,ki,ki'>
+17	ayinA	VM	<fs af='avvu,v,any,any,any,,inA,inA'>
+18	arWaM	NN	<fs af='arWaM,n,any,sg,3,,0,0'>
+19	cesukoleni	VM	<fs af='ceVyyi,v,any,any,any,,koVn_a_le_ani,koVn_a_le_ani'>|<fs af='ceVyyi,v,any,any,any,,koVn_a_gala_ani,koVn_a_gala_ani'>
+20	veVrrivAdivi	NN	<fs af='veVrri,n,,sg,,,vAdu_vi,vAdu_vi' deri_cat=pn>
+21	aragaMta	NN	<fs af='aragaMta,n,any,sg,3,,0,0'>|<fs af='aragaMta,n,any,sg,3,,obl,obl'>
+22	xAkA	PSP	<fs af='xAka,n,any,sg,3,,0,0_A' poslcat="NM">'>|<fs af='xAka,n,any,sg,3,,0,0_V' poslcat="NM">'>
+23	nuvvu	PRP	<fs af='nIvu,pn,any,sg,2,,0,0'>
+23	akkade	PRP	<fs af='akkada,adv,any,any,any,,0_e_adv,0_e_adv' poslcat="NM">
+24	wAratlAdataM	VM	<fs af='wAratlAdu,v,any,any,any,,adaM,adaM'>
+25	ayyagAru	NN	<fs af='ayya,n,any,sg,3,,gAru,gAru'>
+26	bawimAli	VM	<fs af='bawimAlu,v,any,any,any,,i,i'>
+27	boVccu	NN	<fs af='boVccu,n,any,sg,3,,0,0'>|<fs af='boVccu,n,any,sg,3,,obl,obl'>
+27	kukkaki	NN	<fs af='kukka,n,any,sg,3,,ki,ki'>
+28	biskeVtlu	NN	<fs af='biskeVt,n,any,pl,3,,0,0'>|<fs af='biskeVt,n,any,pl,3,,vu_agr,vu_agr'>
+29	winipiMcataM	VM	<fs af='winipiMcu,v,any,any,any,,adaM,adaM'>
+30	vatti	JJ	<fs af='vatti,adj,any,any,any,,0_adj,0_adj'>
+31	cewulawo	NN	<fs af='ceyi,n,any,pl,3,,wo,wo'>|<fs af='cewu,n,any,pl,3,,wo,wo'>
+32	kalYlanIru	NN	<fs af='kalYlanIru,n,any,sg,3,,0,0'>|<fs af='kalYlanIru,n,any,sg,3,,obl,obl'>
+33	wuducukoVMtU	VM	<fs af='wuduvu,v,any,any,any,,koVn_wU,koVn_wU'>
+34	mOnaMgA	RB	<fs af='mOnaM,n,any,sg,3,,gA,gA' poslcat="NM">
+35	nuvvu	PRP	<fs af='nIvu,pn,any,sg,2,,0,0'>
+36	veVlYlipovadaM	VM	<fs af='veVlYlipo,v,any,any,any,,adaM,adaM'>
+37	aMwA	PRP	<fs af='aMwa,pn,any,pl,3,,0,0_A'>|<fs af='aMwa,pn,any,pl,3,,0,0_V'>
+38	cUSAnu	VM	<fs af='cUdu,v,any,sg,1,,A,A'>
+39	!	SYM	<fs af='!,punc,,,,,,'>
+40	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+40	emannA	NN	<fs af='emannA,unk,,,,,,' poslcat="NM">
+41	aMwa	QF	<fs af='aMwa,adj,any,any,any,,0_adj,0_adj'>|<fs af='aMwaM,n,any,sg,3,,obl,obl'>
+42	nIrasudigA	RB	<fs af='nIrasudu,n,any,sg,3,,gA,gA' poslcat="NM">
+43	veVlYli	VM	<fs af='veVlYlu,v,any,any,any,,i,i'>
+44	poyAvu	VAUX	<fs af='po,v,any,sg,2,,A,A' poslcat="NM">
+45	Sramaku	NN	<fs af='Srama,n,any,sg,3,,ki,ki'>
+46	wagina	VM	<fs af='wagu,v,any,any,any,,ina,ina'>
+47	PaliwaM	NN	<fs af='PaliwaM,n,any,sg,3,,0,0'>
+48	nI	PRP	<fs af='nIvu,pn,any,sg,2,,obl,obl'>
+49	janma	NN	<fs af='janma,n,any,sg,3,,0,0'>|<fs af='janma,n,any,sg,3,,obl,obl'>
+50	hakku	NN	<fs af='hakku,n,,sg,,,0,0'>|<fs af='hakku,n,,sg,,,obl,obl'>
+50	ani	VM	<fs af='anu,v,any,any,any,,i,i'>
+51	hakkuni	NN	<fs af='hakku,n,any,sg,3,,ni,ni'>
+52	hakkulA	RB	<fs af='hakku,n,any,sg,3,,lA,lA' poslcat="NM">'>|<fs af='hakku,n,any,pl,3,,0,0_A' poslcat="NM">'>
+53	wIsukovAle	VM	<fs af='wIsuko,v,any,any,any,,Ali_e,Ali_e'>|<fs af='wIsuko,v,any,any,any,,Ali_e,Ali_e'>
+54	kAni	RP	<fs af='kAni,avy,,,,,,'>
+55	XarmaMlA	NN	<fs af='XarmaM,n,any,sg,3,,lA,lA'>
+56	BariMcAlsina	NN	<fs af='BariMcAlsina,unk,,,,,,' poslcat="NM">
+57	panilexi	NN	<fs af='pani,n,,sg,,,0,0'>
+57	ani	VM	<fs af='anu,v,any,any,any,,i,i'>
+58	nIku	PRP	<fs af='nIvu,pn,any,sg,2,,ki,ki'>
+59	weVlIxA	VM	<fs af='weVliyu,v,fn,sg,3,,a,a_A'>
+60	?	SYM	<fs af='?,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

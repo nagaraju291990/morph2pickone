@@ -1,0 +1,12 @@
+<Sentence id="7683">
+0	((	SSF	
+1	avi	PRP	<fs af='axi,pn,fn,pl,3,,0,0'>
+2	guturA	RB	<fs af='guturA,avy,,,,,,' poslcat="NM">
+3	guturA	RDP	<fs af='guturA,avy,,,,,,' poslcat="NM">
+4	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+5	axe	PRP	<fs af='axi,pn,fn,sg,3,,0,0_e'>
+6	panigA	RB	<fs af='pani,n,any,sg,3,,gA,gA' poslcat="NM">
+7	aruswunnAyi	VM	<fs af='aruvu,v,n,pl,3,,wunn,wunn'>|<fs af='aruswuMdu,v,n,pl,3,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

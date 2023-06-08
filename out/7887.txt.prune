@@ -1,0 +1,10 @@
+<Sentence id="7887">
+0	((	SSF	
+1	lekapowe	CC	<fs af='gala,v,any,any,any,,akapowe,akapowe' poslcat="NM">|<fs af='lekapo,v,any,any,any,,we,we' poslcat="NM">
+2	pillalu	NN	<fs af='pilla,n,any,pl,3,,0,0'>|<fs af='pilla,n,any,pl,3,,vu_agr,vu_agr'>
+3	ceVdipowAru	VM	<fs af='ceVdipo,v,any,pl,2,,wA,wA'>|<fs af='ceVdipo,v,mf,pl,3,,wA,wA'>
+4	"	SYM	<fs af='",punc,,,,,,'>
+5	anukunnAdu	VM	<fs af='anuko,v,m,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

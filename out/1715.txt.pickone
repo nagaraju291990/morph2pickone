@@ -1,0 +1,13 @@
+<Sentence id="1715">			
+0	((	SSF	
+1	narsammano	NN	<fs af='narsamma,n,any,sg,3,,ni,ni_o'>
+2	,	SYM	<fs af=',,punc,,,,,,'>
+3	dAktaruno	NN	<fs af='dAktaru,n,any,sg,3,,ni,ni_o'>
+4	viRayaM	NN	<fs af='viRayaM,n,any,sg,3,,0,0'>
+5	weVlisina	VM	<fs af='weVliyu,v,any,any,any,,ina,ina'>
+6	miwrulano	NN	<fs af='miwrudu,n,any,pl,3,,ni,ni_o'>
+7	adigi	VM	<fs af='adugu,v,any,any,any,,i,i'>
+8	weVlusukovAli	VM	<fs af='weVlusuko,v,any,any,any,,Ali,Ali'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

@@ -1,0 +1,12 @@
+<Sentence id="2066">
+0	((	SSF
+1	oVkariki	PRP	<fs af='oVkaru,pn,mf,pl,3,,ki,ki'>
+2	pUnakaM	NN	<fs af='pUnakaM,n,any,sg,3,,0,0'>
+3	vaswe	VM	<fs af='vaccu,v,any,any,any,,we,we'>
+4	pakkanu	NN	<fs af='pakka,n,,sg,,,nu,nu'>|<fs af='pakka,n,,sg,,,nu,nu'>|<fs af='pakka,n,,sg,,,ni,ni'>|<fs af='pakka,n,,sg,,,ni,ni'>
+4	unna	VM	<fs af='unna,adj,,,,,0,0_adj'>|<fs af='uMdu,v,any,any,any,,ina,ina'>
+5	aMxarikI	PRP	<fs af='aMxaru,pn,mf,pl,3,,ki,ki_V'>
+6	rAvadaM	VM	<fs af='vaccu,v,any,any,any,,adaM,adaM'>|<fs af='rAvadaM,n,any,sg,3,,0,0'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

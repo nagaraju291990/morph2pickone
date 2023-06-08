@@ -1,0 +1,15 @@
+<Sentence id="2223">
+0	((	SSF	
+1	kAnI	CC	<fs af='kAnI,avy,,,,,,'>
+2	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+3	koVbbari	NN	<fs af='koVbbari,n,any,sg,3,,0,0'>|<fs af='koVbbari,n,any,sg,3,,obl,obl'>
+4	moVlakalu	NN	<fs af='moVlaka,n,any,pl,3,,0,0'>|<fs af='moVlaka,n,any,pl,3,,vu_agr,vu_agr'>
+5	nAtukovaccugaxA	VM	<fs af='nAtuko,v,,sg,,,xi_0,xi_0_A' deri_cat=pn>
+6	!	SYM	<fs af='!,punc,,,,,,'>
+7	ceVttu	NN	<fs af='ceVttu,n,any,sg,3,,0,0'>|<fs af='ceVttu,n,any,sg,3,,obl,obl'>
+8	peVrigi	VM	<fs af='peVrugu,v,any,any,any,,i,i'>
+9	pEki	NST	<fs af='pEki,avy,,,,,,' poslcat="NM">
+10	powuMxi	VM	<fs af='po,v,fn,sg,3,,wA,wA'>|<fs af='powuMdu,v,fn,sg,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

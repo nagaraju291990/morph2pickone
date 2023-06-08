@@ -1,0 +1,23 @@
+<Sentence id="9309">			
+0	((	SSF	
+1	mUdu	QC	<fs af='mUdu,n,any,sg,3,,0,0'>
+2	gajAla	NN	<fs af='gajaM,n,any,pl,3,,obl,obl'>
+3	veVdalpU	NN	<fs af='veVdalpu,n,any,sg,3,,0,0_V'>
+4	,	SYM	<fs af=',,punc,,,,,,'>
+5	paXnAlugu	QC	<fs af='paXnAlugu,n,any,sg,3,,0,0'>
+6	mUrala	NN	<fs af='mUra,n,any,pl,3,,obl,obl'>
+7	poVdugU	NN	<fs af='poVdugu,n,any,sg,3,,0,0_V'>
+8	kaligina	VM	<fs af='kalugu,v,any,any,any,,ina,ina'>
+9	meVwwani	JJ	<fs af='meVwwa,adj,any,any,any,,ti_adj,ti_adj'>
+10	sannani	JJ	<fs af='sanna,adj,any,any,any,,ti_adj,ti_adj'>
+11	UlYlu	NN	<fs af='Uru,n,any,pl,3,,0,0'>
+12	xuppatlu	NN	<fs af='xuppati,n,any,pl,3,,0,0'>
+13	aMculu	NN	<fs af='aMcu,n,any,pl,3,,0,0'>
+14	kuttiMci	VM	<fs af='kuttiMcu,v,any,any,any,,i,i'>
+15	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>
+16	weVcci	VM	<fs af='we,v,any,any,any,,i,i'>
+17	Ayanaku	PRP	<fs af='Ayana,pn,m,sg,3,,ki,ki'>
+18	iccAru	VM	<fs af='ivvu,v,any,pl,2,,A,A'>
+19	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

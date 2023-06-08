@@ -1,0 +1,11 @@
+<Sentence id="6394">
+0	((	SSF
+1	winnavi	VM	<fs af='winnaxi,pn,any,pl,3,,0,0'>
+2	eVnimixi	QC	<fs af='eVnimixi,n,any,sg,3,,0,0'>|<fs af='eVnimixi,n,any,sg,3,,obl,obl'>|<fs af='eVnimixi,num,any,any,any,,0,0'>
+3	A	DEM	<fs af='A,avy,,,,,, '>
+4	maniRiki	NN	<fs af='maniRi,n,any,sg,3,,ki,ki'>
+5	paMcinavi	VM	<fs af='paMcinaxi,pn,any,pl,3,,0,0'>
+6	oVkati	QC	<fs af='oVkati,n,any,sg,3,,0,0'>|<fs af='oVkati,n,any,sg,3,,obl,obl'>|<fs af='oVkati,num,any,any,any,,0,0'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

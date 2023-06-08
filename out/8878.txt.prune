@@ -1,0 +1,22 @@
+<Sentence id="8878">
+0	((	SSF	
+1	muMxara	NN	<fs af='muMxara,avy,,,,,0,0_avy' poslcat="NM">
+2	sAvadilo	NN	<fs af='sAvadi,n,any,sg,3,,lo,lo'>
+3	nAlugu	QC	<fs af='nAlugu,n,any,sg,3,,0,0'>|<fs af='nAlugu,n,any,sg,3,,obl,obl'>|<fs af='nAlugu,num,any,any,any,,0,0'>
+4	Exu	QC	<fs af='Exu,n,any,sg,3,,0,0'>|<fs af='Exu,n,any,sg,3,,obl,obl'>|<fs af='Exu,num,any,any,any,,0,0'>
+5	kurcIlu	NN	<fs af='kurcI,n,,pl,,,0,0'>|<fs af='kurcI,n,,pl,,,vu,vu'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+8	padakakurcIlU	NN	<fs af='padakakurcI,n,,pl,,,I,I'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+11	sAmAnyapuvi	NN	<fs af='sAmAnyaM,n,any,sg,3,,vi_agr,vi_agr'>
+12	annI	QF	<fs af='anni,pn,any,pl,3,,0,0_V' poslcat="NM">
+13	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+14	jaMwuvu	NN	<fs af='jaMwuvu,n,any,sg,3,,0,0'>|<fs af='jaMwuvu,n,any,sg,3,,obl,obl'>
+15	parimANAniki	NN	<fs af='parimANaM,n,any,sg,3,,ki,ki'>
+16	waginatlu	VM	<fs af='wagu,v,any,any,any,,ina_atlu,ina_atlu'>
+17	ceyiMcAru	VM	<fs af='ceyiMcu,v,any,pl,2,,A,A'>|<fs af='ceyiMcu,v,mf,pl,3,,A,A'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

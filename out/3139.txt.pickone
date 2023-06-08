@@ -1,0 +1,14 @@
+<Sentence id="3139">			
+0	((	SSF	
+1	aMte	UT	<fs af='aMte,avy,,,,,,'>
+2	maniRi	NN	<fs af='maniRi,n,any,sg,3,,0,0'>
+3	guriMci	PSP	<fs af='guriMci,avy,,,,,,'>
+4	mAtlAdina	VM	<fs af='mAtlAdu,v,any,any,any,,ina,ina'>
+4	atle	VM	<fs af='attu,n,any,pl,3,,0,0_e'>
+5	_	SYM	<fs af='<'>
+6	xAni	PRP	<fs af='axi,pn,fn,sg,3,,obl,obl'>
+7	guriMci	PSP	<fs af='guriMci,avy,,,,,,'>
+8	mAtlAdukuMtAru	VM	<fs af='mAtlAduko,v,fm,pl,3,,wA,wA'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

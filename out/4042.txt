@@ -1,0 +1,9 @@
+<Sentence id="4042">
+0	((	SSF
+1	kukka	NN	<fs af='kukku,v,any,any,any,,an,an'>|<fs af='kukka,n,any,sg,3,,0,0'>|<fs af='kukka,n,any,sg,3,,obl,obl'>|<fs af='kukkudu,n,any,sg,3,,obl,obl'>
+2	bawuku	NN	<fs af='bawuku,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='bawuku,n,any,sg,3,,0,0'>|<fs af='bawuku,n,any,sg,3,,obl,obl'>
+3	puliki	NN	<fs af='puli,n,any,sg,3,,ki,ki'>
+4	arWamEMxi	VM	<fs af='arWamavvu,v,fn,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

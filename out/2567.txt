@@ -1,0 +1,16 @@
+<Sentence id="2567">
+0	((	SSF
+1	xInivalla	PRP	<fs af='ixi,pn,fn,sg,3,,valana,valana'>
+2	Sanaga	NN	<fs af='Sanaga,n,any,sg,3,,0,0'>|<fs af='Sanaga,n,any,sg,3,,obl,obl'>
+3	paMtaku	NN	<fs af='paMta,n,any,sg,3,,ki,ki'>
+4	patte	VM	<fs af='pattu,v,any,any,any,,e,e'>|<fs af='pattu,v,any,any,any,,i,i_e'>|<fs af='pattu,n,any,sg,3,,0,0_e'>|<fs af='patta,n,any,sg,3,,0,0_e'>|<fs af='patteV,n,any,sg,3,,0,0_e'>|<fs af='patteV,n,any,sg,3,,0,0_V'>
+5	veru	NN	<fs af='veru,n,any,sg,3,,0,0'>|<fs af='veru,n,any,sg,3,,obl,obl'>
+5	kulYlu	NN	<fs af='kudi,n,any,pl,3,,0,0'>|<fs af='kudi,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='kulYlu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='kulYlu,n,any,sg,3,,0,0'>|<fs af='kulYlu,n,any,sg,3,,obl,obl'>
+6	weVgulu	NN	<fs af='weVgulu,n,,sg,,,0,0'>|<fs af='weVgulu,n,,sg,,,obl,obl'>|<fs af='weVgulu,n,,sg,,,0,0'>|<fs af='weVgulu,n,,sg,,,obl,obl'>
+7	mariyu	CC	<fs af='mariyu,avy,,,,,, '>
+8	eVMdu	NN	<fs af='eVMd,n,any,sg,3,,0,0'>|<fs af='eVMd,n,any,sg,3,,obl,obl'>|<fs af='eVMdu,v,any,sg,2,,AjFArWa,AjFArWa'>
+8	weVgulunu	NN	<fs af='weVgulu,n,,sg,,,nu,nu'>|<fs af='weVgulu,n,,sg,,,ni,ni'>
+9	arikattavaccu	VM	<fs af='arikattu,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='arikattavaccu,v,any,any,any,,e,e'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

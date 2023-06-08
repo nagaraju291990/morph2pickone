@@ -1,0 +1,18 @@
+<Sentence id="6194">
+0	((	SSF	
+1	koVnni	QF	<fs af='koVnni,pn,any,pl,3,,0,0' poslcat="NM">
+2	saMxarBAlalo	NN	<fs af='saMxarBaM,n,any,pl,3,,lo,lo'>
+3	vijayavAda	NNP	<fs af='vijayavAda,n,any,sg,3,,0,0'>|<fs af='vijayavAda,n,any,sg,3,,obl,obl'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	rAjamaMdri	NNP	<fs af='rAjamaMdri,n,any,sg,3,,0,0'>|<fs af='rAjamaMdri,n,any,sg,3,,obl,obl'>
+6	vaMti	JJ	<fs af='vaMti,adj,any,any,any,,0_adj,0_adj'>
+7	prAMwAlalo	NN	<fs af='prAMwaM,n,any,pl,3,,lo,lo'>
+8	InAdu	NN	<fs af='InAdu,n,any,sg,3,,0,0'>|<fs af='InAdu,n,any,sg,3,,obl,obl'>
+9	50	QC	<fs af='50,num,,,,,,'>|<fs af='pE,adj,any,any,any,,0_adj,0_adj'>
+10	uRNograwa	NN	<fs af='uRNograwa,n,any,sg,3,,0,0'>|<fs af='uRNograwa,n,any,sg,3,,obl,obl'>
+11	namoxu	NN	<fs af='namoxu,n,any,sg,3,,0,0'>|<fs af='namoxu,n,any,sg,3,,obl,obl'>
+12	avuwunnatlu	VM	<fs af='avvu,v,any,any,any,,wunna_atlu,wunna_atlu'>|<fs af='avuwuMdu,v,any,any,any,,ina_atlu,ina_atlu'>
+13	weVluswoMxi	VM	<fs af='weVluvu,v,fn,sg,3,,wunn,wunn'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

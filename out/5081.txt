@@ -1,0 +1,11 @@
+<Sentence id="5081">
+0	((	SSF
+1	eVxigina	VM	<fs af='eVxugu,v,any,any,any,,ina,ina'>
+2	Adapilla	NN	<fs af='Adapilla,n,any,sg,3,,0,0'>|<fs af='Adapilla,n,any,sg,3,,obl,obl'>
+3	guMdeVla	NN	<fs af='guMdeV,n,any,pl,3,,obl,obl'>
+4	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+5	kuMpati	NN	<fs af='kuMpati,n,any,sg,3,,0,0'>|<fs af='kuMpati,n,any,sg,3,,obl,obl'>
+6	lAMtixi	NN	<fs af='lAMti,adj,any,any,any,,xi_adj,xi_adj'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

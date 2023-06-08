@@ -1,0 +1,9 @@
+<Sentence id="5801">
+0	((	SSF	
+1	jAnaki	NNP	<fs af='jAna,n,any,sg,3,,ki,ki'>|<fs af='jAnaki,n,any,sg,3,,0,0'>|<fs af='jAnaki,n,any,sg,3,,obl,obl'>
+2	kalYlu	NN	<fs af='kannu,n,any,pl,3,,0,0'>|<fs af='kannu,n,any,pl,3,,vu_agr,vu_agr'>
+3	weVrice	VM	<fs af='weVruvu,v,any,any,any,,e,e'>|<fs af='weVruvu,v,any,any,any,,i,i_e'>
+4	unnAyi	VAUX	<fs af='uMdu,v,n,pl,3,,A,A' poslcat="NM">
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

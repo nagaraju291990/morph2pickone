@@ -1,0 +1,9 @@
+<Sentence id="2412">			
+0	((	SSF	
+1	somuluku	NNP	<fs af='somulu,n,any,sg,3,,ki,ki'>
+2	manasulo	NN	<fs af='manasu,n,any,sg,3,,lo,lo'>|<fs af='manasu,n,any,pl,3,,0,0_o'>
+3	manasu	NN	<fs af='manasu,n,any,sg,3,,0,0'>|<fs af='manasu,n,any,sg,3,,obl,obl'>
+4	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

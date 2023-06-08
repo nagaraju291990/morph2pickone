@@ -1,0 +1,11 @@
+<Sentence id="4476">
+0	((	SSF	
+1	axiripaddAru	VM	<fs af='axiripadu,v,any,pl,2,,A,A'>|<fs af='axiripadu,v,mf,pl,3,,A,A'>
+2	!	SYM	<fs af='!,punc,,,,,,'>
+3	xAni	PRP	<fs af='axi,pn,fn,sg,3,,obl,obl'>
+4	Xara	NN	<fs af='Xara,n,any,sg,3,,0,0'>|<fs af='Xara,n,any,sg,3,,obl,obl'>
+5	nalaBE	NN	<fs af='nalaBE,n,,sg,,,0,0'>|<fs af='nalaBE,n,,sg,,,obl,obl'>
+6	velA	QC	<fs af='velu,n,any,sg,3,,0,0_A'>|<fs af='veVyyi,n,any,pl,3,,0,0_A'>
+7	?	SYM	<fs af='?,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

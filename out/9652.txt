@@ -1,0 +1,13 @@
+<Sentence id="9652">
+0	((	SSF
+1	iMwalo	NST	<fs af='iMwa,pn,any,sg,3,,lo,lo'>|<fs af='iMwa,n,any,sg,3,,lo,lo'>|<fs af='iMwa,n,any,pl,3,,0,0_o'>|<fs af='iMwalu,n,any,sg,3,,0,0_o'>
+2	gavarnameVMtu	NN	<fs af='gavarnameVMt,n,any,sg,3,,0,0'>|<fs af='gavarnameVMt,n,any,sg,3,,obl,obl'>|<fs af='gavarnameVMtu,n,any,sg,3,,0,0'>|<fs af='gavarnameVMtu,n,any,sg,3,,obl,obl'>
+3	Bavanamuna	NN	<fs af='BavanaM,n,,sg,,,na,na'>
+3	uMdi	VM	<fs af='uMdu,v,any,any,any,,i,i'>
+4	lArdu	NN	<fs af='lArd,n,any,sg,3,,0,0'>|<fs af='lArd,n,any,sg,3,,obl,obl'>
+5	iMtiki	NN	<fs af='illu,n,any,sg,3,,ki,ki'>
+6	teVliPonu	NN	<fs af='teVliPon,n,any,sg,3,,0,0'>|<fs af='teVliPon,n,any,sg,3,,obl,obl'>
+7	vacciMxi	VM	<fs af='vaccu,v,fn,sg,3,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

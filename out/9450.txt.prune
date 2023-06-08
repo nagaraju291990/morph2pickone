@@ -1,0 +1,15 @@
+<Sentence id="9450">
+0	((	SSF	
+1	pUrvaM	NN	<fs af='pUrvaM,adv,any,any,any,,0_adv,0_adv' poslcat="NM">|<fs af='pUrvaM,adv,any,any,any,,yoVkka_adv,yoVkka_adv' poslcat="NM">
+2	nIku	PRP	<fs af='nIvu,pn,any,sg,2,,ki,ki'>
+3	gala	RP	<fs af='gala,v,any,any,any,,ina,ina' poslcat="NM">|<fs af='gala,adj,any,any,any,,0_adj,0_adj' poslcat="NM">
+4	anuBavaM	NN	<fs af='anuBavaM,n,any,sg,3,,0,0'>
+5	prakAraM	NN	<fs af='prakAraM,n,any,sg,3,,0,0'>
+6	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+7	reVMti	QC	<fs af='reVMdu,num,any,any,any,,iMti,iMti'>|<fs af='reVMti,n,any,sg,3,,0,0'>|<fs af='reVMti,n,any,sg,3,,obl,obl'>
+8	aMxu	PRP	<fs af='aMxu,avy,,,,,,' poslcat="NM">
+9	poVMxika	NN	<fs af='poVMxika,n,any,sg,3,,0,0'>|<fs af='poVMxika,n,any,sg,3,,obl,obl'>
+10	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

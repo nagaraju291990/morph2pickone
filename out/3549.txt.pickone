@@ -1,0 +1,24 @@
+<Sentence id="3549">			
+0	((	SSF	
+1	iMwalone	NST	<fs af='iMwa,n,any,sg,3,,lo,lo_e'>
+2	gaddi	NN	<fs af='gaddi,n,any,sg,3,,0,0'>
+3	eVlA	WQ	<fs af='eVlA,avy,,,,,,'>
+4	oVwwugA	RB	<fs af='oVwwu,n,any,sg,3,,gA,gA'>
+5	moVliciMxo	VM	<fs af='moVluvu,v,fn,sg,3,,A,A_o'>
+6	cUdu	VM	<fs af='cUdu,v,any,sg,2,,AjFArWa,AjFArWa'>
+7	!	SYM	<fs af='!,punc,,,,,,'>
+8	"	SYM	<fs af='",punc,,,,,,'>
+9	wirigi	VM	<fs af='wirugu,v,any,any,any,,i,i'>
+10	sAti	JJ	<fs af='sAti,n,any,sg,3,,0,0'>'>
+11	KExI	NN	<fs af='KExi,n,any,sg,3,,0,0_V'>
+12	annAdu	VM	<fs af='anu,v,m,sg,3,,A,A'>
+13	_	SYM	<fs af='<'>
+14	"	SYM	<fs af='",punc,,,,,,'>
+15	cUdu	VM	<fs af='cUdu,v,any,sg,2,,AjFArWa,AjFArWa'>
+16	mAmA	NN	<fs af='mAma,n,any,sg,3,,0,0_A'>
+17	!	SYM	<fs af='!,punc,,,,,,'>
+18	nuvvu	PRP	<fs af='nIvu,pn,any,sg,2,,0,0'>
+19	KExIvA	NN	<fs af='KExI,n,,pl,,,xi_0,xi_0_A' deri_cat=pn>
+20	?	SYM	<fs af='?,punc,,,,,,'>
+))	<'>
+</Sentence>			

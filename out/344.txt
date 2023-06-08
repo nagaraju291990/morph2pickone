@@ -1,0 +1,10 @@
+<Sentence id="344">
+0	((	SSF
+1	Eran	NN	<fs af='Eran,n,any,sg,3,,0,0'>|<fs af='Eran,n,any,sg,3,,obl,obl'>
+2	mAwralawo	NN	<fs af='mAwra,n,any,pl,3,,wo,wo'>
+3	aMwA	QF	<fs af='aMwa,pn,any,pl,3,,0,0_A'>|<fs af='aMwa,pn,any,pl,3,,0,0_V'>
+4	annI	QF	<fs af='anni,pn,any,pl,3,,0,0_V'>
+5	kuxutapadavu	VM	<fs af='kuxutapadu,v,any,sg,2,,a,a'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

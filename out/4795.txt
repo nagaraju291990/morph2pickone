@@ -1,0 +1,7 @@
+<Sentence id="4795">
+0	((	SSF
+1	rohu	NNP	<fs af='rohu,n,any,sg,3,,0,0'>|<fs af='rohu,n,any,sg,3,,obl,obl'>
+2	peVMpakaM	NN	<fs af='peVMpakaM,n,any,sg,3,,0,0'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

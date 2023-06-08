@@ -1,0 +1,19 @@
+<Sentence id="2949">
+0	((	SSF	
+1	Aru	QC	<fs af='Aru,n,any,sg,3,,0,0'>|<fs af='Aru,n,any,sg,3,,obl,obl'>
+2	_	SYM	<'>|<poslcat="NM"'>
+3	_	SYM	<'>|<poslcat="NM"'>
+4	_	SYM	<'>|<poslcat="NM"'>
+5	_	SYM	<'>|<poslcat="NM"'>
+6	_	SYM	<'>|<poslcat="NM"'>
+7	bApUjIni	NN	<fs af='bApUjI,n,,sg,,,ni,ni'>
+8	kalusukovadaM	VM	<fs af='kalusuko,v,any,any,any,,adaM,adaM'>
+9	kosaM	PSP	<fs af='kosaM,avy,,,,,,' poslcat="NM">
+10	cinna	JJ	<fs af='cinna,adj,any,any,any,,0_adj,0_adj'>
+11	pillalu	NN	<fs af='pilla,n,any,pl,3,,0,0'>|<fs af='pilla,n,any,pl,3,,vu_agr,vu_agr'>
+12	cAlAmaMxi	NN	<fs af='cAlAmaMxi,n,any,sg,3,,0,0'>|<fs af='cAlAmaMxi,n,any,sg,3,,obl,obl'>|<fs af='cAlAmaMxi,n,any,sg,3,,vu_agr,vu_agr'>
+13	vaswU	VM	<fs af='vaccu,v,any,any,any,,wU,wU'>
+14	uMdevAru	VAUX	<fs af='uMdu,v,any,any,any,,e_vAru,e_vAru' poslcat="NM">|<fs af='uMdevAru,pn,mf,pl,3,,0,0' poslcat="NM">|<fs af='uMdevAru,pn,mf,pl,3,,vu,vu' poslcat="NM">
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

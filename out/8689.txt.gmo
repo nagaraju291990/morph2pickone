@@ -1,0 +1,16 @@
+<Sentence id="8689">			
+0	((	SSF	
+1	kanuka	RP	<fs af='kanuka,avy,,,,,,'>
+2	awanu	PRP	<fs af='awanu,pn,m,sg,3,,0,0'>
+3	mAtlAde	VM	<fs af='mAtlAdu,v,any,any,any,,e,e'>|<fs af='mAtlAdu,v,any,any,any,,i,i_e'>
+4	BARa	NN	<fs af='BARa,n,any,sg,3,,0,0'>|<fs af='BARa,n,any,sg,3,,obl,obl'>
+5	emito	WQ	<fs af='emito,avy,,,,,,'>
+6	kanukkuni	VM	<fs af='kanukko,v,any,any,any,,i,i'>
+7	xAnni	PRP	<fs af='axi,pn,fn,sg,3,,nu,nu'>|<fs af='axi,pn,fn,sg,3,,ni,ni'>
+8	vAlYlaxi	NN	<fs af='vAlYlu,pn,mf,pl,3,,xi,xi' poslcat="NM">
+9	e	WQ	<fs af='e,avy,,,,,,'>
+10	xeSamo	NN	<fs af='xeSaM,n,any,sg,3,,0,0_o'>
+11	kanukkuMxAM	VM	<fs af='kanukko,v,,pl,2,,xA,xA'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,24 @@
+<Sentence id="6712">
+0	((	SSF
+1	plAstar	NN	<fs af='plAstar,n,any,sg,3,,0,0'>|<fs af='plAstar,n,any,sg,3,,obl,obl'>
+2	bAgA	INTF	<fs af='bAgA,avy,,,,,, '>
+3	Are	VM	<fs af='Aru,v,any,any,any,,e,e'>|<fs af='Aru,v,any,any,any,,i,i_e'>|<fs af='Aru,n,any,sg,3,,0,0_e'>
+3	varakU	VM	<fs af='varakU,avy,,,,,, '>
+4		NN
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	aracewwo	NN	<fs af='araceyi,n,any,sg,3,,wo,wo'>
+6	kAnI	NN	<fs af='kAnI,avy,,,,,, '>
+7	e	WQ	<fs af='e,avy,,,,,, '>|<fs af='e,adj,any,any,any,,0_adj,0_adj'>
+8	panulU	NN	<fs af='pani,n,any,pl,3,,0,0_V'>|<fs af='pani,n,any,pl,3,,I,I'>
+9	ceyavaxxu	VM	<fs af='ceVyyi,v,any,any,any,,a_vaxxu,a_vaxxu'>
+10	,	SYM	<fs af=',,punc,,,,,, '>
+11	kaxapavaxxu	VM	<fs af='kaxupu,v,any,any,any,,a_vaxxu,a_vaxxu'>
+12	,	SYM	<fs af=',,punc,,,,,, '>
+13	ilA	RB	<fs af='ilA,avy,,,,,, '>|<fs af='ila,n,any,sg,3,,0,0_A'>|<fs af='ila,n,any,sg,3,,0,0_V'>
+14	kaxapakuMdA	VM	<fs af='kaxupu,v,any,any,any,,akuMdA,akuMdA'>
+15	uMcakapowe	VM	<fs af='uMcu,v,any,any,any,,akapowe,akapowe'>|<fs af='uMcakapo,v,any,any,any,,we,we'>
+16	plAstar	NN	<fs af='plAstar,n,any,sg,3,,0,0'>|<fs af='plAstar,n,any,sg,3,,obl,obl'>
+17	virigipowuMxi	VM	<fs af='virigipo,v,fn,sg,3,,wA,wA'>
+18	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

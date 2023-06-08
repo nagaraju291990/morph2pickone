@@ -1,0 +1,11 @@
+<Sentence id="8408">
+0	((	SSF
+1	BArgava	NNP	<fs af='BArgava,n,any,sg,3,,0,0'>|<fs af='BArgava,n,any,sg,3,,obl,obl'>
+2	koVMda	NN	<fs af='koVMda,n,any,sg,3,,0,0'>|<fs af='koVMda,n,any,sg,3,,obl,obl'>
+3	:	SYM	<fs af=':,punc,,,,,, '>
+4	kanigiriki	NNP	<fs af='kanigiri,n,any,sg,3,,ki,ki'>
+5	64	QC	<fs af='64,num,,,,,, '>
+6	ki	NN	<fs af='ki,avy,,,,,, '>|<fs af='mIru,pn,any,pl,2,,obl,obl'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

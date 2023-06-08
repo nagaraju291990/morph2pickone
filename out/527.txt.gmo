@@ -1,0 +1,12 @@
+<Sentence id="527">			
+0	((	SSF	
+1	caMxrudu	NNP	<fs af='caMxrudu,n,any,sg,3,,0,0'>
+2	niMdugA	RB	<fs af='niMdu,adj,any,any,any,,gA_adj,gA_adj' poslcat="NM">'>|<fs af='niMdu,n,any,sg,3,,gA,gA' poslcat="NM">'>
+3	veVluguwU	VM	<fs af='veVlugu,v,any,any,any,,wU,wU'>
+4	koVnni	QF	<fs af='koVnni,pn,any,pl,3,,0,0' poslcat="NM">
+5	rojulu	NN	<fs af='roju,n,any,pl,3,,0,0'>|<fs af='roju,n,any,pl,3,,vu_agr,vu_agr'>
+6	eVMxuku	WQ	<fs af='eVMxuku,avy,,,,,,'>
+7	uMtAdu	VM	<fs af='uMdu,v,m,sg,3,,wA,wA'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

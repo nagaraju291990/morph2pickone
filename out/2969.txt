@@ -1,0 +1,10 @@
+<Sentence id="2969">
+0	((	SSF
+1	oVkatA	QC	<fs af='oVkati,n,any,sg,3,,0,0_A'>
+2	,	SYM	<fs af=',,punc,,,,,, '>
+3	reVMdA	QC	<fs af='reVMdu,n,any,sg,3,,0,0_A'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	mUdA	QC	<fs af='mUdu,v,any,any,any,,i,i_A'>|<fs af='mUdu,n,any,sg,3,,0,0_A'>
+6	?	SYM	<fs af='?,punc,,,,,, '>
+))
+</Sentence>

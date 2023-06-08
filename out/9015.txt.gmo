@@ -1,0 +1,10 @@
+<Sentence id="9015">			
+0	((	SSF	
+1	manuRyuni	NN	<fs af='manuRyudu,n,any,sg,3,,obl,obl'>
+2	wala	NN	<fs af='wala,n,any,sg,3,,0,0'>|<fs af='wala,n,any,sg,3,,obl,obl'>
+3	iMwa	QF	<fs af='iMwa,n,any,sg,3,,0,0'>|<fs af='iMwa,n,any,sg,3,,obl,obl'>
+4	dippa	NN	<fs af='dippa,n,any,sg,3,,0,0'>|<fs af='dippa,n,any,sg,3,,obl,obl'>
+5	kalaxi	VM	<fs af='kala,n,any,sg,3,,xi,xi' poslcat="NM">
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,21 @@
+<Sentence id="1950">
+0	((	SSF	
+1	dAktaru	NN	<fs af='dAktar,n,any,sg,3,,0,0'>|<fs af='dAktar,n,any,sg,3,,obl,obl'>|<fs af='dAktaru,n,any,sg,3,,0,0'>|<fs af='dAktaru,n,any,sg,3,,obl,obl'>
+2	vacci	VM	<fs af='vaccu,v,any,any,any,,i,i'>
+3	cUsi	VM	<fs af='cUdu,v,any,any,any,,i,i'>
+4	"	SYM	<fs af='",punc,,,,,,'>
+5	subbayyA	NNP	<fs af='subbayya,n,any,sg,3,,0,0_A'>|<fs af='subbayya,n,any,sg,3,,0,0_V'>
+6	!	SYM	<fs af='!,punc,,,,,,'>
+7	AvAlu	NN	<fs af='AvaM,n,any,pl,3,,0,0'>|<fs af='AvaM,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='AvAlu,n,any,sg,3,,0,0'>|<fs af='AvAlu,n,any,sg,3,,vu_agr,vu_agr'>
+8	(	SYM	<fs af='(,punc,,,,,,'>
+9	sAsavalu	NN	<fs af='sAsavalu,n,any,sg,3,,0,0'>|<fs af='sAsavalu,n,any,sg,3,,vu_agr,vu_agr'>
+10	)	SYM	<fs af='),punc,,,,,,'>
+11	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+12	guppeVdu	QF	<fs af='guppeVdu,n,any,sg,3,,0,0'>|<fs af='guppeVdu,n,any,sg,3,,obl,obl'>
+13	wIsukurA	VM	<fs af='wIsukuvaccu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='wIsukuvaccu,v,any,any,any,,an,an'>
+14	!	SYM	<fs af='!,punc,,,,,,'>
+15	"	SYM	<fs af='",punc,,,,,,'>
+16	annAdu	VM	<fs af='anu,v,m,sg,3,,A,A'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

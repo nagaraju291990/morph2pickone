@@ -1,0 +1,12 @@
+<Sentence id="8430">
+0	((	SSF
+1	iccata	NST	<fs af='iccata,avy,,,,,, '>|<fs af='iccata,adv,any,any,any,,0_adv,0_adv'>
+2	eVdlu	NN	<fs af='eVdlu,n,any,sg,3,,0,0'>|<fs af='eVdlu,n,any,sg,3,,vu_agr,vu_agr'>|<fs af='eVddu,n,any,pl,3,,0,0'>
+3	kalYANi	NNP	<fs af='kalYANi,n,any,sg,3,,0,0'>|<fs af='kalYANi,n,any,sg,3,,obl,obl'>
+4	jAwi	NN	<fs af='jAwi,n,any,sg,3,,0,0'>|<fs af='jAwi,n,any,sg,3,,obl,obl'>
+5	gurrAlawo	NN	<fs af='gurraM,n,any,pl,3,,wo,wo'>
+6	samAnaM	NN	<fs af='samAnaM,n,,sg,,,0,0'>
+6	Enaxi	NN	<fs af='Ena,adj,,,,,xi,xi_adj'>|<fs af='Ena,adj,,,,,xi,xi_adj'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

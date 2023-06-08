@@ -1,0 +1,26 @@
+<Sentence id="6423">			
+0	((	SSF	
+1	sexya	NN	<fs af='sexyaM,n,any,sg,3,,obl,obl'>
+2	paxXawulu	NN	<fs af='paxXawi,n,any,pl,3,,0,0'>
+3	_	SYM	<fs af='<'>
+4	_	SYM	<fs af='<'>
+5	_	SYM	<fs af='<'>
+6	_	SYM	<fs af='<'>
+7	_	SYM	<fs af='<'>
+8	_	SYM	<fs af='<'>
+9	_	SYM	<fs af='<'>
+10	_	SYM	<fs af='<'>
+11	_	SYM	<fs af='<'>
+12	_	SYM	<fs af='<'>
+13	_	SYM	<fs af='<'>
+14	_	SYM	<fs af='<'>
+15	_	SYM	<fs af='<'>
+16	_	SYM	<fs af='<'>
+17	eVlukalu	NN	<fs af='eVluka,n,any,pl,3,,0,0'>
+18	lekuMdA	VM	<fs af='gala,v,any,any,any,,akuMdA,akuMdA'>
+19	ceyAlaMte	VM	<fs af='ceVyyi,v,any,any,any,,Ali_aMte,Ali_aMte'>
+20	aMxarU	PRP	<fs af='aMxaru,pn,mf,pl,3,,0,0_V'>
+21	kalavAli	VM	<fs af='kaluvu,v,any,any,any,,Ali,Ali'>
+22	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

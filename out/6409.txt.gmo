@@ -1,0 +1,10 @@
+<Sentence id="6409">			
+0	((	SSF	
+1	lekuMte	VM	<fs af='gala,v,any,any,any,,akapowe,akapowe'>|<fs af='lekuMdu,v,any,any,any,,we,we'>
+2	giMja	NN	<fs af='giMja,n,any,sg,3,,0,0'>|<fs af='giMja,n,any,sg,3,,obl,obl'>
+3	patte	VM	<fs af='pattu,v,any,any,any,,e,e'>|<fs af='pattu,v,any,any,any,,i,i_e'>
+4	xaSalo	NN	<fs af='xaSa,n,any,sg,3,,lo,lo'>|<fs af='xaSa,n,any,pl,3,,0,0_o'>
+5	cerawAyi	VM	<fs af='ceru,v,n,pl,3,,wA,wA'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

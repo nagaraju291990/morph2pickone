@@ -1,0 +1,8 @@
+<Sentence id="1273">
+0	((	SSF
+1	raMgammaku	NNP	<fs af='raMgamma,n,any,sg,3,,ki,ki'>
+2	pAlu	NN	<fs af='paM,n,any,pl,3,,0,0'>|<fs af='paM,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAlu,n,any,sg,3,,0,0'>|<fs af='pAlu,n,any,sg,3,,0,0_A'>|<fs af='pAlu,n,any,sg,3,,obl,obl'>|<fs af='pAlu,n,any,sg,3,,vu_agr,vu_agr'>
+3	padalexu	VM	<fs af='padu,v,any,any,any,,a_lexu,a_lexu'>|<fs af='padagala,v,fn,sg,3,,a,a'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

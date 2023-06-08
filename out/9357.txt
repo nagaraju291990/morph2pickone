@@ -1,0 +1,8 @@
+<Sentence id="9357">
+0	((	SSF
+1	mI	PRP	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+2	Sirassu	NN	<fs af='Sirassu,n,any,sg,3,,0,0'>|<fs af='Sirassu,n,any,sg,3,,obl,obl'>
+3	aSvamuxi	NN	<fs af='aSvaM,n,,sg,,,xi,xi_0' deri_cat='pn'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

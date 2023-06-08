@@ -1,0 +1,7 @@
+<Sentence id="579">
+0	((	SSF
+1	akkadiki	NST	<fs af='akkada,adv,any,any,any,,ku_adv,ku_adv'>
+2	poleM	VM	<fs af='pogala,v,any,pl,1,,a,a'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,14 @@
+<Sentence id="4289">
+0	((	SSF
+1	xAniki	PRP	<fs af='axi,pn,fn,sg,3,,ki,ki'>
+2	rammane	VM	<fs af='rammanu,v,any,any,any,,e,e'>|<fs af='rammanu,v,any,any,any,,i,i_e'>
+3	pilupu	NN	<fs af='pilupu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='pilupu,n,any,sg,3,,0,0'>|<fs af='pilupu,n,any,sg,3,,obl,obl'>
+4	!	SYM	<fs af='!,punc,,,,,, '>
+5	maMwrigAri	NN	<fs af='maMwri,n,,pl,,,gAru,gAru_obl' deri_cat='pn'>
+6	viMxu	NN	<fs af='viMxu,n,any,sg,3,,0,0'>|<fs af='viMxu,n,any,sg,3,,obl,obl'>
+7	kArdu	NN	<fs af='kArd,n,any,sg,3,,0,0'>|<fs af='kArd,n,any,sg,3,,obl,obl'>|<fs af='kArdu,n,any,sg,3,,0,0'>|<fs af='kArdu,n,any,sg,3,,obl,obl'>
+8	aMxarikI	PRP	<fs af='aMxaru,pn,mf,pl,3,,ki,ki_V'>
+9	xoVrakaxu	VM	<fs af='xoVruku,v,fn,sg,3,,a,a'>|<fs af='xoVraku,v,fn,sg,3,,a,a'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

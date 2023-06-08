@@ -1,0 +1,12 @@
+<Sentence id="6540">
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	hari	NNP	<fs af='hari,n,any,sg,3,,0,0'>|<fs af='hari,n,any,sg,3,,obl,obl'>
+3	wana	PRP	<fs af='wAnu,pn,mf,sg,3,,obl,obl'>
+4	mocewini	NN	<fs af='moceyi,n,any,sg,3,,ni,ni'>|<fs af='moceyi,n,any,sg,3,,ni_agr,ni_agr'>
+5	wadimi	VM	<fs af='wadumu,v,any,any,any,,i,i'>
+6	eVmukanu	NN	<fs af='eVmuka,n,any,sg,3,,ni,ni'>|<fs af='eVmuka,n,any,sg,3,,ni_agr,ni_agr'>
+7	cUsukunnAdu	VM	<fs af='cUsuko,v,m,sg,3,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

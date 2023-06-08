@@ -1,0 +1,13 @@
+<Sentence id="3516">
+0	((	SSF	
+1	wirigi	VM	<fs af='wirugu,v,any,any,any,,i,i'>
+2	2	QC	<fs af='2,num,,,,,,'>
+3	saMvawsarAla	NN	<fs af='saMvawsaraM,n,any,pl,3,,obl,obl'>
+4	SikRa	NN	<fs af='SikRa,n,any,sg,3,,0,0'>|<fs af='SikRa,n,any,sg,3,,obl,obl'>
+5	anuBaviMci	VM	<fs af='anuBaviMcu,v,any,any,any,,i,i'>
+6	marala	RB	<fs af='marala,avy,,,,,,' poslcat="NM">|<fs af='mara,n,any,pl,3,,obl,obl' poslcat="NM">|<fs af='maralu,v,any,any,any,,an,an' poslcat="NM">
+7	viduxala	NN	<fs af='viduxala,n,any,sg,3,,0,0'>|<fs af='viduxala,n,any,sg,3,,obl,obl'>
+8	kAvadaM	VM	<fs af='avvu,v,any,any,any,,adaM,adaM'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,7 @@
+<Sentence id="5940">
+0	((	SSF
+1	CI	INJ	<fs af='CI,avy,,,,,, '>
+2	CI	RDP	<fs af='CI,avy,,,,,, '>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,16 @@
+<Sentence id="9697">			
+0	((	SSF	
+1	hiMxUxeSaMnuMci	NNP	<fs af='hiMxUxeSaM,n,any,sg,3,,niMci,niMci'>
+2	,	SYM	<fs af=',,punc,,,,,,'>
+3	cEnA	NNP	<fs af='cEnu,n,any,sg,3,,0,0_A'>
+4	nuMcI	PSP	<fs af='nuMcI,avy,,,,,,'>
+5	,	SYM	<fs af=',,punc,,,,,,'>
+6	japAnu	NNP	<fs af='japAn,n,any,sg,3,,0,0'>
+7	nuMcI	PSP	<fs af='nuMcI,avy,,,,,,'>
+8	janaM	NN	<fs af='janaM,n,any,sg,3,,0,0'>
+9	hAhUni	NNP	<fs af='hAhU,n,any,sg,3,,ni,ni'>
+10	cUddAniki	VM	<fs af='cUddaM,n,any,sg,3,,ki,ki'>
+11	veVlYlAru	VM	<fs af='veVlYlu,v,any,pl,2,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

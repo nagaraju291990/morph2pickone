@@ -1,0 +1,13 @@
+<Sentence id="3632">
+0	((	SSF	
+1	jarigiMxi	VM	<fs af='jarugu,v,fn,sg,3,,A,A'>
+1	exo	VM	<fs af='exi,pn,fn,sg,3,,0,0_o' poslcat="NM">
+2	jarigipoyiMxi	VM	<fs af='jarigipo,v,fn,sg,3,,A,A'>
+3	_	SYM	<'>|<poslcat="NM"'>
+4	nuvvu	PRP	<fs af='nIvu,pn,any,sg,2,,0,0'>
+5	jaMxeVM	NN	<fs af='jaMxeVM,n,any,sg,3,,0,0'>|<fs af='jaMxeVM,n,any,sg,3,,obl,obl'>
+6	eVMxuku	WQ	<fs af='eVMxuku,avy,,,,,,'>
+7	vesukovu	VM	<fs af='veVyyi,v,n,pl,3,,koVn_a,koVn_a'>
+8	?	SYM	<fs af='?,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

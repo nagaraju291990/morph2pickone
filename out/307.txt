@@ -1,0 +1,11 @@
+<Sentence id="307">
+0	((	SSF
+1	kanIsaM	RP	<fs af='kanIsaM,n,any,sg,3,,0,0'>
+2	neVlaku	NN	<fs af='neVla,n,any,sg,3,,ki,ki'>
+3	30	QC	<fs af='30,num,,,,,, '>|<fs af='rU,avy,,,,,, '>
+4	kesulu	NN	<fs af='kesu,n,any,pl,3,,0,0'>|<fs af='kesu,n,any,pl,3,,vu_agr,vu_agr'>
+5	pattukoVni	VM	<fs af='pattukoVnu,v,any,any,any,,i,i'>
+6	rAvAli	VAUX	<fs af='vaccu,v,any,any,any,,Ali,Ali'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

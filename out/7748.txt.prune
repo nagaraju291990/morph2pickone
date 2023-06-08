@@ -1,0 +1,15 @@
+<Sentence id="7748">
+0	((	SSF	
+1	goxAmu	NN	<fs af='goxAM,n,,sg,,,0,0'>
+2	nela	NN	<fs af='nela,n,any,sg,3,,0,0'>|<fs af='nela,n,any,sg,3,,obl,obl'>|<fs af='neVyyi,n,any,pl,3,,obl,obl'>
+3	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+4	mAMsaM	NN	<fs af='mAMsaM,n,any,sg,3,,0,0'>
+5	mukkalu	NN	<fs af='mukka,n,any,pl,3,,0,0'>|<fs af='mukka,n,any,pl,3,,vu_agr,vu_agr'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	rakwapu	NN	<fs af='rakwaM,n,any,sg,3,,obl,obl'>
+8	marakalu	NN	<fs af='maraka,n,any,pl,3,,0,0'>|<fs af='maraka,n,any,pl,3,,vu_agr,vu_agr'>
+9	kUdA	PSP	<fs af='kUdA,avy,,,,,,' poslcat="NM">|<fs af='kUdu,v,any,any,any,,i,i_A' poslcat="NM">|<fs af='kUdu,n,any,sg,3,,0,0_A' poslcat="NM">
+10	uMdevi	VM	<fs af='uMdexi,pn,any,pl,3,,0,0' poslcat="NM">
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

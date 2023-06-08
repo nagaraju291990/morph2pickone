@@ -1,0 +1,12 @@
+<Sentence id="5166">			
+0	((	SSF	
+1	akkada	NST	<fs af='akkada,adv,any,any,any,,0_adv,0_adv'>
+2	magavAlYlu	NN	<fs af='maga,n,,pl,,,vAlYlu,vAlYlu_0' deri_cat=pn>
+3	kUdA	PSP	<fs af='kUdA,avy,,,,,,'>'>
+4	ippudu	NST	<fs af='ippudu,adv,any,any,any,,0_adv,0_adv'>
+5	cAlA	INTF	<fs af='cAlu,v,any,any,any,,i,i_A'>
+6	AnaMxaMgA	RB	<fs af='AnaMxaM,n,any,sg,3,,gA,gA'>
+7	unnAru	VM	<fs af='uMdu,v,any,pl,2,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

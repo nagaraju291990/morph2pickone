@@ -1,0 +1,13 @@
+<Sentence id="7230">
+0	((	SSF
+1	pasivAriki	NN	<fs af='pasi,n,,pl,,,vAru_ki,vAru_ki' deri_cat='pn'>
+2	pAlu	NN	<fs af='paM,n,any,pl,3,,0,0'>|<fs af='paM,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAlu,n,any,sg,3,,0,0'>|<fs af='pAlu,n,any,sg,3,,0,0_A'>|<fs af='pAlu,n,any,sg,3,,obl,obl'>|<fs af='pAlu,n,any,sg,3,,vu_agr,vu_agr'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	AhAraM	NN	<fs af='AhAraM,n,any,sg,3,,0,0'>
+5	iccemuMxu	VM	<fs af='ivvu,v,any,any,any,,e_muMxu,e_muMxu'>
+6	cewulu	NN	<fs af='ceyi,n,any,pl,3,,0,0'>|<fs af='ceyi,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='cewu,n,any,pl,3,,0,0'>|<fs af='cewu,n,any,pl,3,,vu_agr,vu_agr'>
+7	bAgA	INTF	<fs af='bAgA,avy,,,,,, '>
+8	kadugukovAli	VM	<fs af='kadugu,v,any,any,any,,koVn_Ali,koVn_Ali'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,22 @@
+<Sentence id="6400">
+0	((	SSF	
+1	paMta	NN	<fs af='paMta,n,any,sg,3,,0,0'>|<fs af='paMta,n,any,sg,3,,obl,obl'>
+2	naRtaM	NN	<fs af='naRtaM,n,any,sg,3,,0,0'>
+3	_	SYM	<'>|<poslcat="NM"'>
+4	_	SYM	<'>|<poslcat="NM"'>
+5	_	SYM	<'>|<poslcat="NM"'>
+6	_	SYM	<'>|<poslcat="NM"'>
+7	_	SYM	<'>|<poslcat="NM"'>
+8	_	SYM	<'>|<poslcat="NM"'>
+9	_	SYM	<'>|<poslcat="NM"'>
+10	_	SYM	<'>|<poslcat="NM"'>
+11	_	SYM	<'>|<poslcat="NM"'>
+12	eVlukalaku	NN	<fs af='eVluka,n,any,pl,3,,ki,ki'>
+13	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+14	jawa	NN	<fs af='jawa,n,any,sg,3,,0,0'>|<fs af='jawa,n,any,sg,3,,obl,obl'>
+15	kawweVra	NN	<fs af='kawweVra,n,any,sg,3,,0,0'>|<fs af='kawweVra,n,any,sg,3,,obl,obl'>
+16	palYlu	NN	<fs af='padi,n,any,pl,3,,0,0'>|<fs af='padi,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='paMdu,n,any,pl,3,,0,0'>|<fs af='paMdu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pannu,n,any,pl,3,,0,0'>|<fs af='pannu,n,any,pl,3,,vu_agr,vu_agr'>
+17	uMtAyi	VM	<fs af='uMdu,v,n,pl,3,,wA,wA'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,14 @@
+<Sentence id="6727">
+0	((	SSF
+1	"	SYM	<fs af='",punc,,,,,, '>
+2	sAXAraNaMgA	RB	<fs af='sAXAraNaM,n,any,sg,3,,gA,gA'>
+3	plAstar	NN	<fs af='plAstar,n,any,sg,3,,0,0'>|<fs af='plAstar,n,any,sg,3,,obl,obl'>
+4	veyagAne	VM	<fs af='veVyyi,v,any,any,any,,a_gAne,a_gAne'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	cAlAmeraku	INTF	<fs af='cAlAmeraku,avy,,,,,, '>
+7	noVppi	NN	<fs af='noVppi,n,any,sg,3,,0,0'>|<fs af='noVppi,n,any,sg,3,,obl,obl'>
+8	axe	PRP	<fs af='axi,pn,fn,sg,3,,0,0_e'>
+9	waggipowuMxi	VM	<fs af='waggipo,v,fn,sg,3,,wA,wA'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

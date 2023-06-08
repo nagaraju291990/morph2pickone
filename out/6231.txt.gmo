@@ -1,0 +1,14 @@
+<Sentence id="6231">			
+0	((	SSF	
+1	maXukeSvara	NNP	<fs af='maXukeSvara,n,any,sg,3,,0,0'>|<fs af='maXukeSvara,n,any,sg,3,,obl,obl'>
+2	xevAlayaM	NN	<fs af='xevAlayaM,n,any,sg,3,,0,0'>
+3	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+4	BImeSvara	NNP	<fs af='BImeSvara,n,any,sg,3,,0,0'>|<fs af='BImeSvara,n,any,sg,3,,obl,obl'>
+5	xevAlayaM	NN	<fs af='xevAlayaM,n,any,sg,3,,0,0'>
+6	prakkane	NST	<fs af='prakka,n,any,sg,3,,ni,ni_e'>
+7	uMdi	VM	<fs af='uMdu,v,any,any,any,,i,i'>
+8	Bakwulanu	NN	<fs af='Bakwi,n,any,pl,3,,ni,ni'>|<fs af='Bakwudu,n,any,pl,3,,ni,ni'>
+9	AkattukoVMtAyi	VM	<fs af='Akattuko,v,n,pl,3,,wA,wA'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

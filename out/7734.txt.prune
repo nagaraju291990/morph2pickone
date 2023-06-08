@@ -1,0 +1,8 @@
+<Sentence id="7734">
+0	((	SSF	
+1	ilAMti	JJ	<fs af='ilAMti,adj,any,any,any,,0_adj,0_adj'>
+2	cota	NN	<fs af='cota,adv,any,any,any,,0_adv,0_adv' poslcat="NM">
+3	kattukovu	VM	<fs af='kattuko,v,n,pl,3,,a,a'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

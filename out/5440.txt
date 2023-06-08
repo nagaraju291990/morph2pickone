@@ -1,0 +1,10 @@
+<Sentence id="5440">
+0	((	SSF
+1	Arina	VM	<fs af='Aru,v,any,any,any,,ina,ina'>
+2	waravAwa	NST	<fs af='waravAwa,avy,,,,,, '>
+3	callani	JJ	<fs af='callu,v,any,any,any,,ani,ani'>|<fs af='calla,adj,any,any,any,,ti_adj,ti_adj'>|<fs af='calla,n,any,sg,3,,ni,ni'>
+4	nItiwo	NN	<fs af='nIru,n,any,sg,3,,wo,wo'>
+5	kadagAli	VM	<fs af='kadugu,v,any,any,any,,Ali,Ali'>|<fs af='kadagu,v,any,any,any,,Ali,Ali'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,26 @@
+<Sentence id="7456">
+0	((	SSF
+1	magavAdi	NN	<fs af='magavAdu,n,,sg,,,obl,obl'>
+2	wodugA	RB	<fs af='wodu,n,any,sg,3,,gA,gA'>
+3	masalenu	VM	<fs af='masalenu,n,any,sg,3,,0,0'>|<fs af='masalenu,n,any,sg,3,,obl,obl'>
+4	vaXuvu	NN	<fs af='vaXuvu,n,any,sg,3,,0,0'>|<fs af='vaXuvu,n,any,sg,3,,obl,obl'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	kaRtasuKamula	NN	<fs af='kaRtasuKaM,n,any,pl,3,,obl,obl'>
+7	sagamu	NN	<fs af='sagaM,n,any,sg,3,,0,0'>
+8	paMcukoVnu	VM	<fs af='paMcukoVnu,v,any,sg,2,,AjFArWa,AjFArWa'>
+9	vaXuvu	NN	<fs af='vaXuvu,n,any,sg,3,,0,0'>|<fs af='vaXuvu,n,any,sg,3,,obl,obl'>
+10	atti	JJ	<fs af='atti,adj,any,any,any,,0_adj,0_adj'>
+11	vaXuvunu	NN	<fs af='vaXuvu,n,any,sg,3,,ni,ni'>|<fs af='vaXuvu,n,any,sg,3,,ni_agr,ni_agr'>
+12	cUci	VM	<fs af='cUdu,v,any,any,any,,i,i'>|<fs af='cUcu,v,any,any,any,,i,i'>
+13	adigevu	NN	<fs af='adugu,v,any,any,any,,e,e_vu'>|<fs af='adugu,v,any,any,any,,i_e,i_e_vu'>|<fs af='adugu,v,any,any,any,,i_e,i_e_vu'>
+14	katnaM	NN	<fs af='katnaM,n,any,sg,3,,0,0'>
+15	,	SYM	<fs af=',,punc,,,,,, '>
+16	awi	NN	<fs af='awi,avy,,,,,, '>
+16	nIcaM	NN	<fs af='nIca,adj,any,any,any,,xi_adj,xi_adj'>|<fs af='nIcaM,n,any,sg,3,,0,0'>
+16	ani	NN	<fs af='ani,avy,,,,,, '>|<fs af='anu,v,any,any,any,,i,i'>
+17	nIvu	PRP	<fs af='nIvu,pn,any,sg,2,,0,0'>
+18	iMcuvI	NN	<fs af='iMcu,n,,pl,,,xi_0,xi_0_V' deri_cat='pn'>
+19	katnaM	NN	<fs af='katnaM,n,any,sg,3,,0,0'>
+20	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

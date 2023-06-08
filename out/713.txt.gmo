@@ -1,0 +1,12 @@
+<Sentence id="713">			
+0	((	SSF	
+1	narAlaku	NN	<fs af='naraM,n,any,pl,3,,ki,ki'>
+2	balaM	NN	<fs af='balaM,n,any,sg,3,,0,0'>
+3	kalugajese	VM	<fs af='kalugajeVyyi,v,any,any,any,,e,e'>|<fs af='kalugajeVyyi,v,any,any,any,,i,i_e'>
+4	vitaminulu	NN	<fs af='vitamin,n,any,pl,3,,0,0'>|<fs af='vitamin,n,any,pl,3,,vu_agr,vu_agr'>
+5	meVMwi	NN	<fs af='meVMwi,n,,sg,,,0,0'>|<fs af='meVMwi,n,,sg,,,obl,obl'>
+5	kUralo	NN	<fs af='kUra,n,,sg,,,lo,lo'>
+6	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

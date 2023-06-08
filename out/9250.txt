@@ -1,0 +1,14 @@
+<Sentence id="9250">
+0	((	SSF
+1	bayata	NST	<fs af='bayata,adv,any,any,any,,0_adv,0_adv'>
+2	rivAlvarlu	NN	<fs af='rivAlvar,n,any,pl,3,,0,0'>|<fs af='rivAlvar,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='rivAlvaru,n,any,pl,3,,0,0'>|<fs af='rivAlvaru,n,any,pl,3,,vu_agr,vu_agr'>
+3	puccukoVni	VM	<fs af='puccuko,v,any,any,any,,i,i'>
+4	nilcunna	VM	<fs af='nilcuMdu,v,any,any,any,,ina,ina'>
+5	yABE	QC	<fs af='yABE,num,any,any,any,,0,0'>
+6	maMxi	CL	<fs af='maMxi,n,any,sg,3,,0,0'>|<fs af='maMxi,n,any,sg,3,,obl,obl'>|<fs af='maMxi,n,any,sg,3,,vu_agr,vu_agr'>
+7	sEnikulu	NN	<fs af='sEnik,n,any,pl,3,,0,0'>|<fs af='sEnik,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='sEnikudu,n,any,pl,3,,0,0'>|<fs af='sEnikudu,n,any,pl,3,,vu_agr,vu_agr'>
+8	vAri	PRP	<fs af='vAru,pn,mf,pl,3,,obl,obl'>
+9	veVMtabadipoyinAru	VM	<fs af='veVMtabadipo,v,any,pl,2,,A,A'>|<fs af='veVMtabadipo,v,mf,pl,3,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

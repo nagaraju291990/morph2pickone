@@ -1,0 +1,18 @@
+<Sentence id="6503">
+0	((	SSF
+1	dAktarunu	NN	<fs af='dAktar,n,any,sg,3,,ni,ni'>|<fs af='dAktar,n,any,sg,3,,ni_agr,ni_agr'>|<fs af='dAktaru,n,any,sg,3,,ni,ni'>|<fs af='dAktaru,n,any,sg,3,,ni_agr,ni_agr'>
+2	adigAdu	VM	<fs af='adugu,v,m,sg,3,,A,A'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	"	SYM	<fs af='",punc,,,,,, '>
+5	dAktarugArU	NN	<fs af='dAktarugAru,n,any,sg,3,,0,0_V'>
+6	,	SYM	<fs af=',,punc,,,,,, '>
+7	rAmU	NNP	<fs af='rAmu,n,any,sg,3,,0,0_V'>
+8	mocewi	NN	<fs af='moceyi,n,any,sg,3,,obl,obl'>
+9	eVmuka	NN	<fs af='eVmuka,n,any,sg,3,,0,0'>|<fs af='eVmuka,n,any,sg,3,,obl,obl'>
+10	alA	RB	<fs af='alA,avy,,,,,, '>
+11	eVMxuku	WQ	<fs af='eVMxuku,avy,,,,,, '>
+12	awwukuMxi	VM	<fs af='awwuko,v,fn,sg,3,,A,A'>
+12	aMdI	NN	<fs af='aMdI,n,,sg,,,0,0'>|<fs af='aMdI,n,,sg,,,obl,obl'>
+13	?	SYM	<fs af='?,punc,,,,,, '>
+))
+</Sentence>

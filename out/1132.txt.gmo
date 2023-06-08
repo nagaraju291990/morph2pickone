@@ -1,0 +1,7 @@
+<Sentence id="1132">			
+0	((	SSF	
+1	edAxi	NN	<fs af='edAxi,n,any,sg,3,,0,0'>|<fs af='edAxi,n,any,sg,3,,obl,obl'>
+2	pillavAdu	NN	<fs af='pilla,n,any,sg,3,,vAdu,vAdu'>|<fs af='pillavAdu,n,any,sg,3,,0,0'>
+3	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

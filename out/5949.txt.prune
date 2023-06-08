@@ -1,0 +1,8 @@
+<Sentence id="5949">
+0	((	SSF	
+1	maXyAhnaM	NN	<fs af='maXyAhnaM,n,any,sg,3,,0,0'>
+2	dAktaru	NN	<fs af='dAktar,n,any,sg,3,,0,0'>|<fs af='dAktar,n,any,sg,3,,obl,obl'>|<fs af='dAktaru,n,any,sg,3,,0,0'>|<fs af='dAktaru,n,any,sg,3,,obl,obl'>
+3	vaccAdu	VM	<fs af='vaccu,v,m,sg,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

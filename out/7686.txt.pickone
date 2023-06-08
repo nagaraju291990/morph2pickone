@@ -1,0 +1,19 @@
+<Sentence id="7686">			
+0	((	SSF	
+1	gaddipocalu	NN	<fs af='gaddipoca,n,any,pl,3,,0,0'>
+2	,	SYM	<fs af=',,punc,,,,,,'>
+3	xUxipogulu	NN	<fs af='xUxipogu,n,any,pl,3,,0,0'>
+4	,	SYM	<fs af=',,punc,,,,,,'>
+5	guddapIlikalu	NN	<fs af='guddapIlika,n,any,pl,3,,0,0'>
+6	_	SYM	<fs af='<'>
+7	vItiwo	PRP	<fs af='ixi,pn,fn,pl,3,,wo,wo'>
+8	cesina	VM	<fs af='ceVyyi,v,any,any,any,,ina,ina'>
+9	gUdu	VM	<fs af='gUdu,v,any,sg,2,,AjFArWa,AjFArWa'>
+10	!	SYM	<fs af='!,punc,,,,,,'>
+11	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+12	eVMwo	INTF	<fs af='eVMwa,pn,any,pl,3,,0,0_o'>
+13	aMxaMgA	RB	<fs af='aMxaM,n,any,sg,3,,gA,gA'>
+14	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

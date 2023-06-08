@@ -1,0 +1,12 @@
+<Sentence id="2259">
+0	((	SSF
+1	nuli	NN	<fs af='nuli,n,any,sg,3,,0,0'>|<fs af='nuli,n,any,sg,3,,obl,obl'>
+2	purugulu	NN	<fs af='purugu,n,any,pl,3,,0,0'>|<fs af='purugu,n,any,pl,3,,vu_agr,vu_agr'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	elika	NN	<fs af='elika,n,any,sg,3,,0,0'>|<fs af='elika,n,any,sg,3,,obl,obl'>
+5	pAmulu	NN	<fs af='pAmu,n,any,pl,3,,0,0'>|<fs af='pAmu,n,any,pl,3,,vu_agr,vu_agr'>
+6	manaku	PRP	<fs af='manaM,pn,any,pl,1,,ki,ki'>
+7	weVlusu	VM	<fs af='weVlusu,avy,,,,,, '>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

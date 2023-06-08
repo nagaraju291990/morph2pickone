@@ -1,0 +1,8 @@
+<Sentence id="8024">
+0	((	SSF
+1	kAswa	QF	<fs af='kAswa,n,any,sg,3,,0,0'>|<fs af='kAswa,n,any,sg,3,,obl,obl'>
+2	nIru	NN	<fs af='nIru,n,any,sg,3,,0,0'>|<fs af='nIru,n,any,sg,3,,obl,obl'>
+3	callAli	VM	<fs af='callu,v,any,any,any,,Ali,Ali'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

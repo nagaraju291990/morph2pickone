@@ -1,0 +1,15 @@
+<Sentence id="5094">
+0	((	SSF
+1	A	DEM	<fs af='A,avy,,,,,, '>
+2	pilla	NN	<fs af='pilla,n,any,sg,3,,0,0'>|<fs af='pilla,n,any,sg,3,,obl,obl'>
+3	soVMwa	JJ	<fs af='soVMwaM,n,any,sg,3,,obl,obl'>
+4	nirNayAlu	NN	<fs af='nirNayaM,n,any,pl,3,,0,0'>|<fs af='nirNayaM,n,any,pl,3,,vu_agr,vu_agr'>
+5	wIsukune	VM	<fs af='wIsuko,v,any,any,any,,e,e'>|<fs af='wIsuko,v,any,any,any,,e,e'>|<fs af='wIsuko,v,any,any,any,,an_e,an_e'>|<fs af='wIsuko,v,any,any,any,,an_e,an_e'>|<fs af='wIsuko,v,any,any,any,,i_e,i_e'>|<fs af='wIsuko,v,any,any,any,,i_e,i_e'>
+6	xAkA	PSP	<fs af='xAka,n,any,sg,3,,0,0_A'>|<fs af='xAka,n,any,sg,3,,0,0_V'>
+7	rAkamuMxe	NN	<fs af='rAka,n,,sg,,,muMxu_e,muMxu_e'>|<fs af='vaccu,v,any,any,any,,aka_muMxu_e,aka_muMxu_e'>
+8	peVlYli	NN	<fs af='peVlYli,n,any,sg,3,,0,0'>|<fs af='peVlYli,n,any,sg,3,,obl,obl'>
+9	ceseVyyadaM	VM	<fs af='ceseVyyi,v,any,any,any,,adaM,adaM'>
+10	melu	NN	<fs af='me,n,any,pl,3,,0,0'>|<fs af='me,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='melu,n,any,sg,3,,0,0'>|<fs af='menu,n,any,pl,3,,0,0'>|<fs af='menu,n,any,pl,3,,vu_agr,vu_agr'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

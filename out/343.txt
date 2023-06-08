@@ -1,0 +1,11 @@
+<Sentence id="343">
+0	((	SSF
+1	exo	WQ	<fs af='exi,pn,fn,sg,3,,0,0_o'>
+2	koVMwa	QF	<fs af='koVMwa,pn,any,sg,3,,0,0'>
+3	eVkkuva	JJ	<fs af='eVkkuva,adj,any,any,any,,0_adj,0_adj'>
+4	AhAraM	NN	<fs af='AhAraM,n,any,sg,3,,0,0'>
+5	iswe	VM	<fs af='ivvu,v,any,any,any,,we,we'>
+6	saripoxu	VM	<fs af='saripo,v,fn,sg,3,,a,a'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

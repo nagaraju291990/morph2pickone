@@ -1,0 +1,11 @@
+<Sentence id="9143">
+0	((	SSF
+1	paMdi	NN	<fs af='paMdu,v,any,any,any,,i,i'>
+2	:	SYM	<fs af=':,punc,,,,,, '>
+3	A	DEM	<fs af='A,avy,,,,,, '>
+4	cUdatamu	VM	<fs af='cUdu,v,any,any,any,,adaM,adaM'>|<fs af='cUdataM,n,any,sg,3,,0,0'>
+5	eVtlA	NN	<fs af='eVtlA,avy,,,,,0,0_avy'>|<fs af='eVtlu,avy,,,,,A,A_avy'>
+6	watasWiswuMxi	VM	<fs af='watasWiMcu,v,fn,sg,3,,wA,wA'>|<fs af='watasWiswuMdu,v,fn,sg,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

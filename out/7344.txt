@@ -1,0 +1,9 @@
+<Sentence id="7344">
+0	((	SSF
+1	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+2	bAgA	INTF	<fs af='bAgA,avy,,,,,, '>
+3	pAlicce	VM	<fs af='pAliMcu,v,any,any,any,,e,e'>|<fs af='pAliMcu,v,any,any,any,,i,i_e'>|<fs af='pAlivvu,v,any,any,any,,e,e'>|<fs af='pAlivvu,v,any,any,any,,i,i_e'>
+4	Avu	NN	<fs af='Avu,n,any,sg,3,,0,0'>|<fs af='Avu,n,any,sg,3,,obl,obl'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,16 @@
+<Sentence id="3700">			
+0	((	SSF	
+1	axe	PRP	<fs af='axi,pn,fn,sg,3,,0,0_e'>
+2	samayAniki	NN	<fs af='samayaM,n,any,sg,3,,ki,ki'>
+3	piMdivaMtalu	NN	<fs af='piMdivaMta,n,any,pl,3,,0,0'>|<fs af='piMdivaMta,n,any,pl,3,,vu_agr,vu_agr'>
+4	cese	VM	<fs af='ceVyyi,v,any,any,any,,e,e'>|<fs af='ceVyyi,v,any,any,any,,i,i_e'>
+5	sAmAgri	NN	<fs af='sAmAgri,n,any,sg,3,,0,0'>|<fs af='sAmAgri,n,any,sg,3,,obl,obl'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	nUneV	NN	<fs af='nUneV,n,any,sg,3,,0,0'>|<fs af='nUneV,n,any,sg,3,,obl,obl'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	vaMtapAwralu	NN	<fs af='vaMtapAwra,n,any,pl,3,,0,0'>|<fs af='vaMtapAwra,n,any,pl,3,,vu_agr,vu_agr'>
+10	lopaliki	NST	<fs af='lopala,adv,any,any,any,,ku_adv,ku_adv'>
+11	wIsukuvaswunnAru	VM	<fs af='wIsukuvaccu,v,any,pl,2,,wunn,wunn'>|<fs af='wIsukuvaccu,v,mf,pl,3,,wunn,wunn'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

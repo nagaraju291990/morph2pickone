@@ -1,0 +1,26 @@
+<Sentence id="6442">			
+0	((	SSF	
+1	maMxu	NN	<fs af='maMxu,n,any,sg,3,,0,0'>|<fs af='maMxu,n,any,sg,3,,obl,obl'>
+2	peVttuta	VM	<fs af='peVttu,v,any,any,any,,adaM,adaM'>
+3	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+4	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+5	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+6	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+7	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+8	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+9	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+10	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+11	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+12	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+13	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+14	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+15	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+16	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+17	iMkA	INTF	<fs af='iMkA,avy,,,,,,'>
+18	eVlukalu	NN	<fs af='eVluka,n,any,pl,3,,0,0'>|<fs af='eVluka,n,any,pl,3,,vu_agr,vu_agr'>
+19	uMte	VM	<fs af='uMdu,v,any,any,any,,we,we'>
+20	maMxu	NN	<fs af='maMxu,n,any,sg,3,,0,0'>|<fs af='maMxu,n,any,sg,3,,obl,obl'>
+21	peVttAlsiMxe	NN	<fs af='cUdu,v,fn,sg,3,,a_valayu_A_e,a_valayu_A_e' poslcat="NM">
+22	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

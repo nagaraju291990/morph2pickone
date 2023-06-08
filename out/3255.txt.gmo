@@ -1,0 +1,10 @@
+<Sentence id="3255">			
+0	((	SSF	
+1	kiMxa	NST	<fs af='kiMxa,adv,any,any,any,,0_adv,0_adv'>
+2	kUcuMxAM	VM	<fs af='kUco,v,,pl,2,,xA,xA'>
+2	annA	VM	<fs af='anu,v,any,any,any,,inA,inA'>
+3	cotu	NN	<fs af='cotu,n,any,sg,3,,0,0'>|<fs af='cotu,n,any,sg,3,,obl,obl'>
+4	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

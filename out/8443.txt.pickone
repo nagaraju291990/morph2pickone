@@ -1,0 +1,27 @@
+<Sentence id="8443">			
+0	((	SSF	
+1	I	DEM	<fs af='I,avy,,,,,,'>
+2	jillAku	NN	<fs af='jillA,n,any,sg,3,,ki,ki'>
+3	uwwarAna	NN	<fs af='uwwaraM,n,any,sg,3,,na,na'>
+4	prakASaM	NNP	<fs af='prakASaM,n,any,sg,3,,0,0'>
+5	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>
+6	,	SYM	<fs af=',,punc,,,,,,'>
+7	xakRiNAna	NN	<fs af='xakRiNaM,n,any,sg,3,,na,na'>
+8	ciwwUru	NNP	<fs af='ciwwUru,n,any,sg,3,,0,0'>
+9	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>
+10	,	SYM	<fs af=',,punc,,,,,,'>
+11	wamilYanAdu	NNP	<fs af='wamilYanAdu,n,any,sg,3,,0,0'>
+12	rARtraM	NN	<fs af='rARtraM,n,any,sg,3,,0,0'>
+13	,	SYM	<fs af=',,punc,,,,,,'>
+14	paScimAna	NN	<fs af='paScimaM,n,any,sg,3,,na,na'>
+15	kadapa	NNP	<fs af='kadapa,n,any,sg,3,,0,0'>
+16	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>
+17	,	SYM	<fs af=',,punc,,,,,,'>
+18	wUrpuna	NN	<fs af='wUrpu,n,any,sg,3,,na,na'>
+19	baMgAlYAKAwaM	NNP	<fs af='baMgAlYAKAwaM,n,any,sg,3,,0,0'>
+20	haxxulugA	RB	<fs af='haxxu,n,any,pl,3,,gA,gA'>
+21	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+22	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>
+23	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

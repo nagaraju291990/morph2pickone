@@ -1,0 +1,8 @@
+<Sentence id="9191">
+0	((	SSF
+1	exo	WQ	<fs af='exi,pn,fn,sg,3,,0,0_o'>
+2	Alociswunnattu	VM	<fs af='AlociMcu,v,any,any,any,,wunna_atlu,wunna_atlu'>|<fs af='AlociswuMdu,v,any,any,any,,ina_atlu,ina_atlu'>
+3	kanabadawAru	VM	<fs af='kanabadu,v,any,pl,2,,wA,wA'>|<fs af='kanabadu,v,mf,pl,3,,wA,wA'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,8 @@
+<Sentence id="8107">
+0	((	SSF
+1	waxupari	NST	<fs af='waxupari,n,any,sg,3,,0,0'>|<fs af='waxupari,n,any,sg,3,,obl,obl'>
+2	maMxalo	NN	<fs af='maMxa,n,any,sg,3,,lo,lo'>|<fs af='maMxa,n,any,pl,3,,0,0_o'>
+3	kalapAli	VM	<fs af='kalupu,v,any,any,any,,Ali,Ali'>|<fs af='kalapu,v,any,any,any,,Ali,Ali'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

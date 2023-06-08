@@ -1,0 +1,22 @@
+<Sentence id="4050">			
+0	((	SSF	
+1	-	SYM	<fs af='<'>
+2	-	SYM	<fs af='<'>
+3	-	SYM	<fs af='<'>
+4	-	SYM	<fs af='<'>
+5	-	SYM	<fs af='<'>
+6	-	SYM	<fs af='<'>
+7	-	SYM	<fs af='<'>
+8	-	SYM	<fs af='<'>
+9	-	SYM	<fs af='<'>
+10	-	SYM	<fs af='<'>
+11	-	SYM	<fs af='<'>
+12	-	SYM	<fs af='<'>
+13	-	SYM	<fs af='<'>
+14	rAmayya	NNP	<fs af='rAmayya,n,any,sg,3,,0,0'>
+15	dAktaru	NN	<fs af='dAktar,n,any,sg,3,,0,0'>
+16	xaggaraki	NN	<fs af='xaggara,adv,any,any,any,,0,0_adv_ki'>
+17	poyAdu	VM	<fs af='po,v,m,sg,3,,A,A'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

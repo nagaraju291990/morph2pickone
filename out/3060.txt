@@ -1,0 +1,9 @@
+<Sentence id="3060">
+0	((	SSF
+1	avasaramEna	VM	<fs af='avasaramavvu,v,any,any,any,,ina,ina'>|<fs af='avasaraM,n,,sg,,,Ena,Ena'>
+1	appudulA	NN	<fs af='appudu,n,,sg,,,lA,lA'>
+2	upayogiMcukuMtU	VM	<fs af='upayogiMcu,v,any,any,any,,koVn_wU,koVn_wU'>
+3	uMdevAru	VAUX	<fs af='uMdu,v,any,any,any,,e_vAru,e_vAru'>|<fs af='uMdevAru,pn,mf,pl,3,,0,0'>|<fs af='uMdevAru,pn,mf,pl,3,,vu,vu'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

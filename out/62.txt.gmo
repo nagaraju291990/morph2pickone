@@ -1,0 +1,8 @@
+<Sentence id="62">			
+0	((	SSF	
+1	tIcarammaku	NN	<fs af='tIcaramma,n,any,sg,3,,ki,ki'>
+2	appagiMci	VM	<fs af='appagiMcu,v,any,any,any,,i,i'>
+3	vaccAdu	VAUX	<fs af='vaccu,v,m,sg,3,,A,A' poslcat="NM">
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

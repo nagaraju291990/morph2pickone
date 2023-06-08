@@ -1,0 +1,9 @@
+<Sentence id="2836">			
+0	((	SSF	
+1	prakkavAdi	NN	<fs af='prakka,n,,sg,,,vAdu,vAdu_obl' deri_cat=pn>
+2	palaka	NN	<fs af='palaka,n,any,sg,3,,0,0'>|<fs af='palaka,n,any,sg,3,,obl,obl'>
+3	cUsi	VM	<fs af='cUdu,v,any,any,any,,i,i'>
+4	vrAyamani	VM	<fs af='vrAyi,v,any,pl,1,,a_ani,a_ani'>|<fs af='vrAyamanu,v,any,any,any,,i,i'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

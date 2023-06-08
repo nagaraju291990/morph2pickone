@@ -1,0 +1,18 @@
+<Sentence id="2539">
+0	((	SSF
+1	mana	PRP	<fs af='manaM,pn,any,pl,1,,obl,obl'>
+2	rARtraMlo	NN	<fs af='rARtraM,n,any,sg,3,,lo,lo'>
+3	raMgAreVddi	NNP	<fs af='raMgAreVddi,n,any,sg,3,,0,0'>|<fs af='raMgAreVddi,n,any,sg,3,,obl,obl'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	meVxak	NNP	<fs af='meVxak,n,any,sg,3,,0,0'>|<fs af='meVxak,n,any,sg,3,,obl,obl'>
+6	,	SYM	<fs af=',,punc,,,,,, '>
+7	nijAmAbAx	NNP	<fs af='nijAmAbAx,n,any,sg,3,,0,0'>|<fs af='nijAmAbAx,n,any,sg,3,,obl,obl'>
+8	jillAlalo	NN	<fs af='jillA,n,any,pl,3,,lo,lo'>
+9	aviseV	NN	<fs af='aviyu,v,any,sg,3,,iwi,iwi'>|<fs af='aviyu,v,n,pl,3,,iwi,iwi'>|<fs af='aviseV,n,any,sg,3,,0,0'>|<fs af='aviseV,n,any,sg,3,,obl,obl'>
+10	paMtanu	NN	<fs af='paMta,n,any,sg,3,,ni,ni'>|<fs af='paMta,n,any,sg,3,,ni_agr,ni_agr'>
+11	koVxxo	NN	<fs af='koVxxi,adj,,sg,,,ni_xi_0,ni_xi_0_o' deri_cat='pn'>
+12	goVppo	NN	<fs af='goVppa,adj,,,,,0_o,0_adj_o'>
+13	paMdiswunnAru	VM	<fs af='paMdiMcu,v,any,pl,2,,wunn,wunn'>|<fs af='paMdiMcu,v,mf,pl,3,,wunn,wunn'>|<fs af='paMdiswuMdu,v,any,pl,2,,A,A'>|<fs af='paMdiswuMdu,v,mf,pl,3,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

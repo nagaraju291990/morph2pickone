@@ -1,0 +1,8 @@
+<Sentence id="1214">
+0	((	SSF
+1	pApaku	NN	<fs af='pApu,v,any,sg,2,,aku,aku'>|<fs af='pApa,n,any,sg,3,,ki,ki'>
+2	poliyo	NN	<fs af='poliyo,n,,sg,,,0,0'>|<fs af='poliyo,n,,sg,,,obl,obl'>
+3	vacciMxi	VM	<fs af='vaccu,v,fn,sg,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

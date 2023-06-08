@@ -1,0 +1,16 @@
+<Sentence id="9914">
+0	((	SSF
+1	ixxarikI	NN	<fs af='ixxaru,pn,mf,pl,3,,ki,ki_V'>
+2	xeVyyAlu	NN	<fs af='xeVyyaM,n,any,pl,3,,0,0'>|<fs af='xeVyyaM,n,any,pl,3,,vu_agr,vu_agr'>
+3	unnAyA	VM	<fs af='uMdu,v,n,pl,3,,A,A_A'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	levA	VM	<fs af='leva,n,any,sg,3,,0,0_A'>|<fs af='leva,n,any,sg,3,,0,0_V'>
+6	ane	UT	<fs af='ane,avy,,,,,, '>|<fs af='anu,v,any,any,any,,e,e'>|<fs af='anu,v,any,any,any,,i,i_e'>
+7	viRayaM	NN	<fs af='viRayaM,n,any,sg,3,,0,0'>
+8	pEna	NN	<fs af='pEna,adv,,,,,0,0_adv'>|<fs af='pEna,n,,sg,,,0,0'>|<fs af='pEna,n,,sg,,,obl,obl'>|<fs af='pE,n,,sg,,,na,na'>|<fs af='pi,n,,sg,,,Ena,Ena'>
+9	mAtA	NN	<fs af='mAtu,n,any,sg,3,,0,0_A'>|<fs af='mAta,n,any,sg,3,,0,0_A'>|<fs af='mAta,n,any,sg,3,,0,0_V'>
+10	mAta	RDP	<fs af='mAta,n,any,sg,3,,0,0'>|<fs af='mAta,n,any,sg,3,,obl,obl'>
+11	peVrigiMxi	VM	<fs af='peVrugu,v,fn,sg,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

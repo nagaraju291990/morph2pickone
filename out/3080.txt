@@ -1,0 +1,16 @@
+<Sentence id="3080">
+0	((	SSF
+1	vAti	PRP	<fs af='axi,pn,fn,pl,3,,obl,obl'>
+2	maXya	NST	<fs af='maXya,n,any,sg,3,,0,0'>|<fs af='maXya,n,any,sg,3,,obl,obl'>|<fs af='maXyaM,n,any,sg,3,,obl,obl'>
+3	eVlAMti	WQ	<fs af='eVlAMti,adj,any,any,any,,0_adj,0_adj'>
+4	vAri	PRP	<fs af='vAru,pn,,pl,,,obl,obl'>
+4	EnA	NN	<fs af='EnA,avy,,,,,,'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	eVvaru	PRP	<fs af='eVvaru,pn,,pl,,,0,0'>|<fs af='eVvaru,pn,,pl,,,vu,vu'>
+6	EnA	NN	<fs af='EnA,avy,,,,,,'>
+7	vaccina	VM	<fs af='vaccu,v,any,any,any,,ina,ina'>
+8	xova	NN	<fs af='xova,n,any,sg,3,,0,0'>|<fs af='xova,n,any,sg,3,,obl,obl'>
+9	maracipovaccu	VM	<fs af='maracipo,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='maracipovaccu,v,any,any,any,,e,e'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

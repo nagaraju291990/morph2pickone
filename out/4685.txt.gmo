@@ -1,0 +1,11 @@
+<Sentence id="4685">			
+0	((	SSF	
+1	mArpu	NN	<fs af='mArpu,n,any,sg,3,,0,0'>|<fs af='mArpu,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	ixi	PRP	<fs af='ixi,pn,,sg,,,0,0'>
+3	oVka	NN	<fs af='oVka,adj,,,,,0,0_adj' poslcat="NM">
+4	pilli	NN	<fs af='pilli,n,any,sg,3,,0,0'>|<fs af='pilli,n,any,sg,3,,obl,obl'>
+5	cepa	NN	<fs af='cepa,n,any,sg,3,,0,0'>|<fs af='cepa,n,any,sg,3,,obl,obl'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

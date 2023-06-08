@@ -1,0 +1,19 @@
+<Sentence id="7760">
+0	((	SSF	
+1	reVMdU	QC	<fs af='reVMdu,n,any,sg,3,,0,0_V'>|<fs af='reVMdu,num,any,any,any,,V,V'>
+2	oVkate	QC	<fs af='oVkati,n,any,sg,3,,0,0_e'>
+3	!	SYM	<fs af='!,punc,,,,,,'>
+4	gaxxa	NN	<fs af='gaxxa,n,any,sg,3,,0,0'>|<fs af='gaxxa,n,any,sg,3,,obl,obl'>
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	nAgarAju	NNP	<fs af='nAgarAju,n,any,sg,3,,0,0'>|<fs af='nAgarAju,n,any,sg,3,,obl,obl'>
+7	_	SYM	<'>|<poslcat="NM"'>
+8	ixxarU	NN	<fs af='ixxaru,pn,mf,pl,3,,0,0_V' poslcat="NM">
+9	oVkate	QC	<fs af='oVkati,n,any,sg,3,,0,0_e'>
+10	!	SYM	<fs af='!,punc,,,,,,'>
+11	gaxxa	NN	<fs af='gaxxa,n,any,sg,3,,0,0'>|<fs af='gaxxa,n,any,sg,3,,obl,obl'>
+12	wApIgA	NN	<fs af='wApI,n,,sg,,,gA,gA'>
+13	muMxuku	NN	<fs af='muMxu,n,,sg,,,ki,ki'>
+14	kaxuluwoMxi	VM	<fs af='kaxulu,v,fn,sg,3,,wunn,wunn'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

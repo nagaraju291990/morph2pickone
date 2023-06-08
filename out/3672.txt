@@ -1,0 +1,19 @@
+<Sentence id="3672">
+0	((	SSF
+1	aMxukani	CC	<fs af='aMxukani,avy,,,,,, '>
+2	jElunuMdi	NN	<fs af='jElu,n,,sg,,,niMci,niMci'>
+3	bayataku	NN	<fs af='bayata,n,,sg,,,ki,ki'>
+4	veVlYlagAne	VM	<fs af='veVlYlu,v,any,any,any,,a_gAne,a_gAne'>
+5	I	DEM	<fs af='I,avy,,,,,, '>
+6	ceVtlu	NN	<fs af='ceVttu,n,any,pl,3,,0,0'>|<fs af='ceVttu,n,any,pl,3,,vu_agr,vu_agr'>
+7	,	SYM	<fs af=',,punc,,,,,, '>
+8	cemalu	NN	<fs af='cema,n,,pl,,,0,0'>|<fs af='cema,n,,pl,,,vu,vu'>
+8	annI	PRP	<fs af='anni,pn,,pl,,,0_V,0_V'>
+9	nannu	PRP	<fs af='nenu,pn,any,sg,1,,ni,ni'>
+10	piluswunnattugA	VM	<fs af='piluvu,v,any,any,any,,wunna_atlugA,wunna_atlugA'>|<fs af='piluswuMdu,v,any,any,any,,ina_atlugA,ina_atlugA'>
+11	nA	PRP	<fs af='nenu,pn,any,sg,1,,obl,obl'>
+12	ceVvullo	NN	<fs af='ceVvi,n,any,pl,3,,lo,lo'>
+13	mArumroguwuMtuMxi 	VM	<fs af='mArumroguwuMtuMxi ,unk,,,,,,'>
+14	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

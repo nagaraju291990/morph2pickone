@@ -1,0 +1,7 @@
+<Sentence id="2456">
+0	((	SSF
+1	magapillavAdA	NN	<fs af='magapillavAdu,n,any,sg,3,,0,0_A'>|<fs af='magapillavAdu,n,any,sg,3,,I,I'>
+2	AdapillanA	NN	<fs af='Adapilla,n,any,sg,3,,ni,ni_A'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

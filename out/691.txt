@@ -1,0 +1,9 @@
+<Sentence id="691">
+0	((	SSF
+1	kosina	VM	<fs af='koVyyi,v,any,any,any,,ina,ina'>
+2	prawi	NN	<fs af='prawi,n,,sg,,,0,0'>|<fs af='prawi,n,,sg,,,obl,obl'>|<fs af='prawi,adj,,,,,0,0_adj'>
+2	sAri	NN	<fs af='sAri,n,,sg,,,0,0'>|<fs af='sAri,n,,sg,,,obl,obl'>
+3	ciguriswAyi	VM	<fs af='ciguriMcu,v,n,pl,3,,wA,wA'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

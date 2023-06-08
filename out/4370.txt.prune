@@ -1,0 +1,10 @@
+<Sentence id="4370">
+0	((	SSF	
+1	o	JJ	<fs af='o,avy,,,,,,'>
+2	nallani	JJ	<fs af='nalla,adj,any,any,any,,ti_adj,ti_adj'>
+3	peVtteVnu	NN	<fs af='peVtteV,n,any,sg,3,,ni,ni'>|<fs af='peVtteV,n,any,sg,3,,ni_agr,ni_agr'>
+4	cewiloki	NN	<fs af='ceyi,n,any,sg,3,,lopalaki,lopalaki'>
+5	wIsukuMxi	VM	<fs af='wIsuko,v,fn,sg,3,,A,A'>|<fs af='wIsuko,v,fn,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

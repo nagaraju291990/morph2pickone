@@ -1,0 +1,17 @@
+<Sentence id="8667">
+0	((	SSF	
+1	kriMxa	NST	<fs af='kriMxa,adv,any,any,any,,0_adv,0_adv'>
+2	aMwA	QF	<fs af='aMwa,pn,any,pl,3,,0,0_A' poslcat="NM">|<fs af='aMwa,pn,any,pl,3,,0,0_V' poslcat="NM">
+3	buraxa	NN	<fs af='buraxa,n,any,sg,3,,0,0'>|<fs af='buraxa,n,any,sg,3,,obl,obl'>
+4	kAvadaM	VM	<fs af='avvu,v,any,any,any,,adaM,adaM'>
+5	mUlaMgA	RB	<fs af='mUlaM,n,any,sg,3,,gA,gA' poslcat="NM">
+6	kUrcotAniki	VM	<fs af='kUrcotaM,n,any,sg,3,,ki,ki' poslcat="NM">
+7	vIlu	NN	<fs af='vIlu,n,any,sg,3,,0,0'>|<fs af='vIlu,n,any,sg,3,,0,0_A'>|<fs af='vIlu,n,any,sg,3,,obl,obl'>
+8	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+9	annatlu	UT	<fs af='annatlu,avy,,,,,,'>|<fs af='anu,v,any,any,any,,ina_atlu,ina_atlu'>
+10	jaMwuvu	NN	<fs af='jaMwuvu,n,any,sg,3,,0,0'>|<fs af='jaMwuvu,n,any,sg,3,,obl,obl'>
+11	sEga	NN	<fs af='sEga,n,,sg,,,0,0'>|<fs af='sEga,n,,sg,,,obl,obl'>
+11	cesiMxi	VM	<fs af='ceVyyi,v,fn,sg,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

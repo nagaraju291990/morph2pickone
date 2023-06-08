@@ -1,0 +1,12 @@
+<Sentence id="9711">
+0	((	SSF
+1	hAhU	NNP	<fs af='hAhU,n,any,sg,3,,0,0'>|<fs af='hAhU,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,, '>
+3	A	DEM	<fs af='A,avy,,,,,, '>
+4	saMgawi	NN	<fs af='saMgawi,n,any,sg,3,,0,0'>|<fs af='saMgawi,n,any,sg,3,,obl,obl'>
+5	mIku	PRP	<fs af='mIru,pn,any,pl,2,,ki,ki'>
+6	waruvAwa	PSP	<fs af='waruvAwa,avy,,,,,, '>
+7	weVliyaceswA	NN	<fs af='weVliyaceVyyi,v,any,sg,1,,wA,wA'>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

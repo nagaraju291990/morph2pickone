@@ -1,0 +1,18 @@
+<Sentence id="7978">
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	goVppalaku	NN	<fs af='goVppalu,n,any,sg,3,,ki,ki'>
+3	powe	VM	<fs af='po,v,any,any,any,,we,we'>
+4	wippalu	NN	<fs af='wippa,n,any,pl,3,,0,0'>|<fs af='wippa,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='wippalu,n,any,sg,3,,0,0'>|<fs af='wippalu,n,any,sg,3,,vu_agr,vu_agr'>
+5	wappavu	VM	<fs af='wappu,v,any,sg,2,,a,a'>
+6	"	SYM	<fs af='",punc,,,,,,'>
+7	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+8	wana	PRP	<fs af='wAnu,pn,mf,sg,3,,obl,obl'>
+9	kaWa	NN	<fs af='kaWa,n,any,sg,3,,0,0'>|<fs af='kaWa,n,any,sg,3,,obl,obl'>
+10	Uri	NN	<fs af='Uru,n,any,sg,3,,obl,obl'>
+11	kodalYlaku	NN	<fs af='kodalu,n,any,pl,3,,ki,ki'>
+12	ceVpuwuMxi	VM	<fs af='ceVppu,v,fn,sg,3,,wA,wA'>|<fs af='ceVpuwuMdu,v,fn,sg,3,,A,A'>
+13	kamala	NNP	<fs af='kamala,n,any,sg,3,,0,0'>|<fs af='kamala,n,any,sg,3,,obl,obl'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

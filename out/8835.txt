@@ -1,0 +1,14 @@
+<Sentence id="8835">
+0	((	SSF
+1	saMskqwaBARa	NNP	<fs af='saMskqwaBARa,n,any,sg,3,,0,0'>|<fs af='saMskqwaBARa,n,any,sg,3,,obl,obl'>
+2	mAtlAduwUvuMte	VM	<fs af='mAtlAduwUvuMdu,v,any,any,any,,we,we'>
+3	goVppa	JJ	<fs af='goVppa,adj,any,any,any,,0_adj,0_adj'>
+4	nAgarikawa	NN	<fs af='nAgarika,adj,any,any,any,,wanaM_adj,wanaM_adj'>|<fs af='nAgarikawa,n,any,sg,3,,0,0'>|<fs af='nAgarikawa,n,any,sg,3,,obl,obl'>
+5	kala	RP	<fs af='kala,n,any,sg,3,,0,0'>|<fs af='kala,n,any,sg,3,,obl,obl'>|<fs af='kalaM,n,any,sg,3,,obl,obl'>
+6	jAwi	NN	<fs af='jAwi,n,any,sg,3,,0,0'>|<fs af='jAwi,n,any,sg,3,,obl,obl'>
+7	prANi	NN	<fs af='prANi,n,any,sg,3,,0,0'>|<fs af='prANi,n,any,sg,3,,obl,obl'>
+8	anukovalasi	VM	<fs af='anuko,v,any,any,any,,a_valayu_i,a_valayu_i'>
+8	vaswuMxi	VM	<fs af='vaccu,v,fn,sg,3,,wA,wA'>|<fs af='vaswuMdu,v,fn,sg,3,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

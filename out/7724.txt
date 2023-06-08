@@ -1,0 +1,11 @@
+<Sentence id="7724">
+0	((	SSF
+1	koVnni	QF	<fs af='koVnni,pn,any,pl,3,,0,0'>
+2	gaddi	NN	<fs af='gaddi,n,any,sg,3,,0,0'>|<fs af='gaddi,n,any,sg,3,,obl,obl'>
+3	pocalu	NN	<fs af='poca,n,any,pl,3,,0,0'>|<fs af='poca,n,any,pl,3,,vu_agr,vu_agr'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	xUxipogulu	NN	<fs af='xUxipogu,n,any,pl,3,,0,0'>|<fs af='xUxipogu,n,any,pl,3,,vu_agr,vu_agr'>
+6	ceVxiripoyAyi	VM	<fs af='ceVxiripo,v,n,pl,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

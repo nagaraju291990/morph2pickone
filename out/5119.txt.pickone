@@ -1,0 +1,16 @@
+<Sentence id="5119">			
+0	((	SSF	
+1	Idu	NN	<fs af='Idu,n,any,sg,3,,0,0'>
+2	leni	VM	<fs af='gala,v,any,any,any,,ani,ani'>
+3	bidda	NN	<fs af='bidda,n,any,sg,3,,0,0'>
+4	maroVka	JJ	<fs af='maroVka,avy,,,,,,'>
+5	biddaku	NN	<fs af='bidda,n,any,sg,3,,ki,ki'>
+6	walli	NN	<fs af='walli,n,any,sg,3,,0,0'>
+7	ayiwe	VM	<fs af='avvu,v,any,any,any,,we,we'>
+8	putte	VM	<fs af='puttu,v,any,any,any,,e,e'>
+9	biddaku	NN	<fs af='bidda,n,any,sg,3,,ki,ki'>
+10	Sakwi	NN	<fs af='Sakwi,n,any,sg,3,,0,0'>
+11	uMdaxu	VM	<fs af='uMdu,v,fn,sg,3,,a,a'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

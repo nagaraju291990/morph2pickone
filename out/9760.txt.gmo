@@ -1,0 +1,7 @@
+<Sentence id="9760">			
+0	((	SSF	
+1	stImubotlu	NN	<fs af='stImubot,n,any,pl,3,,0,0'>|<fs af='stImubot,n,any,pl,3,,vu_agr,vu_agr'>
+2	cUpiMcAru	VM	<fs af='cUpiMcu,v,any,pl,2,,A,A'>|<fs af='cUpiMcu,v,mf,pl,3,,A,A'>
+3	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

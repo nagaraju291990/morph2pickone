@@ -1,0 +1,16 @@
+<Sentence id="3606">
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	bEjU	NNP	<fs af='bEjU,n,any,sg,3,,0,0'>|<fs af='bEjU,n,any,sg,3,,obl,obl'>
+3	mAmayya	NN	<fs af='mAmayya,n,any,sg,3,,0,0'>|<fs af='mAmayya,n,any,sg,3,,obl,obl'>
+4	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+5	pEsalu	NN	<fs af='pEsa,n,any,pl,3,,0,0'>|<fs af='pEsa,n,any,pl,3,,vu_agr,vu_agr'>
+6	peVtti	VM	<fs af='peVttu,v,any,any,any,,i,i'>
+7	Sanagalu	NN	<fs af='Sanaga,n,any,pl,3,,0,0'>|<fs af='Sanaga,n,any,pl,3,,vu_agr,vu_agr'>
+8	koVnnAdu	VM	<fs af='koVnu,v,m,sg,3,,A,A'>
+9	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+10	xukANaM	NN	<fs af='xukANaM,n,any,sg,3,,0,0'>
+11	vaxxa	NST	<fs af='vaxxa,adv,any,any,any,,0_adv,0_adv'>|<fs af='vaxxa,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

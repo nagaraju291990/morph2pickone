@@ -1,0 +1,17 @@
+<Sentence id="7345">			
+0	((	SSF	
+1	pattuku	NN	<fs af='pattu,n,,sg,,,ki,ki'>
+1	oVccina	VM	<fs af='oVccu,v,any,any,any,,ina,ina'>
+2	vAlYlu	PRP	<fs af='vAlYlu,pn,mf,pl,3,,0,0'>|<fs af='vAlYlu,pn,mf,pl,3,,vu,vu'>
+3	paxi	QC	<fs af='paxi,n,any,sg,3,,0,0'>|<fs af='paxi,n,any,sg,3,,obl,obl'>
+4	rUpAyalake	NN	<fs af='rUpAya,n,any,pl,3,,ki,ki_e'>
+5	xAnini	PRP	<fs af='axi,pn,fn,sg,3,,nu,nu'>|<fs af='axi,pn,fn,sg,3,,ni,ni'>
+6	koVni	VM	<fs af='koVnu,v,any,any,any,,i,i'>
+7	wIsukoVni	VM	<fs af='wIsuko,v,any,any,any,,i,i'>|<fs af='wIsuko,v,any,any,any,,i,i'>
+8	povaccu	VAUX	<fs af='po,v,any,any,any,,a_vaccu,a_vaccu' poslcat="NM">'>|<fs af='povaccu,v,any,any,any,,e,e' poslcat="NM">'>
+9	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+10	xaMdorA	NN	<fs af='xaMdorA,n,any,sg,3,,0,0'>|<fs af='xaMdorA,n,any,sg,3,,obl,obl'>
+11	veyiMcAdu	VM	<fs af='veyiMcu,v,m,sg,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

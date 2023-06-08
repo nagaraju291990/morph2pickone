@@ -1,0 +1,31 @@
+<Sentence id="9908">
+0	((	SSF
+1	jAnI	NNP	<fs af='jaM,n,any,sg,3,,ni,ni_V'>
+2	_	SYM
+3	xeVyyaM	NN	<fs af='xeVyyaM,n,any,sg,3,,0,0'>
+4	_	SYM
+5	_	SYM
+6	_	SYM
+7	_	SYM
+8	_	SYM
+9	_	SYM
+10	_	SYM
+11	_	SYM
+12	_	SYM
+13	_	SYM
+14	_	SYM
+15	_	SYM
+16	_	SYM
+17	_	SYM
+18	jAnI	NNP	<fs af='jaM,n,any,sg,3,,ni,ni_V'>
+19	,	SYM	<fs af=',,punc,,,,,, '>
+20	veNu	NNP	<fs af='veNu,n,any,sg,3,,0,0'>|<fs af='veNu,n,any,sg,3,,obl,obl'>
+21	,	SYM	<fs af=',,punc,,,,,, '>
+22	hari	NNP	<fs af='hari,n,any,sg,3,,0,0'>|<fs af='hari,n,any,sg,3,,obl,obl'>
+23	,	SYM	<fs af=',,punc,,,,,, '>
+24	kumAr	NNP	<fs af='kumAr,n,any,sg,3,,0,0'>|<fs af='kumAr,n,any,sg,3,,obl,obl'>
+25	nalugurU	NN	<fs af='nalu,n,,pl,,,vAlYlu_0,vAlYlu_0_V' deri_cat='pn'>
+26	snehiwulu	NN	<fs af='snehiwa,adj,any,any,any,,vAru_adj,vAru_adj'>|<fs af='snehiwudu,n,any,pl,3,,0,0'>|<fs af='snehiwudu,n,any,pl,3,,vu_agr,vu_agr'>
+27	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

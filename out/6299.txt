@@ -1,0 +1,8 @@
+<Sentence id="6299">
+0	((	SSF
+1	kriMxa	NST	<fs af='kriMxa,adv,any,any,any,,0_adv,0_adv'>
+2	wirigi	VM	<fs af='wirigi,avy,,,,,, '>|<fs af='wirugu,v,any,any,any,,i,i'>
+3	kanipiswuMxi	VM	<fs af='kanipiMcu,v,fn,sg,3,,wA,wA'>|<fs af='kanipiswuMdu,v,fn,sg,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

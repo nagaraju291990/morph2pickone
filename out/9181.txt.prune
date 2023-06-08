@@ -1,0 +1,18 @@
+<Sentence id="9181">
+0	((	SSF	
+1	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+2	mUdu	QC	<fs af='mUdu,n,any,sg,3,,0,0'>|<fs af='mUdu,n,any,sg,3,,obl,obl'>|<fs af='mUdu,num,any,any,any,,0,0'>
+3	rojulu	NN	<fs af='roju,n,any,pl,3,,0,0'>|<fs af='roju,n,any,pl,3,,vu_agr,vu_agr'>
+4	xina	NN	<fs af='xinaM,n,any,sg,3,,obl,obl'>
+5	rAwrulu	NN	<fs af='rAwri,n,any,pl,3,,0,0'>
+6	melukoVni	VM	<fs af='melukoVnu,v,any,any,any,,i,i'>
+7	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+8	mqgaM	NN	<fs af='mqgaM,n,any,sg,3,,0,0'>
+9	cese	VM	<fs af='ceVyyi,v,any,any,any,,e,e'>|<fs af='ceVyyi,v,any,any,any,,i,i_e'>
+10	panulu	NN	<fs af='pani,n,any,pl,3,,0,0'>|<fs af='pani,n,any,pl,3,,vu_agr,vu_agr'>
+11	annI	QF	<fs af='anni,pn,any,pl,3,,0,0_V' poslcat="NM">
+12	jAgrawwagA	RB	<fs af='jAgrawwa,n,any,sg,3,,gA,gA' poslcat="NM">
+13	pariSIliMcAru	VM	<fs af='pariSIliMcu,v,any,pl,2,,A,A'>|<fs af='pariSIliMcu,v,mf,pl,3,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

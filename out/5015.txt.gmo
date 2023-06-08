@@ -1,0 +1,11 @@
+<Sentence id="5015">			
+0	((	SSF	
+1	*	SYM	<fs af='*,punc,,,,,,'>
+2	maMxu	NN	<fs af='maMxu,n,any,sg,3,,0,0'>|<fs af='maMxu,n,any,sg,3,,obl,obl'>
+3	viRaM	NN	<fs af='viRaM,n,any,sg,3,,0,0'>
+4	wine	VM	<fs af='winu,v,any,any,any,,e,e'>|<fs af='winu,v,any,any,any,,i,i_e'>
+5	paxArWAllo	NN	<fs af='paxArWaM,n,any,pl,3,,lo,lo'>
+6	ceraxu	VM	<fs af='ceru,v,fn,sg,3,,a,a'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

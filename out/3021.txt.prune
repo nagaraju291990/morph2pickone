@@ -1,0 +1,10 @@
+<Sentence id="3021">
+0	((	SSF	
+1	jarigiMxi	VM	<fs af='jarugu,v,fn,sg,3,,A,A'>
+1	emo	VM	<fs af='emo,avy,,,,,,' poslcat="NM">
+2	prANAlake	NN	<fs af='prANaM,n,any,pl,3,,ki,ki_e'>
+3	muppu	NN	<fs af='muppu,n,any,sg,3,,0,0'>|<fs af='muppu,n,any,sg,3,,obl,obl'>
+4	vacciMxi	VM	<fs af='vaccu,v,fn,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

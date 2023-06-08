@@ -1,0 +1,17 @@
+<Sentence id="3633">
+0	((	SSF
+1	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+2	brAhmaNulaki	NN	<fs af='brAhmaNi,n,any,pl,3,,ki,ki'>|<fs af='brAhmaNudu,n,any,pl,3,,ki,ki'>
+3	I	DEM	<fs af='I,avy,,,,,, '>
+4	jaMxeVM	NN	<fs af='jaMxeVM,n,any,sg,3,,0,0'>|<fs af='jaMxeVM,n,any,sg,3,,obl,obl'>
+5	gurwu	NN	<fs af='gurwu,n,any,sg,3,,0,0'>|<fs af='gurwu,n,any,sg,3,,obl,obl'>
+6	kaxA	RP	<fs af='kaxA,avy,,,,,, '>
+7	!	SYM	<fs af='!,punc,,,,,, '>
+8	I	DEM	<fs af='I,avy,,,,,, '>
+9	mAta	NN	<fs af='mAta,n,any,sg,3,,0,0'>|<fs af='mAta,n,any,sg,3,,obl,obl'>
+10	awadini	PRP	<fs af='awadu,pn,,sg,,,nu,nu'>|<fs af='awadu,pn,,sg,,,ni,ni'>
+11	bAXa	NN	<fs af='bAXa,n,any,sg,3,,0,0'>|<fs af='bAXa,n,any,sg,3,,obl,obl'>
+12	peVttiMxi	VM	<fs af='peVttu,v,fn,sg,3,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

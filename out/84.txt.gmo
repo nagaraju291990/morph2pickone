@@ -1,0 +1,10 @@
+<Sentence id="84">			
+0	((	SSF	
+1	vaccetappudu	VM	<fs af='vaccu,v,any,any,any,,e_appudu,e_appudu'>
+2	katteVlU	NN	<fs af='katteV,n,any,pl,3,,0,0_V'>|<fs af='katteV,n,any,pl,3,,I,I'>
+3	pullalU	NN	<fs af='pulla,n,any,pl,3,,I,I'>
+4	erukoVni	VM	<fs af='eru,v,any,any,any,,koVn_i,koVn_i'>
+5	rAvAli	VAUX	<fs af='vaccu,v,any,any,any,,Ali,Ali' poslcat="NM">
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

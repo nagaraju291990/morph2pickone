@@ -1,0 +1,8 @@
+<Sentence id="2622">
+0	((	SSF	
+1	pidikeVdu	QF	<fs af='pidikeVdu,n,any,sg,3,,0,0'>|<fs af='pidikeVdu,n,any,sg,3,,obl,obl'>
+2	kUdA	PSP	<fs af='kUdA,avy,,,,,,' poslcat="NM">|<fs af='kUdu,v,any,any,any,,i,i_A' poslcat="NM">|<fs af='kUdu,n,any,sg,3,,0,0_A' poslcat="NM">
+3	veyalexu	VM	<fs af='veVyyi,v,any,any,any,,a_lexu,a_lexu'>|<fs af='veyagala,v,fn,sg,3,,a,a'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,19 @@
+<Sentence id="2011">
+0	((	SSF
+1	nimmakAya	NN	<fs af='nimmakAya,n,any,sg,3,,0,0'>|<fs af='nimmakAya,n,any,sg,3,,obl,obl'>
+2	_	SYM
+3	jubbA	NN	<fs af='jubbA,n,any,sg,3,,0,0'>|<fs af='jubbA,n,any,sg,3,,obl,obl'>
+4	kAswA	QF	<fs af='kAswa,n,any,sg,3,,0,0_A'>|<fs af='kAswa,n,any,sg,3,,0,0_V'>
+5	vaxulugA	RB	<fs af='vaxulu,adj,any,any,any,,gA_adj,gA_adj'>|<fs af='vaxulu,n,any,sg,3,,gA,gA'>
+6	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+7	jubbA	NN	<fs af='jubbA,n,any,sg,3,,0,0'>|<fs af='jubbA,n,any,sg,3,,obl,obl'>
+8	vesukoVnna	VM	<fs af='veVyyi,v,any,any,any,,koVn_ina,koVn_ina'>
+9	vyakwi	NN	<fs af='vyakwi,n,any,sg,3,,0,0'>|<fs af='vyakwi,n,any,sg,3,,obl,obl'>
+10	aracewilo	NN	<fs af='araceyi,n,any,sg,3,,lo,lo'>|<fs af='araceyi,n,any,pl,3,,0,0_o'>
+11	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+12	nimmakAya	NN	<fs af='nimmakAya,n,any,sg,3,,0,0'>|<fs af='nimmakAya,n,any,sg,3,,obl,obl'>
+13	peVttukoVni	VM	<fs af='peVttuko,v,any,any,any,,i,i'>
+14	uMtAdu	VAUX	<fs af='uMdu,v,m,sg,3,,wA,wA'>
+15	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

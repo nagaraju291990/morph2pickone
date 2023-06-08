@@ -1,0 +1,9 @@
+<Sentence id="8761">
+0	((	SSF	
+1	appudu	NST	<fs af='appudu,adv,any,any,any,,0_adv,0_adv'>
+2	koVxxigA	RB	<fs af='koVxxi,adj,any,any,any,,gA_adj,gA_adj' poslcat="NM">|<fs af='koVxxigA,n,any,sg,3,,0,0' poslcat="NM">|<fs af='koVxxigA,n,any,sg,3,,obl,obl' poslcat="NM">
+3	Xvani	NN	<fs af='Xvani,n,any,sg,3,,0,0'>|<fs af='Xvani,n,any,sg,3,,obl,obl'>
+4	jarigiMxi	VM	<fs af='jarugu,v,fn,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,31 @@
+<Sentence id="9590">			
+0	((	SSF	
+1	Ayanaku	PRP	<fs af='Ayana,pn,m,sg,3,,ki,ki'>
+2	iRtaM	NN	<fs af='iRtaM,n,any,sg,3,,0,0'>
+3	ikkada	NST	<fs af='ikkada,adv,any,any,any,,0_adv,0_adv'>
+4	unnAdu	VM	<fs af='uMdu,v,m,sg,3,,A,A'>
+5	kAnI	CC	<fs af='kAnI,avy,,,,,,'>
+6	lekapowe	CC	<fs af='gala,v,any,any,any,,akapowe,akapowe'>'>
+7	Ayanni	PRP	<fs af='Ayana,pn,m,sg,3,,ni,ni'>
+8	eVvalYlu	VM	<fs af='eVvalYlu,pn,mf,pl,3,,0,0'>'>
+8	Apagalaru	VM	<fs af='Apagala,v,any,pl,2,,wA,wA'>
+9	"	SYM	<fs af='",punc,,,,,,'>
+10	anI	UT	<fs af='anI,avy,,,,,,'>
+11	;	SYM	<fs af=';,punc,,,,,,'>
+12	"	SYM	<fs af='",punc,,,,,,'>
+13	I	DEM	<fs af='I,avy,,,,,,'>
+14	reVkkalu	NN	<fs af='reVkka,n,any,pl,3,,0,0'>
+15	,	SYM	<fs af=',,punc,,,,,,'>
+16	gurrapu	NN	<fs af='gurraM,n,any,sg,3,,obl,obl'>
+17	walA	NN	<fs af='wala,n,any,sg,3,,0,0_A'>
+18	reVMdunnU	QC	<fs af='reVMdu,n,any,sg,3,,0,0_V'>
+19	exo	WQ	<fs af='exi,pn,fn,sg,3,,0,0_o'>
+20	camawkAraM	NN	<fs af='camawkAraM,n,any,sg,3,,0,0'>
+21	cesi	VM	<fs af='ceVyyi,v,any,any,any,,i,i'>
+22	aMtiMcukunnAyi	VM	<fs af='aMtiMcu,v,n,pl,3,,koVn_A,koVn_A'>
+23	kAnI	CC	<fs af='kAnI,avy,,,,,,'>
+24	nijAnivi	NN	<fs af='nijaM,n,any,sg,3,,vi_agr,vi_agr'>
+25	kAvu	VM	<fs af='avvu,v,any,sg,2,,a,a'>
+26	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

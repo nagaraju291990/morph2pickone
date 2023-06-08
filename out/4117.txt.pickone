@@ -1,0 +1,31 @@
+<Sentence id="4117">			
+0	((	SSF	
+1	*	SYM	<fs af='*,punc,,,,,,'>
+2	*	SYM	<fs af='*,punc,,,,,,'>
+3	*	SYM	<fs af='*,punc,,,,,,'>
+4	*	SYM	<fs af='*,punc,,,,,,'>
+5	*	SYM	<fs af='*,punc,,,,,,'>
+6	cAxaswapu	NN	<fs af='cAxaswaM,n,any,sg,3,,obl,obl'>
+7	moVgudu	NN	<fs af='moVgudu,n,any,sg,3,,0,0'>
+8	-	SYM	<fs af='<'>
+9	-	SYM	<fs af='<'>
+10	-	SYM	<fs af='<'>
+11	-	SYM	<fs af='<'>
+12	-	SYM	<fs af='<'>
+13	-	SYM	<fs af='<'>
+14	-	SYM	<fs af='<'>
+15	-	SYM	<fs af='<'>
+16	-	SYM	<fs af='<'>
+17	-	SYM	<fs af='<'>
+18	-	SYM	<fs af='<'>
+19	-	SYM	<fs af='<'>
+20	-	SYM	<fs af='<'>
+21	-	SYM	<fs af='<'>
+22	-	SYM	<fs af='<'>
+23	-	SYM	<fs af='<'>
+24	anaganagA	NN	<fs af='anaganagA,n,,sg,,,0,0'>
+25	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+26	Uru	VM	<fs af='Uru,v,any,sg,2,,AjFArWa,AjFArWa'>
+27	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

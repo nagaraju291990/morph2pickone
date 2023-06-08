@@ -1,0 +1,8 @@
+<Sentence id="647">
+0	((	SSF	
+1	kUrala	NN	<fs af='kUra,n,any,pl,3,,obl,obl'>
+2	Karcu	NN	<fs af='Karcu,n,any,sg,3,,0,0'>|<fs af='Karcu,n,any,sg,3,,obl,obl'>
+3	waggiMcukovaccu	VM	<fs af='waggiMcu,v,any,any,any,,koVn_a_vaccu,koVn_a_vaccu'>|<fs af='waggiMcu,v,any,any,any,,koVn_a_vaccu,koVn_a_vaccu'>|<fs af='waggiMcu,v,any,any,any,,koVn_a_vaccu,koVn_a_vaccu'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

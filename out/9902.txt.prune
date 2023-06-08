@@ -1,0 +1,19 @@
+<Sentence id="9902">
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+3	jAnIki	NN	<fs af='jAnI,n,,sg,,,ki,ki'>
+4	uxyogaM	NN	<fs af='uxyogaM,n,any,sg,3,,0,0'>
+5	saxyogaM	ECH	<fs af='saxyogaM,n,any,sg,3,,0,0' poslcat="NM">
+6	emI	WQ	<fs af='emI,avy,,,,,,'>
+7	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+8	AxAyaM	NN	<fs af='AxAyaM,n,any,sg,3,,0,0'>
+9	emI	WQ	<fs af='emI,avy,,,,,,'>
+10	lekuMdA	VM	<fs af='gala,v,any,any,any,,akuMdA,akuMdA'>|<fs af='lekuMdu,v,any,any,any,,i,i_A'>
+11	wamaku	PRP	<fs af='wAmu,pn,mf,sg,3,,ki,ki'>
+12	AwiWyaM	NN	<fs af='AwiWyaM,n,any,sg,3,,0,0'>
+13	eVlA	WQ	<fs af='eVlA,avy,,,,,,'>
+14	ivvagaladu	VM	<fs af='ivvagala,v,m,sg,3,,wA,wA'>|<fs af='ivvagala,v,m,sg,3,,A,A'>
+15	?	SYM	<fs af='?,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

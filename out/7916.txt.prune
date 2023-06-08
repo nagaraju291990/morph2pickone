@@ -1,0 +1,9 @@
+<Sentence id="7916">
+0	((	SSF	
+1	cAlA	QF	<fs af='cAlu,v,any,any,any,,i,i_A' poslcat="NM">
+2	maMxiwo	CL	<fs af='maMxi,n,any,sg,3,,wo,wo' poslcat="NM">
+3	paricayAlu	NN	<fs af='paricayaM,n,any,pl,3,,0,0'>|<fs af='paricayaM,n,any,pl,3,,vu_agr,vu_agr'>
+4	peVrigAyi	VM	<fs af='peVrugu,v,n,pl,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

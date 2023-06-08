@@ -1,0 +1,80 @@
+<Sentence id="7336">			
+0	((	SSF	
+1	elYlu	NN	<fs af='edu,n,any,pl,3,,0,0'>|<fs af='edu,n,any,pl,3,,vu_agr,vu_agr'>
+2	mArinA	VM	<fs af='mAru,v,any,any,any,,inA,inA'>
+3	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+4	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+5	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+6	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+7	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+8	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+9	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+10	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+11	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+12	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+13	UlYlo	NN	<fs af='Uru,n,any,sg,3,,lo,lo'>|<fs af='Uru,n,any,pl,3,,0,0_o'>
+14	kolYlu	NN	<fs af='kolu,n,any,pl,3,,0,0'>|<fs af='kolu,n,any,pl,3,,vu_agr,vu_agr'>
+15	kUsAyi	VM	<fs af='kuyyi,v,n,pl,3,,A,A'>
+16	kodalYlu	NN	<fs af='kodalu,n,any,pl,3,,0,0'>|<fs af='kodalu,n,any,pl,3,,vu_agr,vu_agr'>
+17	nixura	NN	<fs af='nixura,n,any,sg,3,,0,0'>|<fs af='nixura,n,any,sg,3,,obl,obl'>
+18	lecAru	VM	<fs af='le,v,any,pl,2,,A,A'>|<fs af='le,v,mf,pl,3,,A,A'>
+19	saxxikUlYlu	NN	<fs af='saxxikUdu,n,any,pl,3,,0,0'>|<fs af='saxxikUdu,n,any,pl,3,,vu_agr,vu_agr'>
+20	mUta	NN	<fs af='mUta,n,any,sg,3,,0,0'>|<fs af='mUta,n,any,sg,3,,obl,obl'>
+21	gattAru	VM	<fs af='gattu,v,fm,pl,3,,A,A'>
+22	wAlYlu	NN	<fs af='wAdu,n,any,pl,3,,0,0'>|<fs af='wAdu,n,any,pl,3,,vu_agr,vu_agr'>
+23	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+24	koVdavalYlu	NN	<fs af='koVdavali,n,any,sg,3,,lAMti_vAru,lAMti_vAru'>|<fs af='koVdavali,n,any,pl,3,,xi,xi'>
+25	cewa	NN	<fs af='cewa,avy,,,,,,' poslcat="NM">
+26	pattAru	VM	<fs af='pattu,v,any,pl,2,,A,A'>|<fs af='pattu,v,mf,pl,3,,A,A'>
+27	katteVla	NN	<fs af='katteV,n,any,pl,3,,obl,obl'>
+28	kosaM	PSP	<fs af='kosaM,avy,,,,,,' poslcat="NM">
+29	adavi	NN	<fs af='ada,n,any,sg,3,,vi_agr,vi_agr'>|<fs af='adavi,n,any,sg,3,,0,0'>
+30	xAri	NN	<fs af='xAri,n,any,sg,3,,0,0'>|<fs af='xAri,n,any,sg,3,,obl,obl'>
+31	pattAru	VM	<fs af='pattu,v,any,pl,2,,A,A'>|<fs af='pattu,v,mf,pl,3,,A,A'>
+32	xAra	NN	<fs af='xAra,n,,sg,,,0,0'>|<fs af='xAra,n,,sg,,,obl,obl'>
+32	aMwA	PRP	<fs af='aMwa,pn,,pl,,,0_A,0_A'>|<fs af='aMwa,pn,,pl,,,0_V,0_V'>
+33	mulYlu	NN	<fs af='mudi,n,any,pl,3,,0,0'>|<fs af='mudi,n,any,pl,3,,vu_agr,vu_agr'>
+34	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+35	rAlYlu	NN	<fs af='rAyi,n,any,pl,3,,0,0'>|<fs af='rAyi,n,any,pl,3,,vu_agr,vu_agr'>
+36	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+37	welYlu	NN	<fs af='welu,n,any,pl,3,,0,0'>|<fs af='welu,n,any,pl,3,,vu_agr,vu_agr'>
+38	adavi	NN	<fs af='ada,n,any,sg,3,,vi_agr,vi_agr'>|<fs af='adavi,n,any,sg,3,,0,0'>
+39	niMdA	RB	<fs af='niMdu,v,any,any,any,,i,i_A' poslcat="NM">'>|<fs af='niMdu,n,any,sg,3,,0,0_A' poslcat="NM">'>
+40	wodelYlu	NN	<fs af='wodelu,n,any,pl,3,,0,0'>|<fs af='wodelu,n,any,pl,3,,vu_agr,vu_agr'>
+41	mElYlu	NN	<fs af='mElu,n,any,pl,3,,0,0'>|<fs af='mElu,n,any,pl,3,,vu_agr,vu_agr'>
+42	nadicAru	VM	<fs af='naduvu,v,any,pl,2,,A,A'>|<fs af='naduvu,v,mf,pl,3,,A,A'>
+43	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+44	valYlu	NN	<fs af='valYlu,avy,,,,,0,0_avy' poslcat="NM">
+45	vaMcAru	VM	<fs af='vaMcu,v,any,pl,2,,A,A'>|<fs af='vaMcu,v,mf,pl,3,,A,A'>
+46	pelYlu	NN	<fs af='pelu,n,any,pl,3,,0,0'>|<fs af='pelu,n,any,pl,3,,vu_agr,vu_agr'>
+47	erAru	VM	<fs af='eru,v,any,pl,2,,A,A'>|<fs af='eru,v,mf,pl,3,,A,A'>
+48	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+49	palYlu	NN	<fs af='padi,n,any,pl,3,,0,0'>|<fs af='padi,n,any,pl,3,,vu_agr,vu_agr'>
+50	kosAru	VM	<fs af='koVyyi,v,any,pl,2,,A,A'>|<fs af='koVyyi,v,mf,pl,3,,A,A'>
+51	saxxikUlYlu	NN	<fs af='saxxikUdu,n,any,pl,3,,0,0'>|<fs af='saxxikUdu,n,any,pl,3,,vu_agr,vu_agr'>
+52	wAgAru	VM	<fs af='wAgu,v,any,pl,2,,A,A'>|<fs af='wAgu,v,mf,pl,3,,A,A'>
+53	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+54	ilYlaxAri	NN	<fs af='ilYlaxAri,n,any,sg,3,,0,0'>|<fs af='ilYlaxAri,n,any,sg,3,,obl,obl'>
+55	pattAru	VM	<fs af='pattu,v,any,pl,2,,A,A'>|<fs af='pattu,v,mf,pl,3,,A,A'>
+56	pEna	NN	<fs af='pEna,n,,sg,,,0,0'>|<fs af='pEna,n,,sg,,,obl,obl'>
+57	rolYlu	NN	<fs af='rolu,n,any,pl,3,,0,0'>|<fs af='rolu,n,any,pl,3,,vu_agr,vu_agr'>
+58	pagile	VM	<fs af='pagulu,v,any,any,any,,e,e'>|<fs af='pagulu,v,any,any,any,,i,i_e'>
+59	eVMdalu	NN	<fs af='eVMda,n,any,pl,3,,0,0'>|<fs af='eVMda,n,any,pl,3,,vu_agr,vu_agr'>
+60	kAlYlu	NN	<fs af='kAlu,n,any,pl,3,,0,0'>|<fs af='kAlu,n,any,pl,3,,vu_agr,vu_agr'>
+61	pulYlu	NN	<fs af='puMdu,n,any,pl,3,,0,0'>|<fs af='puMdu,n,any,pl,3,,vu_agr,vu_agr'>
+62	paddAyi	VM	<fs af='padu,v,n,pl,3,,A,A'>
+63	nolYlu	NN	<fs af='noru,n,any,pl,3,,0,0'>|<fs af='noru,n,any,pl,3,,vu_agr,vu_agr'>
+64	eVMdipoyAyi	VM	<fs af='eVMdipo,v,n,pl,3,,A,A'>
+65	magAlYlu	NN	<fs af='magAdu,n,any,pl,3,,0,0'>|<fs af='magAdi,n,any,pl,3,,0,0'>
+66	eVxuru	VM	<fs af='eVxuru,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='eVxuru,n,any,sg,3,,obl,obl' poslcat="NM">'>
+66	rAlexu	VM	<fs af='vaccu,v,any,any,any,,a_lexu,a_lexu'>|<fs af='rAgala,v,fn,sg,3,,a,a'>
+67	elYlu	NN	<fs af='edu,n,any,pl,3,,0,0'>|<fs af='edu,n,any,pl,3,,vu_agr,vu_agr'>
+68	mArinA	VM	<fs af='mAru,v,any,any,any,,inA,inA'>
+69	UlYlu	NN	<fs af='Uru,n,any,pl,3,,0,0'>|<fs af='Uru,n,any,pl,3,,vu_agr,vu_agr'>
+70	mArinA	VM	<fs af='mAru,v,any,any,any,,inA,inA'>
+71	AdavAlYla	NN	<fs af='AdavAlYlu,pn,mf,pl,3,,obl,obl' poslcat="NM">
+72	bawuku	NN	<fs af='bawuku,n,any,sg,3,,0,0'>|<fs af='bawuku,n,any,sg,3,,obl,obl'>
+73	mArenA	NN	<fs af='mAru,v,any,any,any,,e_nA,e_nA' poslcat="NM">'>|<fs af='mAru,v,any,any,any,,i_e_nA,i_e_nA' poslcat="NM">'>
+74	?	SYM	<fs af='?,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

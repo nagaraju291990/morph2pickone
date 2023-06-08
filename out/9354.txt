@@ -1,0 +1,10 @@
+<Sentence id="9354">
+0	((	SSF
+1	hAhU	NNP	<fs af='hAhU,n,any,sg,3,,0,0'>|<fs af='hAhU,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,, '>
+3	ka	NN	<fs af='k,avy,,sg,,o,ti,ti' deri_cat='n'>
+4	eRaH	NN	<fs af='eRaH,avy,,,,,0,0_avy'>
+5	kaXyawAM	NN	<fs af='kaXyawAM,n,,sg,,,0,0'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

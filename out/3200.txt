@@ -1,0 +1,8 @@
+<Sentence id="3200">
+0	((	SSF
+1	oVkarni	NN	<fs af='oVkaru,pn,any,pl,3,,0_ne,0_ne'>|<fs af='oVkaru,pn,any,pl,3,,vu,vu'>|<fs af='oVkati,num,,,,,ru,ru'>
+2	oVkaru	NN	<fs af='oVkaru,pn,mf,pl,3,,0,0'>|<fs af='oVkaru,pn,mf,pl,3,,vu,vu'>|<fs af='oVkati,num,any,any,any,,ru,ru'>
+3	neVttukuMtunnAru	VM	<fs af='neVttuko,v,fm,pl,3,,wunn,wunn'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

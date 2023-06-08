@@ -1,0 +1,22 @@
+<Sentence id="2218">			
+0	((	SSF	
+1	koVbbari	NN	<fs af='koVbbari,n,any,sg,3,,0,0'>|<fs af='koVbbari,n,any,sg,3,,obl,obl'>
+2	ceVttu	NN	<fs af='ceVttu,n,any,sg,3,,0,0'>|<fs af='ceVttu,n,any,sg,3,,obl,obl'>
+3	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+4	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+5	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+6	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+7	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+8	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+9	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+10	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+11	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+12	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+13	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+14	axanaMgA	RB	<fs af='axanaMgA,avy,,,,,,' poslcat="NM">
+15	saMpAxiMcAlani	VM	<fs af='saMpAxiMcu,v,any,any,any,,Ali_ani,Ali_ani'>
+16	aMxarikI	PRP	<fs af='aMxaru,pn,mf,pl,3,,ki,ki_V'>
+17	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,21 @@
+<Sentence id="2200">			
+0	((	SSF	
+1	arati	NN	<fs af='arati,n,any,sg,3,,0,0'>|<fs af='arati,n,any,sg,3,,obl,obl'>
+2	ceVttu	NN	<fs af='ceVttu,n,any,sg,3,,0,0'>|<fs af='ceVttu,n,any,sg,3,,obl,obl'>
+3	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+4	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+5	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+6	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+7	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+8	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+9	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+10	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+11	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+12	-	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+13	arati	NN	<fs af='arati,n,any,sg,3,,0,0'>|<fs af='arati,n,any,sg,3,,obl,obl'>
+14	sulaBaMgA	RB	<fs af='sulaBaM,n,any,sg,3,,gA,gA' poslcat="NM">
+15	peVrige	VM	<fs af='peVrugu,v,any,any,any,,e,e'>|<fs af='peVrugu,v,any,any,any,,i,i_e'>
+16	ceVttu	NN	<fs af='ceVttu,n,any,sg,3,,0,0'>|<fs af='ceVttu,n,any,sg,3,,obl,obl'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

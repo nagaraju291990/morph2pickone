@@ -1,0 +1,42 @@
+<Sentence id="5406">			
+0	((	SSF	
+1	pillalaku	NN	<fs af='pilla,n,any,pl,3,,ki,ki'>
+2	nIlYla	NN	<fs af='nIru,n,any,pl,3,,obl,obl'>
+3	virecanAlu	NN	<fs af='virecanaM,n,any,pl,3,,0,0'>|<fs af='virecanaM,n,any,pl,3,,vu_agr,vu_agr'>
+4	ayiwe	VM	<fs af='avvu,v,any,any,any,,we,we'>
+5	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+6	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+7	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+8	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+9	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+10	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+11	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+12	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+13	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+14	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+15	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+16	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+17	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+18	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+19	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+20	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+21	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+22	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+23	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+24	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+25	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+26	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+27	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+28	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+29	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+30	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+31	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+32	kAci	VM	<fs af='kAcu,v,any,any,any,,i,i'>
+33	callArcina	VM	<fs af='callArcu,v,any,any,any,,ina,ina'>|<fs af='callAruvu,v,any,any,any,,ina,ina'>
+34	glAsu	NN	<fs af='glAsu,n,,sg,,,0,0'>|<fs af='glAsu,n,,sg,,,obl,obl'>
+34	eVdu	NN	<fs af='eVdu,n,,sg,,,0,0'>|<fs af='eVdu,n,,sg,,,0,0'>
+35	nIlYlu	NN	<fs af='nIru,n,any,pl,3,,0,0'>|<fs af='nIru,n,any,pl,3,,vu_agr,vu_agr'>
+36	wIsukovAli	VM	<fs af='wIsuko,v,any,any,any,,Ali,Ali'>|<fs af='wIsuko,v,any,any,any,,Ali,Ali'>
+37	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

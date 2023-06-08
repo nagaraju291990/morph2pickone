@@ -1,0 +1,7 @@
+<Sentence id="402">
+0	((	SSF
+1	ayinA	CC	<fs af='avvu,v,any,any,any,,inA,inA'>
+2	sare	RP	<fs af='sare,avy,,,,,, '>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

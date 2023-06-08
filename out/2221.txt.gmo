@@ -1,0 +1,11 @@
+<Sentence id="2221">			
+0	((	SSF	
+1	iMti	NN	<fs af='illu,n,any,sg,3,,obl,obl'>
+2	muMxu	NST	<fs af='muMxu,adv,any,any,any,,0_adv,0_adv'>
+3	koVMceVM	NN	<fs af='koVMceVM,n,,sg,,,0,0'>|<fs af='koVMceVM,n,,sg,,,obl,obl'>
+3	EnA	NN	<fs af='EnA,avy,,,,,,' poslcat="NM">
+4	cotu	NN	<fs af='cotu,n,any,sg,3,,0,0'>|<fs af='cotu,n,any,sg,3,,obl,obl'>
+5	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

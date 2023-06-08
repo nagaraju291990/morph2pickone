@@ -1,0 +1,16 @@
+<Sentence id="8551">
+0	((	SSF
+1	vAri	PRP	<fs af='vAru,pn,mf,pl,3,,obl,obl'>
+2	cewulalo	NN	<fs af='ceyi,n,any,pl,3,,lo,lo'>|<fs af='cewu,n,any,pl,3,,lo,lo'>
+3	kanureVppa	NN	<fs af='kanureVppa,n,,sg,,,0,0'>|<fs af='kanureVppa,n,,sg,,,obl,obl'>
+3	pAtulo	NN	<fs af='pAtu,n,,sg,,,lo,lo'>|<fs af='pAtu,n,,sg,,,lo,lo'>|<fs af='pAt,n,,sg,,,lo,lo'>
+4	preli	VM	<fs af='prelu,v,any,any,any,,i,i'>
+5	jaMwuvunu	NN	<fs af='jaMwuvu,n,any,sg,3,,ni,ni'>|<fs af='jaMwuvu,n,any,sg,3,,ni_agr,ni_agr'>
+6	xagXaM	NN	<fs af='xagXaM,n,any,sg,3,,0,0'>
+7	ceyagala	VM	<fs af='ceVyyi,v,any,any,any,,a_gala,a_gala'>|<fs af='ceyagala,v,any,any,any,,ina,ina'>
+8	piswolYlu	NN	<fs af='piswolu,n,any,pl,3,,0,0'>|<fs af='piswolu,n,any,pl,3,,vu_agr,vu_agr'>
+9	guripeVtti	VM	<fs af='guripeVttu,v,any,any,any,,i,i'>
+10	unnAyi	VAUX	<fs af='uMdu,v,n,pl,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

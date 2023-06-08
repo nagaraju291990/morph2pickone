@@ -1,0 +1,13 @@
+<Sentence id="1659">			
+0	((	SSF	
+1	narsammala	NNP	<fs af='narsamma,n,any,pl,3,,obl,obl'>
+2	xaggarA	NST	<fs af='xaggara,adv,any,any,any,,0_A_adv,0_A_adv'>
+3	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+4	Asupawrullo	NN	<fs af='Asupawri,n,any,pl,3,,lo,lo'>
+5	maMxula	NN	<fs af='maMxu,n,any,pl,3,,obl,obl'>
+6	xukANaMlo	NN	<fs af='xukANaM,n,any,sg,3,,lo,lo'>
+7	ivi	PRP	<fs af='ixi,pn,fn,pl,3,,0,0'>
+8	xoVrukuwAyi	VM	<fs af='xoVruku,v,n,pl,3,,wA,wA'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

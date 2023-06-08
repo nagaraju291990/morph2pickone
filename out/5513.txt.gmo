@@ -1,0 +1,9 @@
+<Sentence id="5513">			
+0	((	SSF	
+1	rANi	NNP	<fs af='rANi,n,any,sg,3,,0,0'>|<fs af='rANi,n,any,sg,3,,obl,obl'>
+2	veVkki	VM	<fs af='veVkku,v,any,any,any,,i,i'>
+3	veVkki	RDP	<fs af='veVk,n,any,sg,3,,ki,ki' poslcat="NM">'>|<fs af='veVkku,v,any,any,any,,i,i' poslcat="NM">'>
+4	edcexi	VM	<fs af='edcu,v,any,any,any,,e_axi,e_axi'>|<fs af='eduvu,v,any,any,any,,e_axi,e_axi'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

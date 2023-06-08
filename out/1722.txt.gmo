@@ -1,0 +1,24 @@
+<Sentence id="1722">			
+0	((	SSF	
+1	'	SYM	<fs af=',punc,,,,,,'>
+2	jarI	NN	<fs af='jari,n,any,sg,3,,0,0_V'>
+3	'	SYM	<fs af=',punc,,,,,,'>
+4	mosaM	NN	<fs af='mosaM,n,any,sg,3,,0,0'>
+5	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+6	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+7	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+8	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+9	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+10	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+11	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+12	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+13	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+14	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+15	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+16	veVMkatasAmi	NN	<fs af='veVMkatasAmi,n,,sg,,,0,0'>|<fs af='veVMkatasAmi,n,,sg,,,obl,obl'>
+17	kadapajillA	NNP	<fs af='kadapajillA,n,any,sg,3,,0,0'>|<fs af='kadapajillA,n,any,sg,3,,obl,obl'>
+18	kodUruku	NN	<fs af='kodUruku,unk,,,,,,' poslcat="NM">
+19	ceVMxinavAdu	VM	<fs af='ceVMxu,v,any,any,any,,ina_vAdu,ina_vAdu'>
+20	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

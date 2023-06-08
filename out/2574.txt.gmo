@@ -1,0 +1,18 @@
+<Sentence id="2574">			
+0	((	SSF	
+1	nalla	JJ	<fs af='nalla,adj,any,any,any,,0_adj,0_adj'>
+2	regadi	NN	<fs af='regadi,n,any,sg,3,,0,0'>|<fs af='regadi,n,any,sg,3,,obl,obl'>
+3	BUmulalo	NN	<fs af='BUmi,n,any,pl,3,,lo,lo'>
+4	BUsAra	NN	<fs af='BUsAraM,n,any,sg,3,,obl,obl'>
+5	parIkRa	NN	<fs af='parIkRa,n,any,sg,3,,0,0'>|<fs af='parIkRa,n,any,sg,3,,obl,obl'>
+6	ceyiMcina	VM	<fs af='ceyiMcu,v,any,any,any,,ina,ina'>
+7	waravAwa	NST	<fs af='waravAwa,avy,,,,,,' poslcat="NM">
+8	avasaramEwe	VM	<fs af='avasaramavvu,v,any,any,any,,we,we'>
+9	40	QC	<fs af='40,num,,,,,,'>
+10	kilogrAm_la	QF	<fs af='kilogrAm_la,unk,,,,,,' poslcat="NM">
+11	poVtARiyaM	NN	<fs af='poVtARiyaM,n,any,sg,3,,0,0'>
+12	vAdavalasi	VM	<fs af='vAdavalayu,v,any,any,any,,i,i'>
+13	uMxi	VAUX	<fs af='uMdu,v,fn,sg,3,,A,A' poslcat="NM">
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

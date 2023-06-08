@@ -1,0 +1,26 @@
+<Sentence id="6080">			
+0	((	SSF	
+1	ika	RP	<fs af='ika,avy,,,,,,'>
+2	migilina	VM	<fs af='migulu,v,any,any,any,,ina,ina'>
+3	peVnnA	NNP	<fs af='peVnnu,n,any,sg,3,,0,0_A'>
+4	,	SYM	<fs af=',,punc,,,,,,'>
+5	wuMgaBaxra	NNP	<fs af='wuMgaBaxra,n,any,sg,3,,0,0'>
+6	,	SYM	<fs af=',,punc,,,,,,'>
+7	maMjIra	NNP	<fs af='maMjIra,n,any,sg,3,,0,0'>
+8	,	SYM	<fs af=',,punc,,,,,,'>
+9	prANahiwa	NNP	<fs af='prANahiwa,n,any,sg,3,,0,0'>
+10	,	SYM	<fs af=',,punc,,,,,,'>
+11	mUsi	VM	<fs af='muyyi,v,any,any,any,,i,i'>
+12	,	SYM	<fs af=',,punc,,,,,,'>
+13	nAgAvalYi	NNP	<fs af='nAgAvalYi,n,any,sg,3,,0,0'>
+14	naxule	NN	<fs af='naxi,n,any,pl,3,,0,0_e'>
+15	kAkuMdA	CC	<fs af='avvu,v,any,any,any,,akuMdA,akuMdA'>'>
+16	AyA	JJ	<fs af='AyA,avy,,,,,,'>
+17	prAMwAlalo	NN	<fs af='prAMwaM,n,any,pl,3,,lo,lo'>
+18	aneka	JJ	<fs af='aneka,adj,any,any,any,,0_adj,0_adj'>
+19	naxulu	NN	<fs af='naxi,n,any,pl,3,,0,0'>
+20	putti	NN	<fs af='putti,n,any,sg,3,,0,0'>
+21	pravahiswunnAyi	VM	<fs af='pravahiMcu,v,n,pl,3,,wunn,wunn'>
+22	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

@@ -1,0 +1,9 @@
+<Sentence id="4836">
+0	((	SSF
+1	Exo	QO	<fs af='Exu,n,any,sg,3,,0,0_o'>|<fs af='Exu,num,any,any,any,,ava,ava'>
+2	roju	NN	<fs af='roju,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='roju,n,any,sg,3,,0,0'>|<fs af='roju,n,any,sg,3,,obl,obl'>
+3	cepavAjAlu	NN	<fs af='cepavAjAlu,n,any,sg,3,,0,0'>|<fs af='cepavAjAlu,n,any,sg,3,,vu_agr,vu_agr'>
+4	eVxuguwAyi	VM	<fs af='eVxugu,v,n,pl,3,,wA,wA'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

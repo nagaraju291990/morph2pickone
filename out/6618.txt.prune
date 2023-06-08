@@ -1,0 +1,12 @@
+<Sentence id="6618">
+0	((	SSF	
+1	alAMtappudu	NST	<fs af='alAMtappudu,avy,,,,,,' poslcat="NM">
+2	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+3	BAgaM	NN	<fs af='BAgaM,n,any,sg,3,,0,0'>
+4	rakwaM	NN	<fs af='rakwaM,n,any,sg,3,,0,0'>
+5	lemi	NN	<fs af='lemi,n,any,sg,3,,0,0'>|<fs af='lemi,n,any,sg,3,,obl,obl'>
+6	valla	PSP	<fs af='valla,avy,,,,,,' poslcat="NM">
+7	caccupadavaccu	NN	<fs af='caccupadavaccu,unk,,,,,,' poslcat="NM">
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

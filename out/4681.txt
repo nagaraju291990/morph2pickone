@@ -1,0 +1,8 @@
+<Sentence id="4681">
+0	((	SSF
+1	30	QC	<fs af='30,num,,,,,, '>|<fs af='rU,avy,,,,,, '>
+2	seVM.mI	NN	<fs af='seVM.mI,unk,,,,,,'>
+3	poVdavu	NN	<fs af='poVda,n,any,sg,3,,vu_agr,vu_agr'>|<fs af='poVdavu,n,any,sg,3,,0,0'>|<fs af='poVdavu,n,any,sg,3,,obl,obl'>|<fs af='poVdavvu,v,any,sg,2,,AjFArWa,AjFArWa'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

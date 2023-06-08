@@ -1,0 +1,8 @@
+<Sentence id="8130">
+0	((	SSF	
+1	muriki	NN	<fs af='muri,n,any,sg,3,,ki,ki'>|<fs af='muriki,n,any,sg,3,,0,0'>|<fs af='muriki,n,any,sg,3,,obl,obl'>
+2	aMwA	QF	<fs af='aMwa,pn,any,pl,3,,0,0_A' poslcat="NM">|<fs af='aMwa,pn,any,pl,3,,0,0_V' poslcat="NM">
+3	pogoVttAli	VM	<fs af='pogoVttu,v,any,any,any,,Ali,Ali'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

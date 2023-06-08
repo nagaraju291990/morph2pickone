@@ -1,0 +1,11 @@
+<Sentence id="5900">			
+0	((	SSF	
+1	kAda	NST	<fs af='kAda,adv,any,any,any,,0_adv,0_adv'>
+2	xaggara	NST	<fs af='xaggara,adv,any,any,any,,0_adv,0_adv'>
+3	muxuru	JJ	<fs af='muxuru,adj,any,any,any,,0_adj,0_adj'>
+4	Akupacca	NN	<fs af='Akupacca,adj,any,any,any,,0_adj,0_adj'>
+5	raMgulo	NN	<fs af='raMg,n,any,sg,3,,lo,lo'>
+6	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

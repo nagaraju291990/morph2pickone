@@ -1,0 +1,11 @@
+<Sentence id="7658">
+0	((	SSF
+1	amma	NN	<fs af='ammu,v,any,any,any,,an,an'>|<fs af='amma,n,any,sg,3,,0,0'>|<fs af='amma,n,any,sg,3,,obl,obl'>
+2	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+3	vAdini	PRP	<fs af='vAdu,pn,m,sg,3,,nu,nu'>|<fs af='vAdu,pn,m,sg,3,,ni,ni'>|<fs af='vAdi,n,any,sg,3,,ni,ni'>|<fs af='vAdi,n,any,sg,3,,ni_agr,ni_agr'>
+4	rAkRasudu	NN	<fs af='rAkRasudu,n,,sg,,,0,0'>|<fs af='rAkRasa,adj,,,,,vAdu,vAdu_adj'>
+4	ane	VM	<fs af='ane,avy,,,,,,'>|<fs af='anu,v,any,any,any,,e,e'>|<fs af='anu,v,any,any,any,,i_e,i_e'>
+5	anexi	VM	<fs af='anu,v,any,any,any,,e_axi,e_axi'>|<fs af='anexi,pn,any,sg,3,,0,0'>|<fs af='anexi,pn,fn,sg,3,,0,0'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

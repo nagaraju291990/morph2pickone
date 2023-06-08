@@ -1,0 +1,19 @@
+<Sentence id="8765">			
+0	((	SSF	
+1	jU	NN	<fs af='jU,n,,sg,,,0,0'>|<fs af='jU,n,,sg,,,obl,obl'>
+2	aXikAri	NN	<fs af='aXikAri,n,any,sg,3,,0,0'>|<fs af='aXikAri,n,any,sg,3,,obl,obl'>
+3	iMka	RP	<fs af='iMku,v,any,any,any,,an,an' poslcat="NM">
+4	mqgAnni	NN	<fs af='mqgaM,n,any,sg,3,,ni,ni'>|<fs af='mqgaM,n,any,sg,3,,ni_agr,ni_agr'>
+5	wIsukoVni	VM	<fs af='wIsuko,v,any,any,any,,i,i'>|<fs af='wIsuko,v,any,any,any,,i,i'>
+6	veVlYladaM	VM	<fs af='veVlYlu,v,any,any,any,,adaM,adaM'>
+7	padaxani	VM	<fs af='padu,v,fn,sg,3,,a_ani,a_ani'>
+8	exo	WQ	<fs af='exi,pn,fn,sg,3,,0,0_o'>
+9	panimIxa	NN	<fs af='pani,n,any,sg,3,,mIxa,mIxa'>
+10	vaccinatlugA	VM	<fs af='vaccu,v,any,any,any,,ina_atlugA,ina_atlugA'>
+11	natiMci	VM	<fs af='natiMcu,v,any,any,any,,i,i'>
+12	lArI	NN	<fs af='lArI,n,,sg,,,0,0'>|<fs af='lArI,n,,sg,,,obl,obl'>
+13	wolukoVni	VM	<fs af='wolu,v,any,any,any,,koVn_i,koVn_i'>
+14	veVlYlAdu	VM	<fs af='veVlYlu,v,m,sg,3,,A,A'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

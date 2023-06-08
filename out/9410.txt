@@ -1,0 +1,14 @@
+<Sentence id="9410">
+0	((	SSF
+1	paSu	NN	<fs af='paSuvu,n,any,sg,3,,obl,obl'>|<fs af='paSuvu,n,any,sg,3,,I,I'>
+2	:	SYM	<fs af=':,punc,,,,,, '>
+3	ayiwe	CC	<fs af='avvu,v,any,any,any,,we,we'>
+4	Ayanaku	PRP	<fs af='Ayana,pn,m,sg,3,,ki,ki'>
+5	BayaM	NN	<fs af='BayaM,n,any,sg,3,,0,0'>
+6	ixi	NST	<fs af='ixi,pn,fn,sg,3,,0,0'>
+6	varake	NST	<fs af='varake,avy,,,,,, '>
+7	kaligiMxi	VM	<fs af='kalugu,v,fn,sg,3,,A,A'>
+8	annamAta	UT	<fs af='annamAta,n,any,sg,3,,0,0'>|<fs af='annamAta,n,any,sg,3,,obl,obl'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

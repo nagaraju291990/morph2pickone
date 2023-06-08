@@ -1,0 +1,9 @@
+<Sentence id="547">			
+0	((	SSF	
+1	caMxruni	NNP	<fs af='caMxrudu,n,any,sg,3,,obl,obl'>
+2	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+3	asale	NN	<fs af='asalu,n,any,sg,3,,0,0_o'>|<fs af='asalu,n,any,pl,3,,0,0_o'>
+4	padaxu	VM	<fs af='padu,v,fn,sg,3,,a,a'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

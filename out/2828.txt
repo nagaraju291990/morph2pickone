@@ -1,0 +1,17 @@
+<Sentence id="2828">
+0	((	SSF
+1	eVppudU	WQ	<fs af='eVppudU,avy,,,,,, '>|<fs af='eVppudu,adv,any,any,any,,0_V_adv,0_V_adv'>
+2	awanilo	PRP	<fs af='awanu,pn,m,sg,3,,lo,lo'>
+3	uMde	VM	<fs af='uMdu,v,any,any,any,,e,e'>|<fs af='uMdu,v,any,any,any,,i,i_e'>|<fs af='uMda,n,any,sg,3,,0,0_e'>
+4	BayaM	NN	<fs af='BayaM,n,any,sg,3,,0,0'>
+4	emitaMte	NN	<fs af='emitaMte,avy,,,,,, '>
+5	woti	NN	<fs af='wodu,n,any,sg,3,,obl,obl'>
+6	pillalu	NN	<fs af='pilla,n,any,pl,3,,0,0'>|<fs af='pilla,n,any,pl,3,,vu_agr,vu_agr'>
+7	awanni	PRP	<fs af='awanu,pn,m,sg,3,,ni,ni'>
+8	pattukoVni	VM	<fs af='pattukoVnu,v,any,any,any,,i,i'>
+9	eVgawAlYi	NN	<fs af='eVgawAlYi,n,any,sg,3,,0,0'>|<fs af='eVgawAlYi,n,any,sg,3,,obl,obl'>
+10	ceswAru	VM	<fs af='ceVyyi,v,any,pl,2,,wA,wA'>|<fs af='ceVyyi,v,mf,pl,3,,wA,wA'>
+10	emonani	VM	<fs af='emonani,unk,,,,,,'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

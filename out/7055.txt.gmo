@@ -1,0 +1,15 @@
+<Sentence id="7055">			
+0	((	SSF	
+1	aMte	UT	<fs af='aMte,avy,,,,,,'>|<fs af='anu,v,any,any,any,,we,we'>
+2	prapaMcaMloni	NN	<fs af='prapaMcaM,n,any,sg,3,,loni,loni'>
+3	prawi	JJ	<fs af='prawi,adj,any,any,any,,0_adj,0_adj'>
+4	Aru	NN	<fs af='Aru,n,any,sg,3,,0,0'>|<fs af='Aru,n,any,sg,3,,obl,obl'>
+4	maMxilonu	NN	<fs af='maMxilonu,unk,,,,,,' poslcat="NM">
+5	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+6	BArawIya	NN	<fs af='BArawIyaM,n,any,sg,3,,obl,obl'>|<fs af='BArawIyudu,n,any,sg,3,,obl,obl'>
+7	vyakwi	NN	<fs af='vyakwi,n,any,sg,3,,0,0'>|<fs af='vyakwi,n,any,sg,3,,obl,obl'>
+8	unnArani	VM	<fs af='uMdu,v,any,pl,2,,A_ani,A_ani'>|<fs af='uMdu,v,mf,pl,3,,A_ani,A_ani'>
+9	arWaM	NN	<fs af='arWaM,n,any,sg,3,,0,0'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

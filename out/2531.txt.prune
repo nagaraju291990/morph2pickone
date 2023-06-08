@@ -1,0 +1,11 @@
+<Sentence id="2531">
+0	((	SSF	
+1	manaM	PRP	<fs af='manaM,pn,any,pl,1,,0,0'>
+2	veruSeVnaga	NN	<fs af='veruSeVnaga,n,any,sg,3,,0,0'>|<fs af='veruSeVnaga,n,any,sg,3,,obl,obl'>
+3	nUneVnu	NN	<fs af='nUneV,n,any,sg,3,,ni,ni'>|<fs af='nUneV,n,any,sg,3,,ni_agr,ni_agr'>
+4	vaMta	NN	<fs af='vaMta,n,any,sg,3,,0,0'>|<fs af='vaMta,n,any,sg,3,,obl,obl'>
+5	nUneVgA	RB	<fs af='nUneV,n,any,sg,3,,gA,gA' poslcat="NM">
+6	vAdawAM	VM	<fs af='vAdu,v,any,pl,1,,wA,wA'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

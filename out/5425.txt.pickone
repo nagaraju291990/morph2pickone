@@ -1,0 +1,30 @@
+<Sentence id="5425">			
+0	((	SSF	
+1	maccalu	NN	<fs af='macca,n,any,pl,3,,0,0'>
+2	povAlaMte	VM	<fs af='po,v,any,any,any,,Ali_aMte,Ali_aMte'>
+3	_	SYM	<fs af='<'>
+4	_	SYM	<fs af='<'>
+5	_	SYM	<fs af='<'>
+6	_	SYM	<fs af='<'>
+7	_	SYM	<fs af='<'>
+8	_	SYM	<fs af='<'>
+9	_	SYM	<fs af='<'>
+10	_	SYM	<fs af='<'>
+11	_	SYM	<fs af='<'>
+12	_	SYM	<fs af='<'>
+13	_	SYM	<fs af='<'>
+14	_	SYM	<fs af='<'>
+15	_	SYM	<fs af='<'>
+16	_	SYM	<fs af='<'>
+17	_	SYM	<fs af='<'>
+18	_	SYM	<fs af='<'>
+19	kyArat	NNP	<fs af='kyArat,n,any,sg,3,,0,0'>
+20	rasaM	NN	<fs af='rasaM,n,any,sg,3,,0,0'>
+21	,	SYM	<fs af=',,punc,,,,,,'>
+22	nAriMja	NNP	<fs af='nAriMja,n,any,sg,3,,0,0'>
+23	rasaM	NN	<fs af='rasaM,n,any,sg,3,,0,0'>
+24	pAlU	NN	<fs af='paM,n,any,pl,3,,0,0_V'>
+25	kalapAli	VM	<fs af='kalupu,v,any,any,any,,Ali,Ali'>
+26	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

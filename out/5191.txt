@@ -1,0 +1,8 @@
+<Sentence id="5191">
+0	((	SSF
+1	ixxarU	NN	<fs af='ixxaru,pn,mf,pl,3,,0,0_V'>
+2	caxuvuku	NN	<fs af='caxuvu,n,,sg,,,ki,ki'>
+2	unnavAlYle	NN	<fs af='unna,adj,,pl,,,vAlYlu_0,vAlYlu_0_e' deri_cat='pn'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

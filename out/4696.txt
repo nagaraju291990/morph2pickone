@@ -1,0 +1,10 @@
+<Sentence id="4696">
+0	((	SSF
+1	ceVMxavA	NNP	<fs af='ceVMxu,v,any,sg,2,,a,a_A'>
+2	:	SYM	<fs af=':,punc,,,,,, '>
+3	xInni	PRP	<fs af='ixi,pn,fn,sg,3,,ni,ni'>
+4	veVnnacepa	NNP	<fs af='veVnnacepa,n,any,sg,3,,0,0'>|<fs af='veVnnacepa,n,any,sg,3,,obl,obl'>
+5	aMtAru	VM	<fs af='anu,v,any,pl,2,,wA,wA'>|<fs af='anu,v,mf,pl,3,,wA,wA'>|<fs af='aMtu,v,any,pl,2,,A,A'>|<fs af='aMtu,v,mf,pl,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

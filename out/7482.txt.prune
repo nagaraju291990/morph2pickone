@@ -1,0 +1,21 @@
+<Sentence id="7482">
+0	((	SSF	
+1	vIdiwo	PRP	<fs af='vIdu,pn,,sg,,,wo,wo'>
+2	vegataM	VM	<fs af='vegu,v,any,any,any,,adaM,adaM'>
+3	kanna	PSP	<fs af='kanna,avy,,,,,,' poslcat="NM">|<fs af='kanu,v,any,any,any,,ina,ina' poslcat="NM">|<fs af='kannaM,n,any,sg,3,,obl,obl' poslcat="NM">
+4	cAvataM	VM	<fs af='cAvu,v,any,any,any,,adaM,adaM'>
+5	melani	NN	<fs af='me,n,any,pl,3,,ni,ni'>|<fs af='menu,n,any,pl,3,,ni,ni'>
+6	nenu	VM	<fs af='nenu,pn,any,sg,1,,0,0' poslcat="NM">
+6	eduswuMte	VM	<fs af='eduvu,v,any,any,any,,wuMte,wuMte'>|<fs af='eduswuMdu,v,any,any,any,,we,we'>
+7	sIwAmahAwalli	NNP	<fs af='sIwAmahAwalli,n,any,sg,3,,0,0'>|<fs af='sIwAmahAwalli,n,any,sg,3,,obl,obl'>
+8	kaRtAlu	NN	<fs af='kaRtaM,n,any,pl,3,,0,0'>|<fs af='kaRtaM,n,any,pl,3,,vu_agr,vu_agr'>
+9	ekaruvu	NN	<fs af='ekaruvu,n,any,sg,3,,0,0'>|<fs af='ekaruvu,n,any,sg,3,,obl,obl'>
+10	peVtti	VM	<fs af='peVttu,v,any,any,any,,i,i'>
+11	orpu	NN	<fs af='orpu,n,any,sg,3,,0,0'>|<fs af='orpu,n,any,sg,3,,obl,obl'>
+12	weVccukomani	VM	<fs af='weVccukomanu,v,any,any,any,,i,i'>
+13	nAku	PRP	<fs af='nenu,pn,any,sg,1,,ki,ki'>
+14	nIwulu	NN	<fs af='nIwi,n,any,pl,3,,0,0'>
+15	nerpAru	VM	<fs af='nerpu,v,any,pl,2,,A,A'>|<fs af='nerpu,v,mf,pl,3,,A,A'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

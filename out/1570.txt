@@ -1,0 +1,11 @@
+<Sentence id="1570">
+0	((	SSF
+1	reVMdo	QO	<fs af='reVMdu,n,any,sg,3,,0,0_o'>|<fs af='reVMdu,num,any,any,any,,ava,ava'>|<fs af='reVMdo,adj,any,any,any,,0_adj,0_adj'>
+2	bidda	NN	<fs af='bidda,n,any,sg,3,,0,0'>|<fs af='bidda,n,any,sg,3,,obl,obl'>
+3	warvAwa	NST	<fs af='warvAwa,avy,,,,,, '>
+4	ApareRanu	NN	<fs af='ApareRan,n,any,sg,3,,0,0'>|<fs af='ApareRan,n,any,sg,3,,obl,obl'>|<fs af='ApareRanu,n,any,sg,3,,0,0'>|<fs af='ApareRanu,n,any,sg,3,,obl,obl'>
+5	ceyiMcukovadame	NN	<fs af='ceyiMcu,v,any,any,any,,koVn_adaM_e,koVn_adaM_e'>
+6	maMcixi	NN	<fs af='maMci,adj,any,any,any,,xi_adj,xi_adj'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

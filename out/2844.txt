@@ -1,0 +1,36 @@
+<Sentence id="2844">
+0	((	SSF
+1	_	SYM
+2	_	SYM
+3	_	SYM
+4	_	SYM
+5	_	SYM
+6	_	SYM
+7	_	SYM
+8	_	SYM
+9	_	SYM
+10	_	SYM
+11	_	SYM
+12	_	SYM
+13	_	SYM
+14	_	SYM
+15	_	SYM
+16	_	SYM
+17	_	SYM
+18	_	SYM
+19	_	SYM
+20	_	SYM
+21	_	SYM
+22	_	SYM
+23	_	SYM
+24	_	SYM
+25	_	SYM
+26	_	SYM
+27	_	SYM
+28	mohan	NNP	<fs af='mohan,n,any,sg,3,,0,0'>|<fs af='mohan,n,any,sg,3,,obl,obl'>
+29	iMtiki	NN	<fs af='illu,n,any,sg,3,,ki,ki'>
+30	wirigi	VM	<fs af='wirigi,avy,,,,,, '>|<fs af='wirugu,v,any,any,any,,i,i'>
+31	vaccAdu	VAUX	<fs af='vaccu,v,m,sg,3,,A,A'>
+32	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

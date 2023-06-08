@@ -1,0 +1,10 @@
+<Sentence id="4988">
+0	((	SSF
+1	cepale	NN	<fs af='cepu,v,any,any,any,,a_le,a_le'>|<fs af='cepa,n,any,sg,3,,0_le,0_le'>|<fs af='cepa,n,any,pl,3,,0,0_e'>
+2	kAkuMdA	CC	<fs af='avvu,v,any,any,any,,akuMdA,akuMdA'>|<fs af='kAkuMdu,v,any,any,any,,i,i_A'>
+3	verevAtini	NN	<fs af='vere,adj,,pl,,,ni,ni' deri_cat='pn'>
+4	nItilo	NN	<fs af='nIru,n,any,sg,3,,lo,lo'>
+5	peVMcuwAru	VM	<fs af='peVMcu,v,any,pl,2,,wA,wA'>|<fs af='peVMcu,v,mf,pl,3,,wA,wA'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

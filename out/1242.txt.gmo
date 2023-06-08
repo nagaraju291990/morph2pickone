@@ -1,0 +1,9 @@
+<Sentence id="1242">			
+0	((	SSF	
+1	koriMwa	NN	<fs af='koriMwa,n,any,sg,3,,0,0'>|<fs af='koriMwa,n,any,sg,3,,obl,obl'>
+2	xaggu	NN	<fs af='xaggu,n,any,sg,3,,0,0'>|<fs af='xaggu,n,any,sg,3,,obl,obl'>
+3	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+4	XanurvAwaM	NN	<fs af='XanurvAwaM,n,any,sg,3,,0,0'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

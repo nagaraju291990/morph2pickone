@@ -1,0 +1,12 @@
+<Sentence id="5065">
+0	((	SSF
+1	maga	NN	<fs af='maga,adj,any,any,any,,0_adj,0_adj'>|<fs af='maga,n,any,sg,3,,0,0'>|<fs af='maga,n,any,sg,3,,obl,obl'>
+2	purugulu	NN	<fs af='purugu,n,any,pl,3,,0,0'>|<fs af='purugu,n,any,pl,3,,vu_agr,vu_agr'>
+3	Ada	NN	<fs af='Adu,v,any,any,any,,an,an'>|<fs af='Ada,adj,any,any,any,,0_adj,0_adj'>|<fs af='Ada,n,any,sg,3,,0,0'>|<fs af='Ada,n,any,sg,3,,obl,obl'>
+4	purugulawo	NN	<fs af='purugu,n,any,pl,3,,wo,wo'>
+5	jawakatte	VM	<fs af='jawakattu,v,any,any,any,,e,e'>|<fs af='jawakattu,v,any,any,any,,i,i_e'>
+6	balaM	NN	<fs af='balaM,n,any,sg,3,,0,0'>
+7	wagguwuMxi	VM	<fs af='waggu,v,fn,sg,3,,wA,wA'>|<fs af='wagguwuMdu,v,fn,sg,3,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

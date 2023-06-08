@@ -1,0 +1,24 @@
+<Sentence id="4779">
+0	((	SSF
+1	ceVruvu	NN	<fs af='ceVruvu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='ceVruvu,n,any,sg,3,,0,0'>|<fs af='ceVruvu,n,any,sg,3,,obl,obl'>
+2	gatlu	NN	<fs af='gattu,n,any,pl,3,,0,0'>|<fs af='gattu,n,any,pl,3,,vu_agr,vu_agr'>
+3	_	SYM
+4	_	SYM
+5	_	SYM
+6	_	SYM
+7	_	SYM
+8	_	SYM
+9	_	SYM
+10	_	SYM
+11	_	SYM
+12	_	SYM
+13	_	SYM
+14	ivi	PRP	<fs af='ivi,n,any,sg,3,,0,0'>|<fs af='ivi,n,any,sg,3,,obl,obl'>|<fs af='ixi,pn,fn,pl,3,,0,0'>
+15	sumAru	NN	<fs af='sumAru,n,any,sg,3,,0,0'>|<fs af='sumAru,n,any,sg,3,,obl,obl'>
+16	mUdu	QC	<fs af='mUdu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='mUdu,n,any,sg,3,,0,0'>|<fs af='mUdu,n,any,sg,3,,obl,obl'>|<fs af='mUdu,num,any,any,any,,0,0'>
+17	mItarlu	NN	<fs af='mItar,n,any,pl,3,,0,0'>|<fs af='mItar,n,any,pl,3,,vu_agr,vu_agr'>
+18	veVdalpu	NN	<fs af='veVdalpu,n,any,sg,3,,0,0'>|<fs af='veVdalpu,n,any,sg,3,,obl,obl'>
+19	uMdAli	VM	<fs af='uMdu,v,any,any,any,,Ali,Ali'>
+20	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

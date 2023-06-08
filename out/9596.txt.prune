@@ -1,0 +1,19 @@
+<Sentence id="9596">
+0	((	SSF	
+1	vAlYlu	PRP	<fs af='vAlYlu,pn,mf,pl,3,,0,0'>|<fs af='vAlYlu,pn,mf,pl,3,,vu,vu'>
+2	xIrGAlocana	NN	<fs af='xIrGAlocana,n,any,sg,3,,0,0'>|<fs af='xIrGAlocana,n,any,sg,3,,obl,obl'>
+3	cesi	VM	<fs af='ceVyyi,v,any,any,any,,i,i'>
+4	ixi	PRP	<fs af='ixi,pn,fn,sg,3,,0,0'>
+5	varaku	PSP	<fs af='varaku,avy,,,,,,' poslcat="NM">|<fs af='varaku,adv,any,any,any,,0_adv,0_adv' poslcat="NM">
+6	paxihenu	QC	<fs af='paxihenu,n,any,sg,3,,0,0'>|<fs af='paxihenu,n,any,sg,3,,obl,obl'>
+7	rojulu	NN	<fs af='roju,n,any,pl,3,,0,0'>|<fs af='roju,n,any,pl,3,,vu_agr,vu_agr'>
+8	mukku	NN	<fs af='mukku,n,any,sg,3,,0,0'>|<fs af='mukku,n,any,sg,3,,obl,obl'>
+9	mUsuku	NN	<fs af='mUsuku,n,,sg,2,,AjFArWa,AjFArWa'>
+10	kUrcu	VM	<fs af='kUrcu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='kUruvu,v,any,any,any,,e,e'>
+10	unnatle	NN	<fs af='unnatlu,avy,,,,,e,e_avy' poslcat="NM">
+11	kUrcuMtAdu	VM	<fs af='kUrco,v,m,sg,3,,wA,wA'>|<fs af='kUrcuMdu,v,m,sg,3,,wA,wA'>
+12	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+13	oVppukunnAru	VM	<fs af='oVppuko,v,fm,pl,3,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

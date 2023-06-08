@@ -1,0 +1,10 @@
+<Sentence id="8084">
+0	((	SSF	
+1	navaMbaru	NNP	<fs af='navaMbar,n,any,sg,3,,0,0'>|<fs af='navaMbar,n,any,sg,3,,obl,obl'>|<fs af='navaMbaru,n,any,sg,3,,0,0'>|<fs af='navaMbaru,n,any,sg,3,,obl,obl'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	diSaMbaru	NNP	<fs af='diSaMbar,n,any,sg,3,,0,0'>|<fs af='diSaMbar,n,any,sg,3,,obl,obl'>
+4	mUdava	QO	<fs af='mUdu,num,any,any,any,,ava,ava'>|<fs af='mUdava,adj,any,any,any,,0_adj,0_adj'>
+5	kAlaM	NN	<fs af='kAlaM,n,any,sg,3,,0,0'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

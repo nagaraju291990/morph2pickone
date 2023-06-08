@@ -1,0 +1,6 @@
+<Sentence id="3952">
+0	((	SSF
+1	Bakwudivi	NN	<fs af='Bakwudu,n,any,sg,3,,vi_agr,vi_agr'>|<fs af='Bakwudu,n,any,sg,3,,vu_agr,vu_agr'>
+2	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

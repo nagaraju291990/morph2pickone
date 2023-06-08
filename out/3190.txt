@@ -1,0 +1,7 @@
+<Sentence id="3190">
+0	((	SSF
+1	wayArugA	RB	<fs af='wayAru,n,any,sg,3,,gA,gA'>
+2	nilabaddAru	VM	<fs af='nilabadu,v,any,pl,2,,A,A'>|<fs af='nilabadu,v,mf,pl,3,,A,A'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

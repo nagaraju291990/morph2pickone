@@ -1,0 +1,9 @@
+<Sentence id="7449">
+0	((	SSF	
+1	sIwa	NNP	<fs af='sIwa,n,any,sg,3,,0,0'>|<fs af='sIwa,n,any,sg,3,,obl,obl'>
+2	maMganu	NNP	<fs af='maMga,n,any,sg,3,,ni,ni'>|<fs af='maMga,n,any,sg,3,,ni_agr,ni_agr'>
+3	bAlAjini	NNP	<fs af='bAlAji,n,any,sg,3,,ni,ni'>|<fs af='bAlAji,n,any,sg,3,,ni_agr,ni_agr'>
+4	caxiviMciMxi	VM	<fs af='caxiviMcu,v,fn,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,11 @@
+<Sentence id="1075">
+0	((	SSF
+1	powU	VM	<fs af='po,v,any,any,any,,wU,wU'>|<fs af='powu,n,any,sg,3,,0,0_V'>
+2	powU	RDP	<fs af='po,v,any,any,any,,wU,wU'>|<fs af='powu,n,any,sg,3,,0,0_V'>
+3	uMte	VM	<fs af='uMdu,v,any,any,any,,we,we'>
+4	iMkoVka	RP	<fs af='iMkoVka,avy,,,,,, '>
+5	maniRi	NN	<fs af='maniRi,n,any,sg,3,,0,0'>|<fs af='maniRi,n,any,sg,3,,obl,obl'>
+6	kaliSAdu	VM	<fs af='kaluvu,v,m,sg,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

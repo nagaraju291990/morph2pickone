@@ -1,0 +1,15 @@
+<Sentence id="3730">
+0	((	SSF
+1	cIkati	NN	<fs af='cIkati,n,any,sg,3,,0,0'>|<fs af='cIkati,n,any,sg,3,,obl,obl'>
+2	padanicci	VM	<fs af='padanivvu,v,any,any,any,,i,i'>
+3	mana	PRP	<fs af='manaM,pn,any,pl,1,,obl,obl'>
+4	bEjU	NNP	<fs af='bEjU,n,any,sg,3,,0,0'>|<fs af='bEjU,n,any,sg,3,,obl,obl'>
+5	mAmayya	NN	<fs af='mAmayya,n,any,sg,3,,0,0'>|<fs af='mAmayya,n,any,sg,3,,obl,obl'>
+6	eVdlani	NN	<fs af='eVdlu,n,any,sg,3,,ni,ni'>|<fs af='eVddu,n,any,pl,3,,ni,ni'>
+7	vippukuni	VM	<fs af='vippu,v,any,any,any,,koVn_i,koVn_i'>
+8	woluko	VM	<fs af='wolu,v,any,any,any,,koVn,koVn'>|<fs af='wolu,n,any,sg,3,,ki,ki_o'>
+8	povadAniki	VM	<fs af='povadaM,n,any,sg,3,,ki,ki'>
+9	wayArayyAdu	VM	<fs af='wayAravvu,v,m,sg,3,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

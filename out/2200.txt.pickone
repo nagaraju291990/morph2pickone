@@ -1,0 +1,21 @@
+<Sentence id="2200">			
+0	((	SSF	
+1	arati	NN	<fs af='arati,n,any,sg,3,,0,0'>
+2	ceVttu	NN	<fs af='ceVttu,n,any,sg,3,,0,0'>
+3	-	SYM	<fs af='<'>
+4	-	SYM	<fs af='<'>
+5	-	SYM	<fs af='<'>
+6	-	SYM	<fs af='<'>
+7	-	SYM	<fs af='<'>
+8	-	SYM	<fs af='<'>
+9	-	SYM	<fs af='<'>
+10	-	SYM	<fs af='<'>
+11	-	SYM	<fs af='<'>
+12	-	SYM	<fs af='<'>
+13	arati	NN	<fs af='arati,n,any,sg,3,,0,0'>
+14	sulaBaMgA	RB	<fs af='sulaBaM,n,any,sg,3,,gA,gA'>
+15	peVrige	VM	<fs af='peVrugu,v,any,any,any,,e,e'>
+16	ceVttu	NN	<fs af='ceVttu,n,any,sg,3,,0,0'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

@@ -1,0 +1,8 @@
+<Sentence id="4804">
+0	((	SSF
+1	mare	RP	<fs af='mare,avy,,,,,, '>|<fs af='maru,n,any,sg,3,,0,0_e'>|<fs af='mara,n,any,sg,3,,0,0_e'>
+2	SraxXA	NN	<fs af='SraxXa,n,any,sg,3,,0,0_A'>|<fs af='SraxXa,n,any,sg,3,,0,0_V'>
+3	cUpavu	VM	<fs af='cUpu,v,any,sg,2,,a,a'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

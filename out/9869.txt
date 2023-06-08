@@ -1,0 +1,11 @@
+<Sentence id="9869">
+0	((	SSF
+1	Ewe	CC	<fs af='avvu,v,any,any,any,,we,we'>
+2	adigexexo	NN	<fs af='adugu,n,,sg,,,xi_0,xi_0_o' deri_cat='pn'>
+3	nyAyaMgA	RB	<fs af='nyAyaM,n,any,sg,3,,gA,gA'>
+4	adagaMdi	VM	<fs af='adagu,v,any,pl,2,,AjFArWa,AjFArWa'>
+5	"	SYM	<fs af='",punc,,,,,, '>
+6	annAdu	VM	<fs af='anu,v,m,sg,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

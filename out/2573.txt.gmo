@@ -1,0 +1,20 @@
+<Sentence id="2573">			
+0	((	SSF	
+1	xIniwopAtu	PRP	<fs af='ixi,pn,fn,sg,3,,wopAtu,wopAtu'>
+2	heVktAruku	NN	<fs af='heVktAr,n,any,sg,3,,ki,ki'>|<fs af='heVktAru,n,any,sg,3,,ki,ki'>
+3	40	QC	<fs af='40,num,,,,,,'>
+4	kilogrAmla	QF	<fs af='kilogrAm,n,any,pl,3,,obl,obl'>
+5	nawrajani	NN	<fs af='nawrajani,n,any,sg,3,,0,0'>|<fs af='nawrajani,n,any,sg,3,,obl,obl'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	30	QC	<fs af='30,num,,,,,,'>
+8	kilogrAm_la	QF	<fs af='kilogrAm_la,unk,,,,,,' poslcat="NM">
+9	BAsvaraM	NN	<fs af='BAsvaraM,n,any,sg,3,,0,0'>
+10	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+11	40	QC	<fs af='40,num,,,,,,'>
+12	kilola	NN	<fs af='kilo,n,,pl,,,obl,obl'>
+13	poVtAR	NN	<fs af='poVtAR,n,any,sg,3,,0,0'>|<fs af='poVtAR,n,any,sg,3,,obl,obl'>
+14	veyavalasi	VM	<fs af='veyavalayu,v,any,any,any,,i,i'>
+15	uMtuMxi	VAUX	<fs af='uMdu,v,fn,sg,3,,wA,wA' poslcat="NM">'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A' poslcat="NM">'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

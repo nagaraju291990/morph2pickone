@@ -1,0 +1,14 @@
+<Sentence id="316">
+0	((	SSF
+1	garBavawi	NN	<fs af='garBavawi,n,any,sg,3,,0,0'>|<fs af='garBavawi,n,any,sg,3,,obl,obl'>
+2	ayinappudU	VM	<fs af='ayinappudu,adv,any,any,any,,0_V_adv,0_V_adv'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	ApareRanu	NN	<fs af='ApareRan,n,any,sg,3,,0,0'>|<fs af='ApareRan,n,any,sg,3,,obl,obl'>|<fs af='ApareRanu,n,any,sg,3,,0,0'>|<fs af='ApareRanu,n,any,sg,3,,obl,obl'>
+5	ceyiMcukovAlasinappudu	NN	<fs af='ceyiMcukovAlasinappudu,unk,,,,,,'>
+6	enA	NN	<fs af='en,n,,sg,,,I,I'>
+7	vAlYlaku	PRP	<fs af='vAlYlu,pn,mf,pl,3,,ki,ki'>
+8	dAktarlu	NN	<fs af='dAktar,n,any,pl,3,,0,0'>|<fs af='dAktar,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='dAktaru,n,any,pl,3,,0,0'>|<fs af='dAktaru,n,any,pl,3,,vu_agr,vu_agr'>
+9	avasaramayyexi	VM	<fs af='avasaramavvu,v,any,any,any,,e_axi,e_axi'>|<fs af='avasaramayyexi,pn,any,sg,3,,0,0'>
+10	?	SYM	<fs af='?,punc,,,,,, '>
+))
+</Sentence>

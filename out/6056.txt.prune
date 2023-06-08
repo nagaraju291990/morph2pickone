@@ -1,0 +1,15 @@
+<Sentence id="6056">
+0	((	SSF	
+1	weVlaMgANA	NNP	<fs af='weVlaMgANa,n,any,sg,3,,0,0_A'>|<fs af='weVlaMgANa,n,any,sg,3,,0,0_V'>|<fs af='weVlaMgANA,n,any,sg,3,,0,0'>|<fs af='weVlaMgANA,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	kqRNA	NNP	<fs af='kqRNa,n,any,sg,3,,0,0_A'>|<fs af='kqRNa,n,any,sg,3,,0,0_V'>|<fs af='kqRNudu,n,any,sg,3,,I,I'>
+4	goxAvari	NNP	<fs af='goxAvari,n,any,sg,3,,0,0'>|<fs af='goxAvari,n,any,sg,3,,obl,obl'>
+5	naxula	NN	<fs af='naxi,n,any,pl,3,,obl,obl'>
+6	maXya	NST	<fs af='maXya,n,any,sg,3,,0,0'>|<fs af='maXya,n,any,sg,3,,obl,obl'>|<fs af='maXyaM,n,any,sg,3,,obl,obl'>
+7	prAMwamu	NN	<fs af='prAMwaM,n,any,sg,3,,0,0'>
+8	-	SYM	<'>|<poslcat="NM"'>
+9	10	QC	<fs af='10,num,,,,,,'>
+10	jillAlu	NN	<fs af='jillA,n,any,pl,3,,0,0'>|<fs af='jillA,n,any,pl,3,,vu_agr,vu_agr'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

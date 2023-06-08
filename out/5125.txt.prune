@@ -1,0 +1,22 @@
+<Sentence id="5125">
+0	((	SSF	
+1	mI	PRP	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+2	UlYlo	NN	<fs af='Uru,n,any,sg,3,,lo,lo'>|<fs af='Uru,n,any,pl,3,,0,0_o'>
+3	-	SYM	<'>|<poslcat="NM"'>
+4	mI	PRP	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+5	UlYla	JJ	<fs af='Uru,n,any,pl,3,,obl,obl' poslcat="NM">
+5	lAMti	JJ	<fs af='lAMti,avy,,,,,,'>|<fs af='lAMti,adj,any,any,any,,0_adj,0_adj'>
+6	eVnno	QF	<fs af='eVnno,avy,,,,,,'>
+7	UlYlalo	NN	<fs af='Uru,n,any,pl,3,,lo,lo'>
+8	prawi	JJ	<fs af='prawi,adj,any,any,any,,0_adj,0_adj'>
+9	iMtlonU	NN	<fs af='illu,n,any,sg,3,,lo,lo_V'>
+10	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+11	pasi	JJ	<fs af='pasi,adj,any,any,any,,0_adj,0_adj'>
+12	wallulu	NN	<fs af='walli,n,any,pl,3,,0,0'>
+13	itlA	RB	<fs af='itlA,avy,,,,,,' poslcat="NM">
+14	ayipowunnArani	VM	<fs af='ayipo,v,any,pl,2,,wunn_ani,wunn_ani'>|<fs af='ayipo,v,mf,pl,3,,wunn_ani,wunn_ani'>|<fs af='ayipowuMdu,v,any,pl,2,,A_ani,A_ani'>|<fs af='ayipowuMdu,v,mf,pl,3,,A_ani,A_ani'>
+15	mIku	PRP	<fs af='mIru,pn,any,pl,2,,ki,ki'>
+16	weVlusu	VM	<fs af='weVlusu,avy,,,,,,' poslcat="NM">
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

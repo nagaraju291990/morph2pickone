@@ -1,0 +1,19 @@
+<Sentence id="6145">			
+0	((	SSF	
+1	sumAru	NN	<fs af='sumAru,n,any,sg,3,,0,0'>|<fs af='sumAru,n,any,sg,3,,obl,obl'>
+2	1142	QC	<fs af='1142,num,,,,,,'>
+3	BArI	JJ	<fs af='BArI,adj,any,any,any,,0_adj,0_adj'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	maXya	NN	<fs af='maXya,n,any,sg,3,,0,0'>|<fs af='maXya,n,any,sg,3,,obl,obl'>
+6	BArI	JJ	<fs af='BArI,adj,any,any,any,,0_adj,0_adj'>
+7	pariSramalawo	NN	<fs af='pariSrama,n,any,pl,3,,wo,wo'>|<fs af='pariSramalu,n,any,sg,3,,wo,wo'>
+8	22	QC	<fs af='22,num,,,,,,'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	713	QC	<fs af='713,num,,,,,,'>
+11	kotla	QC	<fs af='koti,n,any,pl,3,,obl,obl'>|<fs af='kotu,n,any,pl,3,,obl,obl'>
+12	peVttubadiwo	NN	<fs af='peVttubadi,n,any,sg,3,,wo,wo'>
+13	ivi	PRP	<fs af='ixi,pn,fn,pl,3,,0,0'>
+14	naduswunnAyi	VM	<fs af='naduvu,v,n,pl,3,,wunn,wunn'>|<fs af='naduswuMdu,v,n,pl,3,,A,A'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

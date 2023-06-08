@@ -1,0 +1,9 @@
+<Sentence id="9609">
+0	((	SSF
+1	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+2	mawAnni	NN	<fs af='mawaM,n,any,sg,3,,ni,ni'>|<fs af='mawaM,n,any,sg,3,,ni_agr,ni_agr'>
+3	guriMci	PSP	<fs af='guriMci,avy,,,,,, '>
+4	praSniMcAru	VM	<fs af='praSniMcu,v,any,pl,2,,A,A'>|<fs af='praSniMcu,v,mf,pl,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

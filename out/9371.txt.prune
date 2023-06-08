@@ -1,0 +1,19 @@
+<Sentence id="9371">
+0	((	SSF	
+1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+2	Uhalu	NN	<fs af='Uha,n,any,pl,3,,0,0'>|<fs af='Uha,n,any,pl,3,,vu_agr,vu_agr'>
+3	putteMxuku	VM	<fs af='puttu,v,any,any,any,,e_eMxuku,e_eMxuku'>
+4	mI	PRP	<fs af='mIru,pn,any,pl,2,,obl,obl'>
+5	walalo	NN	<fs af='wala,n,any,sg,3,,lo,lo'>|<fs af='wala,n,any,pl,3,,0,0_o'>|<fs af='waladu,n,any,pl,3,,0,0_o'>
+6	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+7	meVxalYlu	NN	<fs af='meVxadu,n,any,pl,3,,0,0'>|<fs af='meVxadu,n,any,pl,3,,vu_agr,vu_agr'>
+8	eVtlAMtivi	NN	<fs af='eVtlAMti,adj,,pl,,,xi,xi_0' deri_cat=pn poslcat="NM">
+9	pariSIliMcuxAM	VM	<fs af='pariSIliMcu,v,any,pl,2,,xA,xA'>|<fs af='pariSIliMcu,v,any,pl,1,,xA,xA'>
+10	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+11	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+12	nannu	PRP	<fs af='nenu,pn,any,sg,1,,ni,ni'>
+13	emi	WQ	<fs af='emi,avy,,,,,,'>
+14	ceyamaMtAru	VM	<fs af='ceyamanu,v,any,pl,2,,wA,wA'>|<fs af='ceyamanu,v,mf,pl,3,,wA,wA'>
+15	?	SYM	<fs af='?,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

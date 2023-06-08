@@ -1,0 +1,18 @@
+<Sentence id="3581">			
+0	((	SSF	
+1	ayina+appatikI	VM	<fs af='ayina+appatikI,unk,,,,,,'>
+2	,	SYM	<fs af=',,punc,,,,,,'>
+3	awadu	PRP	<fs af='awadu,pn,,sg,,,0,0'>
+4	appudappudu	NST	<fs af='appudappudu,avy,,,,,,'>
+5	ceVppina	VM	<fs af='ceVppu,v,any,any,any,,ina,ina'>
+6	viRayAlu	NN	<fs af='viRayaM,n,,pl,,,0,0'>
+6	annitinI	PRP	<fs af='anni,pn,,pl,,,ni_V,ni_V'>
+7	jodiMci	VM	<fs af='jodiMcu,v,any,any,any,,i,i'>
+8	awadi	PRP	<fs af='awadu,pn,,sg,,,obl,obl'>
+9	gawa	JJ	<fs af='gawa,adj,any,any,any,,0_adj,0_adj'>
+10	jIviwaM	NN	<fs af='jIviwaM,n,any,sg,3,,0,0'>
+11	guriMci	PSP	<fs af='guriMci,avy,,,,,,'>
+12	weVlusukoVnnAnu	VM	<fs af='weVlusuko,v,,sg,1,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

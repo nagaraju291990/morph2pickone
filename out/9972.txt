@@ -1,0 +1,17 @@
+<Sentence id="9972">
+0	((	SSF
+1	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+2	rakAla	NN	<fs af='rakaM,n,any,pl,3,,obl,obl'>
+3	mAMsaM	NN	<fs af='mAMsaM,n,any,sg,3,,0,0'>
+4	kUralu	NN	<fs af='kUra,n,any,pl,3,,0,0'>|<fs af='kUra,n,any,pl,3,,vu_agr,vu_agr'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	cepala	NN	<fs af='cepa,n,any,pl,3,,obl,obl'>
+7	vepudu	NN	<fs af='vepudu,n,,sg,,,0,0'>|<fs af='vepudu,n,,sg,,,obl,obl'>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	kodi	NN	<fs af='kodi,n,any,sg,3,,0,0'>|<fs af='kodi,n,any,sg,3,,obl,obl'>
+10	kUra	NN	<fs af='kUru,v,any,any,any,,an,an'>|<fs af='kUra,n,any,sg,3,,0,0'>|<fs af='kUra,n,any,sg,3,,obl,obl'>
+11	wayAru	NN	<fs af='wayAru,n,,sg,,,0,0'>|<fs af='wayAru,n,,sg,,,obl,obl'>
+11	ceyiMcAdu	VM	<fs af='ceyiMcu,v,m,sg,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,8 @@
+<Sentence id="933">			
+0	((	SSF	
+1	laccanna	NNP	<fs af='laccanna,n,any,sg,3,,0,0'>|<fs af='laccanna,n,any,sg,3,,obl,obl'>
+2	malli	NNP	<fs af='malli,n,any,sg,3,,0,0'>|<fs af='malli,n,any,sg,3,,obl,obl'>
+3	Alumagalu	NN	<fs af='Alumaga,n,any,pl,3,,0,0'>|<fs af='Alumaga,n,any,pl,3,,vu_agr,vu_agr'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

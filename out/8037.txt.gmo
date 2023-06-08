@@ -1,0 +1,8 @@
+<Sentence id="8037">			
+0	((	SSF	
+1	ibbadi	NN	<fs af='ibbadi,n,any,sg,3,,0,0'>|<fs af='ibbadi,n,any,sg,3,,obl,obl'>
+2	mubbadi	ECH	<fs af='mubbadi,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='mubbadi,n,any,sg,3,,obl,obl' poslcat="NM">'>
+3	lABaM	NN	<fs af='lABaM,n,any,sg,3,,0,0'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

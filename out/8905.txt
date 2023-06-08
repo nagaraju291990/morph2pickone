@@ -1,0 +1,12 @@
+<Sentence id="8905">
+0	((	SSF
+1	xInni	PRP	<fs af='ixi,pn,fn,sg,3,,ni,ni'>
+2	tikkeVttU	NN	<fs af='tikkeVttu,n,any,sg,3,,0,0_V'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	veVlA	NN	<fs af='veVl,n,any,sg,3,,0,0_A'>|<fs af='veVl,n,any,sg,3,,ni,ni_A'>|<fs af='veVl,n,any,pl,3,,0,0_A'>|<fs af='veVli,n,any,sg,3,,0,0_A'>|<fs af='veVla,n,any,sg,3,,0,0_A'>|<fs af='veVla,n,any,sg,3,,0,0_V'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	reVMdU	QC	<fs af='reVMdu,n,any,sg,3,,0,0_V'>|<fs af='reVMdu,num,any,any,any,,V,V'>
+7	peVttAru	VM	<fs af='peVttu,v,any,pl,2,,A,A'>|<fs af='peVttu,v,mf,pl,3,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

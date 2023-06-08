@@ -1,0 +1,23 @@
+<Sentence id="7488">			
+0	((	SSF	
+1	nI	PRP	<fs af='nIvu,pn,any,sg,2,,obl,obl'>
+2	iMti	NN	<fs af='illu,n,any,sg,3,,obl,obl'>
+3	poVyyilo	NN	<fs af='poVyyi,n,any,sg,3,,lo,lo'>
+4	pilli	NN	<fs af='pilli,n,any,sg,3,,0,0'>|<fs af='pilli,n,any,sg,3,,obl,obl'>
+5	levani	VM	<fs af='le,v,any,any,any,,ani,ani'>
+6	saMgawi	NN	<fs af='saMgawi,n,any,sg,3,,0,0'>|<fs af='saMgawi,n,any,sg,3,,obl,obl'>
+7	gaMji	NN	<fs af='gaMji,n,any,sg,3,,0,0'>|<fs af='gaMji,n,any,sg,3,,obl,obl'>
+7	nIlYlaki	NN	<fs af='nIru,n,any,pl,3,,ki,ki'>
+8	nI	PRP	<fs af='nIvu,pn,any,sg,2,,obl,obl'>
+9	pillalu	NN	<fs af='pilla,n,any,pl,3,,0,0'>|<fs af='pilla,n,any,pl,3,,vu_agr,vu_agr'>
+10	allAduwunna	VM	<fs af='allAdu,v,any,any,any,,wunna,wunna'>|<fs af='allAduwuMdu,v,any,any,any,,ina,ina'>
+11	saMgawi	NN	<fs af='saMgawi,n,any,sg,3,,0,0'>|<fs af='saMgawi,n,any,sg,3,,obl,obl'>
+12	arakodi	NN	<fs af='arakodi,n,any,sg,3,,0,0'>|<fs af='arakodi,n,any,sg,3,,obl,obl'>
+13	palAvulu	NN	<fs af='palAvu,n,any,pl,3,,0,0'>|<fs af='palAvu,n,any,pl,3,,vu_agr,vu_agr'>
+14	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+15	Aru	QC	<fs af='Aru,n,any,sg,3,,0,0'>|<fs af='Aru,n,any,sg,3,,obl,obl'>
+16	rucula	NN	<fs af='ruci,n,any,pl,3,,obl,obl'>
+17	paxArWAlu	NN	<fs af='paxArWaM,n,any,pl,3,,0,0'>|<fs af='paxArWaM,n,any,pl,3,,vu_agr,vu_agr'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

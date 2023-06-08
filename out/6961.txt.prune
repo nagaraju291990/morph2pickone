@@ -1,0 +1,17 @@
+<Sentence id="6961">
+0	((	SSF	
+1	*	SYM	<fs af='*,punc,,,,,,'>
+2	pErunu	NN	<fs af='pEru,n,any,sg,3,,ni,ni'>|<fs af='pEru,n,any,sg,3,,ni_agr,ni_agr'>
+3	batti	VM	<fs af='battu,v,any,any,any,,i,i'>
+4	nawrajani	NNP	<fs af='nawrajani,n,any,sg,3,,0,0'>|<fs af='nawrajani,n,any,sg,3,,obl,obl'>
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	BAsvaraM	NNP	<fs af='BAsvaraM,n,any,sg,3,,0,0'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	poVtAR	NNP	<fs af='poVtAR,n,any,sg,3,,0,0'>|<fs af='poVtAR,n,any,sg,3,,obl,obl'>
+9	eVruvulu	NN	<fs af='eVruvu,n,any,pl,3,,0,0'>|<fs af='eVruvu,n,any,pl,3,,vu_agr,vu_agr'>
+10	sUciMcina	VM	<fs af='sUciMcu,v,any,any,any,,ina,ina'>
+11	mowAxulo	NN	<fs af='mowAxu,n,any,sg,3,,lo,lo'>|<fs af='mowAxu,n,any,pl,3,,0,0_o'>
+12	vAdAli	VM	<fs af='vAdu,v,any,any,any,,Ali,Ali'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

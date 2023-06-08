@@ -1,0 +1,12 @@
+<Sentence id="4903">
+0	((	SSF
+1	krimulu	NN	<fs af='krimi,n,any,pl,3,,0,0'>
+2	,	SYM	<fs af=',,punc,,,,,, '>
+3	purugulu	NN	<fs af='purugu,n,any,pl,3,,0,0'>|<fs af='purugu,n,any,pl,3,,vu_agr,vu_agr'>
+4	vAti	PRP	<fs af='axi,pn,fn,pl,3,,obl,obl'>
+5	ArogyAniki	NN	<fs af='ArogyaM,n,any,sg,3,,ki,ki'>
+6	ceVrupu	NN	<fs af='ceVrupu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='ceVrupu,n,any,sg,3,,0,0'>|<fs af='ceVrupu,n,any,sg,3,,obl,obl'>
+7	ceswAyi	VM	<fs af='ceVyyi,v,n,pl,3,,wA,wA'>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

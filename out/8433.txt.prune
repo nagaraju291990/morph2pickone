@@ -1,0 +1,11 @@
+<Sentence id="8433">
+0	((	SSF	
+1	vijayanagara	NNP	<fs af='vijayanagara,n,any,sg,3,,0,0'>|<fs af='vijayanagara,n,any,sg,3,,obl,obl'>|<fs af='vijayanagaraM,n,any,sg,3,,obl,obl'>
+2	rAjula	NN	<fs af='rAju,n,,pl,,,obl,obl'>|<fs af='rAj,n,,pl,,,obl,obl'>
+2	kAlaMlo	NN	<fs af='kAlaM,n,,sg,,,lo,lo'>
+3	nirmiMcina	VM	<fs af='nirmiMcu,v,any,any,any,,ina,ina'>
+4	ceVruvu	NN	<fs af='ceVruvu,n,any,sg,3,,0,0'>|<fs af='ceVruvu,n,any,sg,3,,obl,obl'>
+5	prasixXamEnaxi	NN	<fs af='prasixXa,adj,any,any,any,,xEnaxi_na_adj,xEnaxi_na_adj' poslcat="NM">
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,9 @@
+<Sentence id="1522">
+0	((	SSF
+1	warvAwa	NST	<fs af='warvAwa,avy,,,,,, '>
+2	ilAMtivi	NN	<fs af='ilAMti,adj,,pl,,,xi,xi_0' deri_cat='pn'>
+2	emI	NN	<fs af='emI,avy,,,,,, '>
+3	levu	VM	<fs af='gala,v,any,sg,2,,a,a'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

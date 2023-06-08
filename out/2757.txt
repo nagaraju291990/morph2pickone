@@ -1,0 +1,10 @@
+<Sentence id="2757">
+0	((	SSF
+1	mUru	NN	<fs af='mUr,n,,sg,,,0,0'>|<fs af='mUr,n,,sg,,,obl,obl'>
+1	eVdu	NN	<fs af='eVdu,n,,sg,,,0,0'>|<fs af='eVdu,n,,sg,,,0,0'>|<fs af='eVdu,n,,sg,,,obl,obl'>|<fs af='eVdu,n,,sg,,,obl,obl'>|<fs af='eVd,n,,sg,,,0,0'>|<fs af='eVd,n,,sg,,,obl,obl'>
+2	lowu	NN	<fs af='lowu,adj,any,any,any,,0_adj,0_adj'>|<fs af='lowu,n,any,sg,3,,0,0'>|<fs af='lowu,n,any,sg,3,,obl,obl'>
+3	guMwa	NN	<fs af='guMwa,n,any,sg,3,,0,0'>|<fs af='guMwa,n,any,sg,3,,obl,obl'>
+4	wISAdu	VM	<fs af='wiyyi,v,m,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

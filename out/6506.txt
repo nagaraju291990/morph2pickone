@@ -1,0 +1,18 @@
+<Sentence id="6506">
+0	((	SSF
+1	alA	RB	<fs af='alA,avy,,,,,, '>
+2	ceyakapowe	VM	<fs af='ceVyyi,v,any,any,any,,akapowe,akapowe'>|<fs af='ceyakapo,v,any,any,any,,we,we'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	eVmuka	NN	<fs af='eVmuka,n,any,sg,3,,0,0'>|<fs af='eVmuka,n,any,sg,3,,obl,obl'>
+5	e	WQ	<fs af='e,avy,,,,,, '>|<fs af='e,adj,any,any,any,,0_adj,0_adj'>
+6	viXaMgA	RB	<fs af='viXaM,n,any,sg,3,,gA,gA'>|<fs af='viXaMga,n,any,sg,3,,0,0_A'>|<fs af='viXaMga,n,any,sg,3,,0,0_V'>
+7	poyiMxo	VM	<fs af='po,v,fn,sg,3,,A,A_o'>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	A	DEM	<fs af='A,avy,,,,,, '>
+10	cotu	NN	<fs af='cotu,n,any,sg,3,,0,0'>|<fs af='cotu,n,any,sg,3,,obl,obl'>
+11	nuMce	NN	<fs af='nuMce,avy,,,,,0,0_avy'>|<fs af='nuMci,avy,,,,,e,e_avy'>
+12	awuku	VM	<fs af='awuku,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='awuku,n,any,sg,3,,0,0'>|<fs af='awuku,n,any,sg,3,,obl,obl'>
+12	powuMxi	VM	<fs af='po,v,fn,sg,3,,wA,wA'>|<fs af='powuMdu,v,fn,sg,3,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

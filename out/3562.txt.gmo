@@ -1,0 +1,17 @@
+<Sentence id="3562">			
+0	((	SSF	
+1	vaNukuwunna	VM	<fs af='vaNuku,v,any,any,any,,wunna,wunna'>|<fs af='vaNuku,v,any,any,any,,wunna_vAdu,wunna_vAdu'>
+2	cewulawo	NN	<fs af='ceyi,n,any,pl,3,,wo,wo'>|<fs af='cewu,n,any,pl,3,,wo,wo'>
+3	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+4	maMxu	NN	<fs af='maMxu,n,any,sg,3,,0,0'>|<fs af='maMxu,n,any,sg,3,,obl,obl'>
+5	koVMceVM	QF	<fs af='koVMceVM,n,any,sg,3,,0,0'>|<fs af='koVMceVM,n,any,sg,3,,obl,obl'>
+6	gaddaM	NN	<fs af='gaddaM,n,any,sg,3,,0,0'>
+7	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+8	oVlaka	VM	<fs af='oVluku,v,any,any,any,,an,an'>
+8	posukuni	VM	<fs af='posukuni,unk,,,,,,' poslcat="NM">
+9	migawAxi	NN	<fs af='migawA,n,any,sg,3,,xi,xi'>
+10	goVMwulo	NN	<fs af='goVMwu,n,any,sg,3,,lo,lo'>|<fs af='goVMwu,n,any,pl,3,,0,0_o'>
+11	posukunnAdu	VM	<fs af='poVyyi,v,m,sg,3,,koVn_A,koVn_A'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

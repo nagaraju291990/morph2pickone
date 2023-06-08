@@ -1,0 +1,16 @@
+<Sentence id="6949">			
+0	((	SSF	
+1	eVruvula	NN	<fs af='eVruvu,n,any,pl,3,,obl,obl'>
+2	PaliwaM	NN	<fs af='PaliwaM,n,any,sg,3,,0,0'>
+3	poVMxAlaMte	VM	<fs af='poVMxu,v,any,any,any,,Ali_aMte,Ali_aMte'>
+4	:	SYM	<fs af=':,punc,,,,,,'>
+5	rasAyanika	NN	<fs af='rasAyanikaM,n,any,sg,3,,obl,obl'>
+6	eVruvulu	NN	<fs af='eVruvu,n,any,pl,3,,0,0'>
+7	eVkkuva	NN	<fs af='eVkkuva,adj,any,any,any,,0_adj,0_adj'>
+8	vAdiwe	VM	<fs af='vAdu,v,any,any,any,,we,we'>
+9	nela	NN	<fs af='nela,n,any,sg,3,,0,0'>
+10	panikirAkuMdA	VM	<fs af='panikivaccu,v,any,any,any,,akuMdA,akuMdA'>
+11	powuMxi	VAUX	<fs af='po,v,fn,sg,3,,wA,wA'>'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

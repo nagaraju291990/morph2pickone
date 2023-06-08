@@ -1,0 +1,9 @@
+<Sentence id="2092">			
+0	((	SSF	
+1	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+2	praSniMce	VM	<fs af='praSniMcu,v,any,any,any,,e,e'>|<fs af='praSniMcu,v,any,any,any,,i,i_e'>
+3	guNaM	NN	<fs af='guNaM,n,any,sg,3,,0,0'>
+4	rAvAli	VM	<fs af='vaccu,v,any,any,any,,Ali,Ali'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

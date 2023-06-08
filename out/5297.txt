@@ -1,0 +1,9 @@
+<Sentence id="5297">
+0	((	SSF
+1	cilakaku	VM	<fs af='ciluku,v,any,sg,2,,aku,aku'>|<fs af='ciluku,v,m,sg,3,,a,a'>|<fs af='cilaka,n,any,sg,3,,ki,ki'>
+2	rojU	NN	<fs af='roju,n,any,sg,3,,0,0_V'>
+3	paMdlu	NN	<fs af='paMdu,n,any,pl,3,,0,0'>|<fs af='paMdu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pannu,n,any,pl,3,,0,0'>|<fs af='pannu,n,any,pl,3,,vu_agr,vu_agr'>
+4	peVttevAru	VM	<fs af='peVttu,v,any,any,any,,e_vAru,e_vAru'>|<fs af='peVttevAru,pn,mf,pl,3,,0,0'>|<fs af='peVttevAru,pn,mf,pl,3,,vu,vu'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

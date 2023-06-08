@@ -1,0 +1,17 @@
+<Sentence id="7044">
+0	((	SSF	
+1	aMxari	PRP	<fs af='aMxaru,pn,mf,pl,3,,obl,obl'>
+2	mAta	NN	<fs af='mAta,n,any,sg,3,,0,0'>|<fs af='mAta,n,any,sg,3,,obl,obl'>
+3	viMte	VM	<fs af='vinu,v,any,any,any,,we,we'>
+4	maMci	NN	<fs af='maMci,adj,,,,,0,0_adj' poslcat="NM">
+4	kaMte	VM	<fs af='kanu,v,any,any,any,,we,we'>
+5	ceVde	NN	<fs af='ceVdu,v,any,any,any,,e,e' poslcat="NM">|<fs af='ceVdu,v,any,any,any,,i,i_e' poslcat="NM">
+6	eVkkuva	NN	<fs af='eVkkuva,adj,any,any,any,,0_adj,0_adj' poslcat="NM">
+7	aMxuke	CC	<fs af='aMxuke,avy,,,,,,'>
+8	maname	PRP	<fs af='manaM,pn,any,pl,1,,0,0_e'>
+9	AlociMcukoni	VM	<fs af='AlociMcukonu,v,any,any,any,,i,i'>
+10	pani	NN	<fs af='pani,n,any,sg,3,,0,0'>|<fs af='pani,n,any,sg,3,,obl,obl'>
+11	ceyAli	VM	<fs af='ceVyyi,v,any,any,any,,Ali,Ali'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

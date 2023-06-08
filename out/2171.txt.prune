@@ -1,0 +1,11 @@
+<Sentence id="2171">
+0	((	SSF	
+1	munaga	NN	<fs af='munaga,n,any,sg,3,,0,0'>|<fs af='munaga,n,any,sg,3,,obl,obl'>
+2	cese	VM	<fs af='ceVyyi,v,any,any,any,,e,e'>|<fs af='ceVyyi,v,any,any,any,,i,i_e'>
+3	melu	NN	<fs af='me,n,any,pl,3,,0,0'>|<fs af='me,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='melu,n,any,sg,3,,0,0'>|<fs af='menu,n,any,pl,3,,0,0'>|<fs af='menu,n,any,pl,3,,vu_agr,vu_agr'>
+4	manalo	PRP	<fs af='manaM,pn,any,pl,1,,lo,lo'>
+5	cAlAmaMxiki	CL	<fs af='cAlAmaMxi,n,any,sg,3,,ki,ki' poslcat="NM">
+6	weVliyaxu	VM	<fs af='weVliyu,v,fn,sg,3,,a,a'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

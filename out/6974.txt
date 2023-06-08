@@ -1,0 +1,18 @@
+<Sentence id="6974">
+0	((	SSF
+1	*	SYM	<fs af='*,punc,,,,,, '>
+2	kaMxi	NNP	<fs af='kanu,v,fn,sg,3,,A,A'>|<fs af='kaMxu,v,any,any,any,,i,i'>|<fs af='kaMxi,n,any,sg,3,,0,0'>|<fs af='kaMxi,n,any,sg,3,,obl,obl'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	peVsara	NNP	<fs af='peVsara,n,any,sg,3,,0,0'>|<fs af='peVsara,n,any,sg,3,,obl,obl'>
+5	lAMti	JJ	<fs af='lAMti,avy,,,,,, '>|<fs af='lAMti,adj,any,any,any,,0_adj,0_adj'>
+6	apara	JJ	<fs af='aparaM,n,any,sg,3,,obl,obl'>
+7	paMtalaku	NN	<fs af='paMta,n,any,pl,3,,ki,ki'>
+8	rEjobiyaM	NNP	<fs af='rEjobiyaM,n,any,sg,3,,0,0'>
+9	lAMti	JJ	<fs af='lAMti,avy,,,,,, '>|<fs af='lAMti,adj,any,any,any,,0_adj,0_adj'>
+10	jIvana	NN	<fs af='jIvanaM,n,any,sg,3,,obl,obl'>
+11	eVruvulu	NN	<fs af='eVruvu,n,any,pl,3,,0,0'>|<fs af='eVruvu,n,any,pl,3,,vu_agr,vu_agr'>
+12	vAdataM	VM	<fs af='vAdu,v,any,any,any,,adaM,adaM'>|<fs af='vAdataM,n,any,sg,3,,0,0'>
+13	maMcixi	NN	<fs af='maMci,adj,any,any,any,,xi_adj,xi_adj'>
+14	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,15 @@
+<Sentence id="2162">
+0	((	SSF
+1	mala	NN	<fs af='mala,n,any,sg,3,,0,0'>|<fs af='mala,n,any,sg,3,,obl,obl'>|<fs af='malaM,n,any,sg,3,,obl,obl'>
+2	baxxakAniki	NN	<fs af='baxxakaM,n,any,sg,3,,ki,ki'>
+3	boVppAyi	NN	<fs af='boVppAyi,n,any,sg,3,,0,0'>|<fs af='boVppAyi,n,any,sg,3,,obl,obl'>
+4	pAlu	NN	<fs af='paM,n,any,pl,3,,0,0'>|<fs af='paM,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAlu,n,any,sg,3,,0,0'>|<fs af='pAlu,n,any,sg,3,,0,0_A'>|<fs af='pAlu,n,any,sg,3,,obl,obl'>|<fs af='pAlu,n,any,sg,3,,vu_agr,vu_agr'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	nIlYlu	NN	<fs af='nIru,n,any,pl,3,,0,0'>|<fs af='nIru,n,any,pl,3,,vu_agr,vu_agr'>
+7	,	SYM	<fs af=',,punc,,,,,, '>
+8	weneV	NN	<fs af='weneV,n,any,sg,3,,0,0'>|<fs af='weneV,n,any,sg,3,,obl,obl'>
+9	kalipi	VM	<fs af='kalupu,v,any,any,any,,i,i'>
+10	wAgaMdi	VM	<fs af='wAgu,v,any,pl,2,,AjFArWa,AjFArWa'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

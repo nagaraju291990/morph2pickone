@@ -1,0 +1,8 @@
+<Sentence id="1292">
+0	((	SSF
+1	raMgamma	NNP	<fs af='raMgamma,n,any,sg,3,,0,0'>|<fs af='raMgamma,n,any,sg,3,,obl,obl'>
+2	pApavepu	NN	<fs af='pApa,n,any,sg,3,,vEpu,vEpu'>
+3	wirigiMxi	VM	<fs af='wirugu,v,fn,sg,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

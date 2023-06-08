@@ -1,0 +1,10 @@
+<Sentence id="4500">
+0	((	SSF
+1	kanipiMcina	VM	<fs af='kanipiMcu,v,any,any,any,,ina,ina'>
+2	prawi	JJ	<fs af='prawi,adj,any,any,any,,0_adj,0_adj'>|<fs af='prawi,n,any,sg,3,,0,0'>|<fs af='prawi,n,any,sg,3,,obl,obl'>
+3	snehiwudini	NN	<fs af='snehiwudu,n,any,sg,3,,ni,ni'>|<fs af='snehiwudu,n,any,sg,3,,ni_agr,ni_agr'>
+4	appu	NN	<fs af='appu,n,any,sg,3,,0,0'>|<fs af='appu,n,any,sg,3,,obl,obl'>
+5	adigAdu	VM	<fs af='adugu,v,m,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

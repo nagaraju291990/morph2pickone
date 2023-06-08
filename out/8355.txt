@@ -1,0 +1,12 @@
+<Sentence id="8355">
+0	((	SSF
+1	mAcarla	NNP	<fs af='mAcarla,n,any,sg,3,,0,0'>|<fs af='mAcarla,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,, '>
+3	caMxravaMka	NNP	<fs af='caMxravaMka,n,any,sg,3,,0,0'>|<fs af='caMxravaMka,n,any,sg,3,,obl,obl'>
+4	naxI	NN	<fs af='naxi,n,any,sg,3,,0,0_V'>
+5	wIrAna	NN	<fs af='wIraM,n,any,sg,3,,na,na'>
+6	gala	RP	<fs af='gala,v,any,any,any,,ina,ina'>|<fs af='gala,adj,any,any,any,,0_adj,0_adj'>
+7	kRewramu	NN	<fs af='kRewraM,n,any,sg,3,,0,0'>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

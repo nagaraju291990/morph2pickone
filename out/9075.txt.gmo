@@ -1,0 +1,19 @@
+<Sentence id="9075">			
+0	((	SSF	
+1	SAswra	NN	<fs af='SAswraM,n,any,sg,3,,obl,obl'>
+2	viRayikaM	JJ	<fs af='viRayikaM,n,any,sg,3,,0,0' poslcat="NM">
+2	Ena	JJ	<fs af='Ena,adj,any,any,any,,0_adj,0_adj'>
+3	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+4	yaXArXaM	NN	<fs af='yaXArXaM,n,any,sg,3,,0,0'>
+5	weVlusukone	VM	<fs af='weVlusukonu,v,any,any,any,,e,e'>|<fs af='weVlusukonu,v,any,any,any,,i,i_e'>
+5	eVMxuku	VM	<fs af='eVMxuku,avy,,,,,,' poslcat="NM">
+6	jFAnaM	NN	<fs af='jFAnaM,n,any,sg,3,,0,0'>
+7	kala	RP	<fs af='kala,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='kala,n,any,sg,3,,obl,obl' poslcat="NM">'>
+8	sarva	NN	<fs af='sarvaM,n,any,sg,3,,obl,obl'>
+9	jaMwuvulu	NN	<fs af='jaMwuvu,n,any,pl,3,,0,0'>
+10	pAtu	NN	<fs af='pAtu,n,any,sg,3,,0,0'>|<fs af='pAtu,n,any,sg,3,,obl,obl'>
+11	padavalasiMxi	VM	<fs af='padavalayu,v,fn,sg,3,,A,A'>
+12	kaxA	RP	<fs af='kaxA,avy,,,,,,'>
+13	?	SYM	<fs af='?,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

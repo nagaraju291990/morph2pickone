@@ -1,0 +1,16 @@
+<Sentence id="5457">
+0	((	SSF	
+1	iMti	NN	<fs af='illu,n,any,sg,3,,obl,obl'>
+2	illAliki	NN	<fs af='illAlu,n,any,sg,3,,ki,ki'>
+3	citti	JJ	<fs af='citti,adj,any,any,any,,0_adj,0_adj'>
+4	kAnuka	NN	<fs af='kAnuka,n,any,sg,3,,0,0'>|<fs af='kAnuka,n,any,sg,3,,obl,obl'>
+5	veVMkanna	NNP	<fs af='veVMkanna,n,any,sg,3,,0,0'>|<fs af='veVMkanna,n,any,sg,3,,obl,obl'>
+6	rawwamma	NNP	<fs af='rawwamma,n,any,sg,3,,0,0'>|<fs af='rawwamma,n,any,sg,3,,obl,obl'>
+7	ixxaru	NN	<fs af='ixxaru,pn,mf,pl,3,,0,0' poslcat="NM">|<fs af='ixxaru,pn,mf,pl,3,,vu,vu' poslcat="NM">|<fs af='reVMdu,num,any,any,any,,ru,ru' poslcat="NM">
+8	Alumagalu	NN	<fs af='Alumaga,n,any,pl,3,,0,0'>|<fs af='Alumaga,n,any,pl,3,,vu_agr,vu_agr'>
+9	vAlYlaxi	NN	<fs af='vAlYlu,pn,mf,pl,3,,xi,xi' poslcat="NM">
+10	peVxxa	JJ	<fs af='peVxxa,adj,any,any,any,,0_adj,0_adj'>
+11	saMsAraM	NN	<fs af='saMsAraM,n,any,sg,3,,0,0'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

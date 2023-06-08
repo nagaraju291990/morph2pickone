@@ -1,0 +1,8 @@
+<Sentence id="7070">
+0	((	SSF	
+1	dAktarlu	NN	<fs af='dAktar,n,any,pl,3,,0,0'>|<fs af='dAktar,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='dAktaru,n,any,pl,3,,0,0'>|<fs af='dAktaru,n,any,pl,3,,vu_agr,vu_agr'>
+2	aMxubAtulo	NN	<fs af='aMxubAtu,n,any,sg,3,,lo,lo'>|<fs af='aMxubAtu,n,any,pl,3,,0,0_o'>
+3	uMtunnAru	VM	<fs af='uMdu,v,any,pl,2,,wunn,wunn'>|<fs af='uMdu,v,mf,pl,3,,wunn,wunn'>|<fs af='uMtuMdu,v,any,pl,2,,A,A'>|<fs af='uMtuMdu,v,mf,pl,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

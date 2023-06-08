@@ -1,0 +1,9 @@
+<Sentence id="6834">
+0	((	SSF	
+1	*	SYM	<fs af='*,punc,,,,,,'>
+2	myuriyet	NNP	<fs af='myuriyet,n,any,sg,3,,0,0'>|<fs af='myuriyet,n,any,sg,3,,obl,obl'>
+3	AP	NN	<fs af='AP,n,any,sg,3,,0,0'>|<fs af='AP,n,any,sg,3,,obl,obl'>
+4	poVtAR	NNP	<fs af='poVtAR,n,any,sg,3,,0,0'>|<fs af='poVtAR,n,any,sg,3,,obl,obl'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

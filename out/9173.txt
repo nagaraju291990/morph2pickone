@@ -1,0 +1,14 @@
+<Sentence id="9173">
+0	((	SSF
+1	kloroPAraM	NN	<fs af='kloroPAraM,n,any,sg,3,,0,0'>
+2	iccina	VM	<fs af='ivvu,v,any,any,any,,ina,ina'>
+3	waruvAwa	PSP	<fs af='waruvAwa,avy,,,,,, '>
+4	paSu	NN	<fs af='paSuvu,n,any,sg,3,,obl,obl'>|<fs af='paSuvu,n,any,sg,3,,I,I'>
+5	SAswravewwa	NN	<fs af='SAswravewwa,n,any,sg,3,,0,0'>|<fs af='SAswravewwa,n,any,sg,3,,obl,obl'>
+6	wala	NN	<fs af='wala,n,any,sg,3,,0,0'>|<fs af='wala,n,any,sg,3,,obl,obl'>|<fs af='walaM,n,any,sg,3,,obl,obl'>
+7	weVraci	VM	<fs af='weVracu,v,any,any,any,,i,i'>
+8	meVxadu	NN	<fs af='meVxadu,n,any,sg,3,,0,0'>|<fs af='meVxadu,n,any,sg,3,,obl,obl'>
+9	parIkRiMcukuMtAdu	VM	<fs af='parIkRiMcu,v,m,sg,3,,koVn_wA,koVn_wA'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

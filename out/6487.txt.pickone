@@ -1,0 +1,13 @@
+<Sentence id="6487">			
+0	((	SSF	
+1	BojanaM	NN	<fs af='BojanaM,n,any,sg,3,,0,0'>
+2	,	SYM	<fs af=',,punc,,,,,,'>
+3	mala	NN	<fs af='mala,n,any,sg,3,,0,0'>
+4	mUwrAlu	NN	<fs af='mUwraM,n,,pl,,,0,0'>
+4	annI	PRP	<fs af='anni,pn,,pl,,,0_V,0_V'>
+5	pakkalone	NN	<fs af='pakka,adv,any,any,any,,lo_e_adv,lo_e_adv'>
+6	ceyAlsi	VM	<fs af='ceVyyi,v,any,any,any,,Alasi,Alasi'>
+7	vacciMxi	VAUX	<fs af='vaccu,v,fn,sg,3,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

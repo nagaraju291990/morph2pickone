@@ -1,0 +1,11 @@
+<Sentence id="8944">
+0	((	SSF
+1	gurrapu	NN	<fs af='gurraM,n,any,sg,3,,obl,obl'>
+2	maniRi	NN	<fs af='maniRi,n,any,sg,3,,0,0'>|<fs af='maniRi,n,any,sg,3,,obl,obl'>
+3	vAlYla	PRP	<fs af='vAlYlu,pn,mf,pl,3,,obl,obl'>
+4	vaMka	PSP	<fs af='vaMka,n,any,sg,3,,0,0'>|<fs af='vaMka,n,any,sg,3,,obl,obl'>
+5	AScaryapoyi	VM	<fs af='AScaryapo,v,any,any,any,,i,i'>
+6	cUsAdu	VM	<fs af='cUdu,v,m,sg,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

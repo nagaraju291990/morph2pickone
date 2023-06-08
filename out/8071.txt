@@ -1,0 +1,11 @@
+<Sentence id="8071">
+0	((	SSF
+1	epril	NNP	<fs af='epril,n,any,sg,3,,0,0'>|<fs af='epril,n,any,sg,3,,obl,obl'>
+2	_	SYM
+3	me	NNP	<fs af='me,n,any,sg,3,,0,0'>|<fs af='me,n,any,sg,3,,obl,obl'>
+4	mAsAlu	NN	<fs af='mAsaM,n,any,pl,3,,0,0'>|<fs af='mAsaM,n,any,pl,3,,vu_agr,vu_agr'>
+5	moVxati	NST	<fs af='moVxata,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+6	kAlaM	NN	<fs af='kAlu,v,any,pl,1,,a,a'>|<fs af='kAlaM,n,any,sg,3,,0,0'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,17 @@
+<Sentence id="6491">
+0	((	SSF	
+1	awadi	PRP	<fs af='awadu,pn,,sg,,,obl,obl'>
+2	ceVyyi	NN	<fs af='ceVyyi,n,any,sg,3,,0,0'>
+3	iMkA	INTF	<fs af='iMkA,avy,,,,,,'>
+4	vaMkara	NN	<fs af='vaMkara,n,,sg,,,0,0'>|<fs af='vaMkara,n,,sg,,,obl,obl'>
+4	gAne	NN	<fs af='gAne,avy,,,,,,' poslcat="NM">|<fs af='gAne,avy,,,,,,' poslcat="NM">
+5	uMdipoyi	VM	<fs af='uMdipo,v,any,any,any,,i,i'>
+6	katteV	RB	<fs af='kattu,v,any,sg,3,,iwi,iwi' poslcat="NM">|<fs af='kattu,v,n,pl,3,,iwi,iwi' poslcat="NM">|<fs af='katteV,n,any,sg,3,,0,0' poslcat="NM">|<fs af='katteV,n,any,sg,3,,obl,obl' poslcat="NM">
+6	pullalAgA	RB	<fs af='pulla,n,any,sg,3,,lA,lA' poslcat="NM">
+7	gatti	VM	<fs af='gatti,adj,any,any,any,,0_adj,0_adj' poslcat="NM">
+7	badi	VM	<fs af='badu,v,any,any,any,,i,i'>
+8	vaMgatame	VM	<fs af='vaMgataM,n,any,sg,3,,0,0_e' poslcat="NM">
+9	lexu	VAUX	<fs af='gala,v,fn,sg,3,,a,a' poslcat="NM">|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu' poslcat="NM">
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

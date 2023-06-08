@@ -1,0 +1,11 @@
+<Sentence id="705">
+0	((	SSF
+1	callina	VM	<fs af='callu,v,any,any,any,,ina,ina'>
+2	5	QC	<fs af='5,num,,,,,, '>|<fs af='va,avy,,,,,, '>
+3	leka	CC	<fs af='gala,v,any,any,any,,aka,aka'>
+4	6	QC	<fs af='6,num,,,,,, '>
+5	rojulalo	NN	<fs af='roju,n,any,pl,3,,lo,lo'>
+6	moVlakeVwwuwAyi	VM	<fs af='moVlakeVwwu,v,n,pl,3,,wA,wA'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

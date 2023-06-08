@@ -1,0 +1,13 @@
+<Sentence id="3055">			
+0	((	SSF	
+1	cerukuMtUne	VM	<fs af='ceruko,v,any,any,any,,wU_e,wU_e'>
+2	muMxugA	NN	<fs af='muMxu,n,,sg,,,gA,gA'>
+3	vrAyadaM	VM	<fs af='vrAyi,v,any,any,any,,adaM,adaM'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	vrAyiMcadaM	VM	<fs af='vrAyiMcu,v,any,any,any,,adaM,adaM'>
+6	vaMti	JJ	<fs af='vaMti,adj,any,any,any,,0_adj,0_adj'>
+7	panulu	NN	<fs af='pani,n,any,pl,3,,0,0'>|<fs af='pani,n,any,pl,3,,vu_agr,vu_agr'>
+8	pUrwicesevAru	VM	<fs af='pUrwiceVyyi,v,any,any,any,,e_vAru,e_vAru'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,14 @@
+<Sentence id="1113">
+0	((	SSF	
+1	iMtiki	NN	<fs af='illu,n,any,sg,3,,ki,ki'>
+2	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+3	rUpAyalu	NN	<fs af='rUpAya,n,any,pl,3,,0,0'>|<fs af='rUpAya,n,any,pl,3,,vu_agr,vu_agr'>
+4	wIsuku	NN	<fs af='wIsuko,v,,sg,2,,AjFArWa,AjFArWa' poslcat="NM">|<fs af='wIsuko,v,,sg,2,,AjFArWa,AjFArWa' poslcat="NM">|<fs af='wIsuko,v,any,any,any,,an_u,an_u' poslcat="NM">|<fs af='wIsuko,v,any,any,any,,an_u,an_u' poslcat="NM">|<fs af='wiyyi,v,any,any,any,,koVn_u,koVn_u' poslcat="NM">
+5	veVlYawAnu	VAUX	<fs af='veVlYlu,v,any,sg,1,,wA,wA' poslcat="NM">
+6	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+7	yAxagiriki	NNP	<fs af='yAxagiri,n,any,sg,3,,ki,ki'>
+8	saMbaraM	NN	<fs af='saMbaraM,n,any,sg,3,,0,0'>
+9	ayiMxi	VM	<fs af='avvu,v,fn,sg,3,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,10 @@
+<Sentence id="7531">
+0	((	SSF
+1	hari	NNP	<fs af='hari,n,any,sg,3,,0,0'>|<fs af='hari,n,any,sg,3,,obl,obl'>
+2	panulu	NN	<fs af='pani,n,any,pl,3,,0,0'>|<fs af='pani,n,any,pl,3,,vu_agr,vu_agr'>
+3	ilA	RB	<fs af='ilA,avy,,,,,, '>|<fs af='ila,n,any,sg,3,,0,0_A'>|<fs af='ila,n,any,sg,3,,0,0_V'>
+4	viciwraMgA	RB	<fs af='viciwraM,n,any,sg,3,,gA,gA'>
+5	uMdevi	VM	<fs af='uMdexi,pn,any,pl,3,,0,0'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

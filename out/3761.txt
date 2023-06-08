@@ -1,0 +1,16 @@
+<Sentence id="3761">
+0	((	SSF
+1	xiSa	NN	<fs af='xiSa,n,any,sg,3,,0,0'>|<fs af='xiSa,n,any,sg,3,,obl,obl'>
+2	_	SYM
+3	mExAnaM	NN	<fs af='mExAnaM,n,any,sg,3,,0,0'>
+4	powu	VM	<fs af='powu,n,any,sg,3,,0,0'>|<fs af='powu,n,any,sg,3,,obl,obl'>
+4	uMdagA	VM	<fs af='uMdu,v,any,any,any,,a_gA,a_gA'>|<fs af='uMda,n,any,sg,3,,gA,gA'>
+5	grAmaM	NN	<fs af='grAmaM,n,any,sg,3,,0,0'>
+6	veVlupala	NN	<fs af='veVlupala,adv,,,,,0,0_adv'>|<fs af='veVlupala,n,,sg,,,0,0'>|<fs af='veVlupala,n,,sg,,,obl,obl'>
+7	paMdina	VM	<fs af='paMdu,v,any,any,any,,ina,ina'>|<fs af='paMdina,adj,any,any,any,,0_adj,0_adj'>
+8	mirapa	NN	<fs af='mirapa,n,any,sg,3,,0,0'>|<fs af='mirapa,n,any,sg,3,,obl,obl'>
+9	wota	NN	<fs af='wota,n,any,sg,3,,0,0'>|<fs af='wota,n,any,sg,3,,obl,obl'>
+10	kanipiMciMxi	VM	<fs af='kanipiMcu,v,fn,sg,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

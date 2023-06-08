@@ -1,0 +1,20 @@
+<Sentence id="1400">			
+0	((	SSF	
+1	varRaM	NN	<fs af='varRaM,n,any,sg,3,,0,0'>
+2	waggipoye	VM	<fs af='waggipo,v,any,any,any,,e,e'>
+3	sUcana	NN	<fs af='sUcana,n,any,sg,3,,0,0'>
+4	unnaxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+4	anukunnappudu	VM	<fs af='anuko,v,any,any,any,,wunna_appudu,wunna_appudu'>
+5	wirigi	VM	<fs af='wirugu,v,any,any,any,,i,i'>
+6	varRaM	NN	<fs af='varRaM,n,any,sg,3,,0,0'>
+7	prAraMBamEna	VM	<fs af='prAraMBamavvu,v,any,any,any,,ina,ina'>
+8	veVMtane	NST	<fs af='veVMtane,avy,,,,,,'>
+9	reVMdava	NN	<fs af='reVMdava,adj,,,,,0,0_adj'>'>
+9	sAri	NN	<fs af='sAri,n,,sg,,,0,0'>
+10	veyA	VM	<fs af='veVyyi,n,any,sg,3,,0,0_A'>
+10	valasina	VM	<fs af='valayu,v,any,any,any,,ina,ina'>
+11	eVruvu	NN	<fs af='eVruvu,n,any,sg,3,,0,0'>
+12	veVyyAli	VM	<fs af='veVyyi,v,any,any,any,,Ali,Ali'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

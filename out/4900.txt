@@ -1,0 +1,20 @@
+<Sentence id="4900">
+0	((	SSF
+1	rogAlu	NN	<fs af='rogaM,n,any,pl,3,,0,0'>|<fs af='rogaM,n,any,pl,3,,vu_agr,vu_agr'>
+2	_	SYM
+3	_	SYM
+4	_	SYM
+5	_	SYM
+6	_	SYM
+7	_	SYM
+8	_	SYM
+9	rogAlu	NN	<fs af='rogaM,n,any,pl,3,,0,0'>|<fs af='rogaM,n,any,pl,3,,vu_agr,vu_agr'>
+10	kanabadiwe	VM	<fs af='kanabadu,v,any,any,any,,we,we'>
+11	A	DEM	<fs af='A,avy,,,,,, '>
+12	cepalani	NN	<fs af='cepa,n,any,pl,3,,ni,ni'>
+13	veVMtaveVMtane	NST	<fs af='veVMtaveVMtane,avy,,,,,, '>
+14	wIsiveswU	VM	<fs af='wIsiveVyyi,v,any,any,any,,wU,wU'>
+15	uMdAli	VAUX	<fs af='uMdu,v,any,any,any,,Ali,Ali'>
+16	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

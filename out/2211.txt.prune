@@ -1,0 +1,10 @@
+<Sentence id="2211">
+0	((	SSF	
+1	aratiki	NN	<fs af='arati,n,any,sg,3,,ki,ki'>
+2	pacci	JJ	<fs af='pacci,adj,any,any,any,,0_adj,0_adj'>
+3	peda	NN	<fs af='peda,n,any,sg,3,,0,0'>|<fs af='peda,n,any,sg,3,,obl,obl'>
+4	maMci	JJ	<fs af='maMci,adj,any,any,any,,0_adj,0_adj'>
+5	eVruvu	NN	<fs af='eVruvu,n,any,sg,3,,0,0'>|<fs af='eVruvu,n,any,sg,3,,obl,obl'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

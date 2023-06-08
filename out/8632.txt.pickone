@@ -1,0 +1,18 @@
+<Sentence id="8632">			
+0	((	SSF	
+1	malYlI	RB	<fs af='malYlu,v,any,any,any,,i,i_V'>
+2	koVMwasepatiki	NST	<fs af='koVMwasepu,adv,any,any,any,,ku_adv,ku_adv'>
+3	jaMwuvu	NN	<fs af='jaMwuvu,n,any,sg,3,,0,0'>
+4	leci	VM	<fs af='le,v,any,any,any,,i,i'>
+5	,	SYM	<fs af=',,punc,,,,,,'>
+6	kUrcunna	VM	<fs af='kUrco,v,any,any,any,,ina,ina'>
+7	janAnni	NN	<fs af='janaM,n,any,sg,3,,ni,ni'>
+8	cUswe	VM	<fs af='cUdu,v,any,any,any,,we,we'>
+9	,	SYM	<fs af=',,punc,,,,,,'>
+10	ippatiki	NST	<fs af='ippudu,adv,any,any,any,,ku_adv,ku_adv'>
+11	koVMwa	QF	<fs af='koVMwa,pn,any,sg,3,,0,0'>
+12	AScaryaM	NN	<fs af='AScaryaM,n,any,sg,3,,0,0'>
+13	waggiMxi	VM	<fs af='waggu,v,fn,sg,3,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

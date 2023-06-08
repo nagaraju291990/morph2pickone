@@ -1,0 +1,8 @@
+<Sentence id="2432">
+0	((	SSF
+1	adigina	VM	<fs af='adugu,v,any,any,any,,ina,ina'>
+2	XanaM	NN	<fs af='XanaM,n,any,sg,3,,0,0'>
+3	iccAdu	VM	<fs af='ivvu,v,m,sg,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

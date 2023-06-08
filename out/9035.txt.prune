@@ -1,0 +1,19 @@
+<Sentence id="9035">
+0	((	SSF	
+1	BARAvewwa	NN	<fs af='BARAvewwa,n,any,sg,3,,0,0'>|<fs af='BARAvewwa,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	mIru	PRP	<fs af='mIru,pn,any,pl,2,,0,0'>
+4	cAlA	INTF	<fs af='cAlu,v,any,any,any,,i,i_A' poslcat="NM">
+5	rojulu	NN	<fs af='roju,n,any,pl,3,,0,0'>|<fs af='roju,n,any,pl,3,,vu_agr,vu_agr'>
+6	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+7	mqgaMwo	NN	<fs af='mqgaM,n,any,sg,3,,wo,wo'>
+8	(	SYM	<fs af='(,punc,,,,,,'>
+9	paMdiwulu	NN	<fs af='paMdiw,n,any,pl,3,,0,0'>|<fs af='paMdiw,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='paMdiwudu,n,any,pl,3,,0,0'>|<fs af='paMdiwudu,n,any,pl,3,,vu_agr,vu_agr'>
+10	ikkada	NST	<fs af='ikkada,adv,any,any,any,,0_adv,0_adv'>
+11	`	SYM	<'>|<poslcat="NM"'>
+12	mqgaMwo	NN	<fs af='mqgaM,n,any,sg,3,,wo,wo'>
+13	'	SYM	<fs af=',punc,,,,,,'>
+14	anavaxxu	VM	<fs af='anu,v,any,any,any,,a_vaxxu,a_vaxxu'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

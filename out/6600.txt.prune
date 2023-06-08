@@ -1,0 +1,15 @@
+<Sentence id="6600">
+0	((	SSF	
+1	eVnnosArlu	WQ	<fs af='eVnnosAri,n,any,pl,3,,0,0' poslcat="NM">|<fs af='eVnnosAri,n,any,pl,3,,ni_agr,ni_agr' poslcat="NM">
+2	ilA	RB	<fs af='ilA,avy,,,,,,' poslcat="NM">|<fs af='ila,n,any,sg,3,,0,0_A' poslcat="NM">|<fs af='ila,n,any,sg,3,,0,0_V' poslcat="NM">
+3	viswariMcina	VM	<fs af='viswariMcu,v,any,any,any,,ina,ina'>
+4	cImu	NN	<fs af='cImu,n,any,sg,3,,0,0'>|<fs af='cImu,n,any,sg,3,,vu_agr,vu_agr'>
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	mAnatAniki	VM	<fs af='mAnataM,n,any,sg,3,,ki,ki' poslcat="NM">
+7	eVnno	QF	<fs af='eVnno,avy,,,,,,'>
+8	elYlu	NN	<fs af='edu,n,any,pl,3,,0,0'>|<fs af='edu,n,any,pl,3,,vu_agr,vu_agr'>
+9	kUdA	PSP	<fs af='kUdA,avy,,,,,,' poslcat="NM">|<fs af='kUdu,v,any,any,any,,i,i_A' poslcat="NM">|<fs af='kUdu,n,any,sg,3,,0,0_A' poslcat="NM">
+10	paduwuMxi	VM	<fs af='padu,v,fn,sg,3,,wA,wA'>|<fs af='pattu,v,fn,sg,3,,wA,wA'>|<fs af='paduwuMdu,v,fn,sg,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

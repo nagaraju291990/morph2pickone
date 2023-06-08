@@ -1,0 +1,12 @@
+<Sentence id="7017">
+0	((	SSF
+1	eM	WQ	<fs af='eM,avy,,,,,, '>
+2	maniRi	NN	<fs af='maniRi,n,any,sg,3,,0,0'>|<fs af='maniRi,n,any,sg,3,,obl,obl'>
+3	!	SYM	<fs af='!,punc,,,,,, '>
+4	pasivAdu	NN	<fs af='pasi,adj,any,any,any,,vAdu_adj,vAdu_adj'>|<fs af='pasi,n,any,sg,3,,vAdu,vAdu'>|<fs af='pasivAdu,n,any,sg,3,,0,0'>
+5	ani	UT	<fs af='ani,avy,,,,,, '>|<fs af='anu,v,any,any,any,,i,i'>
+6	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+7	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

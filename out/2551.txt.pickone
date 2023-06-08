@@ -1,0 +1,14 @@
+<Sentence id="2551">			
+0	((	SSF	
+1	gOrav	NNP	<fs af='gOrav,n,any,sg,3,,0,0'>
+2	,	SYM	<fs af=',,punc,,,,,,'>
+3	jIvan	NNP	<fs af='jIvan,n,any,sg,3,,0,0'>
+4	rakAlu	NN	<fs af='rakaM,n,any,pl,3,,0,0'>
+5	nAra	NN	<fs af='nAra,n,any,sg,3,,0,0'>
+6	mariyu	CC	<fs af='mariyu,avy,,,,,,'>
+7	giMjalu	NN	<fs af='giMja,n,any,pl,3,,0,0'>
+8	icce	VM	<fs af='ivvu,v,any,any,any,,e,e'>
+9	rakAlu	NN	<fs af='rakaM,n,any,pl,3,,0,0'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

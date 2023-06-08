@@ -1,0 +1,13 @@
+<Sentence id="3292">
+0	((	SSF
+1	bassu	NN	<fs af='bassu,n,any,sg,3,,0,0'>|<fs af='bassu,n,any,sg,3,,obl,obl'>
+2	kuxipina	VM	<fs af='kuxupu,v,any,any,any,,ina,ina'>
+3	prawi	NN	<fs af='prawi,n,,sg,,,0,0'>|<fs af='prawi,n,,sg,,,obl,obl'>|<fs af='prawi,adj,,,,,0,0_adj'>
+3	sAri	NN	<fs af='sAri,n,,sg,,,0,0'>|<fs af='sAri,n,,sg,,,obl,obl'>
+4	_	SYM
+5	"	SYM	<fs af='",punc,,,,,, '>
+6	ammo	INJ	<fs af='ammu,v,any,any,any,,i,i_o'>|<fs af='ammu,n,any,sg,3,,0,0_o'>|<fs af='amma,n,any,sg,3,,0,0_o'>
+7	!	SYM	<fs af='!,punc,,,,,, '>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

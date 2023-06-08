@@ -1,0 +1,7 @@
+<Sentence id="6051">
+0	((	SSF
+1	avi	PRP	<fs af='axi,pn,fn,pl,3,,0,0'>
+2	1	QC	<fs af='1,num,,,,,, '>|<fs af='va,avy,,,,,, '>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

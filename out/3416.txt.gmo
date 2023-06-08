@@ -1,0 +1,30 @@
+<Sentence id="3416">			
+0	((	SSF	
+1	koVnaboye	VM	<fs af='koVnu,v,any,any,any,,a_po,a_po_e'>|<fs af='koVnu,v,any,any,any,,a_po_i,a_po_i_e'>
+2	gexeV	NN	<fs af='gexeV,n,,sg,,,0,0'>|<fs af='gexeV,n,,sg,,,obl,obl'>
+2	pAlu	NN	<fs af='pAlu,n,,sg,,,0,0'>|<fs af='pAlu,n,,sg,,,obl,obl'>
+3	annaku	NN	<fs af='anna,n,any,sg,3,,ki,ki'>
+4	paMpAli	VM	<fs af='paMpu,v,any,any,any,,Ali,Ali'>
+5	anagAne	VM	<fs af='anu,v,any,any,any,,a_gAne,a_gAne'>
+6	nIvu	PRP	<fs af='nIvu,pn,any,sg,2,,0,0'>
+7	mA	PRP	<fs af='memu,pn,any,pl,1,,obl,obl'>
+8	ceVlleVlini	NN	<fs af='ceVlleVlu,n,any,sg,3,,ni,ni'>
+9	koVttAvu	VM	<fs af='koVttu,v,any,sg,2,,A,A'>
+10	kaxA	RP	<fs af='kaxA,avy,,,,,,'>
+11	alAge	RB	<fs af='alAge,avy,,,,,,' poslcat="NM">
+12	nIvu	PRP	<fs af='nIvu,pn,any,sg,2,,0,0'>
+13	koVnaboye	VM	<fs af='koVnu,v,any,any,any,,a_po,a_po_e'>|<fs af='koVnu,v,any,any,any,,a_po_i,a_po_i_e'>
+14	gexeV	NN	<fs af='gexeV,n,any,sg,3,,0,0'>|<fs af='gexeV,n,any,sg,3,,obl,obl'>
+15	meM	PRP	<fs af='meM,avy,,,,,,' poslcat="NM">
+16	veyaboye	VM	<fs af='veVyyi,v,any,any,any,,a_po,a_po_e'>|<fs af='veVyyi,v,any,any,any,,a_po_i,a_po_i_e'>
+17	paMtanu	NN	<fs af='paMta,n,any,sg,3,,ni,ni'>|<fs af='paMta,n,any,sg,3,,ni_agr,ni_agr'>
+18	pAdu	NN	<fs af='pAdu,n,any,sg,3,,0,0'>|<fs af='pAdu,n,any,sg,3,,obl,obl'>
+19	cesiMxi	VM	<fs af='ceVyyi,v,fn,sg,3,,A,A'>
+20	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+21	memU	PRP	<fs af='nenu,pn,any,pl,1,,0,0_V'>
+22	ninnu	PRP	<fs af='nIvu,pn,any,sg,2,,ni,ni'>
+23	koVttAmu	VM	<fs af='koVttu,v,any,pl,1,,A,A'>
+24	annAdu	VM	<fs af='anu,v,m,sg,3,,A,A'>
+25	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,10 @@
+<Sentence id="7178">
+0	((	SSF
+1	maMcaM	NN	<fs af='maMcaM,n,any,sg,3,,0,0'>
+2	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+3	padukunna	VM	<fs af='paduko,v,any,any,any,,ina,ina'>
+4	pillavAdini	NN	<fs af='pillavAdu,n,any,sg,3,,ni,ni'>|<fs af='pillavAdu,n,any,sg,3,,ni_agr,ni_agr'>
+5	wIsukuMxi	VM	<fs af='wIsuko,v,fn,sg,3,,A,A'>|<fs af='wIsuko,v,fn,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

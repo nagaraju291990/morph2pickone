@@ -1,0 +1,10 @@
+<Sentence id="6259">
+0	((	SSF	
+1	welinIlApuraM	NNP	<fs af='welinIlApuraM,n,any,sg,3,,0,0'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	SrIkAkulYAniki	NNP	<fs af='SrIkAkulYaM,n,any,sg,3,,ki,ki'>
+4	65	QC	<fs af='65,num,,,,,,'>
+5	ki	NN	<fs af='ki,avy,,,,,,' poslcat="NM">|<fs af='mIru,pn,any,pl,2,,obl,obl' poslcat="NM">
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

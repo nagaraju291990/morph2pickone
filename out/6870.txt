@@ -1,0 +1,17 @@
+<Sentence id="6870">
+0	((	SSF
+1	lekapowe	CC	<fs af='gala,v,any,any,any,,akapowe,akapowe'>|<fs af='lekapo,v,any,any,any,,we,we'>
+2	nawrajani	NN	<fs af='nawrajani,n,any,sg,3,,0,0'>|<fs af='nawrajani,n,any,sg,3,,obl,obl'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	*	SYM	<fs af='*,punc,,,,,, '>
+5	BAsvaraM	NN	<fs af='BAsvaraM,n,any,sg,3,,0,0'>
+6	,	SYM	<fs af=',,punc,,,,,, '>
+7	poVtAR	NN	<fs af='poVtAR,n,any,sg,3,,0,0'>|<fs af='poVtAR,n,any,sg,3,,obl,obl'>
+8	aMxubAtulo	NN	<fs af='aMxubAtu,n,any,sg,3,,lo,lo'>|<fs af='aMxubAtu,n,any,pl,3,,0,0_o'>
+9	uMdaka	VM	<fs af='uMdu,v,any,any,any,,aka,aka'>
+10	moVkka	NN	<fs af='moVkku,v,any,any,any,,an,an'>|<fs af='moVkka,n,any,sg,3,,0,0'>|<fs af='moVkka,n,any,sg,3,,obl,obl'>
+11	peVruguxala	NN	<fs af='peVruguxala,n,any,sg,3,,0,0'>|<fs af='peVruguxala,n,any,sg,3,,obl,obl'>
+12	AgipowuMxi	VM	<fs af='Agipo,v,fn,sg,3,,wA,wA'>|<fs af='AgipowuMdu,v,fn,sg,3,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

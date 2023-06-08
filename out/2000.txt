@@ -1,0 +1,14 @@
+<Sentence id="2000">
+0	((	SSF
+1	epugA	RB	<fs af='epu,n,any,sg,3,,gA,gA'>
+2	peVraganicci	VM	<fs af='peVraganivvu,v,any,any,any,,i,i'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	pEBAgAnni	NN	<fs af='pEBAgaM,n,any,sg,3,,ni,ni'>|<fs af='pEBAgaM,n,any,sg,3,,ni_agr,ni_agr'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	adugu	NN	<fs af='adugu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='adugu,n,any,sg,3,,0,0'>|<fs af='adugu,n,any,sg,3,,obl,obl'>
+7	BAgAnni	NN	<fs af='BAgaM,n,any,sg,3,,ni,ni'>|<fs af='BAgaM,n,any,sg,3,,ni_agr,ni_agr'>
+8	SInayyanu	NNP	<fs af='SInayya,n,any,sg,3,,ni,ni'>|<fs af='SInayya,n,any,sg,3,,ni_agr,ni_agr'>
+9	wIsukomannAdu	VM	<fs af='wIsukomanu,v,m,sg,3,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

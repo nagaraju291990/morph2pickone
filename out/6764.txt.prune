@@ -1,0 +1,18 @@
+<Sentence id="6764">
+0	((	SSF	
+1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+2	viXaMgA	RB	<fs af='viXaM,n,any,sg,3,,gA,gA' poslcat="NM">|<fs af='viXaMga,n,any,sg,3,,0,0_A' poslcat="NM">|<fs af='viXaMga,n,any,sg,3,,0,0_V' poslcat="NM">
+3	ceswe	VM	<fs af='ceVyyi,v,any,any,any,,we,we'>
+4	vAraM	NN	<fs af='vAraM,n,any,sg,3,,0,0'>
+4	rojullo	NN	<fs af='rojullo,unk,,,,,,' poslcat="NM">
+5	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+6	carmaM	NN	<fs af='carmaM,n,any,sg,3,,0,0'>
+7	kUdA	PSP	<fs af='kUdA,avy,,,,,,' poslcat="NM">|<fs af='kUdu,v,any,any,any,,i,i_A' poslcat="NM">|<fs af='kUdu,n,any,sg,3,,0,0_A' poslcat="NM">
+8	SarIraMlo	NN	<fs af='SarIraM,n,any,sg,3,,lo,lo'>
+9	migawA	NN	<fs af='migawa,n,any,sg,3,,0,0_A'>|<fs af='migawa,n,any,sg,3,,0,0_V'>|<fs af='migawA,n,any,sg,3,,0,0'>|<fs af='migawA,n,any,sg,3,,obl,obl'>
+10	carmapu	NN	<fs af='carmaM,n,any,sg,3,,obl,obl'>
+10	raMguku	NN	<fs af='raMg,n,any,sg,3,,ki,ki'>|<fs af='raMgu,n,any,sg,3,,ki,ki'>
+11	vacceswuMxi	VM	<fs af='vacceVyyi,v,fn,sg,3,,wA,wA'>|<fs af='vacceswuMdu,v,fn,sg,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

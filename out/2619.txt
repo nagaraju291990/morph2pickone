@@ -1,0 +1,9 @@
+<Sentence id="2619">
+0	((	SSF
+1	koVMpa	NN	<fs af='koVMpa,n,any,sg,3,,0,0'>|<fs af='koVMpa,n,any,sg,3,,obl,obl'>
+2	uMtuMxA	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA_A'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A_A'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	UduwuMxA	VM	<fs af='Udu,v,fn,sg,3,,wA,wA_A'>|<fs af='UduwuMdu,v,fn,sg,3,,A,A_A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

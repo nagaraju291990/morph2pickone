@@ -1,0 +1,32 @@
+<Sentence id="358">
+0	((	SSF	
+1	-	SYM	<'>|<poslcat="NM"'>
+2	soVMwa	NN	<fs af='soVMwaM,n,any,sg,3,,obl,obl'>
+3	iMtlo	NN	<fs af='illu,n,any,sg,3,,lo,lo'>
+4	-	SYM	<'>|<poslcat="NM"'>
+5	vAdalo	NN	<fs af='vAda,n,any,sg,3,,lo,lo'>|<fs af='vAda,n,any,pl,3,,0,0_o'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	UlYlo	NN	<fs af='Uru,n,any,sg,3,,lo,lo'>|<fs af='Uru,n,any,pl,3,,0,0_o'>
+8	-	SYM	<'>|<poslcat="NM"'>
+9	rARtraMlo	NN	<fs af='rARtraM,n,any,sg,3,,lo,lo'>
+10	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+11	xeSaMlo	NN	<fs af='xeSaM,n,any,sg,3,,lo,lo'>
+12	prawicota	NN	<fs af='prawi,n,any,sg,3,,cotlo,cotlo'>
+13	prawi	JJ	<fs af='prawi,adj,any,any,any,,0_adj,0_adj'>
+14	viRayaMlonU	NN	<fs af='viRayaM,n,any,pl,3,,lo_nu,lo_nu'>
+15	AdA	NN	<fs af='Ada,n,any,sg,3,,0,0_A'>|<fs af='Ada,n,any,sg,3,,0,0_V'>
+16	magA	NN	<fs af='maga,n,any,sg,3,,0,0_A'>|<fs af='maga,n,any,sg,3,,0,0_V'>
+17	samAnaMgA	RB	<fs af='samAnaM,n,any,sg,3,,gA,gA' poslcat="NM">
+18	uMde	VM	<fs af='uMdu,v,any,any,any,,e,e'>|<fs af='uMdu,v,any,any,any,,i,i_e'>
+19	prapaMcaM	NN	<fs af='prapaMcaM,n,any,sg,3,,0,0'>
+20	!	SYM	<fs af='!,punc,,,,,,'>
+21	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+22	koVwwa	JJ	<fs af='koVwwa,adj,any,any,any,,0_adj,0_adj'>
+23	prapaMcaMloki	NN	<fs af='prapaMcaM,n,any,sg,3,,lopalaki,lopalaki'>
+24	manaM	PRP	<fs af='manaM,pn,any,pl,1,,0,0'>
+25	eVlA	WQ	<fs af='eVlA,avy,,,,,,'>
+26	adugu	NN	<fs af='adugu,n,any,sg,3,,0,0'>|<fs af='adugu,n,any,sg,3,,obl,obl'>
+27	peVdawAM	VM	<fs af='peVttu,v,any,pl,1,,wA,wA'>
+28	?	SYM	<fs af='?,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,35 @@
+<Sentence id="6868">			
+0	((	SSF	
+1	*	SYM	<fs af='*,punc,,,,,,'>
+2	kAlRiyaM	NNP	<fs af='kAlRiyaM,n,any,sg,3,,0,0'>
+3	,	SYM	<fs af=',,punc,,,,,,'>
+4	meVgniRiyaM	NNP	<fs af='meVgniRiyaM,n,any,sg,3,,0,0'>
+5	,	SYM	<fs af=',,punc,,,,,,'>
+6	gaMXakaM	NNP	<fs af='gaMXakaM,n,any,sg,3,,0,0'>
+7	,	SYM	<fs af=',,punc,,,,,,'>
+8	jiMku	NNP	<fs af='jiMk,n,any,sg,3,,0,0'>
+9	,	SYM	<fs af=',,punc,,,,,,'>
+10	borAnu	NNP	<fs af='bovaccu,v,any,sg,1,,a,a'>
+11	,	SYM	<fs af=',,punc,,,,,,'>
+12	inumu	NNP	<fs af='inumu,n,any,sg,3,,0,0'>
+13	,	SYM	<fs af=',,punc,,,,,,'>
+14	rAgi	NNP	<fs af='rAgi,n,any,sg,3,,0,0'>
+15	,	SYM	<fs af=',,punc,,,,,,'>
+16	*	SYM	<fs af='*,punc,,,,,,'>
+17	mAMganIsu	NNP	<fs af='mAMganIs,n,any,sg,3,,0,0'>
+18	,	SYM	<fs af=',,punc,,,,,,'>
+19	mAlbidinaM	NNP	<fs af='mAlbidinaM,n,any,sg,3,,0,0'>
+20	,	SYM	<fs af=',,punc,,,,,,'>
+21	sodiyaM	NNP	<fs af='sodiyaM,n,any,sg,3,,0,0'>
+22	,	SYM	<fs af=',,punc,,,,,,'>
+23	klorin	NNP	<fs af='klorin,n,any,sg,3,,0,0'>
+24	,	SYM	<fs af=',,punc,,,,,,'>
+25	kobAlt_lu	NNP	<fs af='kobAlt_lu,unk,,,,,,'>
+26	*	SYM	<fs af='*,punc,,,,,,'>
+27	moVkkalaku	NN	<fs af='moVkka,n,any,pl,3,,ki,ki'>
+28	wakkuva	JJ	<fs af='wakkuva,adj,any,any,any,,0_adj,0_adj'>
+29	mowAxulo	NN	<fs af='mowAxu,n,any,sg,3,,lo,lo'>
+30	avasaraM	NN	<fs af='avasaraM,n,any,sg,3,,0,0'>
+31	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

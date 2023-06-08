@@ -1,0 +1,14 @@
+<Sentence id="3512">
+0	((	SSF
+1	EnA	CC	<fs af='EnA,avy,,,,,, '>
+2	30	QC	<fs af='30,num,,,,,, '>|<fs af='rU,avy,,,,,, '>
+3	saMvawsarAlugA	RB	<fs af='saMvawsaraM,n,any,pl,3,,gA,gA'>
+4	awadu	PRP	<fs af='awadu,pn,,sg,,,0,0'>
+4	oVka	NN	<fs af='oVka,adj,,,,,0,0_adj'>
+5	KExIgA	NN	<fs af='KExI,n,,sg,,,gA,gA'>
+6	A	DEM	<fs af='A,avy,,,,,, '>
+7	jElulone	NN	<fs af='jElulone,unk,,,,,,'>
+8	uMtunnAdu	VM	<fs af='uMdu,v,m,sg,3,,wunn,wunn'>|<fs af='uMtuMdu,v,m,sg,3,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

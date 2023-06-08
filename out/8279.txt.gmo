@@ -1,0 +1,10 @@
+<Sentence id="8279">			
+0	((	SSF	
+1	alAge	RB	<fs af='alAge,avy,,,,,,' poslcat="NM">
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	goVrreVlanu	NN	<fs af='goVrreV,n,any,pl,3,,ni,ni'>
+4	BImA	NN	<fs af='BImu,n,any,sg,3,,0,0_A'>|<fs af='BImA,n,any,sg,3,,0,0'>
+5	ceyiMcAli	VM	<fs af='ceyiMcu,v,any,any,any,,Ali,Ali'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,15 @@
+<Sentence id="4501">
+0	((	SSF
+1	veVyyi	QC	<fs af='veVyyi,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='veVyyi,n,any,sg,3,,0,0'>|<fs af='veVyyi,n,any,sg,3,,obl,obl'>|<fs af='veVyyi,num,any,any,any,,0,0'>
+2	,	SYM	<fs af=',,punc,,,,,, '>
+3	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+4	velu	QC	<fs af='velu,n,any,sg,3,,0,0'>|<fs af='veVyyi,n,any,pl,3,,0,0'>
+5	_	SYM
+6	ilA	RB	<fs af='ilA,avy,,,,,, '>|<fs af='ila,n,any,sg,3,,0,0_A'>|<fs af='ila,n,any,sg,3,,0,0_V'>
+7	eVMwa	WQ	<fs af='eVMwa,pn,any,sg,3,,0,0'>
+8	xoVrikiwe	VM	<fs af='xoVruku,v,any,any,any,,we,we'>
+9	aMwa	QF	<fs af='aMwa,adj,any,any,any,,0_adj,0_adj'>|<fs af='aMwa,pn,any,sg,3,,0,0'>|<fs af='aMwaM,n,any,sg,3,,obl,obl'>
+10	wIsukunnAdu	VM	<fs af='wIsuko,v,m,sg,3,,A,A'>|<fs af='wIsuko,v,m,sg,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

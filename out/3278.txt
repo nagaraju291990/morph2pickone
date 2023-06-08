@@ -1,0 +1,10 @@
+<Sentence id="3278">
+0	((	SSF
+1	subbayyagAriki	NN	<fs af='subbayya,n,,pl,,,gAru_ki,gAru_ki' deri_cat='pn'>
+2	o	JJ	<fs af='o,avy,,,,,, '>
+3	vaMka	NN	<fs af='vaMka,n,any,sg,3,,0,0'>|<fs af='vaMka,n,any,sg,3,,obl,obl'>
+4	navvu	NN	<fs af='navvu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='navvu,n,any,sg,3,,0,0'>|<fs af='navvu,n,any,sg,3,,obl,obl'>
+5	vacciMxi	VM	<fs af='vaccu,v,fn,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

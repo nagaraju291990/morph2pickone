@@ -1,0 +1,12 @@
+<Sentence id="9539">
+0	((	SSF
+1	wAti	NN	<fs af='wAdu,n,any,sg,3,,obl,obl'>|<fs af='wAti,n,any,sg,3,,0,0'>|<fs af='wAti,n,any,sg,3,,obl,obl'>
+2	ceVttu	NN	<fs af='ceVttu,n,any,sg,3,,0,0'>|<fs af='ceVttu,n,any,sg,3,,obl,obl'>
+3	aMwa	QF	<fs af='aMwa,adj,any,any,any,,0_adj,0_adj'>|<fs af='aMwa,pn,any,sg,3,,0,0'>|<fs af='aMwaM,n,any,sg,3,,obl,obl'>
+4	eVwwu	NN	<fs af='eVwwu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='eVwwu,adj,any,any,any,,0_adj,0_adj'>|<fs af='eVwwu,n,any,sg,3,,0,0'>|<fs af='eVwwu,n,any,sg,3,,obl,obl'>
+5	vAda	VM	<fs af='vAda,n,,sg,,,0,0'>|<fs af='vAda,n,,sg,,,obl,obl'>|<fs af='vAdu,v,any,any,any,,an,an'>
+5	alle	VM	<fs af='allu,v,any,any,any,,e,e'>|<fs af='allu,v,any,any,any,,i_e,i_e'>
+6	kanipiMcAdu	VM	<fs af='kanipiMcu,v,m,sg,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

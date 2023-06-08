@@ -1,0 +1,15 @@
+<Sentence id="8548">			
+0	((	SSF	
+1	peVxxa	JJ	<fs af='peVxxa,adj,any,any,any,,0_adj,0_adj'>
+2	peVxxa	RDP	<fs af='peVxxa,adj,any,any,any,,0_adj,0_adj' poslcat="NM">
+3	dyUkulU	NNP	<fs af='dyUk,n,any,pl,3,,I,I'>|<fs af='dyUku,n,any,pl,3,,0,0_V'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	lArdumeyarU	NN	<fs af='lArdumeyaru,n,any,sg,3,,0,0_V'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	ArcibiRappU	NNP	<fs af='ArcibiRappu,n,any,sg,3,,0,0_V'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	aMxarU	QF	<fs af='aMxaru,pn,mf,pl,3,,0,0_V' poslcat="NM">
+10	vaccAru	VM	<fs af='vaccu,v,any,pl,2,,A,A'>|<fs af='vaccu,v,mf,pl,3,,A,A'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

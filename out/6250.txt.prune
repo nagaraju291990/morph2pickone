@@ -1,0 +1,11 @@
+<Sentence id="6250">
+0	((	SSF	
+1	vaMSaXAra	NNP	<fs af='vaMSaXAra,n,any,sg,3,,0,0'>|<fs af='vaMSaXAra,n,any,sg,3,,obl,obl'>
+2	naxi	NN	<fs af='naxi,n,any,sg,3,,0,0'>|<fs af='naxi,n,any,sg,3,,obl,obl'>
+3	sAgara	NN	<fs af='sAgaraM,n,any,sg,3,,obl,obl'>
+4	saMgamaM	NN	<fs af='saMgamaM,n,any,sg,3,,0,0'>
+5	prawyeka	JJ	<fs af='prawyekaM,n,any,sg,3,,obl,obl' poslcat="NM">
+6	AkarRaNa	NN	<fs af='AkarRaNa,n,any,sg,3,,0,0'>|<fs af='AkarRaNa,n,any,sg,3,,obl,obl'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

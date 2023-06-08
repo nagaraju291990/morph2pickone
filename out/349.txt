@@ -1,0 +1,14 @@
+<Sentence id="349">
+0	((	SSF
+1	kadupuwo	NN	<fs af='kadupu,n,any,sg,3,,wo,wo'>
+2	unnappudu	VM	<fs af='uMdu,v,any,any,any,,ina_appudu,ina_appudu'>|<fs af='unnappudu,adv,any,any,any,,0_adv,0_adv'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	kAnpu	NN	<fs af='kAnpu,n,any,sg,3,,0,0'>|<fs af='kAnpu,n,any,sg,3,,obl,obl'>
+5	jarigetappudU	NN	<fs af='jarugu,nst,,,,,_e_appudu_0_V,_e_appudu_0_V_adv'>
+6	mAwraM	PSP	<fs af='mAwraM,avy,,,,,, '>
+7	pattiMcukoVMte	VM	<fs af='pattiMcuko,v,any,any,any,,we,we'>
+8	eVlA	WQ	<fs af='eVlA,avy,,,,,, '>
+9	saripowuMxi	VM	<fs af='saripo,v,fn,sg,3,,wA,wA'>|<fs af='saripowuMdu,v,fn,sg,3,,A,A'>
+10	?	SYM	<fs af='?,punc,,,,,, '>
+))
+</Sentence>

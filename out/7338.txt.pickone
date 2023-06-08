@@ -1,0 +1,27 @@
+<Sentence id="7338">			
+0	((	SSF	
+1	rAmaliMgadi	NNP	<fs af='rAmaliMgadu,n,any,sg,3,,obl,obl'>
+2	Avu	NN	<fs af='Avu,n,any,sg,3,,0,0'>
+3	_	SYM	<fs af='<'>
+4	_	SYM	<fs af='<'>
+5	_	SYM	<fs af='<'>
+6	_	SYM	<fs af='<'>
+7	_	SYM	<fs af='<'>
+8	_	SYM	<fs af='<'>
+9	_	SYM	<fs af='<'>
+10	_	SYM	<fs af='<'>
+11	_	SYM	<fs af='<'>
+12	_	SYM	<fs af='<'>
+13	_	SYM	<fs af='<'>
+14	_	SYM	<fs af='<'>
+15	_	SYM	<fs af='<'>
+16	_	SYM	<fs af='<'>
+17	_	SYM	<fs af='<'>
+18	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+19	roju	NN	<fs af='roju,n,any,sg,3,,0,0'>
+20	rAmaliMgadi	NNP	<fs af='rAmaliMgadu,n,any,sg,3,,obl,obl'>
+21	Avu	NN	<fs af='Avu,n,any,sg,3,,0,0'>
+22	wappipoyiMxi	VM	<fs af='wappipo,v,fn,sg,3,,A,A'>
+23	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

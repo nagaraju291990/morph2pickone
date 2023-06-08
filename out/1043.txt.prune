@@ -1,0 +1,8 @@
+<Sentence id="1043">
+0	((	SSF	
+1	awani	PRP	<fs af='awanu,pn,m,sg,3,,obl,obl'>
+2	gAdixa	NN	<fs af='gAdixa,n,any,sg,3,,0,0'>|<fs af='gAdixa,n,any,sg,3,,obl,obl'>
+3	gUnixi	NN	<fs af='gUni,n,any,sg,3,,xi,xi'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

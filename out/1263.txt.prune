@@ -1,0 +1,7 @@
+<Sentence id="1263">
+0	((	SSF	
+1	Adapilla	NN	<fs af='Adapilla,n,any,sg,3,,0,0'>|<fs af='Adapilla,n,any,sg,3,,obl,obl'>
+2	puttiMxi	VM	<fs af='puttu,v,fn,sg,3,,A,A'>
+3	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

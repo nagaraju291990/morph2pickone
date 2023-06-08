@@ -1,0 +1,19 @@
+<Sentence id="3114">
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	manU	NNP	<fs af='manU,n,any,sg,3,,0,0'>|<fs af='manU,n,any,sg,3,,obl,obl'>
+3	aMxi	VM	<fs af='anu,v,fn,sg,3,,A,A'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	"	SYM	<fs af='",punc,,,,,,'>
+6	bApU	NNP	<fs af='bApu,n,any,sg,3,,0,0_V'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	InAdu	NST	<fs af='InAdu,n,any,sg,3,,0,0'>|<fs af='InAdu,n,any,sg,3,,obl,obl'>
+9	nijaM	NN	<fs af='nijaM,n,,sg,,,0,0'>
+9	gAne	NN	<fs af='gAne,avy,,,,,,' poslcat="NM">|<fs af='gAne,avy,,,,,,' poslcat="NM">
+10	BagavaMwuNNi	NN	<fs af='BagavaMwudu,n,any,sg,3,,ni,ni'>
+11	hqxaya	NN	<fs af='hqxayaM,n,any,sg,3,,obl,obl'>|<fs af='hqxayudu,n,any,sg,3,,obl,obl'>
+12	pUrvakaMgA	RB	<fs af='pUrvakaM,n,any,sg,3,,gA,gA' poslcat="NM">
+13	prArXiMcAnu	VM	<fs af='prArXiMcu,v,any,sg,1,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

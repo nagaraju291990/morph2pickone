@@ -1,0 +1,25 @@
+<Sentence id="8233">
+0	((	SSF	
+1	vijayanagaraM	NNP	<fs af='vijayanagaraM,n,any,sg,3,,0,0'>
+2	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>|<fs af='jillA,n,any,sg,3,,0,0'>|<fs af='jillA,n,any,sg,3,,obl,obl'>
+3	garividi	NNP	<fs af='garividi,n,any,sg,3,,0,0'>|<fs af='garividi,n,any,sg,3,,obl,obl'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	ciwwuru	NN	<fs af='ciwwuru,unk,,,,,,' poslcat="NM">
+6	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>|<fs af='jillA,n,any,sg,3,,0,0'>|<fs af='jillA,n,any,sg,3,,obl,obl'>
+7	palamaneru	NNP	<fs af='palamaneru,n,any,sg,3,,0,0'>|<fs af='palamaneru,n,any,sg,3,,obl,obl'>
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	neVllUru	NNP	<fs af='neVllUru,n,any,sg,3,,0,0'>|<fs af='neVllUru,n,any,sg,3,,obl,obl'>
+10	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>|<fs af='jillA,n,any,sg,3,,0,0'>|<fs af='jillA,n,any,sg,3,,obl,obl'>
+11	ciMwala	NNP	<fs af='ciMwa,n,any,pl,3,,obl,obl'>
+11	xIvi	NNP	<fs af='xIvi,n,any,sg,3,,0,0'>|<fs af='xIvi,n,any,sg,3,,obl,obl'>
+12	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+13	mahabUbnagar	NNP	<fs af='mahabUbnagar,n,any,sg,3,,0,0'>|<fs af='mahabUbnagar,n,any,sg,3,,obl,obl'>
+14	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>|<fs af='jillA,n,any,sg,3,,0,0'>|<fs af='jillA,n,any,sg,3,,obl,obl'>
+15	mahabUbnagar	NNP	<fs af='mahabUbnagar,n,any,sg,3,,0,0'>|<fs af='mahabUbnagar,n,any,sg,3,,obl,obl'>
+16	keMxrAlu	NN	<fs af='keMxraM,n,any,pl,3,,0,0'>|<fs af='keMxraM,n,any,pl,3,,vu_agr,vu_agr'>
+17	iMxuku	PRP	<fs af='iMxuku,avy,,,,,,' poslcat="NM">
+18	pani	NN	<fs af='pani,n,any,sg,3,,0,0'>|<fs af='pani,n,any,sg,3,,obl,obl'>
+19	ceswunnAyi	VM	<fs af='ceVyyi,v,n,pl,3,,wunn,wunn'>|<fs af='ceswuMdu,v,n,pl,3,,A,A'>
+20	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

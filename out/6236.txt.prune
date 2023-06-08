@@ -1,0 +1,24 @@
+<Sentence id="6236">
+0	((	SSF	
+1	maMxasa	NNP	<fs af='maMxasaM,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	soMpetaku	NNP	<fs af='soMpeta,n,any,sg,3,,ki,ki'>
+4	26	QC	<fs af='26,num,,,,,,'>
+5	ki	NN	<fs af='ki,avy,,,,,,' poslcat="NM">|<fs af='mIru,pn,any,pl,2,,obl,obl' poslcat="NM">
+6	|	SYM	<'>|<poslcat="NM"'>
+7	|	SYM	<'>|<poslcat="NM"'>
+8	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl' poslcat="NM">
+9	xUraMlo	NN	<fs af='xUraM,n,any,sg,3,,lo,lo'>
+10	maheMxragiri	NNP	<fs af='maheMxragiri,n,any,sg,3,,0,0'>|<fs af='maheMxragiri,n,any,sg,3,,obl,obl'>
+11	parvawa	NN	<fs af='parvawaM,n,any,sg,3,,obl,obl'>|<fs af='parvawudu,n,any,sg,3,,obl,obl'>
+12	pAxAla	NN	<fs af='pAxaM,n,any,pl,3,,obl,obl'>
+13	vaxxa	PSP	<fs af='vaxxa,adv,any,any,any,,0_adv,0_adv' poslcat="NM">|<fs af='vaxxa,adv,any,any,any,,yoVkka_adv,yoVkka_adv' poslcat="NM">
+14	gala	RP	<fs af='gala,v,any,any,any,,ina,ina' poslcat="NM">|<fs af='gala,adj,any,any,any,,0_adj,0_adj' poslcat="NM">
+15	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+16	grAmaMlo	NN	<fs af='grAmaM,n,any,sg,3,,lo,lo'>
+17	pAMdavula	NN	<fs af='pAMdavulu,n,any,sg,3,,obl,obl'>
+18	gutta	NN	<fs af='gutta,n,any,sg,3,,0,0'>|<fs af='gutta,n,any,sg,3,,obl,obl'>
+19	prasixXamEnaxi	VM	<fs af='prasixXa,adj,any,any,any,,xEnaxi_na_adj,xEnaxi_na_adj' poslcat="NM">
+20	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

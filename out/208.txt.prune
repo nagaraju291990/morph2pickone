@@ -1,0 +1,14 @@
+<Sentence id="208">
+0	((	SSF	
+1	rojU	NN	<fs af='roju,n,any,sg,3,,0,0_V'>
+2	mAku	PRP	<fs af='memu,pn,any,pl,1,,ki,ki'>
+3	'	SYM	<fs af=',punc,,,,,,'>
+4	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+5	roju	NN	<fs af='roju,n,any,sg,3,,0,0'>|<fs af='roju,n,any,sg,3,,obl,obl'>
+6	maMci	JJ	<fs af='maMci,adj,any,any,any,,0_adj,0_adj'>
+7	viRayaM	NN	<fs af='viRayaM,n,any,sg,3,,0,0'>
+8	'	SYM	<fs af=',punc,,,,,,'>
+9	ceVppevAru	VM	<fs af='ceVppu,v,any,any,any,,e_vAru,e_vAru'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

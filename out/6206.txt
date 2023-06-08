@@ -1,0 +1,16 @@
+<Sentence id="6206">
+0	((	SSF
+1	1950	QC	<fs af='1950,num,,,,,, '>
+2	saM||raMlo	NN	<fs af='saM||raMlo,unk,,,,,,'>
+3	viSAKa	NNP	<fs af='viSAKa,n,any,sg,3,,0,0'>|<fs af='viSAKa,n,any,sg,3,,obl,obl'>|<fs af='viSAKudu,n,any,sg,3,,obl,obl'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	gaMjAM	NN	<fs af='gaMjAM,n,,sg,,,0,0'>|<fs af='gaMjAM,n,,sg,,,0,0'>
+6	jillAloni	NN	<fs af='jillA,n,any,sg,3,,loni,loni'>
+7	prAMwAlanu	NN	<fs af='prAMwaM,n,any,pl,3,,ni,ni'>
+8	vidaxIyagA	RB	<fs af='vidaxiyyi,v,any,any,any,,a_gA,a_gA'>
+9	SrIkAkulYaM	NNP	<fs af='SrIkAkulYaM,n,any,sg,3,,0,0'>
+10	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>|<fs af='jillA,n,any,sg,3,,0,0'>|<fs af='jillA,n,any,sg,3,,obl,obl'>
+11	erpadiMxi	VM	<fs af='erpadu,v,fn,sg,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

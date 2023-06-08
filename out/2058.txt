@@ -1,0 +1,19 @@
+<Sentence id="2058">
+0	((	SSF
+1	xevI	NNP	<fs af='xevu,v,any,any,any,,i,i_V'>|<fs af='xevi,n,any,sg,3,,0,0_V'>
+2	Bakwudu	NN	<fs af='Bakwudu,n,any,sg,3,,0,0'>
+3	ani	UT	<fs af='ani,avy,,,,,, '>|<fs af='anu,v,any,any,any,,i,i'>
+4	prajalanu	NN	<fs af='praja,n,any,pl,3,,ni,ni'>|<fs af='prajalu,n,any,sg,3,,ni,ni'>
+5	nammiMcAli	VM	<fs af='nammiMcu,v,any,any,any,,Ali,Ali'>
+6	anukoVMte	VM	<fs af='anuko,v,any,any,any,,we,we'>
+7	viBUwiki	NN	<fs af='viBUwi,n,any,sg,3,,ki,ki'>
+8	baxulu	NN	<fs af='baxulu,n,any,sg,3,,0,0'>|<fs af='baxulu,n,any,sg,3,,0,0_A'>|<fs af='baxulu,n,any,sg,3,,obl,obl'>
+9	kuMkuma	NN	<fs af='kuMkuma,n,any,sg,3,,0,0'>|<fs af='kuMkuma,n,any,sg,3,,obl,obl'>|<fs af='kuMkumaM,n,any,sg,3,,obl,obl'>
+10	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+11	ixe	PRP	<fs af='ixi,pn,fn,sg,3,,0,0_e'>
+12	paxXawilo	NN	<fs af='paxXawi,n,any,sg,3,,lo,lo'>
+13	paMci	VM	<fs af='paMcu,v,any,any,any,,i,i'>
+14	peVttavaccu	VM	<fs af='peVttu,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='peVttavaccu,v,any,any,any,,e,e'>
+15	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

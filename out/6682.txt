@@ -1,0 +1,10 @@
+<Sentence id="6682">
+0	((	SSF
+1	oVkkoVkka	QO	<fs af='oVkkoVkka,avy,,,,,, '>
+2	poVranu	NN	<fs af='poVra,n,any,sg,3,,ni,ni'>|<fs af='poVra,n,any,sg,3,,ni_agr,ni_agr'>
+3	virigina	VM	<fs af='virugu,v,any,any,any,,ina,ina'>|<fs af='virigina,n,any,sg,3,,0,0'>|<fs af='virigina,n,any,sg,3,,obl,obl'>
+4	BAgaMpE	NN	<fs af='BAgaM,n,any,sg,3,,pE,pE'>
+5	cudawAru	VM	<fs af='cuttu,v,any,pl,2,,wA,wA'>|<fs af='cuttu,v,mf,pl,3,,wA,wA'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

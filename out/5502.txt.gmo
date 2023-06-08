@@ -1,0 +1,11 @@
+<Sentence id="5502">			
+0	((	SSF	
+1	goVttaMwo	NN	<fs af='goVttaM,n,any,sg,3,,wo,wo'>
+2	Uxi	VM	<fs af='Uxu,v,any,any,any,,i,i'>
+3	Uxi	RDP	<fs af='Uxu,v,any,any,any,,i,i' poslcat="NM">
+4	noru	NN	<fs af='noru,n,any,sg,3,,0,0'>|<fs af='noru,n,any,sg,3,,obl,obl'>
+5	noVppi	NN	<fs af='noVppi,n,any,sg,3,,0,0'>|<fs af='noVppi,n,any,sg,3,,obl,obl'>
+6	puttexi	VM	<fs af='puttu,v,any,any,any,,e_axi,e_axi'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

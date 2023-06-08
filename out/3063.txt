@@ -1,0 +1,17 @@
+<Sentence id="3063">
+0	((	SSF
+1	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+2	snAnAniki	NN	<fs af='snAnaM,n,any,sg,3,,ki,ki'>
+3	erpAtlu	NN	<fs af='erpAtu,n,any,pl,3,,0,0'>|<fs af='erpAtu,n,any,pl,3,,vu_agr,vu_agr'>
+4	cesetappudu	VM	<fs af='ceVyyi,v,any,any,any,,e_appudu,e_appudu'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	akkada	NST	<fs af='akkada,adv,any,any,any,,0_adv,0_adv'>
+7	A	DEM	<fs af='A,avy,,,,,, '>
+8	rAwimukka	NN	<fs af='rAwimukka,n,any,sg,3,,0,0'>|<fs af='rAwimukka,n,any,sg,3,,obl,obl'>
+9	lexane	VM	<fs af='lexanu,v,any,any,any,,e,e'>|<fs af='lexanu,v,any,any,any,,i,i_e'>
+10	saMgawini	NN	<fs af='saMgawi,n,any,sg,3,,ni,ni'>|<fs af='saMgawi,n,any,sg,3,,ni_agr,ni_agr'>
+11	manU	NNP	<fs af='manU,n,any,sg,3,,0,0'>|<fs af='manU,n,any,sg,3,,obl,obl'>
+12	gamaniMciMxi	VM	<fs af='gamaniMcu,v,fn,sg,3,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

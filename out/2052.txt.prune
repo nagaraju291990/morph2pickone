@@ -1,0 +1,12 @@
+<Sentence id="2052">
+0	((	SSF	
+1	viBUwini	NN	<fs af='viBUwi,n,any,sg,3,,ni,ni'>|<fs af='viBUwi,n,any,sg,3,,ni_agr,ni_agr'>
+2	muxxagA	RB	<fs af='muxxa,n,any,sg,3,,gA,gA' poslcat="NM">
+3	cesi	VM	<fs af='ceVyyi,v,any,any,any,,i,i'>
+4	cinna	JJ	<fs af='cinna,adj,any,any,any,,0_adj,0_adj'>
+5	cinna	RDP	<fs af='cinna,adj,any,any,any,,0_adj,0_adj' poslcat="NM">
+6	uMdallAgA	RB	<fs af='uMda,n,any,pl,3,,lA,lA' poslcat="NM">
+7	ceyaMdi	VM	<fs af='ceVyyi,v,any,pl,2,,AjFArWa,AjFArWa'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

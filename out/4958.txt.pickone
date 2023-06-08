@@ -1,0 +1,11 @@
+<Sentence id="4958">			
+0	((	SSF	
+1	pUrvakAlaMnuMci	NN	<fs af='pUrvakAlaM,n,any,sg,3,,niMci,niMci'>
+2	katamarAnulu	NN	<fs af='katamarAnulu,unk,,,,,,'>
+3	,	SYM	<fs af=',,punc,,,,,,'>
+4	masula	NNP	<fs af='masi,n,any,pl,3,,obl,obl'>
+4	padavalu	NNP	<fs af='padava,n,any,pl,3,,0,0'>
+5	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

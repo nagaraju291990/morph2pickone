@@ -1,0 +1,9 @@
+<Sentence id="4144">
+0	((	SSF
+1	catti	NN	<fs af='catti,n,,sg,,,0,0'>|<fs af='catti,n,,sg,,,obl,obl'>
+2	wIsukovadAniki	VM	<fs af='wIsuko,v,,sg,,,adaM_ki,adaM_ki' deri_cat='n'>
+3	kodalu	NN	<fs af='kodalu,n,any,sg,3,,0,0'>
+4	vacciMxi	VM	<fs af='vaccu,v,fn,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

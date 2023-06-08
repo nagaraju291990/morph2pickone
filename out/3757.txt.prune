@@ -1,0 +1,18 @@
+<Sentence id="3757">
+0	((	SSF	
+1	anniMti	QF	<fs af='anni,pn,any,pl,3,,obl,obl' poslcat="NM">
+2	kannA	PSP	<fs af='kannA,avy,,,,,,' poslcat="NM">|<fs af='kanu,v,any,any,any,,inA,inA' poslcat="NM">|<fs af='kannu,n,any,sg,3,,0,0_A' poslcat="NM">|<fs af='kanneV,n,any,sg,3,,0,0_A' poslcat="NM">
+3	peVxxa	JJ	<fs af='peVxxa,adj,any,any,any,,0_adj,0_adj'>
+4	moVwwaM	NN	<fs af='moVwwu,v,any,pl,1,,a,a' poslcat="NM">
+5	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+6	goxAmu	NN	<fs af='goxAM,n,,sg,,,0,0'>
+7	nuMdi	PSP	<fs af='nuMdi,avy,,,,,,' poslcat="NM">
+8	xoVMgiliMcina	VM	<fs af='xoVMgiliMcu,v,any,any,any,,ina,ina'>
+9	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+10	mirapakAyala	NN	<fs af='mirapakAya,n,any,pl,3,,obl,obl'>
+11	baswA	NN	<fs af='baswA,n,any,sg,3,,0,0'>|<fs af='baswA,n,any,sg,3,,obl,obl'>
+12	amminaMxuvalla	VM	<fs af='ammu,v,any,any,any,,ina_aMxuvalla,ina_aMxuvalla'>
+13	vacciMxi	VM	<fs af='vaccu,v,fn,sg,3,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

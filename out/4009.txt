@@ -1,0 +1,30 @@
+<Sentence id="4009">
+0	((	SSF
+1	*	SYM	<fs af='*,punc,,,,,, '>
+2	*	SYM	<fs af='*,punc,,,,,, '>
+3	*	SYM	<fs af='*,punc,,,,,, '>
+4	*	SYM	<fs af='*,punc,,,,,, '>
+5	*	SYM	<fs af='*,punc,,,,,, '>
+6	kukka	NN	<fs af='kukku,v,any,any,any,,an,an'>|<fs af='kukka,n,any,sg,3,,0,0'>|<fs af='kukka,n,any,sg,3,,obl,obl'>|<fs af='kukkudu,n,any,sg,3,,obl,obl'>
+7	bawuku	NN	<fs af='bawuku,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='bawuku,n,any,sg,3,,0,0'>|<fs af='bawuku,n,any,sg,3,,obl,obl'>
+8	-	SYM
+9	-	SYM
+10	-	SYM
+11	-	SYM
+12	-	SYM
+13	-	SYM
+14	-	SYM
+15	-	SYM
+16	-	SYM
+17	-	SYM
+18	-	SYM
+19	-	SYM
+20	-	SYM
+21	piMdi	NN	<fs af='piMdu,v,any,any,any,,i,i'>|<fs af='piMdi,n,any,sg,3,,0,0'>|<fs af='piMdi,n,any,sg,3,,obl,obl'>
+22	Arabosinattu	VM	<fs af='AraboVyyi,v,any,any,any,,ina_atlu,ina_atlu'>
+23	veVnneVla	NN	<fs af='veVnneVla,n,any,sg,3,,0,0'>|<fs af='veVnneVla,n,any,sg,3,,obl,obl'>
+24	kAswU	VM	<fs af='kAyi,v,any,any,any,,wU,wU'>
+25	uMxi	VAUX	<fs af='uMdu,v,fn,sg,3,,A,A'>
+26	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

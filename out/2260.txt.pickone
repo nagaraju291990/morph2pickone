@@ -1,0 +1,11 @@
+<Sentence id="2260">			
+0	((	SSF	
+1	ivi	PRP	<fs af='ixi,pn,fn,pl,3,,0,0'>
+2	kadupulo	NN	<fs af='kadupu,n,any,sg,3,,lo,lo'>
+3	ceriwe	VM	<fs af='ceru,v,any,any,any,,we,we'>
+4	pasivAriki	NN	<fs af='pasi,n,,pl,,,vAru_ki,vAru_ki' deri_cat=pn>
+5	Akali	NN	<fs af='Akali,n,any,sg,3,,0,0'>
+6	uMdaxu	VM	<fs af='uMdu,v,fn,sg,3,,a,a'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

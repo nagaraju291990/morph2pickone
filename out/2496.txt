@@ -1,0 +1,20 @@
+<Sentence id="2496">
+0	((	SSF
+1	vItilo	PRP	<fs af='ixi,pn,fn,pl,3,,lo,lo'>|<fs af='vIdu,n,any,sg,3,,lo,lo'>
+2	sIwa	NNP	<fs af='sIwa,n,any,sg,3,,0,0'>|<fs af='sIwa,n,any,sg,3,,obl,obl'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	krAMwi	NNP	<fs af='krAMwi,n,any,sg,3,,0,0'>|<fs af='krAMwi,n,any,sg,3,,obl,obl'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	pUsAboldu	NNP	<fs af='pUsAboldu,n,any,sg,3,,0,0'>|<fs af='pUsAboldu,n,any,sg,3,,obl,obl'>
+7	,	SYM	<fs af=',,punc,,,,,, '>
+8	varaxAn	NNP	<fs af='varaxAn,n,any,sg,3,,0,0'>|<fs af='varaxAn,n,any,sg,3,,obl,obl'>
+9	,	SYM	<fs af=',,punc,,,,,, '>
+10	saMgaM	NNP	<fs af='saMgaM,n,any,sg,3,,0,0'>
+11	ane	UT	<fs af='ane,avy,,,,,, '>|<fs af='anu,v,any,any,any,,e,e'>|<fs af='anu,v,any,any,any,,i,i_e'>
+12	rakAlu	NN	<fs af='rakaM,n,any,pl,3,,0,0'>|<fs af='rakaM,n,any,pl,3,,vu_agr,vu_agr'>
+13	mana	PRP	<fs af='manaM,pn,any,pl,1,,obl,obl'>
+14	rARtrAniki	NN	<fs af='rARtraM,n,any,sg,3,,ki,ki'>
+15	anukUlamEnavi	NN	<fs af='anukUlamEnaxi,pn,any,pl,3,,0,0'>
+16	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

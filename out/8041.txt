@@ -1,0 +1,11 @@
+<Sentence id="8041">
+0	((	SSF
+1	opikanu	NN	<fs af='opika,n,any,sg,3,,ni,ni'>|<fs af='opika,n,any,sg,3,,ni_agr,ni_agr'>
+2	batti	VM	<fs af='battu,v,any,any,any,,i,i'>
+3	eVnni	WQ	<fs af='eVnnu,v,any,any,any,,i,i'>|<fs af='eVnni,pn,any,pl,3,,0,0'>
+4	Unitlu	NN	<fs af='Unit,n,any,pl,3,,0,0'>|<fs af='Unit,n,any,pl,3,,vu_agr,vu_agr'>
+4	ayinA	NN	<fs af='avvu,v,any,any,any,,inA,inA'>
+5	peVttavaccu	VM	<fs af='peVttu,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='peVttavaccu,v,any,any,any,,e,e'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

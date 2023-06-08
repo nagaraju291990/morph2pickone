@@ -1,0 +1,18 @@
+<Sentence id="8536">
+0	((	SSF
+1	"	SYM	<fs af='",punc,,,,,, '>
+2	Ewe	RP	<fs af='avvu,v,any,any,any,,we,we'>
+3	hiMxUxeSasWulakumalle	NNP	<fs af='hiMxUxeSasWudu,n,any,pl,3,,kimalle,kimalle'>
+4	I	DEM	<fs af='I,avy,,,,,, '>
+5	mqgaM	NN	<fs af='mqgaM,n,any,sg,3,,0,0'>
+6	oVMtina	NN	<fs af='oVllu,n,any,sg,3,,na,na'>
+7	battalu	NN	<fs af='batta,n,any,pl,3,,0,0'>|<fs af='batta,n,any,pl,3,,vu_agr,vu_agr'>
+8	eVMxuku	WQ	<fs af='eVMxuku,avy,,,,,, '>
+9	uMdAli	VM	<fs af='uMdu,v,any,any,any,,Ali,Ali'>
+10	"	SYM	<fs af='",punc,,,,,, '>
+11	anna	UT	<fs af='anna,avy,,,,,, '>|<fs af='anu,v,any,any,any,,ina,ina'>|<fs af='anna,n,any,sg,3,,0,0'>|<fs af='anna,n,any,sg,3,,obl,obl'>|<fs af='annaM,n,any,sg,3,,obl,obl'>
+12	praSna	NN	<fs af='praSna,n,any,sg,3,,0,0'>|<fs af='praSna,n,any,sg,3,,obl,obl'>
+13	vacciMxi	VM	<fs af='vaccu,v,fn,sg,3,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

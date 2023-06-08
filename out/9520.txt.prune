@@ -1,0 +1,6 @@
+<Sentence id="9520">
+0	((	SSF	
+1	powunnAru	VM	<fs af='po,v,any,pl,2,,wunn,wunn'>|<fs af='po,v,mf,pl,3,,wunn,wunn'>|<fs af='powuMdu,v,any,pl,2,,A,A'>|<fs af='powuMdu,v,mf,pl,3,,A,A'>
+2	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

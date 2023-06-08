@@ -1,0 +1,12 @@
+<Sentence id="2859">
+0	((	SSF
+1	sarigA	RB	<fs af='sariga,n,any,sg,3,,0,0_A'>|<fs af='sariga,n,any,sg,3,,0,0_V'>
+2	javAbulu	NN	<fs af='javAbu,n,any,pl,3,,0,0'>|<fs af='javAbu,n,any,pl,3,,vu_agr,vu_agr'>
+3	rAyani	VM	<fs af='rAyi,v,any,any,any,,ani,ani'>|<fs af='rAyadu,n,any,sg,3,,obl,obl'>
+4	vAriki	PRP	<fs af='vAru,pn,mf,pl,3,,ki,ki'>|<fs af='vAriki,n,any,sg,3,,0,0'>|<fs af='vAriki,n,any,sg,3,,obl,obl'>
+5	eVkkuva	JJ	<fs af='eVkkuva,adj,any,any,any,,0_adj,0_adj'>
+6	mArkulu	NN	<fs af='mArk,n,any,pl,3,,0,0'>|<fs af='mArk,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='mArku,n,any,pl,3,,0,0'>|<fs af='mArku,n,any,pl,3,,vu_agr,vu_agr'>
+7	iccevAdu	VM	<fs af='ivvu,v,any,any,any,,e_vAdu,e_vAdu'>|<fs af='iccevAdu,pn,m,sg,3,,0,0'>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

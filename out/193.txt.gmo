@@ -1,0 +1,8 @@
+<Sentence id="193">			
+0	((	SSF	
+1	plIdaru	VM	<fs af='plIdar,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='plIdar,n,any,sg,3,,obl,obl' poslcat="NM">'>
+1	ammalu	VM	<fs af='amma,n,any,pl,3,,0,0' poslcat="NM">'>|<fs af='amma,n,any,pl,3,,vu_agr,vu_agr' poslcat="NM">'>
+1	avuwunnAru	VM	<fs af='avvu,v,any,pl,2,,wunn,wunn'>|<fs af='avvu,v,mf,pl,3,,wunn,wunn'>
+2	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

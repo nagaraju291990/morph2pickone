@@ -1,0 +1,18 @@
+<Sentence id="2025">
+0	((	SSF	
+1	eVMxukaMte	WQ	<fs af='eVMxukaMte,avy,,,,,,'>
+2	awadu	PRP	<fs af='awadu,pn,,sg,,,0,0'>
+3	upayogiMce	VM	<fs af='upayogiMcu,v,any,any,any,,e,e'>|<fs af='upayogiMcu,v,any,any,any,,i,i_e'>
+4	kawwini	NN	<fs af='kawwi,n,any,sg,3,,ni,ni'>|<fs af='kawwi,n,any,sg,3,,ni_agr,ni_agr'>
+5	eVkkadi	NN	<fs af='eVkkadi,avy,,,,,,' poslcat="NM">|<fs af='eVkkada,nst,,,,,yoVkka,yoVkka_adv' poslcat="NM">
+5	EnA	NN	<fs af='EnA,avy,,,,,,' poslcat="NM">
+6	xUrciwe	VM	<fs af='xUrcu,v,any,any,any,,we,we'>|<fs af='xUruvu,v,any,any,any,,we,we'>
+7	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+8	muMxuku	NN	<fs af='muMxu,n,,sg,,,ki,ki'>
+9	pokuMdA	VM	<fs af='po,v,any,any,any,,akuMdA,akuMdA'>|<fs af='pokuMdu,v,any,any,any,,i,i_A'>
+10	oVraloki	NN	<fs af='oVra,n,any,sg,3,,lopalaki,lopalaki'>
+11	veVnakku	NST	<fs af='veVnakku,avy,,,,,,' poslcat="NM">
+12	powuMxi	VM	<fs af='po,v,fn,sg,3,,wA,wA'>|<fs af='powuMdu,v,fn,sg,3,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,46 @@
+<Sentence id="8384">
+0	((	SSF
+1	lalo	RP	<fs af='lali,n,any,sg,3,,0,0_o'>
+2	)	SYM	<fs af='),punc,,,,,, '>
+3	weVnAli	NNP	<fs af='weVnAli,n,any,sg,3,,0,0'>|<fs af='weVnAli,n,any,sg,3,,obl,obl'>
+4	-	SYM
+5	27	QC	<fs af='27,num,,,,,, '>
+6	,	SYM	<fs af=',,punc,,,,,, '>
+7	narasarAvupeta	NNP	<fs af='narasarAvupeta,n,any,sg,3,,0,0'>|<fs af='narasarAvupeta,n,any,sg,3,,obl,obl'>
+8	-	SYM
+9	48	QC	<fs af='48,num,,,,,, '>|<fs af='1,num,,,,,, '>
+10	,	SYM	<fs af=',,punc,,,,,, '>
+11	sawweVnapalli	NNP	<fs af='sawweVnapalli,n,any,sg,3,,0,0'>|<fs af='sawweVnapalli,n,any,sg,3,,obl,obl'>
+12	-	SYM
+13	40	QC	<fs af='40,num,,,,,, '>
+14	,	SYM	<fs af=',,punc,,,,,, '>
+15	pidugurAlYlYa	NNP	<fs af='pidugurAlYlYa,n,any,sg,3,,0,0'>|<fs af='pidugurAlYlYa,n,any,sg,3,,obl,obl'>
+16	-	SYM
+17	72	QC	<fs af='72,num,,,,,, '>
+18	,	SYM	<fs af=',,punc,,,,,, '>
+19	xAcepalli	NNP	<fs af='xAcepalli,n,any,sg,3,,0,0'>|<fs af='xAcepalli,n,any,sg,3,,obl,obl'>
+20	-	SYM
+21	91	QC	<fs af='91,num,,,,,, '>
+22	,	SYM	<fs af=',,punc,,,,,, '>
+23	vinukoVMda	NNP	<fs af='vinukoVMda,n,any,sg,3,,0,0'>|<fs af='vinukoVMda,n,any,sg,3,,obl,obl'>
+24	-	SYM
+25	90	QC	<fs af='90,num,,,,,, '>
+26	,	SYM	<fs af=',,punc,,,,,, '>
+27	poVnnUru	NNP	<fs af='poVnnUru,n,any,sg,3,,0,0'>
+28	-	SYM
+29	30	QC	<fs af='30,num,,,,,, '>|<fs af='rU,avy,,,,,, '>
+30	,	SYM	<fs af=',,punc,,,,,, '>
+31	repalleV	NNP	<fs af='repalleV,n,any,sg,3,,0,0'>|<fs af='repalleV,n,any,sg,3,,obl,obl'>
+32	-	SYM
+33	67	QC	<fs af='67,num,,,,,, '>
+34	,	SYM	<fs af=',,punc,,,,,, '>
+35	bApatla	NNP	<fs af='bApatla,n,any,sg,3,,0,0'>|<fs af='bApatla,n,any,sg,3,,obl,obl'>
+36	-	SYM
+37	53	QC	<fs af='53,num,,,,,, '>
+38	,	SYM	<fs af=',,punc,,,,,, '>
+39	amarAvawi	NNP	<fs af='amarAvawi,n,any,sg,3,,0,0'>|<fs af='amarAvawi,n,any,sg,3,,obl,obl'>
+40	-	SYM
+41	36	QC	<fs af='36,num,,,,,, '>
+42	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

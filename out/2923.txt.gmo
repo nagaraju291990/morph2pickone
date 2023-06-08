@@ -1,0 +1,15 @@
+<Sentence id="2923">			
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+3	cinna	JJ	<fs af='cinna,adj,any,any,any,,0_adj,0_adj'>
+4	peVnsil	NN	<fs af='peVnsil,n,any,sg,3,,0,0'>|<fs af='peVnsil,n,any,sg,3,,obl,obl'>
+5	mukka	NN	<fs af='mukka,n,any,sg,3,,0,0'>|<fs af='mukka,n,any,sg,3,,obl,obl'>
+6	kosaM	PSP	<fs af='kosaM,avy,,,,,,' poslcat="NM">
+7	bApU	NNP	<fs af='bApu,n,any,sg,3,,0,0_V'>
+8	iMwa	QF	<fs af='iMwa,n,any,sg,3,,0,0'>|<fs af='iMwa,n,any,sg,3,,obl,obl'>
+9	samayAnni	NN	<fs af='samayaM,n,any,sg,3,,ni,ni'>|<fs af='samayaM,n,any,sg,3,,ni_agr,ni_agr'>
+10	veVcciswunnAru	VM	<fs af='veVcciMcu,v,any,pl,2,,wunn,wunn'>|<fs af='veVcciMcu,v,mf,pl,3,,wunn,wunn'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

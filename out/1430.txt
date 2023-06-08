@@ -1,0 +1,30 @@
+<Sentence id="1430">
+0	((	SSF
+1	nallamacca	NN	<fs af='nallamacca,n,any,sg,3,,0,0'>|<fs af='nallamacca,n,any,sg,3,,obl,obl'>
+2	weVgulu	NN	<fs af='weVgulu,n,,sg,,,0,0'>|<fs af='weVgulu,n,,sg,,,obl,obl'>|<fs af='weVgulu,n,,sg,,,0,0'>|<fs af='weVgulu,n,,sg,,,obl,obl'>
+3	nivAraNaku	NN	<fs af='nivAraNa,n,any,sg,3,,ki,ki'>
+4	streVptomEsis	NN	<fs af='streVptomEsis,n,any,sg,3,,0,0'>|<fs af='streVptomEsis,n,any,sg,3,,obl,obl'>
+5	oVka	QC	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+6	grAmu	NN	<fs af='grAm,n,any,sg,3,,0,0'>|<fs af='grAm,n,any,sg,3,,obl,obl'>
+7	80	QC	<fs af='80,num,,,,,, '>
+8	lItarla	NN	<fs af='lItar,n,any,pl,3,,obl,obl'>|<fs af='lItaru,n,any,pl,3,,obl,obl'>
+9	nIlYlalo	NN	<fs af='nIru,n,any,pl,3,,lo,lo'>
+10	kalipi	VM	<fs af='kalupu,v,any,any,any,,i,i'>
+11	lexA	CC	<fs af='lexA,avy,,,,,, '>
+12	poRAmEsin	NN	<fs af='poRAmEsin,n,any,sg,3,,0,0'>|<fs af='poRAmEsin,n,any,sg,3,,obl,obl'>
+13	0.025	QC	<fs af='0.025,num,,,,,, '>
+14	SAwaM	NN	<fs af='SAwaM,n,any,sg,3,,0,0'>
+15	lexA	CC	<fs af='lexA,avy,,,,,, '>
+16	kApar	NN	<fs af='kApar,n,any,sg,3,,0,0'>|<fs af='kApar,n,any,sg,3,,obl,obl'>
+17	AksIklorEd	NN	<fs af='AksIklorEd,n,any,sg,3,,0,0'>|<fs af='AksIklorEd,n,any,sg,3,,obl,obl'>
+18	0.3	QC	<fs af='0.3,num,,,,,, '>
+19	SAwaM	NN	<fs af='SAwaM,n,any,sg,3,,0,0'>
+20	,	SYM	<fs af=',,punc,,,,,, '>
+21	purugu	NN	<fs af='purugu,n,any,sg,3,,0,0'>|<fs af='purugu,n,any,sg,3,,obl,obl'>
+22	maMxulawo	NN	<fs af='maMxu,n,any,pl,3,,wo,wo'>
+23	kalipi	VM	<fs af='kalupu,v,any,any,any,,i,i'>
+24	picikArI	NN	<fs af='picikAri,n,any,sg,3,,0,0_V'>
+25	ceVyyavaccu	VM	<fs af='ceVyyi,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='ceVyyavaccu,v,any,any,any,,e,e'>
+26	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

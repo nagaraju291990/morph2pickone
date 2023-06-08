@@ -1,0 +1,8 @@
+<Sentence id="6654">
+0	((	SSF
+1	marala	RB	<fs af='marala,avy,,,,,, '>|<fs af='mara,n,any,pl,3,,obl,obl'>|<fs af='maralu,v,any,any,any,,an,an'>
+2	dAktarugArilA	NN	<fs af='dAktaru,n,,pl,,,gAru_lA,gAru_lA' deri_cat='pn'>
+3	annAru	VM	<fs af='anu,v,any,pl,2,,A,A'>|<fs af='anu,v,mf,pl,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

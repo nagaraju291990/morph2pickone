@@ -1,0 +1,12 @@
+<Sentence id="9029">
+0	((	SSF	
+1	aMxulo	PRP	<fs af='aMxulo,avy,,,,,,' poslcat="NM">
+2	paMdiwulu	NN	<fs af='paMdiw,n,any,pl,3,,0,0'>|<fs af='paMdiw,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='paMdiwudu,n,any,pl,3,,0,0'>|<fs af='paMdiwudu,n,any,pl,3,,vu_agr,vu_agr'>
+3	cAlA	INTF	<fs af='cAlu,v,any,any,any,,i,i_A' poslcat="NM">
+4	maMxi	CL	<fs af='maMxi,n,any,sg,3,,0,0' poslcat="NM">|<fs af='maMxi,n,any,sg,3,,obl,obl' poslcat="NM">|<fs af='maMxi,n,any,sg,3,,vu_agr,vu_agr' poslcat="NM">
+5	BARA	NN	<fs af='BARa,n,any,sg,3,,0,0_A'>|<fs af='BARa,n,any,sg,3,,0,0_V'>|<fs af='BARA,n,any,sg,3,,0,0'>|<fs af='BARA,n,any,sg,3,,obl,obl'>
+6	SAswravewwalu	NN	<fs af='SAswravewwa,n,any,pl,3,,0,0'>|<fs af='SAswravewwa,n,any,pl,3,,vu_agr,vu_agr'>
+7	kUdAnu	PSP	<fs af='kUdu,v,any,sg,1,,A,A' poslcat="NM">
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

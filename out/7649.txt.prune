@@ -1,0 +1,16 @@
+<Sentence id="7649">
+0	((	SSF	
+1	gaxi	NN	<fs af='gaxi,n,any,sg,3,,0,0'>|<fs af='gaxi,n,any,sg,3,,obl,obl'>
+2	nela	NN	<fs af='nela,n,any,sg,3,,0,0'>|<fs af='nela,n,any,sg,3,,obl,obl'>|<fs af='neVyyi,n,any,pl,3,,obl,obl'>
+3	mIxa	NST	<fs af='mIxa,n,any,sg,3,,0,0'>|<fs af='mIxa,n,any,sg,3,,obl,obl'>
+4	Ikalu	NN	<fs af='Ika,n,any,pl,3,,0,0'>|<fs af='Ika,n,any,pl,3,,vu_agr,vu_agr'>
+5	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+6	reVttalu	NN	<fs af='reVtta,n,any,pl,3,,0,0'>|<fs af='reVtta,n,any,pl,3,,vu_agr,vu_agr'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	gaddipocalU	NN	<fs af='gaddipoca,n,any,pl,3,,I,I'>
+9	ciMxaravaMxaragA	RB	<fs af='ciMxaravaMxara,n,any,sg,3,,gA,gA' poslcat="NM">
+10	pada	VM	<fs af='padu,v,any,any,any,,an,an'>|<fs af='padu,v,any,any,any,,an,an'>
+10	uMdevi	VM	<fs af='uMdu,v,,pl,,,e_axi,e_axi_0' deri_cat=pn>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

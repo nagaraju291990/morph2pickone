@@ -1,0 +1,17 @@
+<Sentence id="6614">
+0	((	SSF
+1	"	SYM	<fs af='",punc,,,,,, '>
+2	woVda	NN	<fs af='woVda,n,any,sg,3,,0,0'>|<fs af='woVda,n,any,sg,3,,obl,obl'>
+3	eVmuka	NN	<fs af='eVmuka,n,any,sg,3,,0,0'>|<fs af='eVmuka,n,any,sg,3,,obl,obl'>
+4	viriginappudu	VM	<fs af='virugu,v,any,any,any,,ina_appudu,ina_appudu'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	virigina	VM	<fs af='virugu,v,any,any,any,,ina,ina'>|<fs af='virigina,n,any,sg,3,,0,0'>|<fs af='virigina,n,any,sg,3,,obl,obl'>
+7	woVdanu	NN	<fs af='woVda,n,any,sg,3,,ni,ni'>|<fs af='woVda,n,any,sg,3,,ni_agr,ni_agr'>
+8	reVMdava	QO	<fs af='reVMdu,num,any,any,any,,ava,ava'>|<fs af='reVMdava,adj,any,any,any,,0_adj,0_adj'>
+9	kAli	NN	<fs af='kAlu,v,any,any,any,,i,i'>|<fs af='kAlu,n,any,sg,3,,obl,obl'>
+10	woVdalo	NN	<fs af='woVda,n,any,sg,3,,lo,lo'>|<fs af='woVda,n,any,pl,3,,0,0_o'>
+11	kalipi	VM	<fs af='kalupu,v,any,any,any,,i,i'>
+12	kattAli	VM	<fs af='kattu,v,any,any,any,,Ali,Ali'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

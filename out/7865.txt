@@ -1,0 +1,9 @@
+<Sentence id="7865">
+0	((	SSF
+1	jAnaki	NNP	<fs af='jAna,n,any,sg,3,,ki,ki'>|<fs af='jAnaki,n,any,sg,3,,0,0'>|<fs af='jAnaki,n,any,sg,3,,obl,obl'>
+2	AmeVku	PRP	<fs af='AmeV,pn,f,sg,3,,ki,ki'>
+3	xUrapu	NN	<fs af='xUraM,n,any,sg,3,,obl,obl'>
+4	cuttaM	NN	<fs af='cuttu,v,any,pl,1,,a,a'>|<fs af='cuttaM,n,any,sg,3,,0,0'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,11 @@
+<Sentence id="260">			
+0	((	SSF	
+1	biddalni	NN	<fs af='bidda,n,any,pl,3,,ni,ni'>
+2	kanetappudu	VM	<fs af='kanu,v,any,any,any,,e_appudu,e_appudu'>
+3	eVMwo	WQ	<fs af='eVMwa,pn,any,pl,3,,0,0_o'>
+4	maMxi	CL	<fs af='maMxi,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='maMxi,n,any,sg,3,,obl,obl' poslcat="NM">'>
+5	wallulu	NN	<fs af='walli,n,any,pl,3,,0,0'>
+6	canipowunnAru	VM	<fs af='canipo,v,any,pl,2,,wunn,wunn'>|<fs af='canipo,v,mf,pl,3,,wunn,wunn'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

@@ -1,0 +1,8 @@
+<Sentence id="4766">
+0	((	SSF
+1	koVMwa	PRP	<fs af='koVMwa,pn,,sg,,,0,0'>
+1	meraki	NN	<fs af='mera,n,,sg,,,ki,ki'>
+2	iMkipowuMxi	VM	<fs af='iMkipo,v,fn,sg,3,,wA,wA'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

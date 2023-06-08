@@ -1,0 +1,13 @@
+<Sentence id="4940">
+0	((	SSF
+1	nUneV	NN	<fs af='nUneV,n,any,sg,3,,0,0'>|<fs af='nUneV,n,any,sg,3,,obl,obl'>
+2	paxArWAlu	NN	<fs af='paxArWaM,n,any,pl,3,,0,0'>|<fs af='paxArWaM,n,any,pl,3,,vu_agr,vu_agr'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	wiMdi	NN	<fs af='wiMdi,n,any,sg,3,,0,0'>|<fs af='wiMdi,n,any,sg,3,,obl,obl'>
+5	giMjalalo	NN	<fs af='giMja,n,any,pl,3,,lo,lo'>
+6	kannA	PSP	<fs af='kannA,avy,,,,,, '>|<fs af='kanu,v,any,any,any,,inA,inA'>|<fs af='kannu,n,any,sg,3,,0,0_A'>|<fs af='kanneV,n,any,sg,3,,0,0_A'>
+7	cepalalo	NN	<fs af='cepa,n,any,pl,3,,lo,lo'>
+8	eVkkuva	NN	<fs af='eVkkuva,adj,any,any,any,,0_adj,0_adj'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,12 @@
+<Sentence id="4232">			
+0	((	SSF	
+1	Urike	NN	<fs af='Uru,n,any,sg,3,,ki,ki_e'>
+2	lAgAnu	VM	<fs af='lAgu,v,any,sg,1,,A,A'>
+3	ani	UT	<fs af='ani,avy,,,,,,'>
+4	BImudu	NNP	<fs af='BImudu,n,any,sg,3,,0,0'>
+5	wala	NN	<fs af='wala,n,any,sg,3,,0,0'>
+6	eVgaravi	NN	<fs af='eVga,n,,pl,,,0,0'>
+6	eSAdu	VM	<fs af='eVyyi,v,m,sg,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

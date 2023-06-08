@@ -1,0 +1,20 @@
+<Sentence id="6215">			
+0	((	SSF	
+1	prawi	JJ	<fs af='prawi,adj,any,any,any,,0_adj,0_adj'>
+2	saMvawsaraM	NN	<fs af='saMvawsaraM,n,any,sg,3,,0,0'>
+3	Pibravari	NN	<fs af='Pibravari,n,any,sg,3,,0,0'>|<fs af='Pibravari,n,any,sg,3,,obl,obl'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	jUn	NN	<fs af='jUn,n,,sg,,,0,0'>|<fs af='jUn,n,,sg,,,obl,obl'>
+6	neVlalalo	NN	<fs af='neVla,n,any,pl,3,,lo,lo'>
+7	supraBAwaM	NN	<fs af='supraBAwaM,n,any,sg,3,,0,0'>
+8	samayaMlo	NN	<fs af='samayaM,n,any,sg,3,,lo,lo'>
+9	sUrya	NN	<fs af='sUryaM,n,any,sg,3,,obl,obl'>|<fs af='sUryudu,n,any,sg,3,,obl,obl'>
+10	kiraNAlu	NN	<fs af='kiraNaM,n,any,pl,3,,0,0'>|<fs af='kiraNaM,n,any,pl,3,,vu_agr,vu_agr'>
+11	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+12	gudiloni	NN	<fs af='gudi,n,any,sg,3,,loni,loni'>
+13	vigrahaM	NN	<fs af='vigrahaM,n,any,sg,3,,0,0'>
+14	pAxAlanu	NN	<fs af='pAxaM,n,any,pl,3,,ni,ni'>
+15	wAkuwAyi	VM	<fs af='wAku,v,n,pl,3,,wA,wA'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

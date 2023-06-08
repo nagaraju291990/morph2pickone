@@ -1,0 +1,25 @@
+<Sentence id="5417">			
+0	((	SSF	
+1	juttu	NN	<fs af='juttu,n,any,sg,3,,0,0'>
+2	rAlipowe	VM	<fs af='rAlipo,v,any,any,any,,we,we'>
+3	_	SYM	<fs af='<'>
+4	_	SYM	<fs af='<'>
+5	_	SYM	<fs af='<'>
+6	_	SYM	<fs af='<'>
+7	_	SYM	<fs af='<'>
+8	_	SYM	<fs af='<'>
+9	_	SYM	<fs af='<'>
+10	_	SYM	<fs af='<'>
+11	_	SYM	<fs af='<'>
+12	_	SYM	<fs af='<'>
+13	_	SYM	<fs af='<'>
+14	_	SYM	<fs af='<'>
+15	_	SYM	<fs af='<'>
+16	annaM	NN	<fs af='annaM,n,any,sg,3,,0,0'>
+17	vArcina	VM	<fs af='vArcu,v,any,any,any,,ina,ina'>
+18	gaMjini	NN	<fs af='gaMji,n,any,sg,3,,ni,ni'>
+19	walaku	NN	<fs af='wala,n,any,sg,3,,ki,ki'>
+20	pattiMcAli	VM	<fs af='pattiMcu,v,any,any,any,,Ali,Ali'>
+21	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

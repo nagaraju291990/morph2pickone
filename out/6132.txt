@@ -1,0 +1,12 @@
+<Sentence id="6132">
+0	((	SSF
+1	aMxulo	PRP	<fs af='aMxulo,avy,,,,,, '>
+2	adavI	NN	<fs af='adavi,n,any,sg,3,,0,0_V'>
+3	prAMwaM	NN	<fs af='prAMwaM,n,any,sg,3,,0,0'>
+4	63	QC	<fs af='63,num,,,,,, '>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	813	QC	<fs af='813,num,,,,,, '>
+7	ca	NN	<fs af='ca,avy,,,,,, '>|<fs af='kI,avy,,,,,, '>
+8	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

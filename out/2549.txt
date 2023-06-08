@@ -1,0 +1,16 @@
+<Sentence id="2549">
+0	((	SSF
+1	vItilo	PRP	<fs af='ixi,pn,fn,pl,3,,lo,lo'>|<fs af='vIdu,n,any,sg,3,,lo,lo'>
+2	koVnni	QF	<fs af='koVnni,pn,any,pl,3,,0,0'>
+3	rakAlu	NN	<fs af='rakaM,n,any,pl,3,,0,0'>|<fs af='rakaM,n,any,pl,3,,vu_agr,vu_agr'>
+4	nAra	NN	<fs af='nAra,n,any,sg,3,,0,0'>|<fs af='nAra,n,any,sg,3,,obl,obl'>
+5	koVraku	PSP	<fs af='koVra,n,any,sg,3,,ki,ki'>
+6	,	SYM	<fs af=',,punc,,,,,, '>
+7	marikoVnni	QF	<fs af='marikoVnni,avy,,,,,, '>
+8	rakAlu	NN	<fs af='rakaM,n,any,pl,3,,0,0'>|<fs af='rakaM,n,any,pl,3,,vu_agr,vu_agr'>
+9	viwwanaM	NN	<fs af='viwwanaM,n,any,sg,3,,0,0'>
+10	koVraku	PSP	<fs af='koVra,n,any,sg,3,,ki,ki'>
+11	upayogapaduwunnAyi	VM	<fs af='upayogapadu,v,n,pl,3,,wunn,wunn'>|<fs af='upayogapaduwuMdu,v,n,pl,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

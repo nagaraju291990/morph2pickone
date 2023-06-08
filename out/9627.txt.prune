@@ -1,0 +1,40 @@
+<Sentence id="9627">
+0	((	SSF	
+1	e	WQ	<fs af='e,avy,,,,,,'>
+2	lokaMlo	NN	<fs af='lokaM,n,any,sg,3,,lo,lo'>
+3	ayinA	CC	<fs af='avvu,v,any,any,any,,inA,inA' poslcat="NM">
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	wakkuva	QF	<fs af='wakkuva,adj,any,any,any,,0_adj,0_adj'>
+6	Sakwi	NN	<fs af='Sakwi,n,any,sg,3,,0,0'>|<fs af='Sakwi,n,any,sg,3,,obl,obl'>
+7	gala	RP	<fs af='gala,v,any,any,any,,ina,ina' poslcat="NM">|<fs af='gala,adj,any,any,any,,0_adj,0_adj' poslcat="NM">
+8	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+9	lokaMlo	NN	<fs af='lokaM,n,any,sg,3,,lo,lo'>
+10	kAnI	CC	<fs af='kAnI,avy,,,,,,'>
+11	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+12	eVkkuva	JJ	<fs af='eVkkuva,adj,any,any,any,,0_adj,0_adj'>
+13	Sakwulu	NN	<fs af='Sakwi,n,any,pl,3,,0,0'>|<fs af='Sakwudu,n,any,pl,3,,0,0'>|<fs af='Sakwudu,n,any,pl,3,,vu_agr,vu_agr'>
+14	gala	RP	<fs af='gala,v,any,any,any,,ina,ina' poslcat="NM">|<fs af='gala,adj,any,any,any,,0_adj,0_adj' poslcat="NM">
+15	iwara	JJ	<fs af='iwara,n,any,sg,3,,0,0' poslcat="NM">|<fs af='iwara,n,any,sg,3,,obl,obl' poslcat="NM">|<fs af='iwaraM,n,any,sg,3,,obl,obl' poslcat="NM">
+16	lokAllo	NN	<fs af='lokaM,n,any,pl,3,,lo,lo'>
+17	kAnI	CC	<fs af='kAnI,avy,,,,,,'>
+18	prANulu	NN	<fs af='prANi,n,any,pl,3,,0,0'>|<fs af='prANi,n,any,pl,3,,vu_agr,vu_agr'>
+19	aMxaru	QF	<fs af='aMxaru,pn,mf,pl,3,,0,0' poslcat="NM">
+20	vAMCA	NN	<fs af='vAMCa,n,any,sg,3,,0,0_A'>|<fs af='vAMCa,n,any,sg,3,,0,0_V'>
+21	xURiwulu	NN	<fs af='xURiwu,n,any,pl,3,,0,0'>|<fs af='xURiwu,n,any,pl,3,,vu_agr,vu_agr'>
+22	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+23	vAMCAwIwudu	NN	<fs af='vAMCAwIwudu,n,,sg,,,0,0'>
+23	E	VM	<fs af='avvu,v,any,any,any,,i,i'>
+24	brahma	NN	<fs af='brahma,n,any,sg,3,,0,0'>|<fs af='brahma,n,any,sg,3,,obl,obl'>|<fs af='brahmaM,n,any,sg,3,,obl,obl'>
+25	paxAnni	NN	<fs af='paxaM,n,any,sg,3,,ni,ni'>|<fs af='paxaM,n,any,sg,3,,ni_agr,ni_agr'>
+26	eVvadu	PRP	<fs af='eVvadu,pn,,sg,,,0,0'>
+27	seviswAdo	VM	<fs af='seviMcu,v,m,sg,3,,wA,wA_o'>
+28	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+29	vAdiki	PRP	<fs af='vAdu,pn,m,sg,3,,ki,ki'>
+30	alpamEna	JJ	<fs af='alpa,adj,any,any,any,,xEna_na_adj,xEna_na_adj'>
+31	itlAMti	JJ	<fs af='itlAMti,adj,any,any,any,,0_adj,0_adj'>
+32	vAtiwo	PRP	<fs af='axi,pn,fn,pl,3,,wo,wo'>
+33	avasaraM	NN	<fs af='avasaraM,n,any,sg,3,,0,0'>
+34	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+35	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

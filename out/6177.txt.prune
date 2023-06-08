@@ -1,0 +1,26 @@
+<Sentence id="6177">
+0	((	SSF	
+1	muKyaMgA	RB	<fs af='muKyaM,n,any,sg,3,,gA,gA' poslcat="NM">
+2	veVluguloniki	NN	<fs af='veVlugu,n,any,sg,3,,lopalaki,lopalaki'>
+3	rAni	VM	<fs af='vaccu,v,any,any,any,,ani,ani'>
+4	aneka	JJ	<fs af='aneka,adj,any,any,any,,0_adj,0_adj'>
+5	puNyakRewrAlu	NN	<fs af='puNyakRewraM,n,any,pl,3,,0,0'>|<fs af='puNyakRewraM,n,any,pl,3,,vu_agr,vu_agr'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	vihArayAwrA	NN	<fs af='vihArayAwra,n,any,sg,3,,0,0_A'>|<fs af='vihArayAwra,n,any,sg,3,,0,0_V'>
+8	sWalAlu	NN	<fs af='sWalaM,n,any,pl,3,,0,0'>|<fs af='sWalaM,n,any,pl,3,,vu_agr,vu_agr'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	xaggaralo	NN	<fs af='xaggara,adv,any,any,any,,0,0_adv_lo' poslcat="NM">
+11	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+12	muKya	JJ	<fs af='muKya,adj,any,any,any,,0_adj,0_adj'>
+13	pattaNAla	NN	<fs af='pattaNaM,n,any,pl,3,,obl,obl'>
+14	nuMdi	PSP	<fs af='nuMdi,avy,,,,,,' poslcat="NM">
+15	xUrAlu	NN	<fs af='xUraM,n,any,pl,3,,0,0'>|<fs af='xUraM,n,any,pl,3,,vu_agr,vu_agr'>
+16	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+17	iwara	JJ	<fs af='iwara,n,any,sg,3,,0,0' poslcat="NM">|<fs af='iwara,n,any,sg,3,,obl,obl' poslcat="NM">|<fs af='iwaraM,n,any,sg,3,,obl,obl' poslcat="NM">
+18	avasaramEna	VM	<fs af='avasaramavvu,v,any,any,any,,ina,ina'>
+19	samAcAraM	NN	<fs af='samAcAraM,n,any,sg,3,,0,0'>
+20	poVMxuparacadaM	VM	<fs af='poVMxuparacu,v,any,any,any,,adaM,adaM'>
+21	jarigiMxi	VM	<fs af='jarugu,v,fn,sg,3,,A,A'>
+22	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

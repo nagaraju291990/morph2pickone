@@ -1,0 +1,9 @@
+<Sentence id="2792">			
+0	((	SSF	
+1	virigina	VM	<fs af='virugu,v,any,any,any,,ina,ina'>
+2	kAluku	NN	<fs af='kAlu,n,any,sg,3,,ki,ki'>
+3	kattu	NN	<fs af='kattu,n,any,sg,3,,0,0'>|<fs af='kattu,n,any,sg,3,,obl,obl'>
+4	kattAdu	VM	<fs af='kattu,v,m,sg,3,,A,A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

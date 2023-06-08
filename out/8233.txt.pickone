@@ -1,0 +1,25 @@
+<Sentence id="8233">			
+0	((	SSF	
+1	vijayanagaraM	NNP	<fs af='vijayanagaraM,n,any,sg,3,,0,0'>
+2	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>
+3	garividi	NNP	<fs af='garividi,n,any,sg,3,,0,0'>
+4	,	SYM	<fs af=',,punc,,,,,,'>
+5	ciwwuru	NN	<fs af='ciwwuru,unk,,,,,,'>
+6	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>
+7	palamaneru	NNP	<fs af='palamaneru,n,any,sg,3,,0,0'>
+8	,	SYM	<fs af=',,punc,,,,,,'>
+9	neVllUru	NNP	<fs af='neVllUru,n,any,sg,3,,0,0'>
+10	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>
+11	ciMwala	NNP	<fs af='ciMwa,n,any,pl,3,,obl,obl'>
+11	xIvi	NNP	<fs af='xIvi,n,any,sg,3,,0,0'>
+12	,	SYM	<fs af=',,punc,,,,,,'>
+13	mahabUbnagar	NNP	<fs af='mahabUbnagar,n,any,sg,3,,0,0'>
+14	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>
+15	mahabUbnagar	NNP	<fs af='mahabUbnagar,n,any,sg,3,,0,0'>
+16	keMxrAlu	NN	<fs af='keMxraM,n,any,pl,3,,0,0'>
+17	iMxuku	PRP	<fs af='iMxuku,avy,,,,,,'>
+18	pani	NN	<fs af='pani,n,any,sg,3,,0,0'>
+19	ceswunnAyi	VM	<fs af='ceVyyi,v,n,pl,3,,wunn,wunn'>
+20	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

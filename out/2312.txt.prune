@@ -1,0 +1,10 @@
+<Sentence id="2312">
+0	((	SSF	
+1	Xaragalavi	NN	<fs af='Xara,n,,pl,,,0,0'>
+1	ayiwe	VM	<fs af='avvu,v,any,any,any,,we,we'>
+2	mela	NN	<fs af='melaM,n,,sg,,,obl,obl'>|<fs af='menu,n,,pl,,,obl,obl'>
+2	ayinavI	VM	<fs af='avvu,v,,pl,,,ina_axi_0,ina_axi_0_V' deri_cat=pn>
+3	kAvu	VM	<fs af='avvu,v,any,sg,2,,a,a'>
+4	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

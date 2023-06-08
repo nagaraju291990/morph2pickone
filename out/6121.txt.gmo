@@ -1,0 +1,13 @@
+<Sentence id="6121">			
+0	((	SSF	
+1	1922	QC	<fs af='1922,num,,,,,,'>
+2	lo	PSP	<fs af='lo,avy,,,,,,' poslcat="NM">
+3	allUri	NNP	<fs af='allUru,n,any,sg,3,,obl,obl'>|<fs af='allUri,n,any,sg,3,,0,0'>
+4	sIwArAmarAju	NNP	<fs af='sIwArAmarAju,n,any,sg,3,,0,0'>|<fs af='sIwArAmarAju,n,any,sg,3,,obl,obl'>
+5	nAyakawvaMlo	NN	<fs af='nAyakawvaM,n,any,sg,3,,lo,lo'>
+6	manyaMlo	NNP	<fs af='manyaM,n,any,sg,3,,lo,lo'>
+7	wirugubAtu	NN	<fs af='wirugubAtu,n,any,sg,3,,0,0'>|<fs af='wirugubAtu,n,any,sg,3,,obl,obl'>
+8	jarigiMxi	VM	<fs af='jarugu,v,fn,sg,3,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

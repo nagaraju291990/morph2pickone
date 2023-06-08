@@ -1,0 +1,15 @@
+<Sentence id="1184">
+0	((	SSF
+1	woVMxaragA	RB	<fs af='woVMxara,n,any,sg,3,,gA,gA'>
+2	paxa	VM	<fs af='paxa,avy,,,,,, '>|<fs af='paxaM,n,any,sg,3,,obl,obl'>
+3	muMxu	NST	<fs af='muMxu,adv,any,any,any,,0_adv,0_adv'>
+4	bAbuni	NN	<fs af='bAbu,n,any,sg,3,,ni,ni'>
+5	dAktaruku	NN	<fs af='dAktar,n,any,sg,3,,ki,ki'>|<fs af='dAktaru,n,any,sg,3,,ki,ki'>
+6	cUpixxAM	VM	<fs af='cUpiMcu,v,any,pl,2,,xA,xA'>|<fs af='cUpiMcu,v,any,pl,1,,xA,xA'>
+7	ani	UT	<fs af='ani,avy,,,,,, '>|<fs af='anu,v,any,any,any,,i,i'>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	woVMxaracesiMxi	VM	<fs af='woVMxaraceVyyi,v,fn,sg,3,,A,A'>
+10	kamala	NNP	<fs af='kamulu,v,any,any,any,,an,an'>|<fs af='kamala,n,any,sg,3,,0,0'>|<fs af='kamala,n,any,sg,3,,obl,obl'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

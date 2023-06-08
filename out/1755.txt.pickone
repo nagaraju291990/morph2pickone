@@ -1,0 +1,20 @@
+<Sentence id="1755">			
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	paxivelaxi	NN	<fs af='paxivelu,n,any,sg,3,,xi,xi'>
+3	eVnimixi	QC	<fs af='eVnimixi,n,any,sg,3,,0,0'>
+4	velaku	QC	<fs af='veVyyi,n,any,pl,3,,ki,ki'>
+5	iswAnu	VM	<fs af='ivvu,v,,sg,1,,wA,wA'>
+5	aMtunnAvu	VM	<fs af='anu,v,,sg,2,,wunn,wunn'>
+6	ixi	PRP	<fs af='ixi,pn,fn,sg,3,,0,0'>
+7	xoVMga	NN	<fs af='xoVMga,n,any,sg,3,,0,0'>
+8	soVwwu	NN	<fs af='soVwwu,n,any,sg,3,,0,0'>
+9	kAxugaxA	VM	<fs af='avvu,v,,sg,,,xi_0,xi_0_A' deri_cat=pn>
+10	!	SYM	<fs af='!,punc,,,,,,'>
+11	"	SYM	<fs af='",punc,,,,,,'>
+12	vAlYlalo	PRP	<fs af='vAlYlu,pn,mf,pl,3,,lo,lo'>
+13	oVkadu	NN	<fs af='oVkadu,n,any,sg,3,,0,0'>
+14	annAdu	VM	<fs af='anu,v,m,sg,3,,A,A'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

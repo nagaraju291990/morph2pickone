@@ -1,0 +1,22 @@
+<Sentence id="2122">
+0	((	SSF	
+1	eVvarU	WQ	<fs af='eVvaru,pn,mf,pl,3,,0,0_V'>
+2	xeninI	PRP	<fs af='exi,pn,fn,sg,3,,ni,ni_V'>
+3	sqRtiMcaleru	VM	<fs af='sqRtiMcagala,v,any,pl,2,,a,a'>|<fs af='sqRtiMcagala,v,mf,pl,3,,a,a'>
+4	kAbatti	CC	<fs af='avvu,v,any,any,any,,a_batti,a_batti' poslcat="NM">
+5	vAlYlu	PRP	<fs af='vAlYlu,pn,mf,pl,3,,0,0'>|<fs af='vAlYlu,pn,mf,pl,3,,vu,vu'>
+6	manaM	PRP	<fs af='manaM,pn,any,pl,1,,0,0'>
+7	gurwiMcadAniki	VM	<fs af='gurwiMcadaM,n,any,sg,3,,ki,ki' poslcat="NM">
+8	vIlu	NN	<fs af='vIlu,n,any,sg,3,,0,0'>|<fs af='vIlu,n,any,sg,3,,0,0_A'>|<fs af='vIlu,n,any,sg,3,,obl,obl'>
+9	kAni	RP	<fs af='kAni,avy,,,,,,'>
+10	paxXawilo	NN	<fs af='paxXawi,n,any,sg,3,,lo,lo'>
+11	AyA	JJ	<fs af='AyA,avy,,,,,,'>
+12	vaswuvulni	NN	<fs af='vaswuvu,n,any,pl,3,,ni,ni'>
+13	mana	PRP	<fs af='manaM,pn,any,pl,1,,obl,obl'>
+14	muMxuku	NN	<fs af='muMxu,n,,sg,,,ki,ki'>
+15	weVswunnAru	VM	<fs af='we,v,any,pl,2,,wunn,wunn'>|<fs af='we,v,mf,pl,3,,wunn,wunn'>|<fs af='weVswuMdu,v,any,pl,2,,A,A'>|<fs af='weVswuMdu,v,mf,pl,3,,A,A'>
+16	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+17	arWaM	NN	<fs af='arWaM,n,any,sg,3,,0,0'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

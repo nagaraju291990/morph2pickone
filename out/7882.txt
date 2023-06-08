@@ -1,0 +1,6 @@
+<Sentence id="7882">
+0	((	SSF
+1	edicexi	VM	<fs af='eduvu,v,any,any,any,,e_axi,e_axi'>|<fs af='edicexi,pn,any,sg,3,,0,0'>
+2	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

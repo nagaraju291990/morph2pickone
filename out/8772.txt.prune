@@ -1,0 +1,23 @@
+<Sentence id="8772">
+0	((	SSF	
+1	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+2	xUrAna	NN	<fs af='xUraM,n,any,sg,3,,na,na'>
+3	unnavAlYlaki	NN	<fs af='unnavAdu,n,any,pl,3,,ki,ki'>
+4	itlA	RB	<fs af='itlA,avy,,,,,,' poslcat="NM">
+5	vinipiMciMxi	VM	<fs af='vinipiMcu,v,fn,sg,3,,A,A'>
+6	'	SYM	<fs af=',punc,,,,,,'>
+7	pucCassam	UNK	<fs af='pucCassam,n,any,sg,3,,0,0' poslcat="NM">|<fs af='pucCassam,n,any,sg,3,,obl,obl' poslcat="NM">
+8	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+9	axxivAewWaNaxI	NN	<fs af='axxivAewWaNaxI,unk,,,,,,' poslcat="NM">
+10	!	SYM	<fs af='!,punc,,,,,,'>
+11	'	SYM	<fs af=',punc,,,,,,'>
+12	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+13	mAtaki	NN	<fs af='mAta,n,any,sg,3,,ki,ki'>
+14	akkada	NST	<fs af='akkada,adv,any,any,any,,0_adv,0_adv'>
+15	unnavAriki	VM	<fs af='unnavAru,pn,mf,pl,3,,ki,ki' poslcat="NM">
+16	eVvvarikI	PRP	<fs af='eVvvaru,pn,mf,pl,3,,ki,ki_V'>
+17	arWaM	NN	<fs af='arWaM,n,any,sg,3,,0,0'>
+18	weVliyalexu	VM	<fs af='weVliyu,v,any,any,any,,a_lexu,a_lexu'>|<fs af='weVliyagala,v,fn,sg,3,,a,a'>
+19	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

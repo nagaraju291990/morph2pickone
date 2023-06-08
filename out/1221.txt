@@ -1,0 +1,17 @@
+<Sentence id="1221">
+0	((	SSF
+1	emEMxi	VM	<fs af='emavvu,v,fn,sg,3,,A,A'>
+1	ammA	VM	<fs af='ammA,adj,,,,,0,0_adj'>|<fs af='ammA,n,,sg,,,0,0'>|<fs af='ammA,n,,sg,,,obl,obl'>|<fs af='ammu,v,any,any,any,,i_A,i_A'>
+2	aMte	VM	<fs af='aMte,avy,,,,,, '>|<fs af='anu,v,any,any,any,,we,we'>|<fs af='aMtu,v,any,any,any,,e,e'>|<fs af='aMtu,v,any,any,any,,i,i_e'>|<fs af='aMtu,n,any,sg,3,,0,0_e'>
+3	pApa	NN	<fs af='pApu,v,any,any,any,,an,an'>|<fs af='pApa,n,any,sg,3,,0,0'>|<fs af='pApa,n,any,sg,3,,obl,obl'>|<fs af='pApaM,n,any,sg,3,,obl,obl'>|<fs af='pApudu,n,any,sg,3,,obl,obl'>
+4	noru	NN	<fs af='noru,n,any,sg,3,,0,0'>|<fs af='noru,n,any,sg,3,,obl,obl'>
+5	weVravataM	VM	<fs af='weVruvu,v,any,any,any,,adaM,adaM'>|<fs af='weVravataM,n,any,sg,3,,0,0'>
+6	lexu	VAUX	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+7	pAlu	NN	<fs af='paM,n,any,pl,3,,0,0'>|<fs af='paM,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pAlu,n,any,sg,3,,0,0'>|<fs af='pAlu,n,any,sg,3,,0,0_A'>|<fs af='pAlu,n,any,sg,3,,obl,obl'>|<fs af='pAlu,n,any,sg,3,,vu_agr,vu_agr'>
+8	miMgadaM	VM	<fs af='miMgu,v,any,any,any,,adaM,adaM'>|<fs af='miMgadaM,n,any,sg,3,,0,0'>
+9	lexu	VAUX	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+10	ani	UT	<fs af='ani,avy,,,,,, '>|<fs af='anu,v,any,any,any,,i,i'>
+11	edciMxi	VM	<fs af='edcu,v,fn,sg,3,,A,A'>|<fs af='eduvu,v,fn,sg,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

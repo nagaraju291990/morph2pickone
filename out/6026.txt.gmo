@@ -1,0 +1,12 @@
+<Sentence id="6026">			
+0	((	SSF	
+1	ippatiki	NST	<fs af='ippudu,adv,any,any,any,,ku_adv,ku_adv'>
+1	EnA	NST	<fs af='EnA,avy,,,,,,' poslcat="NM">
+2	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+3	boVmma	NN	<fs af='boVmma,n,any,sg,3,,0,0'>|<fs af='boVmma,n,any,sg,3,,obl,obl'>
+4	ane	UT	<fs af='ane,avy,,,,,,'>|<fs af='anu,v,any,any,any,,e,e'>
+5	nammakaM	NN	<fs af='nammakaM,n,any,sg,3,,0,0'>
+6	kaligiMxA	VM	<fs af='kalugu,v,fn,sg,3,,A,A_A'>
+7	?	SYM	<fs af='?,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

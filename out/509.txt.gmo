@@ -1,0 +1,10 @@
+<Sentence id="509">			
+0	((	SSF	
+1	ilAge	NN	<fs af='ilAgu,avy,,,,,e,e_avy' poslcat="NM">
+2	anni	QF	<fs af='anni,pn,any,pl,3,,0,0' poslcat="NM">
+3	grahAlu	NN	<fs af='grahaM,n,any,pl,3,,0,0'>|<fs af='grahaM,n,any,pl,3,,vu_agr,vu_agr'>
+4	wiruguwU	VM	<fs af='wirugu,v,any,any,any,,wU,wU'>
+5	uMtAyi	VAUX	<fs af='uMdu,v,n,pl,3,,wA,wA' poslcat="NM">
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

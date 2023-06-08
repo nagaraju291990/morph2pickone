@@ -1,0 +1,10 @@
+<Sentence id="6728">
+0	((	SSF	
+1	alA	RB	<fs af='alA,avy,,,,,,' poslcat="NM">
+2	kAkapowe	CC	<fs af='avvu,v,any,any,any,,akapowe,akapowe' poslcat="NM">|<fs af='kAkapo,v,any,any,any,,we,we' poslcat="NM">
+3	nAku	PRP	<fs af='nenu,pn,any,sg,1,,ki,ki'>
+4	veVMtane	NST	<fs af='veVMtane,avy,,,,,,' poslcat="NM">
+5	cUpiMcaMdi	VM	<fs af='cUpiMcu,v,any,pl,2,,AjFArWa,AjFArWa'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

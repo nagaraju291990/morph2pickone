@@ -1,0 +1,11 @@
+<Sentence id="3728">			
+0	((	SSF	
+1	pakkane	NST	<fs af='pakka,adv,any,any,any,,0_e_adv,0_e_adv'>
+2	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+3	baMdivAdu	NN	<fs af='baMdi,n,any,sg,3,,vAdu,vAdu'>
+4	baMdilo	NN	<fs af='baMdi,n,any,sg,3,,lo,lo'>
+5	padukuni	VM	<fs af='paduko,v,any,any,any,,i,i'>
+6	nixrapowunnAdu	VM	<fs af='nixrapo,v,m,sg,3,,wunn,wunn'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

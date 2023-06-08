@@ -1,0 +1,11 @@
+<Sentence id="7202">			
+0	((	SSF	
+1	mana	PRP	<fs af='manaM,pn,any,pl,1,,obl,obl'>
+2	cewulU	NN	<fs af='ceyi,n,any,pl,3,,0,0_V'>
+3	,	SYM	<fs af=',,punc,,,,,,'>
+4	golYlU	NN	<fs af='godu,n,any,pl,3,,0,0_V'>
+5	SuBraMgA	RB	<fs af='SuBraM,n,any,sg,3,,gA,gA'>
+6	lekapovataM	VM	<fs af='lekapo,v,any,any,any,,adaM,adaM'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

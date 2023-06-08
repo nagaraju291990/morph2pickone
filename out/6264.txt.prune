@@ -1,0 +1,13 @@
+<Sentence id="6264">
+0	((	SSF	
+1	awyaMwa	INTF	<fs af='awyaMwa,avy,,,,,,'>
+2	nerpuwo	NN	<fs af='nerpu,n,any,sg,3,,wo,wo'>
+3	prawyeka	JJ	<fs af='prawyekaM,n,any,sg,3,,obl,obl' poslcat="NM">
+4	warahA	NN	<fs af='warahA,n,any,sg,3,,0,0'>|<fs af='warahA,n,any,sg,3,,obl,obl'>
+5	eVrrani	JJ	<fs af='eVrra,n,any,sg,3,,ni,ni' poslcat="NM">
+6	prawwiwo	NN	<fs af='prawwi,n,any,sg,3,,wo,wo'>
+7	vaswrAlu	NN	<fs af='vaswraM,n,any,pl,3,,0,0'>|<fs af='vaswraM,n,any,pl,3,,vu_agr,vu_agr'>
+8	neswAru	VM	<fs af='neVyyi,v,any,pl,2,,wA,wA'>|<fs af='neVyyi,v,mf,pl,3,,wA,wA'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

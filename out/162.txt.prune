@@ -1,0 +1,10 @@
+<Sentence id="162">
+0	((	SSF	
+1	nAlugu	QC	<fs af='nAlugu,n,any,sg,3,,0,0'>|<fs af='nAlugu,n,any,sg,3,,obl,obl'>|<fs af='nAlugu,num,any,any,any,,0,0'>
+2	akRarAlu	NN	<fs af='akRaraM,n,any,pl,3,,0,0'>|<fs af='akRaraM,n,any,pl,3,,vu_agr,vu_agr'>
+3	nerpiMcexi	VM	<fs af='nerpiMcu,v,any,any,any,,e_axi,e_axi'>
+4	gaxA	RP	<fs af='gaxi,n,any,sg,3,,0,0_A' poslcat="NM">|<fs af='gaxA,n,any,sg,3,,0,0' poslcat="NM">|<fs af='gaxA,n,any,sg,3,,obl,obl' poslcat="NM">|<fs af='gaxeV,n,any,sg,3,,0,0_A' poslcat="NM">
+5	anipiMciMxi	VM	<fs af='anipiMcu,v,fn,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,22 @@
+<Sentence id="2850">
+0	((	SSF	
+1	mUdu	QC	<fs af='mUdu,n,any,sg,3,,0,0'>|<fs af='mUdu,n,any,sg,3,,obl,obl'>|<fs af='mUdu,num,any,any,any,,0,0'>
+2	_	SYM	<'>|<poslcat="NM"'>
+3	_	SYM	<'>|<poslcat="NM"'>
+4	_	SYM	<'>|<poslcat="NM"'>
+5	_	SYM	<'>|<poslcat="NM"'>
+6	_	SYM	<'>|<poslcat="NM"'>
+7	_	SYM	<'>|<poslcat="NM"'>
+8	gAMXIjI	NN	<fs af='gAMXIjI,n,,sg,,,0,0'>|<fs af='gAMXIjI,n,,sg,,,obl,obl'>
+9	xakRiNAPrikAlo	NNP	<fs af='xakRiNAPrikA,n,any,sg,3,,lo,lo'>|<fs af='xakRiNAPrikA,n,any,pl,3,,0,0_o'>
+10	uMtunna	VM	<fs af='uMdu,v,any,any,any,,wunna,wunna'>|<fs af='uMtuMdu,v,any,any,any,,ina,ina'>
+10	appudu	VM	<fs af='appudu,adv,any,any,any,,0_adv,0_adv' poslcat="NM">
+11	akkada	NST	<fs af='akkada,adv,any,any,any,,0_adv,0_adv'>
+12	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+13	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+14	ASramAnni	NN	<fs af='ASramaM,n,any,sg,3,,ni,ni'>|<fs af='ASramaM,n,any,sg,3,,ni_agr,ni_agr'>
+15	erpAtu	NN	<fs af='erpAtu,n,any,sg,3,,0,0'>|<fs af='erpAtu,n,any,sg,3,,obl,obl'>
+16	cesAdu	VM	<fs af='ceVyyi,v,m,sg,3,,A,A'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

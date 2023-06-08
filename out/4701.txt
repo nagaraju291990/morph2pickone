@@ -1,0 +1,33 @@
+<Sentence id="4701">
+0	((	SSF
+1	ivi	PRP	<fs af='ivi,n,any,sg,3,,0,0'>|<fs af='ivi,n,any,sg,3,,obl,obl'>|<fs af='ixi,pn,fn,pl,3,,0,0'>
+2	kAka	CC	<fs af='kAka,avy,,,,,, '>|<fs af='kAka,n,any,sg,3,,0,0'>|<fs af='kAka,n,any,sg,3,,obl,obl'>|<fs af='avvu,v,any,any,any,,aka,aka'>|<fs af='kAkaM,n,any,sg,3,,obl,obl'>
+3	vaMjaraM	NNP	<fs af='vaMjaraM,n,any,sg,3,,0,0'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	savAlYlu	NNP	<fs af='savAlu,n,any,pl,3,,0,0'>|<fs af='savAlu,n,any,pl,3,,vu_agr,vu_agr'>
+6	,	SYM	<fs af=',,punc,,,,,, '>
+7	sudumu	NNP	<fs af='sudumu,n,any,sg,3,,0,0'>|<fs af='sudumu,n,any,sg,3,,obl,obl'>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	vAnamatta	NNP	<fs af='vAnamatta,n,any,sg,3,,0,0'>|<fs af='vAnamatta,n,any,sg,3,,obl,obl'>
+10	,	SYM	<fs af=',,punc,,,,,, '>
+11	nUneV	NNP	<fs af='nUneV,n,any,sg,3,,0,0'>|<fs af='nUneV,n,any,sg,3,,obl,obl'>
+11	kavalYlu	NNP	<fs af='kavalu,n,any,pl,3,,0,0'>|<fs af='kavalu,n,any,pl,3,,vu_agr,vu_agr'>
+12	,	SYM	<fs af=',,punc,,,,,, '>
+13	kasagurwa	NNP	<fs af='kasagurwa,n,any,sg,3,,0,0'>|<fs af='kasagurwa,n,any,sg,3,,obl,obl'>
+14	,	SYM	<fs af=',,punc,,,,,, '>
+15	kalwI	NN	<fs af='kalwI,n,,sg,,,0,0'>|<fs af='kalwI,n,,sg,,,obl,obl'>
+15	parige	NNP	<fs af='parugu,v,any,any,any,,e,e'>|<fs af='parugu,v,any,any,any,,i,i_e'>|<fs af='pariga,n,any,sg,3,,0,0_e'>|<fs af='parigeV,n,any,sg,3,,0,0_e'>|<fs af='parigeV,n,any,sg,3,,0,0_V'>
+16	,	SYM	<fs af=',,punc,,,,,, '>
+17	wammareVtta	NNP	<fs af='wammareVtta,n,any,sg,3,,0,0'>|<fs af='wammareVtta,n,any,sg,3,,obl,obl'>
+18	,	SYM	<fs af=',,punc,,,,,, '>
+19	sUracepa	NNP	<fs af='sUracepa,n,any,sg,3,,0,0'>|<fs af='sUracepa,n,any,sg,3,,obl,obl'>
+20	,	SYM	<fs af=',,punc,,,,,, '>
+21	siMgi	NNP	<fs af='siMgi,n,any,sg,3,,0,0'>|<fs af='siMgi,n,any,sg,3,,obl,obl'>
+22	,	SYM	<fs af=',,punc,,,,,, '>
+23	savara	NNP	<fs af='savara,n,any,sg,3,,0,0'>|<fs af='savara,n,any,sg,3,,obl,obl'>|<fs af='savaraM,n,any,sg,3,,obl,obl'>
+24	vaMtivi	NN	<fs af='vaMti,adj,,pl,,,xi,xi_0' deri_cat='pn'>
+25	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+26	peVMcukovaccu	VM	<fs af='peVMcuko,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='peVMcuko,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='peVMcuko,v,any,any,any,,a_vaccu,a_vaccu'>
+27	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,13 @@
+<Sentence id="8927">
+0	((	SSF
+1	exo	WQ	<fs af='exi,pn,fn,sg,3,,0,0_o'>
+2	jFApakaM	NN	<fs af='jFApakaM,n,any,sg,3,,0,0'>
+3	unnatle	NN	<fs af='unnatlu,avy,,,,,e,e_avy'>
+4	uMxi	VAUX	<fs af='uMdu,v,fn,sg,3,,A,A'>
+5	gAnI	RP	<fs af='gAnI,avy,,,,,, '>|<fs af='gaM,n,any,sg,3,,ni,ni_V'>
+6	,	SYM	<fs af=',,punc,,,,,, '>
+7	annI	QF	<fs af='anni,pn,any,pl,3,,0,0_V'>
+8	maracipoyAnu	VM	<fs af='maracipo,v,any,sg,1,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

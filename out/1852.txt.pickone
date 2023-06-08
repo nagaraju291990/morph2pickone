@@ -1,0 +1,12 @@
+<Sentence id="1852">			
+0	((	SSF	
+1	nerugA	RB	<fs af='neru,n,any,sg,3,,gA,gA'>'>
+2	plAt_PAM	NN	<fs af='plAt_PAM,unk,,,,,,'>
+3	mIxe	NST	<fs af='mIxi,n,any,sg,3,,0,0_e'>
+4	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+5	polIsu	NN	<fs af='polIs,n,any,sg,3,,0,0'>
+6	steRanuloki	NN	<fs af='steRan,n,any,sg,3,,lopalaki,lopalaki'>
+7	veVlYliMxi	VM	<fs af='veVlYlu,v,fn,sg,3,,A,A'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

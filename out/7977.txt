@@ -1,0 +1,9 @@
+<Sentence id="7977">
+0	((	SSF
+1	palle	NN	<fs af='pallu,n,any,sg,3,,0,0_e'>|<fs af='palli,n,any,sg,3,,0,0_e'>|<fs af='palleV,n,any,sg,3,,0,0_e'>|<fs af='palleV,n,any,sg,3,,0,0_V'>
+2	aMte	UT	<fs af='aMte,avy,,,,,, '>|<fs af='anu,v,any,any,any,,we,we'>|<fs af='aMtu,v,any,any,any,,e,e'>|<fs af='aMtu,v,any,any,any,,i,i_e'>|<fs af='aMtu,n,any,sg,3,,0,0_e'>
+3	kamalaku	NNP	<fs af='kamulu,v,any,sg,2,,aku,aku'>|<fs af='kamala,n,any,sg,3,,ki,ki'>
+4	aBimAnaM	NN	<fs af='aBimAna,adj,any,any,any,,xi_adj,xi_adj'>|<fs af='aBimAnaM,n,any,sg,3,,0,0'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

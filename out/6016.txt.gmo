@@ -1,0 +1,10 @@
+<Sentence id="6016">			
+0	((	SSF	
+1	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+2	giyyadaM	VM	<fs af='giyyi,v,any,any,any,,adaM,adaM'>
+3	kosame	PSP	<fs af='kosame,avy,,,,,,' poslcat="NM">
+4	gAlivAnalo	NN	<fs af='gAlivAna,n,any,sg,3,,lo,lo'>|<fs af='gAlivAna,n,any,pl,3,,0,0_o'>
+5	wadiSAru	VM	<fs af='waduvu,v,any,pl,2,,A,A'>|<fs af='waduvu,v,mf,pl,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

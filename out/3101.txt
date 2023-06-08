@@ -1,0 +1,10 @@
+<Sentence id="3101">
+0	((	SSF
+1	wirigi	VM	<fs af='wirigi,avy,,,,,, '>|<fs af='wirugu,v,any,any,any,,i,i'>
+2	vaccesariki	VM	<fs af='vaccu,v,any,any,any,,e_sariki,e_sariki'>
+3	maXyAhnaM	NN	<fs af='maXyAhnaM,n,any,sg,3,,0,0'>
+4	oVMtigaMta	QC	<fs af='oVkati,num,any,any,any,,gaMta,gaMta'>
+5	xAtipoyiMxi	VM	<fs af='xAtipo,v,fn,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

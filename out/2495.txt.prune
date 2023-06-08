@@ -1,0 +1,22 @@
+<Sentence id="2495">
+0	((	SSF	
+1	melu	NN	<fs af='me,n,any,pl,3,,0,0'>|<fs af='me,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='melu,n,any,sg,3,,0,0'>|<fs af='menu,n,any,pl,3,,0,0'>|<fs af='menu,n,any,pl,3,,vu_agr,vu_agr'>
+2	rakAlu	NN	<fs af='rakaM,n,any,pl,3,,0,0'>|<fs af='rakaM,n,any,pl,3,,vu_agr,vu_agr'>
+3	:	SYM	<fs af=':,punc,,,,,,'>
+4	melurakaM	NN	<fs af='melurakaM,n,any,sg,3,,0,0'>
+5	viwwanAlu	NN	<fs af='viwwanaM,n,any,pl,3,,0,0'>|<fs af='viwwanaM,n,any,pl,3,,vu_agr,vu_agr'>
+6	vAdadaMvalla	VM	<fs af='vAdadaM,n,any,sg,3,,valana,valana' poslcat="NM">
+7	eVkkuva	JJ	<fs af='eVkkuva,adj,any,any,any,,0_adj,0_adj'>
+8	xigubadi	NN	<fs af='xigubadi,n,any,sg,3,,0,0'>|<fs af='xigubadi,n,any,sg,3,,obl,obl'>
+9	poVMxavaccu	VM	<fs af='poVMxu,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='poVMxavaccu,v,any,any,any,,e,e'>
+10	AvAla	NN	<fs af='AvaM,n,any,pl,3,,obl,obl'>|<fs af='AvAlu,n,any,sg,3,,obl,obl'>
+11	paMta	NN	<fs af='paMta,n,any,sg,3,,0,0'>|<fs af='paMta,n,any,sg,3,,obl,obl'>
+12	paMdiMceMxuku	VM	<fs af='paMdiMcu,v,any,any,any,,e_eMxuku,e_eMxuku'>
+13	viviXa	JJ	<fs af='viviXaM,n,any,sg,3,,obl,obl' poslcat="NM">
+14	rakAla	NN	<fs af='rakaM,n,any,pl,3,,obl,obl'>
+15	viwwanAlu	NN	<fs af='viwwanaM,n,any,pl,3,,0,0'>|<fs af='viwwanaM,n,any,pl,3,,vu_agr,vu_agr'>
+16	vAdukalo	NN	<fs af='vAduka,n,any,sg,3,,lo,lo'>|<fs af='vAduka,n,any,pl,3,,0,0_o'>
+17	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

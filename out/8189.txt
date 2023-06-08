@@ -1,0 +1,9 @@
+<Sentence id="8189">
+0	((	SSF
+1	Aku	NN	<fs af='Aku,n,any,sg,3,,0,0'>|<fs af='Aku,n,any,sg,3,,obl,obl'>
+2	_	SYM
+3	alamu	ECH	<fs af='alam,n,any,sg,3,,0,0'>|<fs af='alam,n,any,sg,3,,obl,obl'>
+4	wiMtAyi	VM	<fs af='winu,v,n,pl,3,,wA,wA'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

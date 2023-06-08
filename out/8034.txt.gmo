@@ -1,0 +1,22 @@
+<Sentence id="8034">			
+0	((	SSF	
+1	cinna	NN	<fs af='cinnaM,n,,sg,,,obl,obl'>
+1	kAru	VM	<fs af='kAru,v,,sg,2,,AjFArWa,AjFArWa'>|<fs af='kAru,v,,sg,2,,AjFArWa,AjFArWa'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	rEwulu	NN	<fs af='rEwu,n,any,pl,3,,0,0'>|<fs af='rEwu,n,any,pl,3,,vu_agr,vu_agr'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	sannakAru	NN	<fs af='sannakAru,n,any,sg,3,,0,0'>|<fs af='sannakAru,n,any,sg,3,,obl,obl'>
+6	rEwulu	NN	<fs af='rEwu,n,any,pl,3,,0,0'>|<fs af='rEwu,n,any,pl,3,,vu_agr,vu_agr'>
+7	BUmi	NN	<fs af='BUmi,n,,sg,,,0,0'>|<fs af='BUmi,n,,sg,,,obl,obl'>
+7	leni	VM	<fs af='gala,v,any,any,any,,ani,ani'>
+8	pexalu	NN	<fs af='pexa,n,any,pl,3,,0,0'>|<fs af='pexa,n,any,pl,3,,vu_agr,vu_agr'>
+9	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+10	rEwukUlIlu	NN	<fs af='rEwukUlIlu,unk,,,,,,' poslcat="NM">
+11	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+12	kArmikulu	NN	<fs af='kArmikudu,n,any,pl,3,,0,0'>|<fs af='kArmikudu,n,any,pl,3,,vu_agr,vu_agr'>
+13	eVvaru	PRP	<fs af='eVvaru,pn,,pl,,,0,0'>|<fs af='eVvaru,pn,,pl,,,vu,vu'>
+13	EnA	NN	<fs af='EnA,avy,,,,,,' poslcat="NM">
+14	peVMcavaccu	VM	<fs af='peVMcu,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='peVMcavaccu,v,any,any,any,,e,e'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

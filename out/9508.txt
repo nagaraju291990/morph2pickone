@@ -1,0 +1,17 @@
+<Sentence id="9508">
+0	((	SSF
+1	appatinuMcI	NST	<fs af='appudu,adv,any,any,any,,nuMdi_V_adv,nuMdi_V_adv'>
+2	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+3	xaggaraku	NN	<fs af='xaggara,adv,any,any,any,,0,0_adv_ku'>
+4	veVlYladaM	VM	<fs af='veVlYlu,v,any,any,any,,adaM,adaM'>|<fs af='veVlYladaM,n,any,sg,3,,0,0'>
+5	aMte	UT	<fs af='aMte,avy,,,,,, '>|<fs af='anu,v,any,any,any,,we,we'>|<fs af='aMtu,v,any,any,any,,e,e'>|<fs af='aMtu,v,any,any,any,,i,i_e'>|<fs af='aMtu,n,any,sg,3,,0,0_e'>
+6	,	SYM	<fs af=',,punc,,,,,, '>
+7	sEnikulaku	NN	<fs af='sEnik,n,any,pl,3,,ki,ki'>|<fs af='sEnikudu,n,any,pl,3,,ki,ki'>
+8	mikkili	QF	<fs af='mikkilu,v,any,any,any,,i,i'>|<fs af='mikkili,n,any,sg,3,,0,0'>|<fs af='mikkili,n,any,sg,3,,obl,obl'>
+9	BayaM	NN	<fs af='BayaM,n,any,sg,3,,0,0'>
+10	veyadaM	VM	<fs af='veVyyi,v,any,any,any,,adaM,adaM'>|<fs af='veyadaM,n,any,sg,3,,0,0'>
+11	moVxalu	NN	<fs af='moVxalu,avy,,,,,, '>|<fs af='moVxalu,n,any,sg,3,,0,0'>|<fs af='moVxalu,n,any,sg,3,,0,0_A'>|<fs af='moVxalu,n,any,sg,3,,obl,obl'>
+12	peVttiMxi	VM	<fs af='peVttu,v,fn,sg,3,,A,A'>
+13	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

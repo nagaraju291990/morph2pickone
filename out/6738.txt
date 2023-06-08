@@ -1,0 +1,16 @@
+<Sentence id="6738">
+0	((	SSF
+1	xInini	PRP	<fs af='ixi,pn,fn,sg,3,,nu,nu'>|<fs af='ixi,pn,fn,sg,3,,ni,ni'>
+2	cAkugAni	NN	<fs af='cAku,n,any,sg,3,,0_gAni,0_gAni'>
+3	,	SYM	<fs af=',,punc,,,,,, '>
+4	bledugAni	NN	<fs af='bled,n,any,sg,3,,0_gAni,0_gAni'>|<fs af='bled,n,any,pl,3,,0_gAni,0_gAni'>
+5	upayogiMci	VM	<fs af='upayogiMcu,v,any,any,any,,i,i'>
+6	kawwiriMci	VM	<fs af='kawwiriMcu,v,any,any,any,,i,i'>
+7	,	SYM	<fs af=',,punc,,,,,, '>
+8	veVMtane	NST	<fs af='veVMtane,avy,,,,,, '>
+9	rogini	NN	<fs af='rogi,n,any,sg,3,,ni,ni'>|<fs af='rogi,n,any,sg,3,,ni_agr,ni_agr'>
+10	Aspawriki	NN	<fs af='Aspawri,n,any,sg,3,,ki,ki'>
+11	waraliMcAli	VM	<fs af='waraliMcu,v,any,any,any,,Ali,Ali'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

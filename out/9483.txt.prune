@@ -1,0 +1,10 @@
+<Sentence id="9483">
+0	((	SSF	
+1	cuttU	NST	<fs af='cuttu,n,any,sg,3,,0,0_V'>
+2	vunna	VM	<fs af='vuMdu,v,any,any,any,,ina,ina'>
+3	wUtAlawo	NN	<fs af='wUtA,n,any,pl,3,,wo,wo'>
+4	nippu	NN	<fs af='nippu,n,any,sg,3,,0,0'>|<fs af='nippu,n,any,sg,3,,obl,obl'>
+5	ArpeSAru	VM	<fs af='ArpeVyyi,v,any,pl,2,,A,A'>|<fs af='ArpeVyyi,v,mf,pl,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

@@ -1,0 +1,18 @@
+<Sentence id="8445">			
+0	((	SSF	
+1	cariwra	NN	<fs af='cariwra,n,any,sg,3,,0,0'>|<fs af='cariwra,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	woVluwa	NN	<fs af='woVluwa,n,any,sg,3,,0,0'>|<fs af='woVluwa,n,any,sg,3,,obl,obl'>
+4	`	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+5	neVllUru	NNP	<fs af='neVllUru,n,any,sg,3,,0,0'>|<fs af='neVllUru,n,any,sg,3,,obl,obl'>
+6	'	SYM	<fs af=',punc,,,,,,'>
+7	ku	NN	<fs af='k,n,,sg,,,0,0'>|<fs af='k,n,,sg,,,obl,obl'>
+8	`	NNP	<fs af='<'>|<fs af='<poslcat="NM"'>
+9	vikramasiMhapuraM	NNP	<fs af='vikramasiMhapuraM,n,any,sg,3,,0,0'>
+10	'	SYM	<fs af=',punc,,,,,,'>
+11	ane	UT	<fs af='ane,avy,,,,,,'>|<fs af='anu,v,any,any,any,,e,e'>
+12	peru	NN	<fs af='peru,n,any,sg,3,,0,0'>|<fs af='peru,n,any,sg,3,,obl,obl'>
+13	uMdexi	VM	<fs af='uMdu,v,any,any,any,,e_axi,e_axi'>
+14	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

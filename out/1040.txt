@@ -1,0 +1,8 @@
+<Sentence id="1040">
+0	((	SSF
+1	yAxagirini	NNP	<fs af='yAxagiri,n,any,sg,3,,ni,ni'>|<fs af='yAxagiri,n,any,sg,3,,ni_agr,ni_agr'>
+2	saMgawi	NN	<fs af='saMgawi,n,any,sg,3,,0,0'>|<fs af='saMgawi,n,any,sg,3,,obl,obl'>
+3	adigAdu	VM	<fs af='adugu,v,m,sg,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

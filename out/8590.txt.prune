@@ -1,0 +1,18 @@
+<Sentence id="8590">
+0	((	SSF	
+1	xInini	PRP	<fs af='ixi,pn,fn,sg,3,,nu,nu'>|<fs af='ixi,pn,fn,sg,3,,ni,ni'>
+2	polIsu	NN	<fs af='polIs,n,any,sg,3,,0,0'>|<fs af='polIs,n,any,sg,3,,obl,obl'>|<fs af='polIsu,n,any,sg,3,,0,0'>|<fs af='polIsu,n,any,sg,3,,obl,obl'>
+3	steRanuku	NN	<fs af='steRan,n,any,sg,3,,ki,ki'>|<fs af='steRanu,n,any,sg,3,,ki,ki'>
+4	wIsukoVni	VM	<fs af='wIsuko,v,any,any,any,,i,i'>|<fs af='wIsuko,v,any,any,any,,i,i'>
+5	veVlYlAli	VM	<fs af='veVlYlu,v,any,any,any,,Ali,Ali'>
+5	ano	VM	<fs af='anu,v,any,any,any,,i,i_o'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	mqga	NN	<fs af='mqgaM,n,any,sg,3,,obl,obl'>
+8	praxarSanaSAlaku	NN	<fs af='praxarSanaSAla,n,any,sg,3,,ki,ki'>
+9	wIsuko	VM	<fs af='wiyyi,v,any,any,any,,koVn,koVn'>
+9	veVlYlAli	VM	<fs af='veVlYlu,v,any,any,any,,Ali,Ali'>
+9	ano	VM	<fs af='anu,v,any,any,any,,i,i_o'>
+10	weVliyalexu	VM	<fs af='weVliyu,v,any,any,any,,a_lexu,a_lexu'>|<fs af='weVliyagala,v,fn,sg,3,,a,a'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

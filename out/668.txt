@@ -1,0 +1,15 @@
+<Sentence id="668">
+0	((	SSF
+1	vedi	NN	<fs af='vedu,v,any,any,any,,i,i'>|<fs af='vedi,adj,any,any,any,,0_adj,0_adj'>|<fs af='vedi,n,any,sg,3,,0,0'>|<fs af='vedi,n,any,sg,3,,obl,obl'>|<fs af='vedi,n,any,sg,3,,vu_agr,vu_agr'>
+2	marI	INTF	<fs af='marI,avy,,,,,, '>
+3	eVkkuva	NN	<fs af='eVkkuva,adj,any,any,any,,0_adj,0_adj'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	marI	INTF	<fs af='marI,avy,,,,,, '>
+6	wakkuva	NN	<fs af='wakkuva,n,,sg,,,0,0'>|<fs af='wakkuva,n,,sg,,,obl,obl'>|<fs af='wakkuva,adj,,,,,0,0_adj'>
+6	leni	VM	<fs af='leni,adj,,,,,0,0_adj'>|<fs af='gala,v,any,any,any,,ani,ani'>
+7	BUmullo	NN	<fs af='BUmi,n,any,pl,3,,lo,lo'>
+8	xInini	PRP	<fs af='ixi,pn,fn,sg,3,,nu,nu'>|<fs af='ixi,pn,fn,sg,3,,ni,ni'>
+9	peVMcavaccu	VM	<fs af='peVMcu,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='peVMcavaccu,v,any,any,any,,e,e'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

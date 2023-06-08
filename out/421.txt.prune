@@ -1,0 +1,16 @@
+<Sentence id="421">
+0	((	SSF	
+1	gaMgulu	NNP	<fs af='gaMgulu,n,any,sg,3,,0,0'>
+2	palYlu	NN	<fs af='padi,n,any,pl,3,,0,0'>|<fs af='padi,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='paMdu,n,any,pl,3,,0,0'>|<fs af='paMdu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='pannu,n,any,pl,3,,0,0'>|<fs af='pannu,n,any,pl,3,,vu_agr,vu_agr'>
+3	UdagoVttAli	VM	<fs af='UdagoVttu,v,any,any,any,,Ali,Ali'>
+4	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+5	kopaMgA	RB	<fs af='kopaM,n,any,sg,3,,gA,gA' poslcat="NM">
+6	aricAdu	VM	<fs af='aruvu,v,m,sg,3,,A,A'>
+7	oVkAyana	PRP	<fs af='oVkAyana,pn,m,sg,3,,0,0'>|<fs af='oVkAyana,pn,m,sg,3,,obl,obl'>
+8	aMxarU	PRP	<fs af='aMxaru,pn,mf,pl,3,,0,0_V'>
+9	gaMgulu	NNP	<fs af='gaMgulu,n,any,sg,3,,0,0'>
+10	iMtiki	NN	<fs af='illu,n,any,sg,3,,ki,ki'>
+11	cerAru	VM	<fs af='ceru,v,any,pl,2,,A,A'>|<fs af='ceru,v,mf,pl,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

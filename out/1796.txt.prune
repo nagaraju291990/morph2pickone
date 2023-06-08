@@ -1,0 +1,27 @@
+<Sentence id="1796">
+0	((	SSF	
+1	(	SYM	<fs af='(,punc,,,,,,'>
+2	wirupawi	NNP	<fs af='wirupawi,n,any,sg,3,,0,0'>|<fs af='wirupawi,n,any,sg,3,,obl,obl'>
+3	bastAMdulo	NN	<fs af='bastAMd,n,any,sg,3,,lo,lo'>|<fs af='bastAMdu,n,any,sg,3,,lo,lo'>
+4	ixi	PRP	<fs af='ixi,pn,fn,sg,3,,0,0'>
+5	nijaMgA	RB	<fs af='nijaM,n,any,sg,3,,gA,gA' poslcat="NM">
+6	jarigina	VM	<fs af='jarugu,v,any,any,any,,ina,ina'>
+7	mosaM	NN	<fs af='mosaM,n,any,sg,3,,0,0'>
+8	)	SYM	<fs af='),punc,,,,,,'>
+9	velaMveVrri	NN	<fs af='velaMveVrri,n,any,sg,3,,0,0'>|<fs af='velaMveVrri,n,any,sg,3,,obl,obl'>
+10	_	SYM	<'>|<poslcat="NM"'>
+11	_	SYM	<'>|<poslcat="NM"'>
+12	_	SYM	<'>|<poslcat="NM"'>
+13	_	SYM	<'>|<poslcat="NM"'>
+14	_	SYM	<'>|<poslcat="NM"'>
+15	_	SYM	<'>|<poslcat="NM"'>
+16	_	SYM	<'>|<poslcat="NM"'>
+17	_	SYM	<'>|<poslcat="NM"'>
+18	_	SYM	<'>|<poslcat="NM"'>
+19	vANi	NNP	<fs af='vANi,n,any,sg,3,,0,0'>|<fs af='vANi,n,any,sg,3,,obl,obl'>
+20	ane	UT	<fs af='ane,avy,,,,,,'>|<fs af='anu,v,any,any,any,,e,e'>|<fs af='anu,v,any,any,any,,i,i_e'>
+21	ammAyixi	NN	<fs af='ammAyi,n,any,sg,3,,xi,xi'>
+22	vijayavAda	NNP	<fs af='vijayavAda,n,any,sg,3,,0,0'>|<fs af='vijayavAda,n,any,sg,3,,obl,obl'>
+23	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

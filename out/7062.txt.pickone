@@ -1,0 +1,21 @@
+<Sentence id="7062">			
+0	((	SSF	
+1	xeSaMlo	NN	<fs af='xeSaM,n,any,sg,3,,lo,lo'>
+2	saMvawsarAniki	NN	<fs af='saMvawsaraM,n,any,sg,3,,ki,ki'>
+3	@	SYM	<fs af='@,unk,,,,,,'>
+4	@	SYM	<fs af='@,unk,,,,,,'>
+5	@	SYM	<fs af='@,unk,,,,,,'>
+6	@	SYM	<fs af='@,unk,,,,,,'>
+7	1	QC	<fs af='1,num,,,,,,'>
+8	koti	QC	<fs af='koti,n,any,sg,3,,0,0'>
+9	@	SYM	<fs af='@,unk,,,,,,'>
+10	@	SYM	<fs af='@,unk,,,,,,'>
+11	@	SYM	<fs af='@,unk,,,,,,'>
+12	@	SYM	<fs af='@,unk,,,,,,'>
+13	25	QC	<fs af='25,num,,,,,,'>
+14	lakRala	QC	<fs af='lakRa,n,any,pl,3,,obl,obl'>
+15	maMxi	CL	<fs af='maMxi,n,any,sg,3,,0,0'>'>
+16	peVruguwunnAru	VM	<fs af='peVrugu,v,any,pl,2,,wunn,wunn'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

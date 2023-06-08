@@ -1,0 +1,14 @@
+<Sentence id="9027">
+0	((	SSF
+1	I	DEM	<fs af='I,avy,,,,,, '>
+2	iruvurU	NN	<fs af='iruvuru,pn,mf,pl,3,,0,0_V'>
+3	laMdanu	NNP	<fs af='laMdan,n,any,sg,3,,0,0'>|<fs af='laMdan,n,any,sg,3,,obl,obl'>|<fs af='laMdanu,n,any,sg,3,,0,0'>|<fs af='laMdanu,n,any,sg,3,,obl,obl'>
+4	bayaluxerAru	VM	<fs af='bayaluxeru,v,any,pl,2,,A,A'>|<fs af='bayaluxeru,v,mf,pl,3,,A,A'>
+5	BARA	NN	<fs af='BARa,n,any,sg,3,,0,0_A'>|<fs af='BARa,n,any,sg,3,,0,0_V'>|<fs af='BARA,n,any,sg,3,,0,0'>|<fs af='BARA,n,any,sg,3,,obl,obl'>
+6	SAswravewwa	NN	<fs af='SAswravewwa,n,any,sg,3,,0,0'>|<fs af='SAswravewwa,n,any,sg,3,,obl,obl'>
+7	laMdanu	NNP	<fs af='laMdan,n,any,sg,3,,0,0'>|<fs af='laMdan,n,any,sg,3,,obl,obl'>|<fs af='laMdanu,n,any,sg,3,,0,0'>|<fs af='laMdanu,n,any,sg,3,,obl,obl'>
+8	muMxara	NN	<fs af='muMxara,avy,,,,,0,0_avy'>
+9	cerAdu	VM	<fs af='ceru,v,m,sg,3,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

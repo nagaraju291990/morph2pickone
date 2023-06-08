@@ -1,0 +1,42 @@
+<Sentence id="4888">
+0	((	SSF
+1	eVruvulu	NN	<fs af='eVruvu,n,any,pl,3,,0,0'>|<fs af='eVruvu,n,any,pl,3,,vu_agr,vu_agr'>
+2	,	SYM	<fs af=',,punc,,,,,, '>
+3	cepalaki	NN	<fs af='cepa,n,any,pl,3,,ki,ki'>
+4	AhAraM	NN	<fs af='AhAraM,n,any,sg,3,,0,0'>
+5	_	SYM
+6	_	SYM
+7	_	SYM
+8	_	SYM
+9	_	SYM
+10	_	SYM
+11	_	SYM
+12	_	SYM
+13	_	SYM
+14	_	SYM
+15	_	SYM
+16	_	SYM
+17	_	SYM
+18	_	SYM
+19	_	SYM
+20	_	SYM
+21	_	SYM
+22	_	SYM
+23	_	SYM
+24	_	SYM
+25	_	SYM
+26	_	SYM
+27	_	SYM
+28	_	SYM
+29	_	SYM
+30	cepalu	NN	<fs af='cepa,n,any,pl,3,,0,0'>|<fs af='cepa,n,any,pl,3,,vu_agr,vu_agr'>
+30	ceVruvullo	NN	<fs af='ceVruvullo,unk,,,,,,'>
+31	bAgA	INTF	<fs af='bAgA,avy,,,,,, '>
+32	eVruvulu	NN	<fs af='eVruvu,n,any,pl,3,,0,0'>|<fs af='eVruvu,n,any,pl,3,,vu_agr,vu_agr'>
+33	vesi	VM	<fs af='veVyyi,v,any,any,any,,i,i'>
+34	eVMda	NN	<fs af='eVMdu,v,any,any,any,,an,an'>|<fs af='eVMda,n,any,sg,3,,0,0'>|<fs af='eVMda,n,any,sg,3,,obl,obl'>
+35	bAgA	INTF	<fs af='bAgA,avy,,,,,, '>
+36	wagalanIyAli	VM	<fs af='wagalanivvu,v,any,any,any,,Ali,Ali'>
+37	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

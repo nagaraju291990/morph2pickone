@@ -1,0 +1,9 @@
+<Sentence id="8040">
+0	((	SSF
+1	Unit	NN	<fs af='Unit,n,any,sg,3,,0,0'>|<fs af='Unit,n,any,sg,3,,obl,obl'>
+2	Karcu	NN	<fs af='Karcu,avy,,,,,, '>|<fs af='Karcu,n,any,sg,3,,0,0'>|<fs af='Karcu,n,any,sg,3,,obl,obl'>
+3	edAxiki	NN	<fs af='edAxi,n,any,sg,3,,ki,ki'>
+4	paxivelu	QC	<fs af='paxivelu,n,any,sg,3,,0,0'>|<fs af='paxivelu,n,any,sg,3,,vu_agr,vu_agr'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

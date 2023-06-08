@@ -1,0 +1,18 @@
+<Sentence id="697">
+0	((	SSF
+1	cinnawotakUra	NN	<fs af='cinnawotakUra,unk,,,,,,'>
+2	varasalalo	NN	<fs af='varasa,n,any,pl,3,,lo,lo'>|<fs af='varasala,n,any,sg,3,,lo,lo'>|<fs af='varasala,n,any,pl,3,,0,0_o'>
+3	nAtiwe	VM	<fs af='nAtu,v,any,any,any,,we,we'>
+4	moVkkaki	NN	<fs af='moVkka,n,any,sg,3,,ki,ki'>
+5	,	SYM	<fs af=',,punc,,,,,, '>
+6	moVkkaki	RDP	<fs af='moVkka,n,any,sg,3,,ki,ki'>
+7	maXya	NST	<fs af='maXya,n,any,sg,3,,0,0'>|<fs af='maXya,n,any,sg,3,,obl,obl'>|<fs af='maXyaM,n,any,sg,3,,obl,obl'>
+8	20	QC	<fs af='20,num,,,,,, '>|<fs af='ki,avy,,,,,, '>
+9	leka	CC	<fs af='gala,v,any,any,any,,aka,aka'>
+10	25	QC	<fs af='25,num,,,,,, '>
+11	seVM.mI	NN	<fs af='seVM.mI,unk,,,,,,'>
+12	xUraM	NN	<fs af='xUru,v,any,pl,1,,a,a'>|<fs af='xUraM,n,any,sg,3,,0,0'>
+13	uMdAli	VM	<fs af='uMdu,v,any,any,any,,Ali,Ali'>
+14	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

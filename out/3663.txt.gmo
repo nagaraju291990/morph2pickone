@@ -1,0 +1,21 @@
+<Sentence id="3663">			
+0	((	SSF	
+1	"	SYM	<fs af='",punc,,,,,,'>
+2	nenu	PRP	<fs af='nenu,pn,any,sg,1,,0,0'>
+3	AlociMcasAgAnu	VM	<fs af='AlociMcasAgu,v,any,sg,1,,A,A'>
+4	_	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+5	"	SYM	<fs af='",punc,,,,,,'>
+6	pc	NN	<fs af='pc,n,,sg,,,0,0'>|<fs af='pc,n,,sg,,,obl,obl'>
+7	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+8	30	QC	<fs af='30,num,,,,,,'>
+9	rUpAyallo	NN	<fs af='rUpAya,n,any,pl,3,,lo,lo'>
+10	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+11	eVxxu	NN	<fs af='eVxxu,n,any,sg,3,,0,0'>|<fs af='eVxxu,n,any,sg,3,,obl,obl'>
+12	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+13	30	QC	<fs af='30,num,,,,,,'>
+14	rUpAyallo	NN	<fs af='rUpAya,n,any,pl,3,,lo,lo'>
+15	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+16	Avu	NN	<fs af='Avu,n,any,sg,3,,0,0'>|<fs af='Avu,n,any,sg,3,,obl,obl'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

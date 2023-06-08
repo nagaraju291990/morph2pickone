@@ -1,0 +1,15 @@
+<Sentence id="4239">			
+0	((	SSF	
+1	lAgiwe	VM	<fs af='lAgu,v,any,any,any,,we,we'>
+2	jarimAnA	NN	<fs af='jarimAnA,n,any,sg,3,,0,0'>
+3	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>
+4	ani	UT	<fs af='ani,avy,,,,,,'>
+5	rAsi	VM	<fs af='rAyi,v,any,any,any,,i,i'>
+6	uMxi	VAUX	<fs af='uMdu,v,fn,sg,3,,A,A'>
+7	ani	UT	<fs af='ani,avy,,,,,,'>
+8	BImuniki	NNP	<fs af='BImudu,n,any,sg,3,,ki,ki'>
+9	cUpAdu	VM	<fs af='cUpu,v,m,sg,3,,A,A'>
+10	rAmu	NNP	<fs af='rAmu,n,any,sg,3,,0,0'>
+11	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

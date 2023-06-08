@@ -1,0 +1,16 @@
+<Sentence id="5137">			
+0	((	SSF	
+1	eVMwamaMxi	CL	<fs af='eVMwamaMxi,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='eVMwamaMxi,n,any,sg,3,,obl,obl' poslcat="NM">'>
+2	SAswravewwalu	NN	<fs af='SAswravewwa,n,any,pl,3,,0,0'>|<fs af='SAswravewwa,n,any,pl,3,,vu_agr,vu_agr'>
+3	buggipAlavuwunnAru	VM	<fs af='buggipAlavvu,v,any,pl,2,,wunn,wunn'>|<fs af='buggipAlavvu,v,mf,pl,3,,wunn,wunn'>
+4	!	SYM	<fs af='!,punc,,,,,,'>
+5	eVnni	WQ	<fs af='eVnni,pn,any,pl,3,,0,0'>
+6	pUlu	NN	<fs af='pUvu,n,any,pl,3,,0,0'>
+7	vAdipowunnAyo	VM	<fs af='vAdipo,v,n,pl,3,,wunn,wunn_o'>|<fs af='vAdipowuMdu,v,n,pl,3,,A,A_o'>
+8	eVnni	WQ	<fs af='eVnni,pn,any,pl,3,,0,0'>
+9	piMxeVlu	NN	<fs af='piMxeV,n,any,pl,3,,0,0'>|<fs af='piMxeV,n,any,pl,3,,vu_agr,vu_agr'>
+10	paMdakuMdAne	VM	<fs af='paMdu,v,any,any,any,,akuMdA,akuMdA_e'>
+11	rAlipowunnAyo	VM	<fs af='rAlipo,v,n,pl,3,,wunn,wunn_o'>
+12	?	SYM	<fs af='?,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

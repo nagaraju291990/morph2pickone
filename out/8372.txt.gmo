@@ -1,0 +1,24 @@
+<Sentence id="8372">			
+0	((	SSF	
+1	nAgArjunakoVMda	NNP	<fs af='nAgArjunakoVMda,n,any,sg,3,,0,0'>|<fs af='nAgArjunakoVMda,n,any,sg,3,,obl,obl'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	nAgArjunasAgar	NNP	<fs af='nAgArjunasAgar,n,any,sg,3,,0,0'>|<fs af='nAgArjunasAgar,n,any,sg,3,,obl,obl'>
+4	_	NNP	<fs af='<'>|<fs af='<poslcat="NM"'>
+5	ku	NN	<fs af='k,n,,sg,,,0,0'>|<fs af='k,n,,sg,,,obl,obl'>
+6	24	QC	<fs af='24,num,,,,,,'>
+7	ki	NN	<fs af='ki,avy,,,,,,' poslcat="NM">'>|<fs af='mIru,pn,any,pl,2,,obl,obl' poslcat="NM">'>
+8	|	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+9	|	SYM	<fs af='<'>|<fs af='<poslcat="NM"'>
+10	mI	NN	<fs af='mIru,pn,any,pl,2,,obl,obl' poslcat="NM">
+11	xUraMlo	NN	<fs af='xUraM,n,any,sg,3,,lo,lo'>
+12	gala	RP	<fs af='gala,v,any,any,any,,ina,ina' poslcat="NM">'>|<fs af='gala,adj,any,any,any,,0_adj,0_adj' poslcat="NM">'>
+13	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+14	prAMwamaMxali	NN	<fs af='prAMwaM,n,any,sg,3,,loni,loni'>
+15	parvawaMpE	NN	<fs af='parvawaM,n,any,sg,3,,pE,pE'>
+16	gala	RP	<fs af='gala,v,any,any,any,,ina,ina' poslcat="NM">'>|<fs af='gala,adj,any,any,any,,0_adj,0_adj' poslcat="NM">'>
+17	myUjiyaM	NN	<fs af='myUjiyaM,n,any,sg,3,,0,0'>
+18	praKyAwi	NN	<fs af='praKyAwi,n,any,sg,3,,0,0'>|<fs af='praKyAwi,n,any,sg,3,,obl,obl'>
+19	ceVMxinaxi	VM	<fs af='ceVMxu,v,any,any,any,,ina_axi,ina_axi'>
+20	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

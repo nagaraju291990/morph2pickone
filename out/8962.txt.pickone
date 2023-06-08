@@ -1,0 +1,30 @@
+<Sentence id="8962">			
+0	((	SSF	
+1	koVMwa	QF	<fs af='koVMwa,pn,any,sg,3,,0,0'>
+2	maMxi	CL	<fs af='maMxi,n,any,sg,3,,0,0'>'>
+3	peVxxa	JJ	<fs af='peVxxa,adj,any,any,any,,0_adj,0_adj'>
+4	peVxxa	RDP	<fs af='peVxxa,adj,any,any,any,,0_adj,0_adj'>
+5	paMdiwulu	NN	<fs af='paMdiw,n,any,pl,3,,0,0'>
+6	mAwrame	PSP	<fs af='mAwrame,avy,,,,,,'>
+7	pogupadi	VM	<fs af='pogupadu,v,any,any,any,,i,i'>
+8	I	DEM	<fs af='I,avy,,,,,,'>
+9	vyakwi	NN	<fs af='vyakwi,n,any,sg,3,,0,0'>
+10	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+11	gaMXarvudu	NN	<fs af='gaMXarvudu,n,any,sg,3,,0,0'>
+12	anI	UT	<fs af='anI,avy,,,,,,'>
+13	,	SYM	<fs af=',,punc,,,,,,'>
+14	hiMxuvulu	NNP	<fs af='hiMxuvu,n,any,pl,3,,0,0'>
+15	viSvasiMce	VM	<fs af='viSvasiMcu,v,any,any,any,,e,e'>
+16	xevawalalo	NN	<fs af='xevawa,n,any,pl,3,,lo,lo'>
+17	vIdu	PRP	<fs af='vIdu,v,any,sg,2,,AjFArWa,AjFArWa'>'>
+18	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+19	jAwivAdu	NN	<fs af='jAwi,n,any,sg,3,,vAdu,vAdu'>
+20	anI	UT	<fs af='anI,avy,,,,,,'>
+21	weVliyaceyavaccunA	VM	<fs af='weVliyaceyavaccu,v,any,sg,3,,uxu,uxu_A'>
+22	ane	UT	<fs af='ane,avy,,,,,,'>
+23	viRayAnni	NN	<fs af='viRayaM,n,any,sg,3,,ni,ni'>
+24	guriMci	PSP	<fs af='guriMci,avy,,,,,,'>
+25	vicAriMcAru	VM	<fs af='vicAriMcu,v,any,pl,2,,A,A'>
+26	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

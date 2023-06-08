@@ -1,0 +1,11 @@
+<Sentence id="4155">			
+0	((	SSF	
+1	vexayya	NNP	<fs af='vexayya,n,any,sg,3,,0,0'>
+2	pata	NN	<fs af='pataM,n,any,sg,3,,obl,obl'>
+3	patamu	NN	<fs af='pataM,n,,sg,,,0,0'>
+3	ani	VM	<fs af='anu,v,any,any,any,,i,i'>
+4	vakka	NN	<fs af='vakka,n,any,sg,3,,0,0'>
+5	koVrikAdu	VM	<fs af='koVruku,v,m,sg,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

@@ -1,0 +1,11 @@
+<Sentence id="7680">			
+0	((	SSF	
+1	rekulaku	NN	<fs af='reku,n,any,pl,3,,ki,ki'>
+2	xannugA	NN	<fs af='xannu,n,any,sg,3,,gA,gA'>
+3	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>
+4	adda	NN	<fs af='addaM,n,any,sg,3,,obl,obl'>
+5	xUlAlu	NN	<fs af='xUlaM,n,,pl,,,0,0'>|<fs af='xUlaM,n,,pl,,,vu,vu'>
+5	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

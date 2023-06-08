@@ -1,0 +1,16 @@
+<Sentence id="3404">
+0	((	SSF	
+1	nenu	PRP	<fs af='nenu,pn,any,sg,1,,0,0'>
+2	nIku	PRP	<fs af='nIvu,pn,any,sg,2,,ki,ki'>
+3	eM	WQ	<fs af='eM,avy,,,,,,'>
+4	apakAraM	NN	<fs af='apakAraM,n,any,sg,3,,0,0'>
+5	ceSAnu	VM	<fs af='ceVyyi,v,any,sg,1,,A,A'>
+6	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+7	adigAdu	VM	<fs af='adugu,v,m,sg,3,,A,A'>
+8	somulu	NNP	<fs af='somu,n,any,pl,3,,0,0'>|<fs af='somu,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='somulu,n,any,sg,3,,0,0'>|<fs af='somulu,n,any,sg,3,,obl,obl'>|<fs af='somulu,n,any,sg,3,,vu_agr,vu_agr'>|<fs af='somudu,n,any,pl,3,,0,0'>|<fs af='somudu,n,any,pl,3,,vu_agr,vu_agr'>
+9	nIku	PRP	<fs af='nIvu,pn,any,sg,2,,ki,ki'>
+10	weVlivi	NN	<fs af='weVlivi,n,any,sg,3,,0,0'>|<fs af='weVlivi,n,any,sg,3,,obl,obl'>
+11	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

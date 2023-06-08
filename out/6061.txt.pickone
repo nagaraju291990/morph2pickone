@@ -1,0 +1,13 @@
+<Sentence id="6061">			
+0	((	SSF	
+1	ixi	PRP	<fs af='ixi,pn,fn,sg,3,,0,0'>
+2	20	QC	<fs af='20,num,,,,,,'>
+3	nuMdi	PSP	<fs af='nuMdi,avy,,,,,,'>
+4	200	QC	<fs af='200,num,,,,,,'>
+5	ki
+6	varaku	PSP	<fs af='varaku,avy,,,,,,'>'>
+7	vyApiMci	VM	<fs af='vyApiMcu,v,any,any,any,,i,i'>
+8	uMxi	VAUX	<fs af='uMdu,v,fn,sg,3,,A,A'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

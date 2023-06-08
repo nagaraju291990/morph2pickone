@@ -1,0 +1,26 @@
+<Sentence id="5129">
+0	((	SSF	
+1	puruti	NN	<fs af='purudu,n,any,sg,3,,obl,obl'>
+2	noVppulawo	NN	<fs af='noVppi,n,any,pl,3,,wo,wo'>
+3	alamatiMcina	VM	<fs af='alamatiMcu,v,any,any,any,,ina,ina'>
+4	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+5	lewa	JJ	<fs af='lewa,adj,any,any,any,,0_adj,0_adj'>
+6	SarIrAlaku	NN	<fs af='SarIraM,n,any,pl,3,,ki,ki'>
+7	alasipoyina	VM	<fs af='alayu,v,any,any,any,,i_po_ina,i_po_ina'>
+8	kuppakUlina	VM	<fs af='kuppakUlu,v,any,any,any,,ina,ina'>
+9	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+10	avayavAlaku	NN	<fs af='avayavaM,n,any,pl,3,,ki,ki'>
+11	illu	NN	<fs af='illu,n,any,sg,3,,0,0'>
+12	vaxili	VM	<fs af='vaxulu,v,any,any,any,,i,i'>
+13	prapaMcaMloki	NN	<fs af='prapaMcaM,n,any,sg,3,,lopalaki,lopalaki'>
+14	pAripoleni	VM	<fs af='pAripogala,v,any,any,any,,ani,ani'>
+15	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+16	mUga	NN	<fs af='mUgu,v,any,any,any,,an,an' poslcat="NM">|<fs af='mUga,adj,any,any,any,,0_adj,0_adj' poslcat="NM">
+17	jIvulaku	NN	<fs af='jIvi,n,any,pl,3,,ki,ki'>|<fs af='jIvudu,n,any,pl,3,,ki,ki'>
+18	mIru	PRP	<fs af='mIru,pn,any,pl,2,,0,0'>
+19	icce	VM	<fs af='ivvu,v,any,any,any,,e,e'>|<fs af='ivvu,v,any,any,any,,i,i_e'>
+20	javAbu	NN	<fs af='javAbu,n,any,sg,3,,0,0'>|<fs af='javAbu,n,any,sg,3,,obl,obl'>
+21	emiti	WQ	<fs af='emiti,avy,,,,,,'>
+22	?	SYM	<fs af='?,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

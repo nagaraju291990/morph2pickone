@@ -1,0 +1,14 @@
+<Sentence id="9023">			
+0	((	SSF	
+1	gurrAnikI	NN	<fs af='gurraM,n,any,sg,3,,ki,ki_V'>
+2	,	SYM	<fs af=',,punc,,,,,,'>
+3	siMhAnikI	NN	<fs af='siMhaM,n,any,sg,3,,ki,ki_V'>
+4	unnA	VM	<fs af='uMdu,v,any,any,any,,inA,inA'>
+5	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+6	jUlu	NN	<fs af='jUlu,n,any,sg,3,,0,0'>
+7	kAnI	CC	<fs af='kAnI,avy,,,,,,'>
+8	veVMtrukalu	NN	<fs af='veVMtruka,n,any,pl,3,,0,0'>
+9	kAvu	VM	<fs af='avvu,v,any,sg,2,,a,a'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

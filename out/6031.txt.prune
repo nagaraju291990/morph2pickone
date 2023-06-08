@@ -1,0 +1,9 @@
+<Sentence id="6031">
+0	((	SSF	
+1	lakRmi	NNP	<fs af='lakRmi,n,any,sg,3,,0,0'>|<fs af='lakRmi,n,any,sg,3,,obl,obl'>
+2	kUdA	PSP	<fs af='kUdA,avy,,,,,,' poslcat="NM">|<fs af='kUdu,v,any,any,any,,i,i_A' poslcat="NM">|<fs af='kUdu,n,any,sg,3,,0,0_A' poslcat="NM">
+3	edupu	NN	<fs af='edupu,n,any,sg,3,,0,0'>|<fs af='edupu,n,any,sg,3,,obl,obl'>
+4	ApukolekapoyiMxi	VM	<fs af='Apu,v,fn,sg,3,,koVn_a_le_aka_po_A,koVn_a_le_aka_po_A'>
+5	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

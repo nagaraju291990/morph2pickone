@@ -1,0 +1,9 @@
+<Sentence id="7749">
+0	((	SSF
+1	pittala	NN	<fs af='pitta,n,any,pl,3,,obl,obl'>
+2	Ikala	NN	<fs af='Ika,n,,pl,,,obl,obl'>
+2	Ewe	VM	<fs af='avvu,v,any,any,any,,we,we'>
+3	saresari	NN	<fs af='saresari,avy,,,,,0,0_avy'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

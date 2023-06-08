@@ -1,0 +1,8 @@
+<Sentence id="7949">
+0	((	SSF
+1	unnaxi	VM	<fs af='uMdu,v,any,any,any,,ina_axi,ina_axi'>|<fs af='uMdu,v,fn,sg,3,,A,A'>|<fs af='unnaxi,pn,any,sg,3,,0,0'>
+2	aMwA	QF	<fs af='aMwa,pn,any,pl,3,,0,0_A'>|<fs af='aMwa,pn,any,pl,3,,0,0_V'>
+3	poyiMxi	VM	<fs af='po,v,fn,sg,3,,A,A'>
+4	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

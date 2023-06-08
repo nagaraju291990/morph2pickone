@@ -1,0 +1,15 @@
+<Sentence id="9052">
+0	((	SSF
+1	e	WQ	<fs af='e,avy,,,,,, '>|<fs af='e,adj,any,any,any,,0_adj,0_adj'>
+2	xeSaMlo	NN	<fs af='xeSaM,n,any,sg,3,,lo,lo'>
+3	EnA	RP	<fs af='EnA,avy,,,,,, '>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	eVnimixi	QC	<fs af='eVnimixi,n,any,sg,3,,0,0'>|<fs af='eVnimixi,n,any,sg,3,,obl,obl'>|<fs af='eVnimixi,num,any,any,any,,0,0'>
+6	adugula	NN	<fs af='adugu,n,any,pl,3,,obl,obl'>
+7	poVdugu	NN	<fs af='poVdugu,adj,any,any,any,,0_adj,0_adj'>|<fs af='poVdugu,n,any,sg,3,,0,0'>|<fs af='poVdugu,n,any,sg,3,,obl,obl'>
+8	maniRi	NN	<fs af='maniRi,n,any,sg,3,,0,0'>|<fs af='maniRi,n,any,sg,3,,obl,obl'>
+9	uMte	VM	<fs af='uMdu,v,any,any,any,,we,we'>
+10	uMdavaccu	VAUX	<fs af='uMdu,v,any,any,any,,a_vaccu,a_vaccu'>|<fs af='uMdavaccu,v,any,any,any,,e,e'>
+11	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

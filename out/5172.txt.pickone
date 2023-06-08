@@ -1,0 +1,14 @@
+<Sentence id="5172">			
+0	((	SSF	
+1	akRaraM	NNP	<fs af='akRaraM,n,any,sg,3,,0,0'>
+2	-	SYM	<fs af='<'>
+3	cIkatipalli	NNP	<fs af='cIkatipalli,n,any,sg,3,,0,0'>
+4	I	DEM	<fs af='I,avy,,,,,,'>
+5	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>
+6	UlYlU	NN	<fs af='Uru,n,any,pl,3,,0,0_V'>
+7	mana	PRP	<fs af='manaM,pn,any,pl,1,,obl,obl'>
+8	xeSaMlone	NN	<fs af='xeSaM,n,any,sg,3,,0_lo_nu_e,0_lo_nu_e'>
+9	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

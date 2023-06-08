@@ -1,0 +1,20 @@
+<Sentence id="6078">			
+0	((	SSF	
+1	kqRNA	NNP	<fs af='kqRNa,n,any,sg,3,,0,0_A'>
+2	,	SYM	<fs af=',,punc,,,,,,'>
+3	goxAvari	NNP	<fs af='goxAvari,n,any,sg,3,,0,0'>
+4	,	SYM	<fs af=',,punc,,,,,,'>
+5	maMjIra	NNP	<fs af='maMjIra,n,any,sg,3,,0,0'>
+6	,	SYM	<fs af=',,punc,,,,,,'>
+7	prANahiwa	NNP	<fs af='prANahiwa,n,any,sg,3,,0,0'>
+8	wappa	RP	<fs af='wappu,v,any,any,any,,an,an'>'>
+9	migilina	VM	<fs af='migulu,v,any,any,any,,ina,ina'>
+10	naxulu	NN	<fs af='naxi,n,any,pl,3,,0,0'>
+11	wUrpu	NN	<fs af='wUrpu,n,any,sg,3,,0,0'>
+12	kanumalalo	NN	<fs af='kanuma,n,any,pl,3,,lo,lo'>
+13	putti	VM	<fs af='puttu,v,any,any,any,,i,i'>
+14	baMgAlYAKAwaMlo	NNP	<fs af='baMgAlYAKAwaM,n,any,sg,3,,lo,lo'>
+15	kaluswunnAyi	VM	<fs af='kaluvu,v,n,pl,3,,wunn,wunn'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

@@ -1,0 +1,11 @@
+<Sentence id="7181">
+0	((	SSF
+1	virecanAlayiwe	VM	<fs af='virecanAlavvu,v,any,any,any,,we,we'>
+2	oVMtlo	NN	<fs af='oVllu,n,any,sg,3,,lo,lo'>
+3	nIru	NN	<fs af='nIru,n,any,sg,3,,0,0'>|<fs af='nIru,n,any,sg,3,,obl,obl'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	lavaNAlu	NN	<fs af='lavaNaM,n,any,pl,3,,0,0'>|<fs af='lavaNaM,n,any,pl,3,,vu_agr,vu_agr'>
+6	powAyi	VM	<fs af='po,v,n,pl,3,,wA,wA'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

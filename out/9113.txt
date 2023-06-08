@@ -1,0 +1,42 @@
+<Sentence id="9113">
+0	((	SSF
+1	e	WQ	<fs af='e,avy,,,,,, '>|<fs af='e,adj,any,any,any,,0_adj,0_adj'>
+2	SabxaM	NN	<fs af='SabxaM,n,any,sg,3,,0,0'>
+3	uccariMceMxuku	VM	<fs af='uccariMcu,v,any,any,any,,e_eMxuku,e_eMxuku'>
+4	eVMwa	WQ	<fs af='eVMwa,pn,any,sg,3,,0,0'>
+5	gAli	NN	<fs af='gAli,n,any,sg,3,,0,0'>|<fs af='gAli,n,any,sg,3,,obl,obl'>
+6	manaM	PRP	<fs af='manaM,pn,any,pl,1,,0,0'>
+7	nABi	NN	<fs af='nABi,n,any,sg,3,,0,0'>|<fs af='nABi,n,any,sg,3,,obl,obl'>
+8	xaggaranuMci	NN	<fs af='xaggaranuMci,avy,,,,,0,0_avy'>
+9	puttiMcAli	VM	<fs af='puttiMcu,v,any,any,any,,Ali,Ali'>
+10	,	SYM	<fs af=',,punc,,,,,, '>
+11	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+12	kaMTaMlo	NN	<fs af='kaMTaM,n,any,sg,3,,lo,lo'>
+13	eVMwa	WQ	<fs af='eVMwa,pn,any,sg,3,,0,0'>
+14	bigabattAli	VM	<fs af='bigabattu,v,any,any,any,,Ali,Ali'>
+15	,	SYM	<fs af=',,punc,,,,,, '>
+16	muKaMloki	NN	<fs af='muKaM,n,any,sg,3,,lopalaki,lopalaki'>
+17	rAniccina	VM	<fs af='rAnivvu,v,any,any,any,,ina,ina'>
+18	gAli	NN	<fs af='gAli,n,any,sg,3,,0,0'>|<fs af='gAli,n,any,sg,3,,obl,obl'>
+19	wAlYuvulako	NN	<fs af='wAlYuvu,n,any,pl,3,,ki,ki_o'>
+20	xaMwAlako	NN	<fs af='xaMwaM,n,any,pl,3,,ki,ki_o'>
+21	,	SYM	<fs af=',,punc,,,,,, '>
+22	UrXvaBAgAniko	NN	<fs af='UrXvaBAgaM,n,any,sg,3,,ki,ki_o'>
+23	eVkkuva	NN	<fs af='eVkkuva,adj,any,any,any,,0_adj,0_adj'>
+24	wagiliMcAli	VM	<fs af='wagiliMcu,v,any,any,any,,Ali,Ali'>
+25	,	SYM	<fs af=',,punc,,,,,, '>
+26	wakkuva	QF	<fs af='wakkuva,adj,any,any,any,,0_adj,0_adj'>
+27	wagiliMcAli	VM	<fs af='wagiliMcu,v,any,any,any,,Ali,Ali'>
+28	ixi	PRP	<fs af='ixi,pn,fn,sg,3,,0,0'>
+29	aMwA	QF	<fs af='aMwa,pn,any,pl,3,,0,0_A'>|<fs af='aMwa,pn,any,pl,3,,0,0_V'>
+30	mana	PRP	<fs af='manaM,pn,any,pl,1,,obl,obl'>
+31	meVxadulo	NN	<fs af='meVxadu,n,any,sg,3,,lo,lo'>
+32	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+33	jFAnAnnibatti	NN	<fs af='jFAnaM,n,any,sg,3,,batti,batti'>
+34	manaku	PRP	<fs af='manaM,pn,any,pl,1,,ki,ki'>
+35	weVliyakuMdAne	VM	<fs af='weVliyu,v,any,any,any,,akuMdA,akuMdA_e'>
+36	jarigipowU	VM	<fs af='jarigipo,v,any,any,any,,wU,wU'>
+37	uMtuMxi	VAUX	<fs af='uMdu,v,fn,sg,3,,wA,wA'>|<fs af='uMtuMdu,v,fn,sg,3,,A,A'>
+38	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

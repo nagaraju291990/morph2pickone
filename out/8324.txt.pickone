@@ -1,0 +1,31 @@
+<Sentence id="8324">			
+0	((	SSF	
+1	mOryulu	NNP	<fs af='mOryu,n,any,pl,3,,0,0'>
+2	,	SYM	<fs af=',,punc,,,,,,'>
+3	pallavulu	NNP	<fs af='pallavi,n,any,pl,3,,0,0'>
+4	,	SYM	<fs af=',,punc,,,,,,'>
+5	ikRvAkulu	NNP	<fs af='ikRvAku,n,any,pl,3,,0,0'>
+6	,	SYM	<fs af=',,punc,,,,,,'>
+7	viRNukuMdinulu	NNP	<fs af='viRNukuMdinulu,n,any,sg,3,,0,0'>
+8	,	SYM	<fs af=',,punc,,,,,,'>
+9	codulu	NNP	<fs af='codi,n,any,pl,3,,0,0'>
+10	,	SYM	<fs af=',,punc,,,,,,'>
+11	cAlYukyulu	NNP	<fs af='cAlYukyudu,n,any,pl,3,,0,0'>
+12	,	SYM	<fs af=',,punc,,,,,,'>
+13	kAkawIyulu	NNP	<fs af='kAkawIyudu,n,any,pl,3,,0,0'>
+14	,	SYM	<fs af=',,punc,,,,,,'>
+15	koVMdavIti	NNP	<fs af='koVMdavIdu,n,any,sg,3,,obl,obl'>
+16	reVddirAjulu	NNP	<fs af='reVddirAju,n,any,pl,3,,0,0'>
+17	,	SYM	<fs af=',,punc,,,,,,'>
+18	vijayanagara	NNP	<fs af='vijayanagara,n,any,sg,3,,0,0'>
+19	rAjulu	NN	<fs af='rAju,n,any,pl,3,,0,0'>
+20	,	SYM	<fs af=',,punc,,,,,,'>
+21	gajapawulu	NNP	<fs af='gajapawi,n,any,pl,3,,0,0'>
+22	,	SYM	<fs af=',,punc,,,,,,'>
+23	golkoVMda	NNP	<fs af='golkoVMda,n,any,sg,3,,0,0'>
+24	navAbulu	NN	<fs af='navAb,n,any,pl,3,,0,0'>
+25	pAliMcina	VM	<fs af='pAliMcu,v,any,any,any,,ina,ina'>
+26	prAMwamu	NN	<fs af='prAMwaM,n,any,sg,3,,0,0'>
+27	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

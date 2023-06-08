@@ -1,0 +1,16 @@
+<Sentence id="4083">
+0	((	SSF	
+1	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+2	cAlA	INTF	<fs af='cAlu,v,any,any,any,,i,i_A' poslcat="NM">
+3	mahimagalaxi	NN	<fs af='mahima,n,,sg,,,gala_axi,gala_axi_0' deri_cat=pn>
+4	-	SYM	<'>|<poslcat="NM"'>
+5	xAnni	PRP	<fs af='axi,pn,fn,sg,3,,nu,nu'>|<fs af='axi,pn,fn,sg,3,,ni,ni'>
+6	moVkkiwe	VM	<fs af='moVkku,v,any,any,any,,we,we'>
+7	koriMxi	VM	<fs af='koru,v,fn,sg,3,,A,A'>
+8	jaruguwuMxi	VM	<fs af='jarugu,v,fn,sg,3,,wA,wA'>
+9	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+10	rAjuku	NN	<fs af='rAju,n,any,sg,3,,ki,ki'>
+11	ceVppAdu	VM	<fs af='ceVppu,v,m,sg,3,,A,A'>
+12	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

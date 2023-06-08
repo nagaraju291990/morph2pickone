@@ -1,0 +1,10 @@
+<Sentence id="8139">
+0	((	SSF
+1	axi	PRP	<fs af='axi,pn,fn,sg,3,,0,0'>
+2	140	QC	<fs af='140,num,,,,,, '>
+3	_	SYM
+4	150	QC	<fs af='150,num,,,,,, '>
+5	rojule	NN	<fs af='roju,v,any,sg,2,,AjFArWa_le,AjFArWa_le'>|<fs af='roju,n,any,sg,3,,0_le,0_le'>|<fs af='roju,n,any,pl,3,,0,0_e'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

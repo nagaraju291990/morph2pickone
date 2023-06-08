@@ -1,0 +1,9 @@
+<Sentence id="7310">
+0	((	SSF
+1	koVttaMlo	NN	<fs af='koVttaM,n,any,sg,3,,lo,lo'>
+2	peda	NN	<fs af='pedu,v,any,any,any,,an,an'>|<fs af='peda,n,any,sg,3,,0,0'>|<fs af='peda,n,any,sg,3,,obl,obl'>
+3	wIsexi	VM	<fs af='wiyyi,v,any,any,any,,e_axi,e_axi'>|<fs af='wIsexi,pn,any,sg,3,,0,0'>
+4	vAde	PRP	<fs af='vAdu,v,any,any,any,,e,e'>|<fs af='vAdu,v,any,any,any,,i,i_e'>|<fs af='vAdu,pn,m,sg,3,,0,0_e'>|<fs af='vAdi,n,any,sg,3,,0,0_e'>|<fs af='vAda,n,any,sg,3,,0,0_e'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,16 @@
+<Sentence id="4717">
+0	((	SSF
+1	oVkati	QC	<fs af='oVkati,n,any,sg,3,,0,0'>|<fs af='oVkati,n,any,sg,3,,obl,obl'>|<fs af='oVkati,num,any,any,any,,0,0'>
+2	narsari	NN	<fs af='narsari,n,any,sg,3,,0,0'>|<fs af='narsari,n,any,sg,3,,obl,obl'>
+3	ceVruvu	NN	<fs af='ceVruvu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='ceVruvu,n,any,sg,3,,0,0'>|<fs af='ceVruvu,n,any,sg,3,,obl,obl'>
+4	,	SYM	<fs af=',,punc,,,,,, '>
+5	reVMdu	QC	<fs af='reVMdu,n,any,sg,3,,0,0'>|<fs af='reVMdu,n,any,sg,3,,obl,obl'>|<fs af='reVMdu,num,any,any,any,,0,0'>
+6	peVMpakaM	NN	<fs af='peVMpakaM,n,any,sg,3,,0,0'>
+7	ceVruvu	NN	<fs af='ceVruvu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='ceVruvu,n,any,sg,3,,0,0'>|<fs af='ceVruvu,n,any,sg,3,,obl,obl'>
+8	,	SYM	<fs af=',,punc,,,,,, '>
+9	mUdu	QC	<fs af='mUdu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='mUdu,n,any,sg,3,,0,0'>|<fs af='mUdu,n,any,sg,3,,obl,obl'>|<fs af='mUdu,num,any,any,any,,0,0'>
+10	niluva	NN	<fs af='niluva,n,any,sg,3,,0,0'>|<fs af='niluva,n,any,sg,3,,obl,obl'>
+11	ceVruvu	NN	<fs af='ceVruvu,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='ceVruvu,n,any,sg,3,,0,0'>|<fs af='ceVruvu,n,any,sg,3,,obl,obl'>
+12	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

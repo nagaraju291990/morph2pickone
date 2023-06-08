@@ -1,0 +1,14 @@
+<Sentence id="2874">
+0	((	SSF
+1	eVkkuva	JJ	<fs af='eVkkuva,adj,any,any,any,,0_adj,0_adj'>
+2	mArkulu	NN	<fs af='mArk,n,any,pl,3,,0,0'>|<fs af='mArk,n,any,pl,3,,vu_agr,vu_agr'>|<fs af='mArku,n,any,pl,3,,0,0'>|<fs af='mArku,n,any,pl,3,,vu_agr,vu_agr'>
+3	saMpAxiMcadaM	VM	<fs af='saMpAxiMcu,v,any,any,any,,adaM,adaM'>|<fs af='saMpAxiMcadaM,n,any,sg,3,,0,0'>
+4	valla	PSP	<fs af='valla,avy,,,,,, '>
+5	vAlYlu	PRP	<fs af='vAlYlu,pn,mf,pl,3,,0,0'>|<fs af='vAlYlu,pn,mf,pl,3,,vu,vu'>
+6	garvapadipowunnAru	VM	<fs af='garvapadipo,v,any,pl,2,,wunn,wunn'>|<fs af='garvapadipo,v,mf,pl,3,,wunn,wunn'>
+6	emo	VM	<fs af='emo,avy,,,,,, '>
+7	kUdA	PSP	<fs af='kUdA,avy,,,,,, '>|<fs af='kUdu,v,any,any,any,,i,i_A'>|<fs af='kUdu,n,any,sg,3,,0,0_A'>
+8	cUsevAru	VM	<fs af='cUdu,v,any,any,any,,e_vAru,e_vAru'>|<fs af='cUsevAru,pn,mf,pl,3,,0,0'>|<fs af='cUsevAru,pn,mf,pl,3,,vu,vu'>
+9	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

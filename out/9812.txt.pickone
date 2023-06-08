@@ -1,0 +1,19 @@
+<Sentence id="9812">			
+0	((	SSF	
+1	jarmanu	NNP	<fs af='jarman,n,any,sg,3,,0,0'>
+2	paMdiwudU	NN	<fs af='paMdiwudu,n,any,sg,3,,0,0_V'>
+3	wana	PRP	<fs af='wAnu,pn,mf,sg,3,,obl,obl'>
+4	vixya	NN	<fs af='vixya,n,any,sg,3,,0,0'>
+5	aMwA	QF	<fs af='aMwa,pn,any,pl,3,,0,0_A'>'>
+6	aMwA	RDP	<fs af='aMwa,pn,any,pl,3,,0,0_A'>'>
+7	kummariMci	VM	<fs af='kummariMcu,v,any,any,any,,i,i'>
+8	nItilo	NN	<fs af='nIru,n,any,sg,3,,lo,lo'>
+9	paMcaxAra	NN	<fs af='paMcaxAra,n,any,sg,3,,0,0'>
+10	kalipinatlu	VM	<fs af='kalupu,v,any,any,any,,ina_atlu,ina_atlu'>
+11	vAyu	VM	<fs af='vAyi,v,any,any,any,,e,e'>
+12	mArgAlalo	NN	<fs af='mArgaM,n,any,pl,3,,lo,lo'>
+13	saMgIwAnni	NN	<fs af='saMgIwaM,n,any,sg,3,,ni,ni'>
+14	kalipiMcAdu	VM	<fs af='kalipiMcu,v,m,sg,3,,A,A'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

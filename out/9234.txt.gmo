@@ -1,0 +1,13 @@
+<Sentence id="9234">			
+0	((	SSF	
+1	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+2	mqgaM	NN	<fs af='mqgaM,n,any,sg,3,,0,0'>
+3	asalu	NN	<fs af='asalu,n,any,sg,3,,0,0'>|<fs af='asalu,n,any,sg,3,,0,0_A'>
+4	gAli	NN	<fs af='gAli,n,any,sg,3,,0,0'>|<fs af='gAli,n,any,sg,3,,obl,obl'>
+5	pIlcakuMdA	VM	<fs af='pIlcu,v,any,any,any,,akuMdA,akuMdA'>|<fs af='pIlcakuMdu,v,any,any,any,,i,i_A'>
+6	bigabeVttiMx	VM	<fs af='bigabeVttiMx,unk,,,,,,' poslcat="NM">
+6	emo	VM	<fs af='emo,avy,,,,,,' poslcat="NM">
+7	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

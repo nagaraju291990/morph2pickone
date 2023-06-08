@@ -1,0 +1,15 @@
+<Sentence id="1414">			
+0	((	SSF	
+1	maMtalu	NN	<fs af='maMta,n,any,pl,3,,0,0'>
+2	peVttadaM	VM	<fs af='peVttu,v,any,any,any,,adaM,adaM'>
+3	valla	PSP	<fs af='valla,avy,,,,,,'>
+4	eVrra	JJ	<fs af='eVrra,n,any,sg,3,,0,0'>'>
+5	goVMgalYi	NN	<fs af='goVMgalYi,n,any,sg,3,,0,0'>
+5	purugula	NN	<fs af='purugu,n,any,pl,3,,obl,obl'>
+6	walli	NN	<fs af='walli,n,any,sg,3,,0,0'>
+7	reVkkapurugulu	NN	<fs af='reVkkapurugu,n,any,pl,3,,0,0'>
+8	veVluguku	NN	<fs af='veVlugu,n,any,sg,3,,ki,ki'>
+9	vaswAyi	VM	<fs af='vaccu,v,n,pl,3,,wA,wA'>
+10	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

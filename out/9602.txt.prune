@@ -1,0 +1,12 @@
+<Sentence id="9602">
+0	((	SSF	
+1	wIswe	VM	<fs af='wiyyi,v,any,any,any,,we,we'>
+2	gaxilo	NN	<fs af='gaxi,n,any,sg,3,,lo,lo'>
+3	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+4	lArduki	NN	<fs af='lArd,n,any,sg,3,,ki,ki'>
+5	eVvarU	WQ	<fs af='eVvaru,pn,mf,pl,3,,0,0_V'>
+6	kanipiMca	VM	<fs af='kanipiMcu,v,any,any,any,,an,an'>
+7	lexu	VAUX	<fs af='gala,v,fn,sg,3,,a,a' poslcat="NM">|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu' poslcat="NM">
+8	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

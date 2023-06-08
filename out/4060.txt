@@ -1,0 +1,10 @@
+<Sentence id="4060">
+0	((	SSF
+1	dAktaru	NN	<fs af='dAktar,n,any,sg,3,,0,0'>|<fs af='dAktar,n,any,sg,3,,obl,obl'>|<fs af='dAktaru,n,any,sg,3,,0,0'>|<fs af='dAktaru,n,any,sg,3,,obl,obl'>
+2	bawakoVxxA	NN	<fs af='bawuku,v,any,any,any,,a_vaxxu_,a_vaxxu'>
+3	!	SYM	<fs af='!,punc,,,,,, '>
+4	annAdu	VM	<fs af='anu,v,m,sg,3,,A,A'>
+5	rAmayya	NNP	<fs af='rAmayya,n,any,sg,3,,0,0'>|<fs af='rAmayya,n,any,sg,3,,obl,obl'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,11 @@
+<Sentence id="7861">
+0	((	SSF
+1	palleV	NN	<fs af='palleV,n,any,sg,3,,0,0'>|<fs af='palleV,n,any,sg,3,,obl,obl'>
+2	bawuku	NN	<fs af='bawuku,v,any,sg,2,,AjFArWa,AjFArWa'>|<fs af='bawuku,n,any,sg,3,,0,0'>|<fs af='bawuku,n,any,sg,3,,obl,obl'>
+3	bAvilo	NN	<fs af='bAvi,n,any,sg,3,,lo,lo'>|<fs af='bAvili,n,any,sg,3,,0,0_o'>
+4	kappa	NN	<fs af='kappu,v,any,any,any,,an,an'>|<fs af='kappa,n,any,sg,3,,0,0'>|<fs af='kappa,n,any,sg,3,,obl,obl'>|<fs af='kappaM,n,any,sg,3,,obl,obl'>
+5	lAMtixi	NN	<fs af='lAMti,adj,any,any,any,,xi_adj,xi_adj'>
+6	anexi	VM	<fs af='anu,v,any,any,any,,e_axi,e_axi'>|<fs af='anexi,pn,any,sg,3,,0,0'>|<fs af='anexi,pn,fn,sg,3,,0,0'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

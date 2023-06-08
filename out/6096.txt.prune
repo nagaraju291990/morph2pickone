@@ -1,0 +1,11 @@
+<Sentence id="6096">
+0	((	SSF	
+1	prAkqwa	NNP	<fs af='prAkqwaM,n,any,sg,3,,obl,obl'>|<fs af='prAkqwudu,n,any,sg,3,,obl,obl'>
+2	BARa	NN	<fs af='BARa,n,any,sg,3,,0,0'>|<fs af='BARa,n,any,sg,3,,obl,obl'>
+3	kanumarugE	VM	<fs af='kanumarugavvu,v,any,any,any,,i,i'>
+4	saMskqwaM	NNP	<fs af='saMskqwaM,n,any,sg,3,,0,0'>
+5	rAjaBARa	NN	<fs af='rAjaBARa,n,any,sg,3,,0,0'>|<fs af='rAjaBARa,n,any,sg,3,,obl,obl'>
+6	ayiMxi	VM	<fs af='avvu,v,fn,sg,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

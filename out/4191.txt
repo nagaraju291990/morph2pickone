@@ -1,0 +1,9 @@
+<Sentence id="4191">
+0	((	SSF
+1	rAmu	NNP	<fs af='rAmu,n,any,sg,3,,0,0'>|<fs af='rAmu,n,any,sg,3,,obl,obl'>|<fs af='vaccu,v,any,pl,1,,a,a'>
+2	kitikI	NN	<fs af='kitikI,n,,sg,,,0,0'>|<fs af='kitikI,n,,sg,,,obl,obl'>
+3	vEpu	NN	<fs af='vEpu,n,any,sg,3,,0,0'>|<fs af='vEpu,n,any,sg,3,,obl,obl'>
+4	jarigAdu	VM	<fs af='jari,n,any,sg,3,,gAdu,gAdu'>
+5	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

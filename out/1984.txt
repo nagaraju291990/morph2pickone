@@ -1,0 +1,18 @@
+<Sentence id="1984">
+0	((	SSF
+1	paMta	NN	<fs af='paMta,n,any,sg,3,,0,0'>|<fs af='paMta,n,any,sg,3,,obl,obl'>
+2	ayina	VM	<fs af='avvu,v,any,any,any,,ina,ina'>|<fs af='avvu,v,any,any,any,,ina_axi,ina_axi'>
+3	waruvAwa	NST	<fs af='waruvAwa,avy,,,,,, '>
+4	SInayyanu	NNP	<fs af='SInayya,n,any,sg,3,,ni,ni'>|<fs af='SInayya,n,any,sg,3,,ni_agr,ni_agr'>
+5	pilici	VM	<fs af='piluvu,v,any,any,any,,i,i'>
+6	'	SYM	<fs af='',punc,,,,,, '>
+7	BUmipEna	NN	<fs af='BUmi,n,any,sg,3,,pE,pE'>
+8	kanipiMce	VM	<fs af='kanipiMcu,v,any,any,any,,e,e'>|<fs af='kanipiMcu,v,any,any,any,,i,i_e'>
+9	Akulu	NN	<fs af='Aku,n,any,pl,3,,0,0'>|<fs af='Aku,n,any,pl,3,,vu_agr,vu_agr'>
+10	kosuku	VM	<fs af='kosu,n,any,sg,3,,ki,ki'>
+11	veVlYlu	VM	<fs af='veVlYlu,v,any,sg,2,,AjFArWa,AjFArWa'>
+12	'	SYM	<fs af='',punc,,,,,, '>
+13	annAdu	VM	<fs af='anu,v,m,sg,3,,A,A'>
+14	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

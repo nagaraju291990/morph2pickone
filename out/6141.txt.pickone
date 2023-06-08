@@ -1,0 +1,21 @@
+<Sentence id="6141">			
+0	((	SSF	
+1	ayiwe	CC	<fs af='avvu,v,any,any,any,,we,we'>
+2	1988	QC	<fs af='1988,num,,,,,,'>
+3	lo	PSP	<fs af='lo,avy,,,,,,'>
+4	prAraMBamayina	VM	<fs af='prAraMBamavvu,v,any,any,any,,ina,ina'>
+5	jAwIya	JJ	<fs af='jAwIya,adj,any,any,any,,0_adj,0_adj'>
+6	akRarAsyawa	NN	<fs af='akRarAsyawa,n,any,sg,3,,0,0'>
+7	uxyamaMlo	NN	<fs af='uxyamaM,n,any,sg,3,,lo,lo'>
+8	BAgaMgA	RB	<fs af='BAgaM,n,any,sg,3,,gA,gA'>
+9	100	QC	<fs af='100,num,,,,,,'>
+10	%	SYM	<fs af='<'>
+11	akRarAsyawa	NN	<fs af='akRarAsyawa,n,any,sg,3,,0,0'>
+12	sAXiMcadAniki	VM	<fs af='sAXiMcadaM,n,any,sg,3,,ki,ki'>
+13	aneka	JJ	<fs af='aneka,adj,any,any,any,,0_adj,0_adj'>
+14	kAryakramAlu	NN	<fs af='kAryakramaM,n,any,pl,3,,0,0'>
+15	amalu	NN	<fs af='amalu,n,any,sg,3,,0,0'>
+16	avuwunnAyi	VM	<fs af='avvu,v,n,pl,3,,wunn,wunn'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>
+</Sentence>			

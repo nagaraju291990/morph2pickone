@@ -1,0 +1,20 @@
+<Sentence id="3046">			
+0	((	SSF	
+1	wana	PRP	<fs af='wAnu,pn,mf,sg,3,,obl,obl'>
+2	xaggara	NST	<fs af='xaggara,adv,any,any,any,,0_adv,0_adv'>
+3	lakRalAxi	QC	<fs af='lakRalAxi,n,any,sg,3,,0,0'>|<fs af='lakRalAxi,n,any,sg,3,,obl,obl'>
+4	rUpAyalu	NN	<fs af='rUpAya,n,,pl,,,0,0'>|<fs af='rUpAya,n,,pl,,,vu,vu'>
+4	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+5	maniRi	NN	<fs af='maniRi,n,any,sg,3,,0,0'>|<fs af='maniRi,n,any,sg,3,,obl,obl'>
+6	aMxulo	PRP	<fs af='aMxulo,avy,,,,,,' poslcat="NM">
+7	nuMdi	PSP	<fs af='nuMdi,avy,,,,,,' poslcat="NM">
+8	koVnni	QF	<fs af='koVnni,pn,any,pl,3,,0,0' poslcat="NM">
+9	velu	QC	<fs af='velu,n,any,sg,3,,0,0'>|<fs af='veVyyi,n,any,pl,3,,0,0'>
+10	xAnaM	NN	<fs af='xAnaM,n,any,sg,3,,0,0'>
+11	ceyadaMlo	VM	<fs af='ceyadaM,n,any,sg,3,,lo,lo' poslcat="NM">
+12	AScaryaM	NN	<fs af='AScaryaM,n,any,sg,3,,0,0'>
+13	emI	WQ	<fs af='emI,avy,,,,,,'>
+14	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+15	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

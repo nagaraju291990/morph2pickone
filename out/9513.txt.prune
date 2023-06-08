@@ -1,0 +1,13 @@
+<Sentence id="9513">
+0	((	SSF	
+1	Bayamo	NN	<fs af='BayaM,n,any,sg,3,,0,0_o'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	BayaM	NN	<fs af='BayaM,n,any,sg,3,,0,0'>
+4	kAxo	VM	<fs af='avvu,v,fn,sg,3,,a,a_o'>
+5	rAjasevakulu	NN	<fs af='rAjasevakudu,n,any,pl,3,,0,0'>|<fs af='rAjasevakudu,n,any,pl,3,,vu_agr,vu_agr'>
+6	kanuka	RP	<fs af='kanuka,avy,,,,,,'>
+7	veVlYli	VM	<fs af='veVlYlu,v,any,any,any,,i,i'>
+8	wIrAli	VM	<fs af='wIru,v,any,any,any,,Ali,Ali'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

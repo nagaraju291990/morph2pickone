@@ -1,0 +1,11 @@
+<Sentence id="115">
+0	((	SSF
+1	barreVlu	NN	<fs af='barreV,n,any,pl,3,,0,0'>|<fs af='barreV,n,any,pl,3,,vu_agr,vu_agr'>
+2	mepadAniki	NN	<fs af='mepu,n,,sg,,,ki,ki'>
+2	EnA	NN	<fs af='EnA,avy,,,,,,'>
+3	illu	NN	<fs af='illu,n,any,sg,3,,0,0'>
+4	vaxili	VM	<fs af='vaxulu,v,any,any,any,,i,i'>
+5	powAnu	VAUX	<fs af='po,v,any,sg,1,,wA,wA'>
+6	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

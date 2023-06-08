@@ -1,0 +1,17 @@
+<Sentence id="1492">
+0	((	SSF	
+1	vaxxu	NN	<fs af='vaxxu,avy,,,,,0,0_avy' poslcat="NM">
+1	anukoVnnappudu	VM	<fs af='anukoVnnappudu,unk,,,,,,' poslcat="NM">
+2	vAyixA	NN	<fs af='vAyixA,n,any,sg,3,,0,0'>|<fs af='vAyixA,n,any,sg,3,,obl,obl'>
+3	vesukovadaM	VM	<fs af='veVyyi,v,any,any,any,,koVn_adaM,koVn_adaM'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	kAvAli	VM	<fs af='avvu,v,any,any,any,,Ali,Ali'>
+5	anukoVnnappudu	VM	<fs af='anuko,v,any,any,any,,wunna_appudu,wunna_appudu'>|<fs af='anuko,v,any,any,any,,ina_appudu,ina_appudu'>
+6	kanadaM	VM	<fs af='kanu,v,any,any,any,,adaM,adaM'>
+7	vAlYlaki	PRP	<fs af='vAlYlu,pn,mf,pl,3,,ki,ki'>
+8	weVliswe	VM	<fs af='weVliyu,v,any,any,any,,we,we'>
+9	eVMwa	WQ	<fs af='eVMwa,pn,any,sg,3,,0,0'>
+10	bAvuMtuMxi	VM	<fs af='bAvuMdu,v,fn,sg,3,,wA,wA'>|<fs af='bAvuMtuMdu,v,fn,sg,3,,A,A'>
+11	?	SYM	<fs af='?,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

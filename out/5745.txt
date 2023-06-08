@@ -1,0 +1,11 @@
+<Sentence id="5745">
+0	((	SSF
+1	lakRmi	NNP	<fs af='lakRmi,n,any,sg,3,,0,0'>|<fs af='lakRmi,n,any,sg,3,,obl,obl'>
+2	,	SYM	<fs af=',,punc,,,,,, '>
+3	jAnaki	NNP	<fs af='jAna,n,any,sg,3,,ki,ki'>|<fs af='jAnaki,n,any,sg,3,,0,0'>|<fs af='jAnaki,n,any,sg,3,,obl,obl'>
+4	mAXavayyawo	NNP	<fs af='mAXavayya,n,any,sg,3,,wo,wo'>
+5	bAgA	INTF	<fs af='bAgA,avy,,,,,, '>
+6	kalisipoyAru	VM	<fs af='kalisipo,v,any,pl,2,,A,A'>|<fs af='kalisipo,v,mf,pl,3,,A,A'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

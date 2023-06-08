@@ -1,0 +1,24 @@
+<Sentence id="3603">			
+0	((	SSF	
+1	muKaM	NN	<fs af='muKaM,n,any,sg,3,,0,0'>
+2	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+3	kAlYlu	NN	<fs af='kAlu,n,any,pl,3,,0,0'>|<fs af='kAlu,n,any,pl,3,,vu_agr,vu_agr'>
+4	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+5	cewulu	NN	<fs af='ceyi,n,any,pl,3,,0,0'>|<fs af='ceyi,n,any,pl,3,,vu_agr,vu_agr'>
+6	kadugu	VM	<fs af='kadugu,v,any,sg,2,,AjFArWa,AjFArWa'>
+6	koVni	VM	<fs af='koVnu,v,any,any,any,,i,i'>
+7	vaccesariki	VM	<fs af='vaccu,v,any,any,any,,e_sariki,e_sariki'>
+8	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+9	aMgadivAni	NN	<fs af='aMgadivAdu,n,any,sg,3,,obl,obl'>
+10	vaxxaku	NST	<fs af='vaxxa,adv,any,any,any,,ku_adv,ku_adv'>
+11	oVka	JJ	<fs af='oVka,adj,any,any,any,,0_adj,0_adj'>
+12	aXikAri	NN	<fs af='aXikAri,n,any,sg,3,,0,0'>|<fs af='aXikAri,n,any,sg,3,,obl,obl'>
+13	(	SYM	<fs af='(,punc,,,,,,'>
+14	sipAyila	NN	<fs af='sipAyi,n,any,pl,3,,obl,obl'>
+15	pEaXikAri	NN	<fs af='pEaXikAri,n,any,sg,3,,0,0'>|<fs af='pEaXikAri,n,any,sg,3,,obl,obl'>
+16	)	SYM	<fs af='),punc,,,,,,'>
+17	vacci	VM	<fs af='vaccu,v,any,any,any,,i,i'>
+17	cerAdu	VM	<fs af='ceru,v,m,sg,3,,A,A'>
+18	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

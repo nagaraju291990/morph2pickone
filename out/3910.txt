@@ -1,0 +1,7 @@
+<Sentence id="3910">
+0	((	SSF
+1	kaliyuga	NN	<fs af='kaliyugaM,n,any,sg,3,,obl,obl'>
+2	viparIwaM	NN	<fs af='viparIwaM,n,any,sg,3,,0,0'>
+3	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,21 @@
+<Sentence id="9042">			
+0	((	SSF	
+1	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+2	noti	NN	<fs af='noru,n,any,sg,3,,obl,obl'>
+3	nuMci	PSP	<fs af='nuMci,avy,,,,,,' poslcat="NM">
+4	vacce	VM	<fs af='vaccu,v,any,any,any,,e,e'>|<fs af='vaccu,v,any,any,any,,i,i_e'>
+4	Xvani	VM	<fs af='Xvani,n,any,sg,3,,0,0' poslcat="NM">'>|<fs af='Xvani,n,any,sg,3,,obl,obl' poslcat="NM">'>
+5	peVxxaxigA	NN	<fs af='peVxxa,adj,,sg,,,ni_xi,ni_xi_gA' deri_cat=pn poslcat="NM">
+6	rAvadaM	VM	<fs af='vaccu,v,any,any,any,,adaM,adaM'>
+7	mUlaMgA	RB	<fs af='mUlaM,n,any,sg,3,,gA,gA' poslcat="NM">
+8	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+9	peVxxa	JJ	<fs af='peVxxa,adj,any,any,any,,0_adj,0_adj'>
+10	Xvaniwo	NN	<fs af='Xvani,n,any,sg,3,,wo,wo'>
+11	mAku	NN	<fs af='memu,pn,any,pl,1,,ki,ki' poslcat="NM">
+12	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+13	akRarAlu	NN	<fs af='akRaraM,n,any,pl,3,,0,0'>|<fs af='akRaraM,n,any,pl,3,,vu_agr,vu_agr'>
+14	vispaRtaMgA	RB	<fs af='vispaRtaM,n,any,sg,3,,gA,gA' poslcat="NM">
+15	vinipiMcalexu	VM	<fs af='vinipiMcu,v,any,any,any,,a_lexu,a_lexu'>|<fs af='vinipiMcagala,v,fn,sg,3,,a,a'>
+16	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

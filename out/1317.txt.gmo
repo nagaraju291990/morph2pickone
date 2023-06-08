@@ -1,0 +1,11 @@
+<Sentence id="1317">			
+0	((	SSF	
+1	eVppudU	WQ	<fs af='eVppudU,avy,,,,,,'>
+2	virecanAle	NN	<fs af='virecanaM,n,any,pl,3,,0,0_e'>
+3	ani	UT	<fs af='ani,avy,,,,,,'>|<fs af='anu,v,any,any,any,,i,i'>
+4	bAXawo	NN	<fs af='bAXa,n,any,sg,3,,wo,wo'>
+5	ceVppiMxi	VM	<fs af='ceVppu,v,fn,sg,3,,A,A'>
+6	maMgamma	NNP	<fs af='maMgamma,n,any,sg,3,,0,0'>|<fs af='maMgamma,n,any,sg,3,,obl,obl'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

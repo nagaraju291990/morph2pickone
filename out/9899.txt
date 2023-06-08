@@ -1,0 +1,19 @@
+<Sentence id="9899">
+0	((	SSF
+1	asisteVMtu	NN	<fs af='asisteVMt,n,any,sg,3,,0,0'>|<fs af='asisteVMt,n,any,sg,3,,obl,obl'>
+2	nIlYlunamuluwU	VM	<fs af='nIlYlunamulu,v,any,any,any,,wU,wU'>
+3	"	SYM	<fs af='",punc,,,,,, '>
+4	ayyA	INJ	<fs af='ayyA,avy,,,,,, '>|<fs af='ayya,n,any,sg,3,,0,0_A'>|<fs af='ayya,n,any,sg,3,,0,0_V'>|<fs af='avvu,v,any,any,any,,i,i_A'>
+5	!	SYM	<fs af='!,punc,,,,,, '>
+6	I	DEM	<fs af='I,avy,,,,,, '>
+7	jAnI	NNP	<fs af='jaM,n,any,sg,3,,ni,ni_V'>
+8	vAlYla	PRP	<fs af='vAlYlu,pn,mf,pl,3,,obl,obl'>
+9	Uriki	NN	<fs af='Uru,n,any,sg,3,,ki,ki'>
+10	veVlYlAlaMte	VM	<fs af='veVlYlu,v,any,any,any,,Ali_aMte,Ali_aMte'>
+11	roddu	NN	<fs af='roddu,n,any,sg,3,,0,0'>|<fs af='roddu,n,any,sg,3,,obl,obl'>
+12	lexu	VM	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+13	'	SYM	<fs af='',punc,,,,,, '>
+14	annAdu	VM	<fs af='anu,v,m,sg,3,,A,A'>
+15	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

@@ -1,0 +1,10 @@
+<Sentence id="6801">			
+0	((	SSF	
+1	ArogyaMgA	RB	<fs af='ArogyaM,n,any,sg,3,,gA,gA' poslcat="NM">
+2	uMdAlaMte	VM	<fs af='uMdu,v,any,any,any,,Ali_aMte,Ali_aMte'>
+3	AhAraMlo	NN	<fs af='AhAraM,n,any,sg,3,,lo,lo'>
+4	vitaminlu	NN	<fs af='vitamin,n,any,pl,3,,0,0'>|<fs af='vitamin,n,any,pl,3,,vu_agr,vu_agr'>
+5	uMdAli	VM	<fs af='uMdu,v,any,any,any,,Ali,Ali'>
+6	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

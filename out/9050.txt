@@ -1,0 +1,11 @@
+<Sentence id="9050">
+0	((	SSF
+1	memu	PRP	<fs af='memu,pn,any,pl,1,,0,0'>
+2	wala	NN	<fs af='wala,n,any,sg,3,,0,0'>|<fs af='wala,n,any,sg,3,,obl,obl'>|<fs af='walaM,n,any,sg,3,,obl,obl'>
+3	eVwwinA	VM	<fs af='eVwwu,v,any,any,any,,inA,inA'>
+4	Ayana	PRP	<fs af='Ayana,pn,m,sg,3,,0,0'>|<fs af='Ayana,pn,m,sg,3,,obl,obl'>
+5	noru	NN	<fs af='noru,n,any,sg,3,,0,0'>|<fs af='noru,n,any,sg,3,,obl,obl'>
+6	kanipiMcalexu	VM	<fs af='kanipiMcu,v,any,any,any,,a_lexu,a_lexu'>|<fs af='kanipiMcagala,v,fn,sg,3,,a,a'>
+7	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>

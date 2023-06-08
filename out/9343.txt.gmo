@@ -1,0 +1,21 @@
+<Sentence id="9343">			
+0	((	SSF	
+1	paMdi	VM	<fs af='paMdu,v,any,any,any,,i,i'>
+2	:	SYM	<fs af=':,punc,,,,,,'>
+3	BARa	NN	<fs af='BARa,n,any,sg,3,,0,0'>|<fs af='BARa,n,any,sg,3,,obl,obl'>
+4	eVtlA	NN	<fs af='eVtlA,avy,,,,,0,0_avy' poslcat="NM">'>|<fs af='eVtlu,avy,,,,,A,A_avy' poslcat="NM">'>
+5	puttiMxi	VM	<fs af='puttu,v,fn,sg,3,,A,A'>
+6	,	SYM	<fs af=',,punc,,,,,,' poslcat="NM">
+7	e	WQ	<fs af='e,avy,,,,,,'>
+8	BARalonuMci	NN	<fs af='BARa,n,any,sg,3,,lonuMdi,lonuMdi'>
+9	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+10	BARalu	NN	<fs af='BARa,n,any,pl,3,,0,0'>|<fs af='BARa,n,any,pl,3,,vu_agr,vu_agr'>
+11	puttinAyi	VM	<fs af='puttu,v,n,pl,3,,A,A'>
+12	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">
+13	viRayaM	NN	<fs af='viRayaM,n,any,sg,3,,0,0'>
+14	weVlusukunexi	VM	<fs af='weVlusuko,v,,sg,,,e_axi,e_axi_0' deri_cat=pn>
+15	BARA	NN	<fs af='BARa,n,any,sg,3,,0,0_A'>|<fs af='BARa,n,any,sg,3,,0,0_V'>
+16	SAswraM	NN	<fs af='SAswraM,n,any,sg,3,,0,0'>
+17	.	SYM	<fs af='.,punc,,,,,,'>
+))	<'>|<poslcat="NM"'>		
+</Sentence>			

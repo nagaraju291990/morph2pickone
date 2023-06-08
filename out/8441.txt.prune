@@ -1,0 +1,11 @@
+<Sentence id="8441">
+0	((	SSF	
+1	neVllUru	NNP	<fs af='neVllUru,n,any,sg,3,,0,0'>|<fs af='neVllUru,n,any,sg,3,,obl,obl'>
+2	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>|<fs af='jillA,n,any,sg,3,,0,0'>|<fs af='jillA,n,any,sg,3,,obl,obl'>
+3	xakRiNa	NN	<fs af='xakRiNaM,n,any,sg,3,,obl,obl'>|<fs af='xakRiNudu,n,any,sg,3,,obl,obl'>
+4	koswA	NNP	<fs af='koswA,n,any,sg,3,,0,0'>|<fs af='koswA,n,any,sg,3,,obl,obl'>
+5	civari	NST	<fs af='civara,adv,any,any,any,,yoVkka_adv,yoVkka_adv'>
+6	jillA	NN	<fs af='jillu,n,any,sg,3,,0,0_A'>|<fs af='jillA,n,any,sg,3,,0,0'>|<fs af='jillA,n,any,sg,3,,obl,obl'>
+7	.	SYM	<fs af='.,punc,,,,,,'>
+))			<'>|<poslcat="NM"'>
+</Sentence>

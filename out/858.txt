@@ -1,0 +1,6 @@
+<Sentence id="858">
+0	((	SSF
+1	pIdiMcevAru	VM	<fs af='pIdiMcu,v,any,any,any,,e_vAru,e_vAru'>|<fs af='pIdiMcevAru,pn,mf,pl,3,,0,0'>|<fs af='pIdiMcevAru,pn,mf,pl,3,,vu,vu'>
+2	.	SYM	<fs af='.,punc,,,,,, '>
+))
+</Sentence>
