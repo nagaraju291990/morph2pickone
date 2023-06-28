@@ -15,7 +15,7 @@ open("FH", $ARGV[1]) or "die cannot open $ARGV[1]: $!";
 while($line=<FH>)
 {
 	chomp($line);
-	if($line!~/Sentence|Title|\(\(|\)\)|\t\t|^$/ and $line=~/unk,,,/g ) {
+	if($line!~/Sentence|Title|\(\(|\)\)|\t\t|^$/ and not $line=~/unk,,,/g ) {
 		@arr = split(/\t/,$line);
 		$token = $arr[1];
 		$fs = $morph_hash{$token};

@@ -20,6 +20,7 @@ for line in lines:
 	arr = fs.split("/")
 	feature_ssf = ''
 	for a in arr:
+		print(a)
 		#if(re.match(r'\*'), a):
 		if(re.search(r'(lcat:noun|lcat:pronoun|lcat:adj|lcat:adv|lcat:numeric)', a)):
 			m = re.match(r'(.*?)<lcat:(.*)><gen:(.*)><num:(.*)><per:(.*)><cm:(.*)><suffix:(.*)>', a)
